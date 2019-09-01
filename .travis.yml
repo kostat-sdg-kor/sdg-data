@@ -4,7 +4,7 @@ python:
 sudo: false
 git:
   depth: false
-
+  
 branches:
   except:
   - gh-pages
@@ -27,9 +27,9 @@ deploy:
   skip_cleanup: true
   on:
     branch: master
-- provider: script
-  script: scripts/deploy/deploy_testing.sh
-  skip_cleanup: true
-  on:
-    all_branches: true
+    #- provider: script
+    #  script: scripts/deploy/deploy_testing.sh
+    #  skip_cleanup: true
+    #  on:
+    #    all_branches: true
 
