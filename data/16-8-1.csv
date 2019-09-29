@@ -1,2 +1,129 @@
-Year,Value
-There is no data for this indicator yet,
+Year,Units,Name of international institution,Value
+2000,Membership,ADB,1.69492
+2000,Membership,AFDB,1.2987
+2000,Membership,IABD,0.0
+2000,Membership,IBRD,0.54945
+2000,Membership,IFC,0.57471
+2000,Membership,IMF,0.5618
+2000,Membership,UNGA,0.5291
+2000,Membership,WTO,0.71429
+2005,Membership,ADB,1.5625
+2005,Membership,AFDB,1.2987
+2005,Membership,ECOSOC,1.85185
+2005,Membership,IABD,2.1276599999999997
+2005,Membership,IBRD,0.54348
+2005,Membership,IFC,0.5618
+2005,Membership,IMF,0.5524899999999999
+2005,Membership,UNGA,0.52356
+2005,Membership,WTO,0.67114
+2010,Membership,ADB,1.49254
+2010,Membership,AFDB,1.2987
+2010,Membership,ECOSOC,1.85185
+2010,Membership,FSB,4.16667
+2010,Membership,IABD,2.08333
+2010,Membership,IBRD,0.53476
+2010,Membership,IFC,0.54945
+2010,Membership,IMF,0.54945
+2010,Membership,UNGA,0.52083
+2010,Membership,WTO,0.65359
+2014,Membership,AFDB,1.2658200000000002
+2015,Membership,ADB,1.49254
+2015,Membership,AFDB,1.25
+2015,Membership,FSB,4.16667
+2015,Membership,IABD,2.08333
+2015,Membership,IBRD,0.53191
+2015,Membership,IFC,0.54348
+2015,Membership,IMF,0.53191
+2015,Membership,UNGA,0.51813
+2015,Membership,WTO,0.625
+2016,Membership,ADB,1.493
+2016,Membership,AFDB,1.25
+2016,Membership,ECOSOC,1.85185
+2016,Membership,FSB,4.16667
+2016,Membership,IABD,2.08333
+2016,Membership,IBRD,0.53191
+2016,Membership,IFC,0.54348
+2016,Membership,IMF,0.53191
+2016,Membership,UNGA,0.51813
+2016,Membership,WTO,0.61728
+2017,Membership,ADB,1.493
+2017,Membership,AFDB,1.25
+2017,Membership,ECOSOC,1.85185
+2017,Membership,FSB,4.16667
+2017,Membership,IABD,2.08333
+2017,Membership,IBRD,0.5291
+2017,Membership,IFC,0.54348
+2017,Membership,IMF,0.5291
+2017,Membership,UNGA,0.51813
+2017,Membership,WTO,0.6097600000000001
+2018,Membership,ECOSOC,1.85185
+2018,Membership,FSB,4.16667
+2018,Membership,IBRD,0.5291
+2018,Membership,IFC,0.54348
+2018,Membership,IMF,0.5291
+2018,Membership,UNGA,0.51813
+2018,Membership,WTO,0.6097600000000001
+2000,Voting rights,ADB,4.4430000000000005
+2000,Voting rights,AFDB,0.48700000000000004
+2000,Voting rights,IABD,0.0
+2000,Voting rights,IBRD,0.99824
+2000,Voting rights,IFC,0.6745399999999999
+2000,Voting rights,IMF,0.77477
+2000,Voting rights,UNGA,0.5291
+2000,Voting rights,WTO,0.71429
+2005,Voting rights,ADB,4.375
+2005,Voting rights,AFDB,0.466
+2005,Voting rights,ECOSOC,1.85185
+2005,Voting rights,IABD,0.004
+2005,Voting rights,IBRD,0.99261
+2005,Voting rights,IFC,0.67248
+2005,Voting rights,IMF,0.76245
+2005,Voting rights,UNGA,0.52356
+2005,Voting rights,WTO,0.67114
+2010,Voting rights,ADB,4.875
+2010,Voting rights,AFDB,0.45799999999999996
+2010,Voting rights,ECOSOC,1.85185
+2010,Voting rights,FSB,3.84615
+2010,Voting rights,IABD,0.004
+2010,Voting rights,IBRD,0.9910100000000001
+2010,Voting rights,IFC,0.67067
+2010,Voting rights,IMF,1.3331
+2010,Voting rights,UNGA,0.52083
+2010,Voting rights,WTO,0.65359
+2014,Voting rights,AFDB,0.455
+2015,Voting rights,ADB,4.333
+2015,Voting rights,AFDB,0.47
+2015,Voting rights,FSB,3.5087699999999997
+2015,Voting rights,IABD,0.004
+2015,Voting rights,IBRD,1.6492900000000001
+2015,Voting rights,IFC,1.06731
+2015,Voting rights,IMF,1.36485
+2015,Voting rights,UNGA,0.51813
+2015,Voting rights,WTO,0.625
+2016,Voting rights,ADB,4.329
+2016,Voting rights,AFDB,0.48823
+2016,Voting rights,ECOSOC,1.85185
+2016,Voting rights,FSB,3.5087699999999997
+2016,Voting rights,IABD,0.004
+2016,Voting rights,IBRD,1.65
+2016,Voting rights,IFC,1.06731
+2016,Voting rights,IMF,1.75
+2016,Voting rights,UNGA,0.51813
+2016,Voting rights,WTO,0.61728
+2017,Voting rights,ADB,4.329
+2017,Voting rights,AFDB,0.48823
+2017,Voting rights,ECOSOC,1.85185
+2017,Voting rights,FSB,3.5087699999999997
+2017,Voting rights,IABD,0.004
+2017,Voting rights,IBRD,1.61914
+2017,Voting rights,IFC,1.06731
+2017,Voting rights,IMF,1.73522
+2017,Voting rights,UNGA,0.51813
+2017,Voting rights,WTO,0.6097600000000001
+2018,Voting rights,ECOSOC,1.85185
+2018,Voting rights,FSB,3.5087699999999997
+2018,Voting rights,IBRD,1.58562
+2018,Voting rights,IFC,1.0661399999999999
+2018,Voting rights,IMF,1.7348700000000001
+2018,Voting rights,UNGA,0.51813
+2018,Voting rights,WTO,0.6097600000000001

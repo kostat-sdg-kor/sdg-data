@@ -1,18 +1,18 @@
-Year,Units,Disability status,Age,Sex,Region,Country of birth,Nationality,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-2000,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,2287
-2001,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,2857
-2002,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,2956
-2003,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,3134
-2004,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,3221
-2005,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,3692
-2006,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4090
-2007,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4523
-2008,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4798
-2009,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,4943
-2010,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,5330
-2011,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,5808
-2012,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,6318
-2013,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,6415
-2014,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,6856
-2015,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,7056
-2016,,,,,,,,"Rate per 1,000,000 population",Units,Undefined,,7113
+Year,Value
+2000,2287
+2001,2857
+2002,2956
+2003,3134
+2004,3221
+2005,3692
+2006,4090
+2007,4523
+2008,4798
+2009,4943
+2010,5330
+2011,5808
+2012,6318
+2013,6415
+2014,6856
+2015,7045
+2016,7113

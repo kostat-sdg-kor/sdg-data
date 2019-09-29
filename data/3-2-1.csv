@@ -1,55 +1,55 @@
-Year,Country,Sex,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2000,,,Undefined,Units,"Rate per 1,000 live births",,7.5
-2001,,,Undefined,Units,"Rate per 1,000 live births",,7.1
-2002,,,Undefined,Units,"Rate per 1,000 live births",,6.7
-2003,,,Undefined,Units,"Rate per 1,000 live births",,6.3
-2004,,,Undefined,Units,"Rate per 1,000 live births",,5.9
-2005,,,Undefined,Units,"Rate per 1,000 live births",,5.5
-2006,,,Undefined,Units,"Rate per 1,000 live births",,5.2
-2007,,,Undefined,Units,"Rate per 1,000 live births",,4.8
-2008,,,Undefined,Units,"Rate per 1,000 live births",,4.5
-2009,,,Undefined,Units,"Rate per 1,000 live births",,4.3
-2010,,,Undefined,Units,"Rate per 1,000 live births",,4.1
-2011,,,Undefined,Units,"Rate per 1,000 live births",,4.0
-2012,,,Undefined,Units,"Rate per 1,000 live births",,3.8
-2013,,,Undefined,Units,"Rate per 1,000 live births",,3.7
-2014,,,Undefined,Units,"Rate per 1,000 live births",,3.6
-2015,,,Undefined,Units,"Rate per 1,000 live births",,3.5
-2016,,,Undefined,Units,"Rate per 1,000 live births",,3.4
-2017,,,Undefined,Units,"Rate per 1,000 live births",,3.3
-2000,,Male,Undefined,Units,"Rate per 1,000 live births",,8.0
-2000,,Female,Undefined,Units,"Rate per 1,000 live births",,6.9
-2001,,Male,Undefined,Units,"Rate per 1,000 live births",,7.6
-2001,,Female,Undefined,Units,"Rate per 1,000 live births",,6.6
-2002,,Male,Undefined,Units,"Rate per 1,000 live births",,7.2
-2002,,Female,Undefined,Units,"Rate per 1,000 live births",,6.2
-2003,,Male,Undefined,Units,"Rate per 1,000 live births",,6.8
-2003,,Female,Undefined,Units,"Rate per 1,000 live births",,5.9
-2004,,Male,Undefined,Units,"Rate per 1,000 live births",,6.3
-2004,,Female,Undefined,Units,"Rate per 1,000 live births",,5.5
-2005,,Male,Undefined,Units,"Rate per 1,000 live births",,5.9
-2005,,Female,Undefined,Units,"Rate per 1,000 live births",,5.1
-2006,,Male,Undefined,Units,"Rate per 1,000 live births",,5.5
-2006,,Female,Undefined,Units,"Rate per 1,000 live births",,4.8
-2007,,Male,Undefined,Units,"Rate per 1,000 live births",,5.1
-2007,,Female,Undefined,Units,"Rate per 1,000 live births",,4.5
-2008,,Male,Undefined,Units,"Rate per 1,000 live births",,4.8
-2008,,Female,Undefined,Units,"Rate per 1,000 live births",,4.2
-2009,,Male,Undefined,Units,"Rate per 1,000 live births",,4.6
-2009,,Female,Undefined,Units,"Rate per 1,000 live births",,4.0
-2010,,Male,Undefined,Units,"Rate per 1,000 live births",,4.4
-2010,,Female,Undefined,Units,"Rate per 1,000 live births",,3.8
-2011,,Male,Undefined,Units,"Rate per 1,000 live births",,4.3
-2011,,Female,Undefined,Units,"Rate per 1,000 live births",,3.7
-2012,,Male,Undefined,Units,"Rate per 1,000 live births",,4.1
-2012,,Female,Undefined,Units,"Rate per 1,000 live births",,3.5
-2013,,Male,Undefined,Units,"Rate per 1,000 live births",,4.0
-2013,,Female,Undefined,Units,"Rate per 1,000 live births",,3.4
-2014,,Male,Undefined,Units,"Rate per 1,000 live births",,3.9
-2014,,Female,Undefined,Units,"Rate per 1,000 live births",,3.3
-2015,,Male,Undefined,Units,"Rate per 1,000 live births",,3.8
-2015,,Female,Undefined,Units,"Rate per 1,000 live births",,3.2
-2016,,Male,Undefined,Units,"Rate per 1,000 live births",,3.7
-2016,,Female,Undefined,Units,"Rate per 1,000 live births",,3.1
-2017,,Male,Undefined,Units,"Rate per 1,000 live births",,3.5
-2017,,Female,Undefined,Units,"Rate per 1,000 live births",,3.0
+Year,Sex,Value
+2000,,7.5
+2000,FEMALE,6.9
+2000,MALE,8.0
+2001,,7.1
+2001,FEMALE,6.6
+2001,MALE,7.6
+2002,,6.7
+2002,FEMALE,6.2
+2002,MALE,7.2
+2003,,6.3
+2003,FEMALE,5.9
+2003,MALE,6.8
+2004,,5.9
+2004,FEMALE,5.5
+2004,MALE,6.3
+2005,,5.5
+2005,FEMALE,5.1
+2005,MALE,5.9
+2006,,5.2
+2006,FEMALE,4.8
+2006,MALE,5.5
+2007,,4.8
+2007,FEMALE,4.5
+2007,MALE,5.1
+2008,,4.5
+2008,FEMALE,4.2
+2008,MALE,4.8
+2009,,4.3
+2009,FEMALE,4.0
+2009,MALE,4.6
+2010,,4.1
+2010,FEMALE,3.8
+2010,MALE,4.4
+2011,,4.0
+2011,FEMALE,3.7
+2011,MALE,4.3
+2012,,3.8
+2012,FEMALE,3.5
+2012,MALE,4.1
+2013,,3.7
+2013,FEMALE,3.4
+2013,MALE,4.0
+2014,,3.6
+2014,FEMALE,3.3
+2014,MALE,3.9
+2015,,3.5
+2015,FEMALE,3.2
+2015,MALE,3.8
+2016,,3.4
+2016,FEMALE,3.1
+2016,MALE,3.7
+2017,,3.3
+2017,FEMALE,3.0
+2017,MALE,3.5

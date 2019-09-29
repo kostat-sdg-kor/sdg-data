@@ -1,9 +1,9 @@
-Year,Country,Type of Neglected Tropical Disease (NTD),Region of travel,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-2010,,,,Number,Units,Undefined,,131
-2011,,,,Number,Units,Undefined,,79
-2012,,,,Number,Units,Undefined,,154
-2013,,,,Number,Units,Undefined,,259
-2014,,,,Number,Units,Undefined,,171
-2015,,,,Number,Units,Undefined,,257
-2016,,,,Number,Units,Undefined,,323
-2017,,,,Number,Units,Undefined,,3
+Year,Value
+2010,131
+2011,79
+2012,154
+2013,259
+2014,171
+2015,257
+2016,323
+2017,3

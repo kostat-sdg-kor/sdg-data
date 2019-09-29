@@ -1,43 +1,43 @@
-Year,Units,Violence type,Sex,Age,Ethnicity,Ethnic group,Disability status,Household income,Area type,Region,Highest qualification,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2012,Physical violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2014,Physical violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.2
-2016,Physical violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.2
-2014,Physical violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2016,Physical violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2014,Physical violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.2
-2016,Physical violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.2
-2008,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2009,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.2
-2010,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.2
-2011,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.2
-2012,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.4
-2013,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2014,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.6
-2016,Robbery (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2014,Robbery (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2016,Robbery (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2016,Robbery (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2008,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.62
-2009,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.65
-2010,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.88
-2011,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.97
-2012,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.5
-2013,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.15
-2014,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,1.1
-2016,Sexual violence (%),,,,,,,,,,,Undefined,Units,Percentage (%),,0.1
-2008,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.04
-2009,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.04
-2010,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.05
-2011,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.06
-2012,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.01
-2013,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.08
-2014,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.01
-2016,Sexual violence (%),,Male,,,,,,,,,Undefined,Units,Percentage (%),,0.0
-2008,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.74
-2009,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.78
-2010,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,1.06
-2011,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,1.19
-2012,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.28
-2013,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,1.44
-2014,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.23
-2016,Sexual violence (%),,Female,,,,,,,,,Undefined,Units,Percentage (%),,0.1
+Year,Units,Sex,Value
+2012,Physical violence,,0.1
+2014,Physical violence,,0.2
+2014,Physical violence,FEMALE,0.1
+2014,Physical violence,MALE,0.2
+2016,Physical violence,,0.2
+2016,Physical violence,FEMALE,0.1
+2016,Physical violence,MALE,0.2
+2008,Robbery,,0.1
+2009,Robbery,,0.2
+2010,Robbery,,0.2
+2011,Robbery,,0.2
+2012,Robbery,,0.4
+2013,Robbery,,0.1
+2014,Robbery,,0.6
+2014,Robbery,MALE,0.1
+2016,Robbery,,0.1
+2016,Robbery,FEMALE,0.1
+2016,Robbery,MALE,0.1
+2008,Sexual violence,,0.62
+2008,Sexual violence,FEMALE,0.74
+2008,Sexual violence,MALE,0.04
+2009,Sexual violence,,0.65
+2009,Sexual violence,FEMALE,0.78
+2009,Sexual violence,MALE,0.04
+2010,Sexual violence,,0.88
+2010,Sexual violence,FEMALE,1.06
+2010,Sexual violence,MALE,0.05
+2011,Sexual violence,,0.97
+2011,Sexual violence,FEMALE,1.19
+2011,Sexual violence,MALE,0.06
+2012,Sexual violence,,1.5
+2012,Sexual violence,FEMALE,0.28
+2012,Sexual violence,MALE,0.01
+2013,Sexual violence,,1.15
+2013,Sexual violence,FEMALE,1.44
+2013,Sexual violence,MALE,0.08
+2014,Sexual violence,,1.1
+2014,Sexual violence,FEMALE,0.23
+2014,Sexual violence,MALE,0.01
+2016,Sexual violence,,0.1
+2016,Sexual violence,FEMALE,0.1
+2016,Sexual violence,MALE,0.0

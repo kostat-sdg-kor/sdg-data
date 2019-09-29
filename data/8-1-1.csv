@@ -1,19 +1,19 @@
-Year,Unit measure,Unit multiplier,Observation status,Value
-2000,Percentage change (%),Units,Undefined,8.09
-2001,Percentage change (%),Units,Undefined,3.81
-2002,Percentage change (%),Units,Undefined,6.78
-2003,Percentage change (%),Units,Undefined,2.38
-2004,Percentage change (%),Units,Undefined,4.4
-2005,Percentage change (%),Units,Undefined,3.47
-2006,Percentage change (%),Units,Undefined,4.77
-2007,Percentage change (%),Units,Undefined,5.11
-2008,Percentage change (%),Units,Undefined,2.5
-2009,Percentage change (%),Units,Undefined,0.38
-2010,Percentage change (%),Units,Undefined,5.12
-2011,Percentage change (%),Units,Undefined,3.28
-2012,Percentage change (%),Units,Undefined,1.87
-2013,Percentage change (%),Units,Undefined,2.45
-2014,Percentage change (%),Units,Undefined,2.9
-2015,Percentage change (%),Units,Undefined,2.37
-2016,Percentage change (%),Units,Undefined,2.53
-2017,Percentage change (%),Units,Undefined,2.68
+Year,Value
+2000,8.09
+2001,3.81
+2002,6.78
+2003,2.38
+2004,4.4
+2005,3.47
+2006,4.77
+2007,5.11
+2008,2.5
+2009,0.38
+2010,6.12
+2011,3.28
+2012,1.87
+2013,2.45
+2014,2.9
+2015,2.37
+2016,2.53
+2017,2.68

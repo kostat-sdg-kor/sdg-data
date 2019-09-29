@@ -1,22 +1,22 @@
-Year,Age,Sex,Region,Police Force Area,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-2011,,,,,"Rate per 100,000 population",Units,Undefined,,0.81014
-2012,,,,,"Rate per 100,000 population",Units,Undefined,,0.8708299999999999
-2013,,,,,"Rate per 100,000 population",Units,Undefined,,0.70163
-2014,,,,,"Rate per 100,000 population",Units,Undefined,,0.7482300000000001
-2015,,,,,"Rate per 100,000 population",Units,Undefined,,0.7412
-2016,,,,,"Rate per 100,000 population",Units,Undefined,,0.71096
-2017,,,,,"Rate per 100,000 population",Units,Undefined,,0.5904
-2011,,Male,,,"Rate per 100,000 population",Units,Undefined,,0.74241
-2012,,Male,,,"Rate per 100,000 population",Units,Undefined,,0.86339
-2013,,Male,,,"Rate per 100,000 population",Units,Undefined,,0.67671
-2014,,Male,,,"Rate per 100,000 population",Units,Undefined,,0.72943
-2015,,Male,,,"Rate per 100,000 population",Units,Undefined,,0.69892
-2016,,Male,,,"Rate per 100,000 population",Units,Undefined,,0.6492
-2017,,Male,,,"Rate per 100,000 population",Units,Undefined,,0.57624
-2011,,Female,,,"Rate per 100,000 population",Units,Undefined,,0.8700600000000001
-2012,,Female,,,"Rate per 100,000 population",Units,Undefined,,0.8783
-2013,,Female,,,"Rate per 100,000 population",Units,Undefined,,0.8266100000000001
-2014,,Female,,,"Rate per 100,000 population",Units,Undefined,,0.76707
-2015,,Female,,,"Rate per 100,000 population",Units,Undefined,,0.78357
-2016,,Female,,,"Rate per 100,000 population",Units,Undefined,,0.77286
-2017,,Female,,,"Rate per 100,000 population",Units,Undefined,,0.6006600000000001
+Year,Sex,Value
+2011,,0.81014
+2011,FEMALE,0.8700600000000001
+2011,MALE,0.74241
+2012,,0.8708299999999999
+2012,FEMALE,0.8783
+2012,MALE,0.86339
+2013,,0.70163
+2013,FEMALE,0.7266100000000001
+2013,MALE,0.67671
+2014,,0.7482300000000001
+2014,FEMALE,0.76707
+2014,MALE,0.72943
+2015,,0.7412
+2015,FEMALE,0.78357
+2015,MALE,0.69892
+2016,,0.71096
+2016,FEMALE,0.77286
+2016,MALE,0.6492
+2017,,0.5904
+2017,FEMALE,0.6006600000000001
+2017,MALE,0.57624

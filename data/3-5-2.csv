@@ -1,6 +1,6 @@
-Year,Beverage,Observation status,Unit multiplier,Unit measure,Value
-2000,,Undefined,Units,Litres per capita,12.907
-2005,,Undefined,Units,Litres per capita,10.6238
-2010,,Undefined,Units,Litres per capita,9.922460000000001
-2015,,Undefined,Units,Litres per capita,10.1813
-2016,,Undefined,Units,Litres per capita,10.2265
+Year,Value
+2000,12.90709
+2005,10.62389
+2010,9.922460000000001
+2015,10.181389999999999
+2016,10.22654

@@ -1,11 +1,11 @@
-Year,Units,Sex,Age,Country,Region,Malaria species,Fatality,Country of birth,Ethnicity,Region of travel,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2000,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,1.261
-2005,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.402
-2010,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.365
-2011,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.145
-2012,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.113
-2013,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.109
-2014,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.158
-2015,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.177
-2016,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.16899999999999998
-2017,"Rate per 100,000 population",,,,,,,,,,Undefined,Units,"Rate per 100,000 population",,0.122
+Year,Value
+2000,1.261
+2005,0.402
+2010,0.365
+2011,0.145
+2012,0.113
+2013,0.109
+2014,0.158
+2015,0.177
+2016,0.16899999999999998
+2017,0.122

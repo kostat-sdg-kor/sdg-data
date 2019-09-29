@@ -1,4 +1,2 @@
 From,To
-Skill,Age
-Skill,Sex
-Skill,Disability status
+Type of skill,Sex

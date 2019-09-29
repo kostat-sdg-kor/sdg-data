@@ -1,18 +1,18 @@
-Year,Performing/Funding,Country,Region,Sector,Source,Source sub-category,Product group,Unit measure,Observation status,Unit multiplier,GeoCode,Value
-2000,,,,,,,,Percentage (%),Undefined,Units,,2.18
-2001,,,,,,,,Percentage (%),Undefined,Units,,2.34
-2002,,,,,,,,Percentage (%),Undefined,Units,,2.27
-2003,,,,,,,,Percentage (%),Undefined,Units,,2.35
-2004,,,,,,,,Percentage (%),Undefined,Units,,2.53
-2005,,,,,,,,Percentage (%),Undefined,Units,,2.63
-2006,,,,,,,,Percentage (%),Undefined,Units,,2.83
-2007,,,,,,,,Percentage (%),Undefined,Units,,3.0
-2008,,,,,,,,Percentage (%),Undefined,Units,,3.12
-2009,,,,,,,,Percentage (%),Undefined,Units,,3.29
-2010,,,,,,,,Percentage (%),Undefined,Units,,3.47
-2011,,,,,,,,Percentage (%),Undefined,Units,,3.74
-2012,,,,,,,,Percentage (%),Undefined,Units,,4.03
-2013,,,,,,,,Percentage (%),Undefined,Units,,4.15
-2014,,,,,,,,Percentage (%),Undefined,Units,,4.29
-2015,,,,,,,,Percentage (%),Undefined,Units,,4.22
-2016,,,,,,,,Percentage (%),Undefined,Units,,4.23
+Year,Value
+2000,2.18
+2001,2.34
+2002,2.27
+2003,2.35
+2004,2.53
+2005,2.63
+2006,2.83
+2007,3.0
+2008,3.12
+2009,3.29
+2010,3.47
+2011,3.74
+2012,4.03
+2013,4.15
+2014,4.29
+2015,4.22
+2016,4.23

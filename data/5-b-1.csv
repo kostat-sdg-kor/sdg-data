@@ -1,13 +1,13 @@
-Year,Use a smartphone,Sex,Age,Country,Urbanisation,Socio-economic classification,Unit measure,Unit multiplier,Observation status,GeoCode,Value
-2014,,,,,,,Percentage (%),Units,Undefined,,84.67
-2015,,,,,,,Percentage (%),Units,Undefined,,95.74
-2016,,,,,,,Percentage (%),Units,Undefined,,90.04
-2017,,,,,,,Percentage (%),Units,Undefined,,94.35
-2014,,Male,,,,,Percentage (%),Units,Undefined,,87.82
-2015,,Male,,,,,Percentage (%),Units,Undefined,,96.94
-2016,,Male,,,,,Percentage (%),Units,Undefined,,92.41
-2017,,Male,,,,,Percentage (%),Units,Undefined,,95.62
-2014,,Female,,,,,Percentage (%),Units,Undefined,,81.58
-2015,,Female,,,,,Percentage (%),Units,Undefined,,94.53
-2016,,Female,,,,,Percentage (%),Units,Undefined,,87.64
-2017,,Female,,,,,Percentage (%),Units,Undefined,,93.05
+Year,Sex,Value
+2014,,84.67
+2014,FEMALE,81.58
+2014,MALE,87.72
+2015,,95.74
+2015,FEMALE,94.53
+2015,MALE,96.94
+2016,,90.04
+2016,FEMALE,87.64
+2016,MALE,92.41
+2017,,94.35
+2017,FEMALE,93.05
+2017,MALE,95.62

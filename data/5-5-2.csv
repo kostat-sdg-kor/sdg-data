@@ -1,19 +1,19 @@
-Year,Age,Disability status,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2000,,,,Undefined,Units,Percentage (%),,5.0
-2001,,,,Undefined,Units,Percentage (%),,5.9
-2002,,,,Undefined,Units,Percentage (%),,5.6
-2003,,,,Undefined,Units,Percentage (%),,5.9
-2004,,,,Undefined,Units,Percentage (%),,6.9
-2005,,,,Undefined,Units,Percentage (%),,7.8
-2006,,,,Undefined,Units,Percentage (%),,8.2
-2007,,,,Undefined,Units,Percentage (%),,8.8
-2008,,,,Undefined,Units,Percentage (%),,9.6
-2009,,,,Undefined,Units,Percentage (%),,8.6
-2010,,,,Undefined,Units,Percentage (%),,9.4
-2011,,,,Undefined,Units,Percentage (%),,10.1
-2012,,,,Undefined,Units,Percentage (%),,11.1
-2013,,,,Undefined,Units,Percentage (%),,11.4
-2014,,,,Undefined,Units,Percentage (%),,11.1
-2015,,,,Undefined,Units,Percentage (%),,10.4
-2016,,,,Undefined,Units,Percentage (%),,9.8
-2017,,,,Undefined,Units,Percentage (%),,12.3
+Year,Value
+2000,5.0
+2001,5.9
+2002,5.6
+2003,5.9
+2004,6.9
+2005,7.8
+2006,8.2
+2007,8.8
+2008,9.6
+2009,8.6
+2010,9.4
+2011,10.1
+2012,11.1
+2013,11.4
+2014,11.1
+2015,10.4
+2016,9.8
+2017,12.3

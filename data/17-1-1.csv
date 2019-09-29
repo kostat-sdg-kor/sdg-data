@@ -1,14 +1,14 @@
-Year,Revenue category,Source of revenue,Unit measure,Unit multiplier,Observation status,Value
-2000,,Capital transfers to central government,Percentage (%),Units,Undefined,16.6766
-2001,,Capital transfers to central government,Percentage (%),Units,Undefined,15.6819
-2002,,Capital transfers to central government,Percentage (%),Units,Undefined,15.4189
-2003,,Capital transfers to central government,Percentage (%),Units,Undefined,15.5902
-2004,,Capital transfers to central government,Percentage (%),Units,Undefined,14.7412
-2005,,Capital transfers to central government,Percentage (%),Units,Undefined,14.9201
-2006,,Capital transfers to central government,Percentage (%),Units,Undefined,15.4138
-2012,,Capital transfers to central government,Percentage (%),Units,Undefined,23.8609
-2013,,Capital transfers to central government,Percentage (%),Units,Undefined,23.2903
-2014,,Capital transfers to central government,Percentage (%),Units,Undefined,22.8072
-2015,,Capital transfers to central government,Percentage (%),Units,Undefined,22.6034
-2016,,Capital transfers to central government,Percentage (%),Units,Undefined,23.5854
-2017,,Capital transfers to central government,Percentage (%),Units,Undefined,23.8428
+Year,Value
+2000,16.67661
+2001,15.68193
+2002,15.41898
+2003,15.59026
+2004,14.74125
+2005,14.92014
+2006,15.413889999999999
+2012,23.86093
+2013,23.29036
+2014,22.80728
+2015,22.603479999999998
+2016,23.5854
+2017,23.84284

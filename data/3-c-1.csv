@@ -1,57 +1,57 @@
-Year,Sex,Occupation minor group,Occupation unit group,Unit measure,Observation status,Unit multiplier,Value
-2004,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.401
-2005,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.431
-2006,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.553999999999999
-2007,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.7139999999999995
-2008,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.861000000000001
-2009,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.99
-2010,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.225
-2011,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.303999999999999
-2012,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.382
-2013,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.481
-2014,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.555
-2015,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.6530000000000005
-2016,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.755
-2017,,,Dentists,"Rate per 10,000 population",Undefined,Units,4.963
-2004,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,43.433
-2005,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,45.638999999999996
-2006,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,47.52
-2007,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,49.788000000000004
-2008,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,51.891999999999996
-2009,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,54.106
-2010,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,56.243
-2011,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,47.498999999999995
-2012,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,48.727
-2013,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,52.442
-2014,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,56.345
-2015,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,60.115
-2016,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,68.594
-2017,,,Nursing and midwifery personnel,"Rate per 10,000 population",Undefined,Units,69.735
-2004,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.03
-2005,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.257
-2006,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.421
-2007,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.654000000000002
-2008,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,11.857999999999999
-2009,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,12.094000000000001
-2010,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,6.4879999999999995
-2011,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,6.763
-2012,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,6.518
-2013,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,6.485
-2014,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,6.479
-2015,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,6.563
-2016,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,6.683
-2017,,,Pharmacists,"Rate per 10,000 population",Undefined,Units,7.254
-2004,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,16.907
-2005,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,17.527
-2006,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,18.041
-2007,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,18.645
-2008,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,19.319000000000003
-2009,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,19.934
-2010,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,19.836
-2011,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,20.378
-2012,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,20.843000000000004
-2013,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,21.708000000000002
-2014,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,22.168000000000003
-2015,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,22.596
-2016,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,23.124000000000002
-2017,,,Medical doctors,"Rate per 10,000 population",Undefined,Units,23.660999999999998
+Year,Type of occupation,Value
+2004,DENT,4.401
+2004,PHAR,11.03
+2004,NURS,43.433
+2004,PHYS,16.907
+2005,PHAR,11.257
+2005,PHYS,17.527
+2005,DENT,4.431
+2005,NURS,45.638999999999996
+2006,DENT,4.553999999999999
+2006,PHYS,18.041
+2006,PHAR,11.421
+2006,NURS,47.52
+2007,NURS,49.788000000000004
+2007,DENT,4.7139999999999995
+2007,PHAR,11.654000000000002
+2007,PHYS,18.645
+2008,NURS,51.891999999999996
+2008,PHAR,11.857999999999999
+2008,DENT,4.861000000000001
+2008,PHYS,19.319000000000003
+2009,PHYS,19.934
+2009,DENT,4.99
+2009,PHAR,12.094000000000001
+2009,NURS,54.106
+2010,NURS,56.243
+2010,PHYS,19.836
+2010,DENT,4.225
+2010,PHAR,6.4879999999999995
+2011,PHYS,20.378
+2011,DENT,4.303999999999999
+2011,PHAR,6.763
+2011,NURS,47.498999999999995
+2012,PHAR,6.518
+2012,PHYS,20.843000000000004
+2012,NURS,48.727
+2012,DENT,4.382
+2013,PHAR,6.485
+2013,DENT,4.481
+2013,NURS,52.442
+2013,PHYS,21.708000000000002
+2014,PHYS,22.168000000000003
+2014,NURS,56.345
+2014,PHAR,6.479
+2014,DENT,4.555
+2015,PHAR,6.563
+2015,PHYS,22.596
+2015,DENT,4.6530000000000005
+2015,NURS,60.115
+2016,NURS,68.594
+2016,PHYS,23.124000000000002
+2016,DENT,4.755
+2016,PHAR,6.683
+2017,PHAR,7.254
+2017,DENT,4.963
+2017,NURS,69.735
+2017,PHYS,23.660999999999998

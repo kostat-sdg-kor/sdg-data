@@ -1,2 +1,307 @@
-Year,Value
-There is no data for this indicator yet,
+Year,Access,Education level,Value
+2000,Computer,LOWSEC,100
+2000,Computer,PRIMAR,100
+2000,Computer,UPPSEC,100
+2001,Computer,LOWSEC,100
+2001,Computer,PRIMAR,100
+2001,Computer,UPPSEC,100
+2002,Computer,LOWSEC,100
+2002,Computer,PRIMAR,100
+2002,Computer,UPPSEC,100
+2003,Computer,LOWSEC,100
+2003,Computer,PRIMAR,100
+2003,Computer,UPPSEC,100
+2004,Computer,LOWSEC,100
+2004,Computer,PRIMAR,100
+2004,Computer,UPPSEC,100
+2005,Computer,LOWSEC,100
+2005,Computer,PRIMAR,100
+2005,Computer,UPPSEC,100
+2006,Computer,LOWSEC,100
+2006,Computer,PRIMAR,100
+2006,Computer,UPPSEC,100
+2007,Computer,LOWSEC,100
+2007,Computer,PRIMAR,100
+2007,Computer,UPPSEC,100
+2008,Computer,LOWSEC,100
+2008,Computer,PRIMAR,100
+2008,Computer,UPPSEC,100
+2009,Computer,LOWSEC,100
+2009,Computer,PRIMAR,100
+2009,Computer,UPPSEC,100
+2010,Computer,LOWSEC,100
+2010,Computer,PRIMAR,100
+2010,Computer,UPPSEC,100
+2011,Computer,LOWSEC,100
+2011,Computer,PRIMAR,100
+2011,Computer,UPPSEC,100
+2012,Computer,LOWSEC,100
+2012,Computer,PRIMAR,100
+2012,Computer,UPPSEC,100
+2013,Computer,LOWSEC,100
+2013,Computer,PRIMAR,100
+2013,Computer,UPPSEC,100
+2014,Computer,LOWSEC,100
+2014,Computer,PRIMAR,100
+2014,Computer,UPPSEC,100
+2015,Computer,LOWSEC,100
+2015,Computer,PRIMAR,100
+2015,Computer,UPPSEC,100
+2016,Computer,LOWSEC,100
+2016,Computer,PRIMAR,100
+2016,Computer,UPPSEC,100
+2000,Drinking water,LOWSEC,100
+2000,Drinking water,PRIMAR,100
+2000,Drinking water,UPPSEC,100
+2001,Drinking water,LOWSEC,100
+2001,Drinking water,PRIMAR,100
+2001,Drinking water,UPPSEC,100
+2002,Drinking water,LOWSEC,100
+2002,Drinking water,PRIMAR,100
+2002,Drinking water,UPPSEC,100
+2003,Drinking water,LOWSEC,100
+2003,Drinking water,PRIMAR,100
+2003,Drinking water,UPPSEC,100
+2004,Drinking water,LOWSEC,100
+2004,Drinking water,PRIMAR,100
+2004,Drinking water,UPPSEC,100
+2005,Drinking water,LOWSEC,100
+2005,Drinking water,PRIMAR,100
+2005,Drinking water,UPPSEC,100
+2006,Drinking water,LOWSEC,100
+2006,Drinking water,PRIMAR,100
+2006,Drinking water,UPPSEC,100
+2007,Drinking water,LOWSEC,100
+2007,Drinking water,PRIMAR,100
+2007,Drinking water,UPPSEC,100
+2008,Drinking water,LOWSEC,100
+2008,Drinking water,PRIMAR,100
+2008,Drinking water,UPPSEC,100
+2009,Drinking water,LOWSEC,100
+2009,Drinking water,PRIMAR,100
+2009,Drinking water,UPPSEC,100
+2010,Drinking water,LOWSEC,100
+2010,Drinking water,PRIMAR,100
+2010,Drinking water,UPPSEC,100
+2011,Drinking water,LOWSEC,100
+2011,Drinking water,PRIMAR,100
+2011,Drinking water,UPPSEC,100
+2012,Drinking water,LOWSEC,100
+2012,Drinking water,PRIMAR,100
+2012,Drinking water,UPPSEC,100
+2013,Drinking water,LOWSEC,100
+2013,Drinking water,PRIMAR,100
+2013,Drinking water,UPPSEC,100
+2014,Drinking water,LOWSEC,100
+2014,Drinking water,PRIMAR,100
+2014,Drinking water,UPPSEC,100
+2015,Drinking water,LOWSEC,100
+2015,Drinking water,PRIMAR,100
+2015,Drinking water,UPPSEC,100
+2016,Drinking water,LOWSEC,100
+2016,Drinking water,PRIMAR,100
+2016,Drinking water,UPPSEC,100
+2000,Electricity,LOWSEC,100
+2000,Electricity,PRIMAR,100
+2000,Electricity,UPPSEC,100
+2001,Electricity,LOWSEC,100
+2001,Electricity,PRIMAR,100
+2001,Electricity,UPPSEC,100
+2002,Electricity,LOWSEC,100
+2002,Electricity,PRIMAR,100
+2002,Electricity,UPPSEC,100
+2003,Electricity,LOWSEC,100
+2003,Electricity,PRIMAR,100
+2003,Electricity,UPPSEC,100
+2004,Electricity,LOWSEC,100
+2004,Electricity,PRIMAR,100
+2004,Electricity,UPPSEC,100
+2005,Electricity,LOWSEC,100
+2005,Electricity,PRIMAR,100
+2005,Electricity,UPPSEC,100
+2006,Electricity,LOWSEC,100
+2006,Electricity,PRIMAR,100
+2006,Electricity,UPPSEC,100
+2007,Electricity,LOWSEC,100
+2007,Electricity,PRIMAR,100
+2007,Electricity,UPPSEC,100
+2008,Electricity,LOWSEC,100
+2008,Electricity,PRIMAR,100
+2008,Electricity,UPPSEC,100
+2009,Electricity,LOWSEC,100
+2009,Electricity,PRIMAR,100
+2009,Electricity,UPPSEC,100
+2010,Electricity,LOWSEC,100
+2010,Electricity,PRIMAR,100
+2010,Electricity,UPPSEC,100
+2011,Electricity,LOWSEC,100
+2011,Electricity,PRIMAR,100
+2011,Electricity,UPPSEC,100
+2012,Electricity,LOWSEC,100
+2012,Electricity,PRIMAR,100
+2012,Electricity,UPPSEC,100
+2013,Electricity,LOWSEC,100
+2013,Electricity,PRIMAR,100
+2013,Electricity,UPPSEC,100
+2014,Electricity,LOWSEC,100
+2014,Electricity,PRIMAR,100
+2014,Electricity,UPPSEC,100
+2015,Electricity,LOWSEC,100
+2015,Electricity,PRIMAR,100
+2015,Electricity,UPPSEC,100
+2016,Electricity,LOWSEC,100
+2016,Electricity,PRIMAR,100
+2016,Electricity,UPPSEC,100
+2000,Handwashing facilities,LOWSEC,100
+2000,Handwashing facilities,PRIMAR,100
+2000,Handwashing facilities,UPPSEC,100
+2001,Handwashing facilities,LOWSEC,100
+2001,Handwashing facilities,PRIMAR,100
+2001,Handwashing facilities,UPPSEC,100
+2002,Handwashing facilities,LOWSEC,100
+2002,Handwashing facilities,PRIMAR,100
+2002,Handwashing facilities,UPPSEC,100
+2003,Handwashing facilities,LOWSEC,100
+2003,Handwashing facilities,PRIMAR,100
+2003,Handwashing facilities,UPPSEC,100
+2004,Handwashing facilities,LOWSEC,100
+2004,Handwashing facilities,PRIMAR,100
+2004,Handwashing facilities,UPPSEC,100
+2005,Handwashing facilities,LOWSEC,100
+2005,Handwashing facilities,PRIMAR,100
+2005,Handwashing facilities,UPPSEC,100
+2006,Handwashing facilities,LOWSEC,100
+2006,Handwashing facilities,PRIMAR,100
+2006,Handwashing facilities,UPPSEC,100
+2007,Handwashing facilities,LOWSEC,100
+2007,Handwashing facilities,PRIMAR,100
+2007,Handwashing facilities,UPPSEC,100
+2008,Handwashing facilities,LOWSEC,100
+2008,Handwashing facilities,PRIMAR,100
+2008,Handwashing facilities,UPPSEC,100
+2009,Handwashing facilities,LOWSEC,100
+2009,Handwashing facilities,PRIMAR,100
+2009,Handwashing facilities,UPPSEC,100
+2010,Handwashing facilities,LOWSEC,100
+2010,Handwashing facilities,PRIMAR,100
+2010,Handwashing facilities,UPPSEC,100
+2011,Handwashing facilities,LOWSEC,100
+2011,Handwashing facilities,PRIMAR,100
+2011,Handwashing facilities,UPPSEC,100
+2012,Handwashing facilities,LOWSEC,100
+2012,Handwashing facilities,PRIMAR,100
+2012,Handwashing facilities,UPPSEC,100
+2013,Handwashing facilities,LOWSEC,100
+2013,Handwashing facilities,PRIMAR,100
+2013,Handwashing facilities,UPPSEC,100
+2014,Handwashing facilities,LOWSEC,100
+2014,Handwashing facilities,PRIMAR,100
+2014,Handwashing facilities,UPPSEC,100
+2015,Handwashing facilities,LOWSEC,100
+2015,Handwashing facilities,PRIMAR,100
+2015,Handwashing facilities,UPPSEC,100
+2016,Handwashing facilities,LOWSEC,100
+2016,Handwashing facilities,PRIMAR,100
+2016,Handwashing facilities,UPPSEC,100
+2000,Internet,LOWSEC,100
+2000,Internet,PRIMAR,100
+2000,Internet,UPPSEC,100
+2001,Internet,LOWSEC,100
+2001,Internet,PRIMAR,100
+2001,Internet,UPPSEC,100
+2002,Internet,LOWSEC,100
+2002,Internet,PRIMAR,100
+2002,Internet,UPPSEC,100
+2003,Internet,LOWSEC,100
+2003,Internet,PRIMAR,100
+2003,Internet,UPPSEC,100
+2004,Internet,LOWSEC,100
+2004,Internet,PRIMAR,100
+2004,Internet,UPPSEC,100
+2005,Internet,LOWSEC,100
+2005,Internet,PRIMAR,100
+2005,Internet,UPPSEC,100
+2006,Internet,LOWSEC,100
+2006,Internet,PRIMAR,100
+2006,Internet,UPPSEC,100
+2007,Internet,LOWSEC,100
+2007,Internet,PRIMAR,100
+2007,Internet,UPPSEC,100
+2008,Internet,LOWSEC,100
+2008,Internet,PRIMAR,100
+2008,Internet,UPPSEC,100
+2009,Internet,LOWSEC,100
+2009,Internet,PRIMAR,100
+2009,Internet,UPPSEC,100
+2010,Internet,LOWSEC,100
+2010,Internet,PRIMAR,100
+2010,Internet,UPPSEC,100
+2011,Internet,LOWSEC,100
+2011,Internet,PRIMAR,100
+2011,Internet,UPPSEC,100
+2012,Internet,LOWSEC,100
+2012,Internet,PRIMAR,100
+2012,Internet,UPPSEC,100
+2013,Internet,LOWSEC,100
+2013,Internet,PRIMAR,100
+2013,Internet,UPPSEC,100
+2014,Internet,LOWSEC,100
+2014,Internet,PRIMAR,100
+2014,Internet,UPPSEC,100
+2015,Internet,LOWSEC,100
+2015,Internet,PRIMAR,100
+2015,Internet,UPPSEC,100
+2016,Internet,LOWSEC,100
+2016,Internet,PRIMAR,100
+2016,Internet,UPPSEC,100
+2000,Single-sex sanitation,LOWSEC,100
+2000,Single-sex sanitation,PRIMAR,100
+2000,Single-sex sanitation,UPPSEC,100
+2001,Single-sex sanitation,LOWSEC,100
+2001,Single-sex sanitation,PRIMAR,100
+2001,Single-sex sanitation,UPPSEC,100
+2002,Single-sex sanitation,LOWSEC,100
+2002,Single-sex sanitation,PRIMAR,100
+2002,Single-sex sanitation,UPPSEC,100
+2003,Single-sex sanitation,LOWSEC,100
+2003,Single-sex sanitation,PRIMAR,100
+2003,Single-sex sanitation,UPPSEC,100
+2004,Single-sex sanitation,LOWSEC,100
+2004,Single-sex sanitation,PRIMAR,100
+2004,Single-sex sanitation,UPPSEC,100
+2005,Single-sex sanitation,LOWSEC,100
+2005,Single-sex sanitation,PRIMAR,100
+2005,Single-sex sanitation,UPPSEC,100
+2006,Single-sex sanitation,LOWSEC,100
+2006,Single-sex sanitation,PRIMAR,100
+2006,Single-sex sanitation,UPPSEC,100
+2007,Single-sex sanitation,LOWSEC,100
+2007,Single-sex sanitation,PRIMAR,100
+2007,Single-sex sanitation,UPPSEC,100
+2008,Single-sex sanitation,LOWSEC,100
+2008,Single-sex sanitation,PRIMAR,100
+2008,Single-sex sanitation,UPPSEC,100
+2009,Single-sex sanitation,LOWSEC,100
+2009,Single-sex sanitation,PRIMAR,100
+2009,Single-sex sanitation,UPPSEC,100
+2010,Single-sex sanitation,LOWSEC,100
+2010,Single-sex sanitation,PRIMAR,100
+2010,Single-sex sanitation,UPPSEC,100
+2011,Single-sex sanitation,LOWSEC,100
+2011,Single-sex sanitation,PRIMAR,100
+2011,Single-sex sanitation,UPPSEC,100
+2012,Single-sex sanitation,LOWSEC,100
+2012,Single-sex sanitation,PRIMAR,100
+2012,Single-sex sanitation,UPPSEC,100
+2013,Single-sex sanitation,LOWSEC,100
+2013,Single-sex sanitation,PRIMAR,100
+2013,Single-sex sanitation,UPPSEC,100
+2014,Single-sex sanitation,LOWSEC,100
+2014,Single-sex sanitation,PRIMAR,100
+2014,Single-sex sanitation,UPPSEC,100
+2015,Single-sex sanitation,LOWSEC,100
+2015,Single-sex sanitation,PRIMAR,100
+2015,Single-sex sanitation,UPPSEC,100
+2016,Single-sex sanitation,LOWSEC,100
+2016,Single-sex sanitation,PRIMAR,100
+2016,Single-sex sanitation,UPPSEC,100

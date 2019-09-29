@@ -1,10 +1,10 @@
-Year,Age,Sex,Bank account category,Unit measure,Unit multiplier,Observation status,Value
-2011,,,,Percentage (%),Units,Undefined,93.05
-2014,,,,Percentage (%),Units,Undefined,94.36
-2017,,,,Percentage (%),Units,Undefined,94.85
-2011,,Female,,Percentage (%),Units,Undefined,93.11
-2014,,Female,,Percentage (%),Units,Undefined,93.38
-2017,,Female,,Percentage (%),Units,Undefined,94.69
-2011,,Male,,Percentage (%),Units,Undefined,92.98
-2014,,Male,,Percentage (%),Units,Undefined,95.39
-2017,,Male,,Percentage (%),Units,Undefined,95.02
+Year,Sex,Value
+2011,,93.05
+2011,FEMALE,93.11
+2011,MALE,92.98
+2014,,94.36
+2014,FEMALE,93.38
+2014,MALE,95.39
+2017,,94.85
+2017,FEMALE,94.69
+2017,MALE,95.02

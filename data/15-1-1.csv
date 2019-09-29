@@ -1,5 +1,5 @@
-Year,Country,Sustainably managed status,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2000,,,Undefined,Units,Percentage (%),,64.5287
-2005,,,Undefined,Units,Percentage (%),,64.19
-2010,,,Undefined,Units,Percentage (%),,63.8514
-2015,,,Undefined,Units,Percentage (%),,63.4614
+Year,Value
+2000,64.52871
+2005,64.19006
+2010,63.8514
+2015,63.46144

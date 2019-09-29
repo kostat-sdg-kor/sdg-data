@@ -1,1 +1,1 @@
-{"data":{"Year":[2016],"Size of particulate matter":["PM 2.5"],"Local Authority":[null],"Observation status":["Undefined"],"Unit multiplier":["Units"],"Unit measure":["microgram/m3"],"GeoCode":[null],"Value":[24.57240486]},"edges":[]}
+{"data":{"Year":[2016,2016],"Location":["URBAN","ALLAREA"],"Value":[24.68465996,24.57240486]},"edges":[]}

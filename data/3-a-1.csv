@@ -1,10 +1,10 @@
-Year,Sex,Age,Country,Region,Local Authority,Health Board,Employment status,Socio-economic classification,Relationship status,Highest qualification,Ethnicity,Country of birth,Religion,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2000,,,,,,,,,,,,,,Undefined,Units,Percentage (%),,34.5
-2015,,,,,,,,,,,,,,Undefined,Units,Percentage (%),,23.9
-2016,,,,,,,,,,,,,,Undefined,Units,Percentage (%),,23.6
-2000,Male,,,,,,,,,,,,,Undefined,Units,Percentage (%),,62.2
-2015,Male,,,,,,,,,,,,,Undefined,Units,Percentage (%),,42.0
-2016,Male,,,,,,,,,,,,,Undefined,Units,Percentage (%),,40.9
-2000,Female,,,,,,,,,,,,,Undefined,Units,Percentage (%),,6.9
-2015,Female,,,,,,,,,,,,,Undefined,Units,Percentage (%),,6.2
-2016,Female,,,,,,,,,,,,,Undefined,Units,Percentage (%),,6.2
+Year,Sex,Value
+2000,,34.5
+2000,FEMALE,6.9
+2000,MALE,62.2
+2015,,23.9
+2015,FEMALE,6.2
+2015,MALE,42.0
+2016,,23.6
+2016,FEMALE,6.2
+2016,MALE,40.9

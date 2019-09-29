@@ -1,28 +1,28 @@
-Year,Banking service,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
-2004,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,16.8
-2005,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,17.33
-2006,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,17.82
-2007,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,18.31
-2008,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,18.7
-2009,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,18.19
-2010,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,18.18
-2011,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,18.22
-2012,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,18.31
-2013,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,18.02
-2014,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,17.21
-2015,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,16.78
-2016,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,16.26
-2017,Commerical bank branches and building societies,,,Undefined,Units,"Number per 100,000 adults",,15.45
-2004,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,208.16400000000002
-2005,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,212.142
-2006,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,218.24400000000003
-2007,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,234.237
-2008,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,241.828
-2009,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,247.122
-2010,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,265.375
-2011,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,281.267
-2012,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,288.475
-2013,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,288.631
-2014,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,280.966
-2015,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,276.274
-2016,Automated teller machines (ATMs),,,Undefined,Units,"Number per 100,000 adults",,271.875
+Year,Banking service,Value
+2004,ATMs,208.16443
+2005,ATMs,212.14238999999998
+2006,ATMs,218.24452000000002
+2007,ATMs,234.23756
+2008,ATMs,241.82812
+2009,ATMs,247.12209
+2010,ATMs,265.37542
+2011,ATMs,281.26772
+2012,ATMs,288.47585
+2013,ATMs,288.63191
+2014,ATMs,280.96637000000004
+2015,ATMs,276.27459
+2016,ATMs,271.87542
+2004,Commercial bank branches,16.8
+2005,Commercial bank branches,17.33
+2006,Commercial bank branches,17.82
+2007,Commercial bank branches,18.31
+2008,Commercial bank branches,18.7
+2009,Commercial bank branches,18.19
+2010,Commercial bank branches,18.18
+2011,Commercial bank branches,18.22
+2012,Commercial bank branches,18.31
+2013,Commercial bank branches,18.02
+2014,Commercial bank branches,17.21
+2015,Commercial bank branches,16.78
+2016,Commercial bank branches,16.26
+2017,Commercial bank branches,15.45
