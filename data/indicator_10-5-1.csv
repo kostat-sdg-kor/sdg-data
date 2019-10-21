@@ -1,2 +1,64 @@
-Year,Value
-There is no data for this indicator yet,
+Year,Units,Value
+2008,Non-performing loans to total gross loans,0.57191
+2009,Non-performing loans to total gross loans,0.5845
+2010,Non-performing loans to total gross loans,0.588
+2011,Non-performing loans to total gross loans,0.48416
+2012,Non-performing loans to total gross loans,0.59429
+2013,Non-performing loans to total gross loans,0.57068
+2014,Non-performing loans to total gross loans,0.48783
+2015,Non-performing loans to total gross loans,0.45686
+2016,Non-performing loans to total gross loans,0.46922
+2008,Return on assets,0.67379
+2009,Return on assets,0.5808
+2010,Return on assets,0.71
+2011,Return on assets,1.04953
+2012,Return on assets,0.66081
+2013,Return on assets,0.32602
+2014,Return on assets,0.48704
+2015,Return on assets,0.53134
+2016,Return on assets,1.94599
+2008,Regulatory capital to assets,6.29546
+2009,Regulatory capital to assets,7.29426
+2010,Regulatory capital to assets,7.59542
+2011,Regulatory capital to assets,8.11365
+2012,Regulatory capital to assets,8.23126
+2013,Regulatory capital to assets,8.27255
+2014,Regulatory capital to assets,8.13114
+2015,Regulatory capital to assets,8.02821
+2016,Regulatory capital to assets,7.8732
+2008,Non-performing loans net of provisions to capital,3.16607
+2009,Non-performing loans net of provisions to capital,3.08055
+2010,Non-performing loans net of provisions to capital,3.39135
+2011,Non-performing loans net of provisions to capital,2.64457
+2012,Non-performing loans net of provisions to capital,3.07008
+2013,Non-performing loans net of provisions to capital,3.56082
+2014,Non-performing loans net of provisions to capital,2.76232
+2015,Non-performing loans net of provisions to capital,2.12846
+2016,Non-performing loans net of provisions to capital,2.13353
+2008,Regulatory Tier 1 capital to risk-weighted assets,8.83722
+2009,Regulatory Tier 1 capital to risk-weighted assets,10.91975
+2010,Regulatory Tier 1 capital to risk-weighted assets,11.30795
+2011,Regulatory Tier 1 capital to risk-weighted assets,10.69846
+2012,Regulatory Tier 1 capital to risk-weighted assets,11.12517
+2013,Regulatory Tier 1 capital to risk-weighted assets,11.42529
+2014,Regulatory Tier 1 capital to risk-weighted assets,11.37789
+2015,Regulatory Tier 1 capital to risk-weighted assets,11.69408
+2016,Regulatory Tier 1 capital to risk-weighted assets,13.1146
+2008,Liquid assets to short term liabilities,101.37096
+2009,Liquid assets to short term liabilities,103.93085
+2010,Liquid assets to short term liabilities,117.46817
+2011,Liquid assets to short term liabilities,109.33702
+2012,Liquid assets to short term liabilities,111.34206
+2013,Liquid assets to short term liabilities,107.87426
+2014,Liquid assets to short term liabilities,121.98002
+2015,Liquid assets to short term liabilities,104.95577
+2016,Liquid assets to short term liabilities,102.59449
+2008,Net open position in foreign exchange to capital,1.8752
+2009,Net open position in foreign exchange to capital,2.911
+2010,Net open position in foreign exchange to capital,0.93766
+2011,Net open position in foreign exchange to capital,0.93475
+2012,Net open position in foreign exchange to capital,0.15454
+2013,Net open position in foreign exchange to capital,-0.1504
+2014,Net open position in foreign exchange to capital,0.4656
+2015,Net open position in foreign exchange to capital,-0.04185
+2016,Net open position in foreign exchange to capital,0.01914

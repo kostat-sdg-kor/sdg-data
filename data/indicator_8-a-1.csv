@@ -1,10 +1,25 @@
-Year,Observation status,Unit multiplier,Unit measure,Value
-2009,Undefined,Thousands,GBP (£),820643.0
-2010,Undefined,Thousands,GBP (£),784772.0
-2011,Undefined,Thousands,GBP (£),843898.0
-2012,Undefined,Thousands,GBP (£),959304.0
-2013,Undefined,Thousands,GBP (£),912792.0
-2014,Undefined,Thousands,GBP (£),1045836.0
-2015,Undefined,Thousands,GBP (£),1462161.0
-2016,Undefined,Thousands,GBP (£),1382059.0
-2017,Undefined,Thousands,GBP (£),1490295.0
+Year,Category,Value
+2006,Commitments,209.88136
+2007,Commitments,535.25509
+2008,Commitments,725.75986
+2009,Commitments,1208.58632
+2010,Commitments,805.56287
+2011,Commitments,809.16125
+2012,Commitments,839.32571
+2013,Commitments,732.18616
+2014,Commitments,1061.28238
+2015,Commitments,930.81599
+2016,Commitments,1061.00559
+2017,Commitments,1183.67027
+2006,Disbursement,159.73768
+2007,Disbursement,174.67872
+2008,Disbursement,267.59824
+2009,Disbursement,304.16676
+2010,Disbursement,378.54573
+2011,Disbursement,437.22942
+2012,Disbursement,461.79159
+2013,Disbursement,564.00747
+2014,Disbursement,529.79148
+2015,Disbursement,613.12151
+2016,Disbursement,590.86188
+2017,Disbursement,556.53925
