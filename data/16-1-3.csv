@@ -1,11 +1,11 @@
-Year,Units,Sex,Value
+Year,Units,성별,Value
 2012,Physical violence,,0.1
 2014,Physical violence,,0.2
-2014,Physical violence,FEMALE,0.1
-2014,Physical violence,MALE,0.2
+2014,Physical violence,여,0.1
+2014,Physical violence,남,0.2
 2016,Physical violence,,0.2
-2016,Physical violence,FEMALE,0.1
-2016,Physical violence,MALE,0.2
+2016,Physical violence,여,0.1
+2016,Physical violence,남,0.2
 2008,Robbery,,0.1
 2009,Robbery,,0.2
 2010,Robbery,,0.2
@@ -13,31 +13,31 @@ Year,Units,Sex,Value
 2012,Robbery,,0.4
 2013,Robbery,,0.1
 2014,Robbery,,0.6
-2014,Robbery,MALE,0.1
+2014,Robbery,남,0.1
 2016,Robbery,,0.1
-2016,Robbery,FEMALE,0.1
-2016,Robbery,MALE,0.1
+2016,Robbery,여,0.1
+2016,Robbery,남,0.1
 2008,Sexual violence,,0.62
-2008,Sexual violence,FEMALE,0.74
-2008,Sexual violence,MALE,0.04
+2008,Sexual violence,여,0.74
+2008,Sexual violence,남,0.04
 2009,Sexual violence,,0.65
-2009,Sexual violence,FEMALE,0.78
-2009,Sexual violence,MALE,0.04
+2009,Sexual violence,여,0.78
+2009,Sexual violence,남,0.04
 2010,Sexual violence,,0.88
-2010,Sexual violence,FEMALE,1.06
-2010,Sexual violence,MALE,0.05
+2010,Sexual violence,여,1.06
+2010,Sexual violence,남,0.05
 2011,Sexual violence,,0.97
-2011,Sexual violence,FEMALE,1.19
-2011,Sexual violence,MALE,0.06
+2011,Sexual violence,여,1.19
+2011,Sexual violence,남,0.06
 2012,Sexual violence,,1.5
-2012,Sexual violence,FEMALE,0.28
-2012,Sexual violence,MALE,0.01
+2012,Sexual violence,여,0.28
+2012,Sexual violence,남,0.01
 2013,Sexual violence,,1.15
-2013,Sexual violence,FEMALE,1.44
-2013,Sexual violence,MALE,0.08
+2013,Sexual violence,여,1.44
+2013,Sexual violence,남,0.08
 2014,Sexual violence,,1.1
-2014,Sexual violence,FEMALE,0.23
-2014,Sexual violence,MALE,0.01
+2014,Sexual violence,여,0.23
+2014,Sexual violence,남,0.01
 2016,Sexual violence,,0.1
-2016,Sexual violence,FEMALE,0.1
-2016,Sexual violence,MALE,0.0
+2016,Sexual violence,여,0.1
+2016,Sexual violence,남,0.0
