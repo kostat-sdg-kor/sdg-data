@@ -1,3 +1,7 @@
-Year,Value
-2018,9
-2019,10
+Year,Units,Value
+2018,,9
+2018,Urban,10
+2018,Rural,8
+2019,,10
+2019,Urban,11
+2019,Rural,9

@@ -1,1 +1,1 @@
-[{"Year":2018,"Value":9},{"Year":2019,"Value":10}]
+[{"Year":2018,"Units":null,"Value":9},{"Year":2018,"Units":"Urban","Value":10},{"Year":2018,"Units":"Rural","Value":8},{"Year":2019,"Units":null,"Value":10},{"Year":2019,"Units":"Urban","Value":11},{"Year":2019,"Units":"Rural","Value":9}]
