@@ -1,4 +1,4 @@
 From,To
-Age,Category
-Sex,Age
-Age,Location
+연령,구분
+성별,연령
+연령,지역
