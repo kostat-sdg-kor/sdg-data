@@ -1,5 +1,5 @@
-Year,Category,Mode of transportation,Value
-2017,Feright,RAI,11726552747
-2017,Feright,ROA,198410525098
-2017,Passenger,ROA,379629501577
-2017,Passenger,RAI,140776123136
+Year,구분,교통수단,Value
+2017,화물,철도,11726552747
+2017,화물,도로,198410525098
+2017,승객,도로,379629501577
+2017,승객,철도,140776123136
