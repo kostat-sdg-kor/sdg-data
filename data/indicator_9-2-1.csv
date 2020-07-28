@@ -1,39 +1,41 @@
 Year,Units,Value
-2000,Percentage (%) of GDP,22.67
-2001,Percentage (%) of GDP,22.5
-2002,Percentage (%) of GDP,22.83
-2003,Percentage (%) of GDP,23.27
-2004,Percentage (%) of GDP,24.39
-2005,Percentage (%) of GDP,24.81
-2006,Percentage (%) of GDP,25.4
-2007,Percentage (%) of GDP,26.1
-2008,Percentage (%) of GDP,26.36
-2009,Percentage (%) of GDP,26.08
-2010,Percentage (%) of GDP,27.78
-2011,Percentage (%) of GDP,28.55
-2012,Percentage (%) of GDP,28.6
-2013,Percentage (%) of GDP,28.8
-2014,Percentage (%) of GDP,28.84
-2015,Percentage (%) of GDP,28.53
-2016,Percentage (%) of GDP,28.44
-2017,Percentage (%) of GDP,28.62
-2018,Percentage (%) of GDP,28.77
-2000,GDP per capita,3397.6
-2001,GDP per capita,3500.1
-2002,GDP per capita,3791.3
-2003,GDP per capita,3957.3
-2004,GDP per capita,4330.1
-2005,GDP per capita,4557.7
-2006,GDP per capita,4887.9
-2007,GDP per capita,5279
-2008,GDP per capita,5465.4
-2009,GDP per capita,5427.4
-2010,GDP per capita,6134.9
-2011,GDP per capita,6513.3
-2012,GDP per capita,6646.3
-2013,GDP per capita,6856.8
-2014,GDP per capita,7065.5
-2015,GDP per capita,7155
-2016,GDP per capita,7304.3
-2017,GDP per capita,7547.9
-2018,GDP per capita,7769
+2000,GDP대비 부가가치비중,21.55
+2001,GDP대비 부가가치비중,21.39
+2002,GDP대비 부가가치비중,21.7
+2003,GDP대비 부가가치비중,22.12
+2004,GDP대비 부가가치비중,23.19
+2005,GDP대비 부가가치비중,23.58
+2006,GDP대비 부가가치비중,24.14
+2007,GDP대비 부가가치비중,24.81
+2008,GDP대비 부가가치비중,25.06
+2009,GDP대비 부가가치비중,24.79
+2010,GDP대비 부가가치비중,26.4
+2011,GDP대비 부가가치비중,27.14
+2012,GDP대비 부가가치비중,27.19
+2013,GDP대비 부가가치비중,27.38
+2014,GDP대비 부가가치비중,27.41
+2015,GDP대비 부가가치비중,27.12
+2016,GDP대비 부가가치비중,27
+2017,GDP대비 부가가치비중,27.33
+2018,GDP대비 부가가치비중,27.47
+2019,GDP대비 부가가치비중,27.53
+2000,1인당 부가가치,3520.1
+2001,1인당 부가가치,3626.3
+2002,1인당 부가가치,3927.9
+2003,1인당 부가가치,4099.8
+2004,1인당 부가가치,4486
+2005,1인당 부가가치,4722.1
+2006,1인당 부가가치,5065.1
+2007,1인당 부가가치,5471.6
+2008,1인당 부가가치,5665.8
+2009,1인당 부가가치,5625.9
+2010,1인당 부가가치,6356.1
+2011,1인당 부가가치,6741.5
+2012,1인당 부가가치,6870.1
+2013,1인당 부가가치,7078.1
+2014,1인당 부가가치,7287.1
+2015,1인당 부가가치,7378.5
+2016,1인당 부가가치,7538.2
+2017,1인당 부가가치,7845.9
+2018,1인당 부가가치,8083.5
+2019,1인당 부가가치,8251.9
