@@ -1,21 +1,7 @@
-Year,Units,Sex,Value
-2012,Physical assault,,62.9
-2014,Physical assault,,10.9
-2014,Physical assault,FEMALE,4.9
-2014,Physical assault,MALE,16.4
-2016,Physical assault,,31.2
-2016,Physical assault,FEMALE,28.0
-2016,Physical assault,MALE,32.7
-2012,Robbery,,16.6
-2014,Robbery,,54.1
-2014,Robbery,FEMALE,0.0
-2014,Robbery,MALE,56.6
-2016,Robbery,,45.0
-2016,Robbery,FEMALE,49.9
-2016,Robbery,MALE,37.0
-2012,Sexual assault,,8.4
-2014,Sexual assault,,5.4
-2014,Sexual assault,FEMALE,4.1
-2014,Sexual assault,MALE,1.0
-2016,Sexual assault,,13.7
-2016,Sexual assault,FEMALE,13.7
+Year,Units,Value
+2014,재산범죄,23.58
+2016,재산범죄,21.53
+2018,재산범죄,21.71
+2014,폭력범죄,16.26
+2016,폭력범죄,27.44
+2018,폭력범죄,32.6
