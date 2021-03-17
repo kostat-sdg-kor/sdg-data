@@ -1,43 +1,21 @@
-Year,Units,성별,Value
-2012,Physical violence,,0.1
-2014,Physical violence,,0.2
-2014,Physical violence,여,0.1
-2014,Physical violence,남,0.2
-2016,Physical violence,,0.2
-2016,Physical violence,여,0.1
-2016,Physical violence,남,0.2
-2008,Robbery,,0.1
-2009,Robbery,,0.2
-2010,Robbery,,0.2
-2011,Robbery,,0.2
-2012,Robbery,,0.4
-2013,Robbery,,0.1
-2014,Robbery,,0.6
-2014,Robbery,남,0.1
-2016,Robbery,,0.1
-2016,Robbery,여,0.1
-2016,Robbery,남,0.1
-2008,Sexual violence,,0.62
-2008,Sexual violence,여,0.74
-2008,Sexual violence,남,0.04
-2009,Sexual violence,,0.65
-2009,Sexual violence,여,0.78
-2009,Sexual violence,남,0.04
-2010,Sexual violence,,0.88
-2010,Sexual violence,여,1.06
-2010,Sexual violence,남,0.05
-2011,Sexual violence,,0.97
-2011,Sexual violence,여,1.19
-2011,Sexual violence,남,0.06
-2012,Sexual violence,,1.5
-2012,Sexual violence,여,0.28
-2012,Sexual violence,남,0.01
-2013,Sexual violence,,1.15
-2013,Sexual violence,여,1.44
-2013,Sexual violence,남,0.08
-2014,Sexual violence,,1.1
-2014,Sexual violence,여,0.23
-2014,Sexual violence,남,0.01
-2016,Sexual violence,,0.1
-2016,Sexual violence,여,0.1
-2016,Sexual violence,남,0.0
+Year,Units,Value
+2012,,0.77
+2014,,0.37
+2016,,0.39
+2018,,0.57
+2012,성폭력,0.17
+2014,성폭력,0.13
+2016,성폭력,0.08
+2018,성폭력,0.16
+2012,강도,0.07
+2014,강도,0.06
+2016,강도,0.07
+2018,강도,0.12
+2012,폭행,0.52
+2014,폭행,0.15
+2016,폭행,0.16
+2018,폭행,0.16
+2012,괴롭힘,0.01
+2014,괴롭힘,0.03
+2016,괴롭힘,0.09
+2018,괴롭힘,0.12
