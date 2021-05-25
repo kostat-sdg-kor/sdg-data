@@ -1,29 +1,29 @@
-Year,Category,Value
+Year,Time series,Value
 2005,Deaths or missing persons,0.10999
-2006,Deaths or missing persons,0.14382999999999999
+2005,Directly affected persons,30.13204
+2006,Deaths or missing persons,0.14383
+2006,Directly affected persons,54.94476
 2007,Deaths or missing persons,0.04865
-2008,Deaths or missing persons,0.13748
-2009,Deaths or missing persons,0.5012800000000001
-2010,Deaths or missing persons,0.20379
-2011,Deaths or missing persons,0.16673
-2012,Deaths or missing persons,0.043230000000000005
-2013,Deaths or missing persons,0.03294
-2014,Deaths or missing persons,0.85014
-2015,Deaths or missing persons,0.13119
-2016,Deaths or missing persons,0.050710000000000005
-2017,Deaths or missing persons,0.14002
-2018,Deaths or missing persons,0.28278000000000003
-2005,Directly affected persons,30.132040000000003
-2006,Directly affected persons,54.944759999999995
 2007,Directly affected persons,37.18728
+2008,Deaths or missing persons,0.13748
 2008,Directly affected persons,11.5899
+2009,Deaths or missing persons,0.50128
 2009,Directly affected persons,35.03071
-2010,Directly affected persons,316.08342999999996
+2010,Deaths or missing persons,0.20379
+2010,Directly affected persons,316.08343
+2011,Deaths or missing persons,0.16673
 2011,Directly affected persons,180.19194
+2012,Deaths or missing persons,0.04323
 2012,Directly affected persons,55.94064
+2013,Deaths or missing persons,0.03294
 2013,Directly affected persons,11.37706
-2014,Directly affected persons,24.139770000000002
-2015,Directly affected persons,1.0554299999999999
+2014,Deaths or missing persons,0.85014
+2014,Directly affected persons,24.13977
+2015,Deaths or missing persons,0.13119
+2015,Directly affected persons,1.05543
+2016,Deaths or missing persons,0.05071
 2016,Directly affected persons,17.80979
+2017,Deaths or missing persons,0.14002
 2017,Directly affected persons,42.9559
-2018,Directly affected persons,26.483859999999996
+2018,Deaths or missing persons,0.28278
+2018,Directly affected persons,26.48386
