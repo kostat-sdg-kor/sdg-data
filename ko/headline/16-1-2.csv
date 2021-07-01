@@ -1,3 +1,11 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Observation status,Unit multiplier,Unit measure
+2007,3.32685900478,Undefined,Units,"Rate per 1,000,000 population"
+2008,2.21597507756,Undefined,Units,"Rate per 1,000,000 population"
+2009,3.29261730953,Undefined,Units,"Rate per 1,000,000 population"
+2010,2.97962858213,Undefined,Units,"Rate per 1,000,000 population"
+2011,2.08579902694,Undefined,Units,"Rate per 1,000,000 population"
+2012,2.04065614944,Undefined,Units,"Rate per 1,000,000 population"
+2013,1.34153437214,Undefined,Units,"Rate per 1,000,000 population"
+2014,1.05268372427,Undefined,Units,"Rate per 1,000,000 population"
+2015,0.921517432038,Undefined,Units,"Rate per 1,000,000 population"
+2016,1.09675679875,Undefined,Units,"Rate per 1,000,000 population"

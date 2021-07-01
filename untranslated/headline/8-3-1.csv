@@ -1,3 +1,19 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,GeoCode,Observation status,Unit multiplier,Unit measure
+2000.0,0.813175828198992,,Undefined,Units,Percentage (%)
+2001.0,0.631252841772565,,Undefined,Units,Percentage (%)
+2002.0,0.553371561300069,,Undefined,Units,Percentage (%)
+2003.0,0.438680061460324,,Undefined,Units,Percentage (%)
+2004.0,0.377518031800974,,Undefined,Units,Percentage (%)
+2005.0,0.413049205602688,,Undefined,Units,Percentage (%)
+2006.0,0.503068549671212,,Undefined,Units,Percentage (%)
+2007.0,0.558501890972248,,Undefined,Units,Percentage (%)
+2008.0,0.485649340569823,,Undefined,Units,Percentage (%)
+2009.0,0.654763367397314,,Undefined,Units,Percentage (%)
+2010.0,0.574164857386415,,Undefined,Units,Percentage (%)
+2011.0,0.64547081165774,,Undefined,Units,Percentage (%)
+2012.0,0.841788317174764,,Undefined,Units,Percentage (%)
+2013.0,1.92838135558935,,Undefined,Units,Percentage (%)
+2014.0,2.25267157893669,,Undefined,Units,Percentage (%)
+2015.0,2.54450711227502,,Undefined,Units,Percentage (%)
+2016.0,2.83644040401781,,Undefined,Units,Percentage (%)
+2017.0,2.79548027085114,,Undefined,Units,Percentage (%)

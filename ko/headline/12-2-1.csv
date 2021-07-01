@@ -1,3 +1,29 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,Observation status,Unit multiplier,Unit measure
+2000,14.4,Tonnes per capita,Undefined,Units,Tonnes per capita
+2001,15.1,Tonnes per capita,Undefined,Units,Tonnes per capita
+2002,13.9,Tonnes per capita,Undefined,Units,Tonnes per capita
+2003,13.6,Tonnes per capita,Undefined,Units,Tonnes per capita
+2004,13.7,Tonnes per capita,Undefined,Units,Tonnes per capita
+2005,13.7,Tonnes per capita,Undefined,Units,Tonnes per capita
+2006,13.1,Tonnes per capita,Undefined,Units,Tonnes per capita
+2007,13.0,Tonnes per capita,Undefined,Units,Tonnes per capita
+2008,12.0,Tonnes per capita,Undefined,Units,Tonnes per capita
+2009,10.5,Tonnes per capita,Undefined,Units,Tonnes per capita
+2010,10.4,Tonnes per capita,Undefined,Units,Tonnes per capita
+2011,10.1,Tonnes per capita,Undefined,Units,Tonnes per capita
+2012,10.1,Tonnes per capita,Undefined,Units,Tonnes per capita
+2013,10.3,Tonnes per capita,Undefined,Units,Tonnes per capita
+2000,599.2909202,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2001,610.8439036,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2002,552.3002679,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2003,524.4682753,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2004,520.0677921,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2005,507.4503581,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2006,477.0982084,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2007,464.741307,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2008,434.1895325,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2009,401.8831094,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2010,392.162297,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2011,380.9902542,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2012,376.6970407,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP
+2013,378.8307753,Tonnes per £m GDP,Undefined,Units,Tonnes per £m GDP

@@ -1,3 +1,139 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,Units,Observation status,Unit multiplier,Unit measure
+1950,0.0,Marine protected area extent,Undefined,Million,Hectares
+1951,0.01,Marine protected area extent,Undefined,Million,Hectares
+1952,0.03,Marine protected area extent,Undefined,Million,Hectares
+1953,0.03,Marine protected area extent,Undefined,Million,Hectares
+1954,0.05,Marine protected area extent,Undefined,Million,Hectares
+1955,0.06,Marine protected area extent,Undefined,Million,Hectares
+1956,0.09,Marine protected area extent,Undefined,Million,Hectares
+1957,0.09,Marine protected area extent,Undefined,Million,Hectares
+1958,0.1,Marine protected area extent,Undefined,Million,Hectares
+1959,0.1,Marine protected area extent,Undefined,Million,Hectares
+1960,0.11,Marine protected area extent,Undefined,Million,Hectares
+1961,0.11,Marine protected area extent,Undefined,Million,Hectares
+1962,0.11,Marine protected area extent,Undefined,Million,Hectares
+1963,0.11,Marine protected area extent,Undefined,Million,Hectares
+1964,0.12,Marine protected area extent,Undefined,Million,Hectares
+1965,0.13,Marine protected area extent,Undefined,Million,Hectares
+1966,0.14,Marine protected area extent,Undefined,Million,Hectares
+1967,0.14,Marine protected area extent,Undefined,Million,Hectares
+1968,0.15,Marine protected area extent,Undefined,Million,Hectares
+1969,0.15,Marine protected area extent,Undefined,Million,Hectares
+1970,0.15,Marine protected area extent,Undefined,Million,Hectares
+1971,0.16,Marine protected area extent,Undefined,Million,Hectares
+1972,0.23,Marine protected area extent,Undefined,Million,Hectares
+1973,0.23,Marine protected area extent,Undefined,Million,Hectares
+1974,0.24,Marine protected area extent,Undefined,Million,Hectares
+1975,0.25,Marine protected area extent,Undefined,Million,Hectares
+1976,0.28,Marine protected area extent,Undefined,Million,Hectares
+1977,0.28,Marine protected area extent,Undefined,Million,Hectares
+1978,0.28,Marine protected area extent,Undefined,Million,Hectares
+1979,0.28,Marine protected area extent,Undefined,Million,Hectares
+1980,0.66,Marine protected area extent,Undefined,Million,Hectares
+1981,0.66,Marine protected area extent,Undefined,Million,Hectares
+1982,0.66,Marine protected area extent,Undefined,Million,Hectares
+1983,0.66,Marine protected area extent,Undefined,Million,Hectares
+1984,0.66,Marine protected area extent,Undefined,Million,Hectares
+1985,0.67,Marine protected area extent,Undefined,Million,Hectares
+1986,0.7,Marine protected area extent,Undefined,Million,Hectares
+1987,0.7,Marine protected area extent,Undefined,Million,Hectares
+1988,0.7,Marine protected area extent,Undefined,Million,Hectares
+1989,0.71,Marine protected area extent,Undefined,Million,Hectares
+1990,0.73,Marine protected area extent,Undefined,Million,Hectares
+1991,0.73,Marine protected area extent,Undefined,Million,Hectares
+1992,0.73,Marine protected area extent,Undefined,Million,Hectares
+1993,0.73,Marine protected area extent,Undefined,Million,Hectares
+1994,0.77,Marine protected area extent,Undefined,Million,Hectares
+1995,0.77,Marine protected area extent,Undefined,Million,Hectares
+1996,1.35,Marine protected area extent,Undefined,Million,Hectares
+1997,1.49,Marine protected area extent,Undefined,Million,Hectares
+1998,1.52,Marine protected area extent,Undefined,Million,Hectares
+1999,1.55,Marine protected area extent,Undefined,Million,Hectares
+2000,1.56,Marine protected area extent,Undefined,Million,Hectares
+2001,1.59,Marine protected area extent,Undefined,Million,Hectares
+2002,1.6,Marine protected area extent,Undefined,Million,Hectares
+2003,1.68,Marine protected area extent,Undefined,Million,Hectares
+2004,1.68,Marine protected area extent,Undefined,Million,Hectares
+2005,1.68,Marine protected area extent,Undefined,Million,Hectares
+2006,1.74,Marine protected area extent,Undefined,Million,Hectares
+2007,1.79,Marine protected area extent,Undefined,Million,Hectares
+2008,2.05,Marine protected area extent,Undefined,Million,Hectares
+2009,2.22,Marine protected area extent,Undefined,Million,Hectares
+2010,3.92,Marine protected area extent,Undefined,Million,Hectares
+2011,5.16,Marine protected area extent,Undefined,Million,Hectares
+2012,7.62,Marine protected area extent,Undefined,Million,Hectares
+2013,8.54,Marine protected area extent,Undefined,Million,Hectares
+2014,14.56,Marine protected area extent,Undefined,Million,Hectares
+2015,14.57,Marine protected area extent,Undefined,Million,Hectares
+2016,16.64,Marine protected area extent,Undefined,Million,Hectares
+2017,20.96,Marine protected area extent,Undefined,Million,Hectares
+2018,21.13,Marine protected area extent,Undefined,Million,Hectares
+1950,0.0,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1951,0.02,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1952,0.03,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1953,0.03,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1954,0.05,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1955,0.06,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1956,0.1,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1957,0.11,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1958,0.11,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1959,0.12,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1960,0.12,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1961,0.12,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1962,0.12,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1963,0.13,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1964,0.13,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1965,0.14,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1966,0.16,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1967,0.16,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1968,0.17,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1969,0.17,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1970,0.17,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1971,0.18,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1972,0.26,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1973,0.26,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1974,0.28,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1975,0.28,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1976,0.32,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1977,0.32,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1978,0.32,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1979,0.32,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1980,0.74,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1981,0.75,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1982,0.75,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1983,0.75,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1984,0.75,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1985,0.76,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1986,0.79,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1987,0.79,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1988,0.79,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1989,0.8,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1990,0.82,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1991,0.82,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1992,0.82,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1993,0.83,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1994,0.86,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1995,0.87,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1996,1.53,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1997,1.68,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1998,1.71,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+1999,1.75,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2000,1.76,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2001,1.8,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2002,1.81,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2003,1.89,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2004,1.89,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2005,1.89,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2006,1.96,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2007,2.02,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2008,2.32,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2009,2.5,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2010,4.42,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2011,5.83,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2012,8.59,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2013,9.64,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2014,16.43,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2015,16.44,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2016,18.77,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2017,23.66,Proportion of marine protected area,Undefined,Unit,Percentage (%)
+2018,23.84,Proportion of marine protected area,Undefined,Unit,Percentage (%)

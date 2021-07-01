@@ -1,3 +1,2 @@
-Year,Value
-2015,2
-2016,2
+Year,Value,GeoCode,Observation status,Unit multiplier,Unit measure
+2011,99.66861744,,Undefined,Units,Percentage (%)
