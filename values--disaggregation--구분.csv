@@ -1,5 +1,12 @@
 Value,Disaggregation combinations using this value,Number of indicators
 ATM개수,1,1
+G1_총자산 대비 기본자본(Tier 1) 비율,1,1
+G2_위험가중자산 대비 기본자본(Tier 1) 비율,1,1
+G3_총자본 대비 부실채권충당금 비율,1,1
+G4_총채권 대비 부실채권 비율,1,1
+G5_총자산순이익률,1,1
+G6_단기부채 대비 유동자산 비율,1,1
+G7_총자본 대비 외환종합포지션 비율,1,1
 GDP 중 농업부가가치 비율,1,1
 국내_승객량,5,1
 국내_화물량,4,1
