@@ -2,6 +2,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 공산품,1,1
 기름,1,1
 농산품,1,1
+누적발간,1,1
 모바일기기,10,1
 무기,1,1
 섬유,1,1
@@ -9,3 +10,4 @@ Value,Disaggregation combinations using this value,Number of indicators
 의류,1,1
 이동전화,10,1
 전체 혹은 감면없음,1,1
+최초발간,1,1
