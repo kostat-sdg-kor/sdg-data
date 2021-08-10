@@ -1,0 +1,13 @@
+---
+data_non_statistical: false
+goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-03.pdf'
+goal_meta_link_text: 'https://unstats.un.org/sdgs/metadata/files/Metadata-02-02-03.pdf'
+graph_title: '10세 이상 여성 빈혈 유병률'
+graph_type: line
+indicator_name: '15-49세 여성 빈혈 유병률(임신여부별)'
+indicator_sort_order: 2-2-3
+published: true
+reporting_status: complete
+target_name: '2025년까지 5세 미만의 발육부진 및 쇠약에 관한 국제 목표 달성을 포함하여 2030년까지 모든 형태의 영양 부족을 종식시키고 여성 청소년, 임산부, 수유여성 및 노년층의 영양상태 개선'
+un_custodian_agency: WHO
+---
