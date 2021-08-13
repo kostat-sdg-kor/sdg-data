@@ -47,7 +47,7 @@ inputs:
     path_pattern: meta/*-*.md
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
-    git: true
+    git: false
     # This specifies an alternate folder to look in for Git-versioned data files,
     # when calculating the "last updated" dates for data files. This defaults to
     # "data" (the folder where the data files actually exist.) Most sites will not
