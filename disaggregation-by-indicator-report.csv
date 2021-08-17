@@ -15,7 +15,6 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-2,구분,1
 #11-7-1,지역별,1
 #11-7-2,폭력범죄 유형별,1
-#11-c-1,Group,1
 #12-1-1,구분,1
 #12-2-2,종류별,1
 #12-3-1,도시규모별,1
@@ -39,7 +38,6 @@ Indicator,Disaggregations,Number of disaggregations
 #17-15-1,구분,1
 #17-18-3,구분,1
 #17-19-2,구분,1
-#17-6-2,속도,1
 #17-8-1,"성별, 연령",2
 #2-1-1,"성별, 거주지역별, 소득수준별, 연령대별",4
 #2-1-2,"거주지역별, 소득수준별",2
@@ -79,6 +77,5 @@ Indicator,Disaggregations,Number of disaggregations
 #8-4-2,종류별,1
 #8-5-1,성별,1
 #8-5-2,성별,1
-#8-9-2,"Tourism sector, Tourism sub-sector (upper), Tourism sub-sector (middle), Tourism sub-sector (lower)",4
 #8-a-1,구분,1
 #9-1-2,"구분, 교통수단",2
