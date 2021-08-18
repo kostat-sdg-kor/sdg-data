@@ -97,6 +97,28 @@ prose:
             label: "Indicator description"
             translation_key: metadata_fields.national_indicator_description
             scope: national
+            
+
+#      - name: "national_geographical_coverage"
+#        field:
+#            element: text
+#            label: "Geographical coverage"
+#            translation_key: metadata_fields.national_geographical_coverage
+#            scope: national
+#      - name: "computation_units"
+#        field:
+#            element: text
+#            label: "Unit of measurement"
+#            translation_key: metadata_fields.computation_units
+#            scope: national
+#      - name: "computation_definitions"
+#        field:
+#            element: textarea
+#            label: "Definitions"
+#            translation_key: metadata_fields.computation_definitions
+#            scope: national
+            
+            
       - name: "computation_calculations"
         field:
             element: text
