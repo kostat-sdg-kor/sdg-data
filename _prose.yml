@@ -302,12 +302,22 @@ prose:
             label: "Geographical coverage"
             translation_key: metadata_fields.source_geographical_coverage_1
             scope: source_1
+            
+            
+      - name: "goal_meta_local_link"
+        field:
+            element: text
+            label: "Link to data source"
+            translation_key: metadata_fields.goal_meta_local_link
+            scope: national
+            
+            
       - name: "source_url_1"
         field:
             element: text
             label: "Link to data source"
             translation_key: metadata_fields.source_url_1
-            scope: national
+            scope: source_1
       - name: "source_url_text_1"
         field:
             element: text
