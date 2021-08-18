@@ -34,7 +34,7 @@ prose:
             element: text
             label: "Indicator name"
             translation_key: metadata_fields.indicator_name
-            scope: global
+            scope: national
       - name: "indicator_number"
         field:
             element: hidden
@@ -58,7 +58,7 @@ prose:
             element: textarea
             label: "Global indicator description"
             translation_key: metadata_fields.indicator_definition
-            scope: global
+            scope: national
       - name: "un_designated_tier"
         field:
             element: text
