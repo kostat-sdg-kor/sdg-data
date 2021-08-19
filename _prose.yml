@@ -41,24 +41,24 @@ prose:
 #            label: "Indicator number"
 #            translation_key: metadata_fields.indicator
 #            scope: global
-#      - name: "target"
-#        field:
-#            element: text
-#            label: "Target name"
-#            translation_key: metadata_fields.target
-#            scope: global
+      - name: "target"
+        field:
+            element: text
+            label: "Target name"
+            translation_key: metadata_fields.target
+            scope: global
 #      - name: "target_id"
 #        field:
 #            element: text
 #            label: "Target number"
 #            translation_key: metadata_fields.target_id
 #            scope: global
-      - name: "global_indicator_definition"
-        field:
-            element: textarea
-            label: "Global indicator description"
-            translation_key: metadata_fields.global_indicator_definition
-            scope: global
+#     - name: "global_indicator_definition"
+#       field:
+#           element: textarea
+#           label: "Global indicator description"
+#           translation_key: metadata_fields.global_indicator_definition
+#           scope: global
 #      - name: "un_designated_tier"
 #        field:
 #            element: text
