@@ -84,6 +84,16 @@ prose:
 #            translation_key: metadata_fields.goal_meta_link_text
 #            value: "UN metadata"
 #            scope: global
+
+      - name: "goal_meta_link"
+        field:
+            element: text
+            label: "Link to data source"
+            translation_key: metadata_fields.goal_meta_link
+            scope: global
+            
+            
+            
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
