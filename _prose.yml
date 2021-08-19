@@ -111,12 +111,12 @@ prose:
 #            label: "Unit of measurement"
 #            translation_key: metadata_fields.computation_units
 #            scope: national
-#      - name: "computation_definitions"
-#        field:
-#            element: textarea
-#            label: "Definitions"
-#            translation_key: metadata_fields.computation_definitions
-#            scope: national
+      - name: "computation_definitions"
+        field:
+            element: text
+            label: "Definitions"
+            translation_key: metadata_fields.computation_definitions
+            scope: national
             
             
       - name: "computation_calculations"
