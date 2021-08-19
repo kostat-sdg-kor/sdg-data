@@ -29,48 +29,48 @@ prose:
             translation_key: metadata_fields.layout
             scope: page
     ######### Global Metadata #########
-      - name: "indicator_name"
+      - name: "global_indicator_name"
         field:
             element: text
             label: "Indicator name"
-            translation_key: metadata_fields.indicator_name
-            scope: national
+            translation_key: metadata_fields.global_indicator_name
+            scope: global
 #      - name: "indicator_number"
 #        field:
 #            element: hidden
 #            label: "Indicator number"
 #            translation_key: metadata_fields.indicator
 #            scope: global
-      - name: "target"
-        field:
-            element: text
-            label: "Target name"
-            translation_key: metadata_fields.target
-            scope: global
+#      - name: "target"
+#        field:
+#            element: text
+#            label: "Target name"
+#            translation_key: metadata_fields.target
+#            scope: global
 #      - name: "target_id"
 #        field:
 #            element: text
 #            label: "Target number"
 #            translation_key: metadata_fields.target_id
 #            scope: global
-      - name: "indicator_definition"
+      - name: "global_indicator_definition"
         field:
             element: textarea
             label: "Global indicator description"
-            translation_key: metadata_fields.indicator_definition
-            scope: national
+            translation_key: metadata_fields.global_indicator_definition
+            scope: global
 #      - name: "un_designated_tier"
 #        field:
 #            element: text
 #            label: "UN designated tier"
 #            translation_key: metadata_fields.un_designated_tier
 #            scope: global
-#      - name: "un_custodian_agency"
-#        field:
-#            element: text
-#            label: "UN custodian agency"
-#            translation_key: metadata_fields.un_custodian_agency
-#            scope: global
+      - name: "un_custodian_agency"
+        field:
+            element: text
+            label: "UN custodian agency"
+            translation_key: metadata_fields.un_custodian_agency
+            scope: global
 #      - name: "goal_meta_link"
 #        field:
 #            element: text
