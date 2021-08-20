@@ -127,17 +127,23 @@ prose:
             label: "Data type"
             translation_key: metadata_fields.computation_definitions
             scope: national
+      - name: "indicator_name"
+        field:
+            element: text
+            label: "Indicator"
+            translation_key: metadata_fields.indicator_name
+            scope: national        
       - name: "indicator_definition"
         field:
             element: text
             label: "Definition"
             translation_key: metadata_fields.indicator_definition
             scope: national
-      - name: "indicator_name"
+      - name: "data_name"
         field:
             element: text
             label: "Data name"
-            translation_key: metadata_fields.indicator_name
+            translation_key: metadata_fields.data_name
             scope: national            
       - name: "computation_calculations"
         field:
