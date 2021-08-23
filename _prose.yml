@@ -121,30 +121,42 @@ prose:
 #            label: "Unit of measurement"
 #            translation_key: metadata_fields.computation_units
 #            scope: national
+# 데이터유형
       - name: "computation_definitions"
         field:
             element: text
             label: "Data type"
             translation_key: metadata_fields.computation_definitions
             scope: national
+# 지표명(삭제하면 안됨)
       - name: "indicator_name"
         field:
             element: text
             label: "Indicator"
             translation_key: metadata_fields.indicator_name
-            scope: national        
+            scope: national     
+# 정의
       - name: "indicator_definition"
         field:
             element: text
             label: "Definition"
             translation_key: metadata_fields.indicator_definition
             scope: national
+#데이터명(1, 3유형에만 해당/ 2, 4유형은 삭제)
       - name: "data_name"
         field:
             element: text
             label: "Data name"
             translation_key: metadata_fields.data_name
-            scope: national            
+            scope: national      
+#출처통계명
+      - name: "statistics_name"
+        field:
+            element: text
+            label: "Statistics name"
+            translation_key: metadata_fields.statistics_name
+            scope: national      
+#작성방법
       - name: "computation_calculations"
         field:
             element: text
