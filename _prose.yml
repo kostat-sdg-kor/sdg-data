@@ -134,14 +134,7 @@ prose:
             element: text
             label: "Indicator"
             translation_key: metadata_fields.indicator_name
-            scope: national     
-# 정의
-      - name: "indicator_definition"
-        field:
-            element: text
-            label: "Definition"
-            translation_key: metadata_fields.indicator_definition
-            scope: national
+            scope: national   
 #데이터명(1, 3유형에만 해당/ 2, 4유형은 삭제)
       - name: "data_name"
         field:
@@ -149,6 +142,13 @@ prose:
             label: "Data name"
             translation_key: metadata_fields.data_name
             scope: national      
+# 정의
+      - name: "indicator_definition"
+        field:
+            element: text
+            label: "Definition"
+            translation_key: metadata_fields.indicator_definition
+            scope: national
 #출처통계명
       - name: "statistics_name"
         field:
