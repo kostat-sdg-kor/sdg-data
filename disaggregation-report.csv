@@ -8,12 +8,12 @@ data.Cause_of_death,1,4
 data.Cultivation_size,2,9
 data.Delievery_option,1,2
 data.Diseases,1,3
+data.Household_expenditure_on_health,1,2
 data.Income_classes,2,5
 data.Residential_area,2,2
 data.Sex,7,2
 IHR Capacity,1,13
 Skill,1,2
-가구지출및소득대비지출,1,2
 경험여부,1,2
 공공서비스 유형별,1,10
 과목,1,2
