@@ -1,17 +1,17 @@
-Year,분만장소별,분만방법별,Value
-2015,종합병원,,10.8
-2015,병원,,70.6
-2015,의원,,18.0
-2015,조산원,,0.5
-2015,보건의료원,,0.1
-2015,자택,,0.0
-2015,,자연분만,60.9
-2015,,제왕절개 분만,39.1
-2018,종합병원,,10.8
-2018,병원,,80.7
-2018,의원,,8.3
-2018,조산원,,0.2
-2018,보건의료원,,0.1
-2018,자택,,0.0
-2018,,자연분만,57.7
-2018,,제왕절개 분만,42.3
+Year,data.Birth_location,data.Delievery_option,Value
+2015,data.General_hospital,,10.8
+2015,data.Hospital,,70.6
+2015,data.Clinic,,18.0
+2015,data.Midwifery_units,,0.5
+2015,data.Medical_center,,0.1
+2015,data.Home,,0.0
+2015,,data.Natural_birth,60.9
+2015,,data.C-section,39.1
+2018,data.General_hospital,,10.8
+2018,data.Hospital,,80.7
+2018,data.Clinic,,8.3
+2018,data.Midwifery_units,,0.2
+2018,data.Medical_center,,0.1
+2018,data.Home,,0.0
+2018,,data.Natural_birth,57.7
+2018,,data.C-section,42.3
