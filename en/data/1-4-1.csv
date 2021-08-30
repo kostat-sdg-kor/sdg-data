@@ -1,35 +1,35 @@
-Year,data.category,Value
-2002,data.Basic_drinking_water_services,98.55287
-2003,data.Basic_drinking_water_services,98.55287
-2004,data.Basic_drinking_water_services,98.55287
-2005,data.Basic_drinking_water_services,98.55287
-2006,data.Basic_drinking_water_services,98.55287
-2007,data.Basic_drinking_water_services,98.66513
-2008,data.Basic_drinking_water_services,98.77738
-2009,data.Basic_drinking_water_services,98.88963
-2010,data.Basic_drinking_water_services,99.00189
-2011,data.Basic_drinking_water_services,99.11414
-2012,data.Basic_drinking_water_services,99.22639
-2013,data.Basic_drinking_water_services,99.33864
-2014,data.Basic_drinking_water_services,99.4509
-2015,data.Basic_drinking_water_services,99.56315
-2016,data.Basic_drinking_water_services,99.6754
-2017,data.Basic_drinking_water_services,99.78765
-2000,data.Basic_sanitation_services,100.0
-2001,data.Basic_sanitation_services,100.0
-2002,data.Basic_sanitation_services,100.0
-2003,data.Basic_sanitation_services,100.0
-2004,data.Basic_sanitation_services,100.0
-2005,data.Basic_sanitation_services,100.0
-2006,data.Basic_sanitation_services,100.0
-2007,data.Basic_sanitation_services,100.0
-2008,data.Basic_sanitation_services,100.0
-2009,data.Basic_sanitation_services,100.0
-2010,data.Basic_sanitation_services,100.0
-2011,data.Basic_sanitation_services,100.0
-2012,data.Basic_sanitation_services,100.0
-2013,data.Basic_sanitation_services,100.0
-2014,data.Basic_sanitation_services,100.0
-2015,data.Basic_sanitation_services,100.0
-2016,data.Basic_sanitation_services,100.0
-2017,data.Basic_sanitation_services,100.0
+Year,Category,Value
+2002,Basic drinking water services,98.55287
+2003,Basic drinking water services,98.55287
+2004,Basic drinking water services,98.55287
+2005,Basic drinking water services,98.55287
+2006,Basic drinking water services,98.55287
+2007,Basic drinking water services,98.66513
+2008,Basic drinking water services,98.77738
+2009,Basic drinking water services,98.88963
+2010,Basic drinking water services,99.00189
+2011,Basic drinking water services,99.11414
+2012,Basic drinking water services,99.22639
+2013,Basic drinking water services,99.33864
+2014,Basic drinking water services,99.4509
+2015,Basic drinking water services,99.56315
+2016,Basic drinking water services,99.6754
+2017,Basic drinking water services,99.78765
+2000,Basic sanitation services,100.0
+2001,Basic sanitation services,100.0
+2002,Basic sanitation services,100.0
+2003,Basic sanitation services,100.0
+2004,Basic sanitation services,100.0
+2005,Basic sanitation services,100.0
+2006,Basic sanitation services,100.0
+2007,Basic sanitation services,100.0
+2008,Basic sanitation services,100.0
+2009,Basic sanitation services,100.0
+2010,Basic sanitation services,100.0
+2011,Basic sanitation services,100.0
+2012,Basic sanitation services,100.0
+2013,Basic sanitation services,100.0
+2014,Basic sanitation services,100.0
+2015,Basic sanitation services,100.0
+2016,Basic sanitation services,100.0
+2017,Basic sanitation services,100.0
