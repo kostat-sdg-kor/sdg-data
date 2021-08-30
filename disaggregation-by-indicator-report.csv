@@ -46,8 +46,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-1-2,"data.Birth_location, data.Delievery_option",2
 #3-2-1,data.Sex,1
 #3-2-2,data.Sex,1
-#3-3-1,성별,1
-#3-3-5,감염병별,1
+#3-3-1,data.Sex,1
+#3-3-5,data.Diseases,1
 #3-4-1,"성별, 사망원인별",2
 #3-4-2,성별,1
 #3-5-2,주종별,1
