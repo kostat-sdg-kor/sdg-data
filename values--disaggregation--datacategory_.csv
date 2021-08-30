@@ -3,8 +3,12 @@ data.01_Urban,1,1
 data.02_Suburban,1,1
 data.03_Rural,1,1
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
+data.Construction_waste,1,1
 data.dead_or_missing,2,2
 data.directly_affected,2,2
+data.Industrial_hazardous_waste,1,1
+data.Industrial_solid_waste,1,1
+data.Municipal_waste,1,1
 data.Old-age_pension_take-up_rate,1,1
 data.Refugees_recognized,1,1
 data.Refugees_request,1,1
