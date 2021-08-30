@@ -1,92 +1,92 @@
-Year,구분,교통수단,Value
-2011,국내_승객량,철도,1118621.0
-2012,국내_승객량,철도,1149340.0
-2013,국내_승객량,철도,1224820.0
-2014,국내_승객량,철도,1263472.0
-2015,국내_승객량,철도,1269417.0
-2016,국내_승객량,철도,1449534.0
-2017,국내_승객량,철도,1490257.0
-2011,국내_승객량,지하철,2358758.0
-2012,국내_승객량,지하철,2410931.0
-2013,국내_승객량,지하철,2476394.0
-2014,국내_승객량,지하철,2526167.0
-2015,국내_승객량,지하철,2522900.0
-2016,국내_승객량,지하철,3572127.0
-2017,국내_승객량,지하철,3604710.0
-2011,국내_승객량,공로,25943079.0
-2012,국내_승객량,공로,25982998.0
-2013,국내_승객량,공로,26327678.0
-2014,국내_승객량,공로,26678513.0
-2015,국내_승객량,공로,27193794.0
-2016,국내_승객량,공로,28090714.0
-2017,국내_승객량,공로,5968577.0
-2011,국내_승객량,해운,14266.0
-2012,국내_승객량,해운,14538.0
-2013,국내_승객량,해운,16063.0
-2014,국내_승객량,해운,14271.0
-2015,국내_승객량,해운,15381.0
-2016,국내_승객량,해운,15423.0
-2017,국내_승객량,해운,0.0
-2011,국내_승객량,항공,20981.0
-2012,국내_승객량,항공,21602.0
-2013,국내_승객량,항공,22353.0
-2014,국내_승객량,항공,24648.0
-2015,국내_승객량,항공,27980.0
-2016,국내_승객량,항공,30913.0
-2017,국내_승객량,항공,32406.0
-2011,국제_승객량,해운,2660.0
-2012,국제_승객량,해운,2881.0
-2013,국제_승객량,해운,2737.0
-2014,국제_승객량,해운,2646.0
-2015,국제_승객량,해운,2617.0
-2016,국제_승객량,해운,2777.0
-2017,국제_승객량,해운,2728.0
-2011,국제_승객량,항공,42649.0
-2012,국제_승객량,항공,47703.0
-2013,국제_승객량,항공,50987.0
-2014,국제_승객량,항공,56779.0
-2015,국제_승객량,항공,61434.0
-2016,국제_승객량,항공,73001.0
-2017,국제_승객량,항공,76956.0
-2011,국내_화물량,철도,40012.0
-2012,국내_화물량,철도,40309.0
-2013,국내_화물량,철도,39822.0
-2014,국내_화물량,철도,37379.0
-2015,국내_화물량,철도,37094.0
-2016,국내_화물량,철도,32555.0
-2017,국내_화물량,철도,31670.0
-2011,국내_화물량,공로,1439625.0
-2012,국내_화물량,공로,1554510.0
-2013,국내_화물량,공로,1546407.0
-2014,국내_화물량,공로,1512700.0
-2015,국내_화물량,공로,1761291.0
-2016,국내_화물량,공로,1799565.0
-2017,국내_화물량,공로,
-2011,국내_화물량,해운,125588.0
-2012,국내_화물량,해운,119057.0
-2013,국내_화물량,해운,117860.0
-2014,국내_화물량,해운,117920.0
-2015,국내_화물량,해운,128611.0
-2016,국내_화물량,해운,143227.0
-2017,국내_화물량,해운,142587.0
-2011,국내_화물량,항공,281.0
-2012,국내_화물량,항공,265.0
-2013,국내_화물량,항공,253.0
-2014,국내_화물량,항공,283.0
-2015,국내_화물량,항공,288.0
-2016,국내_화물량,항공,293.0
-2017,국내_화물량,항공,290.0
-2011,국제_화물량,해운,1069566.0
-2012,국제_화물량,해운,1108538.0
-2013,국제_화물량,해운,1123205.0
-2014,국제_화물량,해운,1184641.0
-2015,국제_화물량,해운,1216782.0
-2016,국제_화물량,해운,1242597.0
-2017,국제_화물량,해운,1312489.0
-2011,국제_화물량,항공,3238.0
-2012,국제_화물량,항공,3209.0
-2013,국제_화물량,항공,3246.0
-2014,국제_화물량,항공,3411.0
-2015,국제_화물량,항공,3519.0
-2016,국제_화물량,항공,3781.0
-2017,국제_화물량,항공,4032.0
+Year,Category,Mode of transportation,Value
+2011,Domestic passenger,Rail,1118621.0
+2012,Domestic passenger,Rail,1149340.0
+2013,Domestic passenger,Rail,1224820.0
+2014,Domestic passenger,Rail,1263472.0
+2015,Domestic passenger,Rail,1269417.0
+2016,Domestic passenger,Rail,1449534.0
+2017,Domestic passenger,Rail,1490257.0
+2011,Domestic passenger,Subway,2358758.0
+2012,Domestic passenger,Subway,2410931.0
+2013,Domestic passenger,Subway,2476394.0
+2014,Domestic passenger,Subway,2526167.0
+2015,Domestic passenger,Subway,2522900.0
+2016,Domestic passenger,Subway,3572127.0
+2017,Domestic passenger,Subway,3604710.0
+2011,Domestic passenger,Sky roads,25943079.0
+2012,Domestic passenger,Sky roads,25982998.0
+2013,Domestic passenger,Sky roads,26327678.0
+2014,Domestic passenger,Sky roads,26678513.0
+2015,Domestic passenger,Sky roads,27193794.0
+2016,Domestic passenger,Sky roads,28090714.0
+2017,Domestic passenger,Sky roads,5968577.0
+2011,Domestic passenger,Shipping,14266.0
+2012,Domestic passenger,Shipping,14538.0
+2013,Domestic passenger,Shipping,16063.0
+2014,Domestic passenger,Shipping,14271.0
+2015,Domestic passenger,Shipping,15381.0
+2016,Domestic passenger,Shipping,15423.0
+2017,Domestic passenger,Shipping,0.0
+2011,Domestic passenger,Air transport,20981.0
+2012,Domestic passenger,Air transport,21602.0
+2013,Domestic passenger,Air transport,22353.0
+2014,Domestic passenger,Air transport,24648.0
+2015,Domestic passenger,Air transport,27980.0
+2016,Domestic passenger,Air transport,30913.0
+2017,Domestic passenger,Air transport,32406.0
+2011,International passenger,Shipping,2660.0
+2012,International passenger,Shipping,2881.0
+2013,International passenger,Shipping,2737.0
+2014,International passenger,Shipping,2646.0
+2015,International passenger,Shipping,2617.0
+2016,International passenger,Shipping,2777.0
+2017,International passenger,Shipping,2728.0
+2011,International passenger,Air transport,42649.0
+2012,International passenger,Air transport,47703.0
+2013,International passenger,Air transport,50987.0
+2014,International passenger,Air transport,56779.0
+2015,International passenger,Air transport,61434.0
+2016,International passenger,Air transport,73001.0
+2017,International passenger,Air transport,76956.0
+2011,Domestic freight,Rail,40012.0
+2012,Domestic freight,Rail,40309.0
+2013,Domestic freight,Rail,39822.0
+2014,Domestic freight,Rail,37379.0
+2015,Domestic freight,Rail,37094.0
+2016,Domestic freight,Rail,32555.0
+2017,Domestic freight,Rail,31670.0
+2011,Domestic freight,Sky roads,1439625.0
+2012,Domestic freight,Sky roads,1554510.0
+2013,Domestic freight,Sky roads,1546407.0
+2014,Domestic freight,Sky roads,1512700.0
+2015,Domestic freight,Sky roads,1761291.0
+2016,Domestic freight,Sky roads,1799565.0
+2017,Domestic freight,Sky roads,
+2011,Domestic freight,Shipping,125588.0
+2012,Domestic freight,Shipping,119057.0
+2013,Domestic freight,Shipping,117860.0
+2014,Domestic freight,Shipping,117920.0
+2015,Domestic freight,Shipping,128611.0
+2016,Domestic freight,Shipping,143227.0
+2017,Domestic freight,Shipping,142587.0
+2011,Domestic freight,Air transport,281.0
+2012,Domestic freight,Air transport,265.0
+2013,Domestic freight,Air transport,253.0
+2014,Domestic freight,Air transport,283.0
+2015,Domestic freight,Air transport,288.0
+2016,Domestic freight,Air transport,293.0
+2017,Domestic freight,Air transport,290.0
+2011,International freight,Shipping,1069566.0
+2012,International freight,Shipping,1108538.0
+2013,International freight,Shipping,1123205.0
+2014,International freight,Shipping,1184641.0
+2015,International freight,Shipping,1216782.0
+2016,International freight,Shipping,1242597.0
+2017,International freight,Shipping,1312489.0
+2011,International freight,Air transport,3238.0
+2012,International freight,Air transport,3209.0
+2013,International freight,Air transport,3246.0
+2014,International freight,Air transport,3411.0
+2015,International freight,Air transport,3519.0
+2016,International freight,Air transport,3781.0
+2017,International freight,Air transport,4032.0

@@ -1,0 +1,6 @@
+Value,Disaggregation combinations using this value,Number of indicators
+data.Air_transport,4,1
+data.Rail,2,1
+data.Shipping,4,1
+data.Sky_roads,2,1
+data.Subway,1,1

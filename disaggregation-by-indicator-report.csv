@@ -77,4 +77,4 @@ Indicator,Disaggregations,Number of disaggregations
 #8-5-1,data.Sex,1
 #8-5-2,data.Sex,1
 #8-a-1,Category,1
-#9-1-2,"구분, 교통수단",2
+#9-1-2,"Category, data.Mode_of_transportation",2
