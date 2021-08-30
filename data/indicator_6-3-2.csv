@@ -1,5 +1,5 @@
-Year,Category,Value
+Year,data.Category,Value
 2017,,87.29
-2017,지하수,96.01
-2017,개방수역,0
-2017,강,82.61
+2017,data.Underground_water,96.01
+2017,data.Open_water_area,0
+2017,data.River,82.61
