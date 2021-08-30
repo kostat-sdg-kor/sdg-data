@@ -1,13 +1,15 @@
 Disaggregation,Number of indicators,Number of values
 Category,1,3
-data.Age,1,8
+data.Age,2,16
 data.category,2,4
-data.Sex,1,2
+data.Income_classes,1,5
+data.Residential_area,1,2
+data.Sex,2,2
 IHR Capacity,1,13
 Skill,1,2
 가구지출및소득대비지출,1,2
 감염병별,1,3
-거주지역별,2,2
+거주지역별,1,2
 경지규모별,2,9
 경험여부,1,2
 공공서비스 유형별,1,10
@@ -27,16 +29,15 @@ Skill,1,2
 분만장소별,1,6
 분야별,1,2
 사망원인별,1,4
-성별,25,7
+성별,24,7
 세부사항별,1,2
 세부수준별,1,5
-소득수준별,2,5
+소득수준별,1,5
 소요시간별,1,4
 수단별,1,2
 시도별,1,3
 어업별,1,4
 연령,2,10
-연령대별,1,8
 연령별,1,5
 온실가스별,1,6
 유형,3,12

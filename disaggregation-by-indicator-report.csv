@@ -39,7 +39,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-18-3,구분,1
 #17-19-2,구분,1
 #17-8-1,"성별, 연령",2
-#2-1-1,"성별, 거주지역별, 소득수준별, 연령대별",4
+#2-1-1,"data.Sex, data.Age, data.Residential_area, data.Income_classes",4
 #2-1-2,"거주지역별, 소득수준별",2
 #2-3-1,경지규모별,1
 #2-3-2,경지규모별,1
