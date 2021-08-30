@@ -1,1 +1,1 @@
-{"data":{"Year":[2019,2019,2019],"\uc131\ubcc4":[null,"\uc5ec\uc131","\ub0a8\uc131"],"Value":[27.5,28.9,26.0]},"edges":[]}
+{"data":{"Year":[2019,2019,2019],"data.Sex":[null,"data.Female","data.Male"],"Value":[27.5,28.9,26.0]},"edges":[]}

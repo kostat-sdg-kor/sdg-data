@@ -1,4 +1,4 @@
-Year,성별,Value
+Year,data.Sex,Value
 2019,,27.5
-2019,여성,28.9
-2019,남성,26.0
+2019,data.Female,28.9
+2019,data.Male,26.0

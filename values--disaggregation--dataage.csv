@@ -4,9 +4,16 @@ Value,Disaggregation combinations using this value,Number of indicators
 06~11,3,1
 12~18,3,1
 19~29,3,1
+20-29,3,1
+30-39,3,1
 30~49,3,1
+40-49,3,1
+50-59,3,1
 50~64,3,1
+6-10,3,1
+60-69,3,1
 65~,3,1
+70+,3,1
 data.0~19,3,1
 data.20~29,3,1
 data.30~39,3,1
