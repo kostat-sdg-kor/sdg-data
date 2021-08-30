@@ -1,0 +1,16 @@
+Value,Disaggregation combinations using this value,Number of indicators
+data.01_Sex,1,1
+data.02_Age,1,1
+data.03_Socio-Eoconomic_status,1,1
+data.04_Forms_of_employment,1,1
+data.05_Educational_background,1,1
+data.06_Physical_condition,1,1
+data.07_Political_opinion,1,1
+data.08_Marital status_such_as_being_single/married/divorced/widowed,1,1
+data.09_Geographic_location_or_Place_of_residence,1,1
+data.10_Marital_status_such_as_being_pregnant/with_or_without_children,1,1
+data.11_Health_status,1,1
+data.12_Religion,1,1
+data.13_Disability,1,1
+data.14_Ethnicity/Colour/Language/Migration_status,1,1
+data.15_Marital_status_such_as_being_orphan/born_from_unmarried_parents,1,1

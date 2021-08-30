@@ -1,16 +1,16 @@
-Year,이유별,Value
-2019,범주01_성별,13.9
-2019,범주02_나이,13.6
-2019,범주03_경제적 지위,10.3
-2019,범주04_고용형태,7.8
-2019,범주05_학력/학벌,7.7
-2019,범주06_신체조건,6.6
-2019,범주07_사상/정치,4.1
-2019,범주08_혼인상황,3.3
-2019,범주09_출신지역,2.7
-2019,범주10_임신/출산,2.6
-2019,범주11_질병/병력,2.3
-2019,범주12_종교,2.2
-2019,범주13_장애,1.7
-2019,범주14_인종/출신,1.4
-2019,범주15_가족상황,1.2
+Year,Reasons,Value
+2019,01 Sex,13.9
+2019,02 Age,13.6
+2019,03 Socio-Eoconomic status,10.3
+2019,04 Forms of employment,7.8
+2019,05 Educational background,7.7
+2019,06 Physical condition,6.6
+2019,07 Political opinion,4.1
+2019,08 Marital status such as being single/married/divorced/widowed,3.3
+2019,09 Geographic_location or_Place of residence,2.7
+2019,10 Marital status such as being pregnant/with or without children,2.6
+2019,11 Health status,2.3
+2019,12 Religion,2.2
+2019,13 Disability,1.7
+2019,14 Ethnicity/Colour/Language/Migration_status,1.4
+2019,15 Marital status such as being orphan/born from unmarried parents,1.2
