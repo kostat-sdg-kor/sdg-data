@@ -71,10 +71,10 @@ Indicator,Disaggregations,Number of disaggregations
 #5-b-1,"data.Sex, data.Age, data.Device_type",3
 #6-3-2,data.Category,1
 #7-1-1,data.Residential_area,1
-#8-10-1,구분,1
-#8-10-2,성별,1
-#8-4-2,종류별,1
-#8-5-1,성별,1
-#8-5-2,성별,1
-#8-a-1,구분,1
+#8-10-1,data.Banking_service,1
+#8-10-2,data.Sex,1
+#8-4-2,data.Type_of_product,1
+#8-5-1,data.Sex,1
+#8-5-2,data.Sex,1
+#8-a-1,Category,1
 #9-1-2,"구분, 교통수단",2
