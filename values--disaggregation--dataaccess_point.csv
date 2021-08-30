@@ -1,0 +1,12 @@
+Value,Disaggregation combinations using this value,Number of indicators
+data.Airport,8,1
+data.Bus_terminal,8,1
+data.Elementary_school,8,1
+data.General_hospital,8,1
+data.High_school,8,1
+data.Hospital/Clinic,8,1
+data.Large_stores,8,1
+data.Middle_school,8,1
+data.Public_medical_facilities,8,1
+data.Traditional_market,8,1
+data.Train_station,8,1

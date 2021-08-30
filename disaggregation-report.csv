@@ -1,11 +1,12 @@
 Disaggregation,Number of indicators,Number of values
 Category,1,2
+data.Access_point,1,11
 data.Age,3,23
 data.Alcohol,1,12
 data.Banking_service,1,2
 data.Birth_location,1,6
+data.Category,5,14
 data.category,2,4
-data.Category,4,12
 data.Cause_of_death,1,4
 data.Cultivation_size,2,9
 data.Delievery_option,1,2
@@ -28,6 +29,8 @@ data.School_environment_indicators,1,6
 data.Sex,22,2
 data.Skill,1,9
 data.Subjects,1,2
+data.Time(min),1,4
+data.Transportation,1,2
 data.Type_of_occupation,1,9
 data.Type_of_product,2,24
 data.Type_of_skill,1,2
@@ -35,7 +38,7 @@ data.Vaccine,1,3
 경험여부,1,2
 공공서비스 유형별,1,10
 관세제도,2,3
-구분,10,23
+구분,9,23
 국제 다자간 환경협약,1,4
 국제기구,1,10
 단위별,1,2
@@ -43,14 +46,11 @@ data.Vaccine,1,3
 동･읍면부별,1,2
 성별,4,5
 세부수준별,1,5
-소요시간별,1,4
-수단별,1,2
 어업별,1,4
 연령,1,9
 연령별,1,5
 온실가스별,1,6
 유형,1,2
-유형별,1,11
 종류별,1,17
 지역별,1,8
 차별이유,1,15

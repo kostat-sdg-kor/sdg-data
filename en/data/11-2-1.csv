@@ -1,89 +1,89 @@
-Year,Units,유형별,수단별,소요시간별,Value
-2016,교육시설,초등학교,승용차,15분 이내,99.99
-2016,교육시설,초등학교,승용차,30분 이내,100.0
-2016,교육시설,초등학교,승용차,45분 이내,100.0
-2016,교육시설,초등학교,승용차,60분 이내,100.0
-2016,교육시설,초등학교,대중교통/도보,15분 이내,99.97
-2016,교육시설,초등학교,대중교통/도보,30분 이내,100.0
-2016,교육시설,초등학교,대중교통/도보,45분 이내,100.0
-2016,교육시설,초등학교,대중교통/도보,60분 이내,100.0
-2016,교육시설,중학교,승용차,15분 이내,99.99
-2016,교육시설,중학교,승용차,30분 이내,100.0
-2016,교육시설,중학교,승용차,45분 이내,100.0
-2016,교육시설,중학교,승용차,60분 이내,100.0
-2016,교육시설,중학교,대중교통/도보,15분 이내,98.82
-2016,교육시설,중학교,대중교통/도보,30분 이내,100.0
-2016,교육시설,중학교,대중교통/도보,45분 이내,100.0
-2016,교육시설,중학교,대중교통/도보,60분 이내,100.0
-2016,교육시설,고등학교,승용차,15분 이내,99.97
-2016,교육시설,고등학교,승용차,30분 이내,100.0
-2016,교육시설,고등학교,승용차,45분 이내,100.0
-2016,교육시설,고등학교,승용차,60분 이내,100.0
-2016,교육시설,고등학교,대중교통/도보,15분 이내,94.49
-2016,교육시설,고등학교,대중교통/도보,30분 이내,100.0
-2016,교육시설,고등학교,대중교통/도보,45분 이내,100.0
-2016,교육시설,고등학교,대중교통/도보,60분 이내,100.0
-2016,의료시설,공공의료시설,승용차,15분 이내,87.67
-2016,의료시설,공공의료시설,승용차,30분 이내,99.99
-2016,의료시설,공공의료시설,승용차,45분 이내,100.0
-2016,의료시설,공공의료시설,승용차,60분 이내,100.0
-2016,의료시설,공공의료시설,대중교통/도보,15분 이내,33.67
-2016,의료시설,공공의료시설,대중교통/도보,30분 이내,97.01
-2016,의료시설,공공의료시설,대중교통/도보,45분 이내,99.98
-2016,의료시설,공공의료시설,대중교통/도보,60분 이내,100.0
-2016,의료시설,병·의원,승용차,15분 이내,99.98
-2016,의료시설,병·의원,승용차,30분 이내,99.99
-2016,의료시설,병·의원,승용차,45분 이내,100.0
-2016,의료시설,병·의원,승용차,60분 이내,100.0
-2016,의료시설,병·의원,대중교통/도보,15분 이내,99.99
-2016,의료시설,병·의원,대중교통/도보,30분 이내,100.0
-2016,의료시설,병·의원,대중교통/도보,45분 이내,100.0
-2016,의료시설,병·의원,대중교통/도보,60분 이내,100.0
-2016,의료시설,종합병원,승용차,15분 이내,97.92
-2016,의료시설,종합병원,승용차,30분 이내,99.99
-2016,의료시설,종합병원,승용차,45분 이내,100.0
-2016,의료시설,종합병원,승용차,60분 이내,100.0
-2016,의료시설,종합병원,대중교통/도보,15분 이내,51.03
-2016,의료시설,종합병원,대중교통/도보,30분 이내,99.53
-2016,의료시설,종합병원,대중교통/도보,45분 이내,100.0
-2016,의료시설,종합병원,대중교통/도보,60분 이내,100.0
-2016,판매시설,대규모점포,승용차,15분 이내,99.34
-2016,판매시설,대규모점포,승용차,30분 이내,99.99
-2016,판매시설,대규모점포,승용차,45분 이내,100.0
-2016,판매시설,대규모점포,승용차,60분 이내,100.0
-2016,판매시설,대규모점포,대중교통/도보,15분 이내,73.9
-2016,판매시설,대규모점포,대중교통/도보,30분 이내,99.95
-2016,판매시설,대규모점포,대중교통/도보,45분 이내,99.99
-2016,판매시설,대규모점포,대중교통/도보,60분 이내,100.0
-2016,판매시설,전통시장,승용차,15분 이내,99.49
-2016,판매시설,전통시장,승용차,30분 이내,99.99
-2016,판매시설,전통시장,승용차,45분 이내,100.0
-2016,판매시설,전통시장,승용차,60분 이내,100.0
-2016,판매시설,전통시장,대중교통/도보,15분 이내,85.27
-2016,판매시설,전통시장,대중교통/도보,30분 이내,99.84
-2016,판매시설,전통시장,대중교통/도보,45분 이내,100.0
-2016,판매시설,전통시장,대중교통/도보,60분 이내,100.0
-2016,광역교통시설,철도역,승용차,15분 이내,28.04
-2016,광역교통시설,철도역,승용차,30분 이내,91.06
-2016,광역교통시설,철도역,승용차,45분 이내,100.0
-2016,광역교통시설,철도역,승용차,60분 이내,100.0
-2016,광역교통시설,철도역,대중교통/도보,15분 이내,7.44
-2016,광역교통시설,철도역,대중교통/도보,30분 이내,46.55
-2016,광역교통시설,철도역,대중교통/도보,45분 이내,96.53
-2016,광역교통시설,철도역,대중교통/도보,60분 이내,100.0
-2016,광역교통시설,버스터미널,승용차,15분 이내,39.81
-2016,광역교통시설,버스터미널,승용차,30분 이내,97.98
-2016,광역교통시설,버스터미널,승용차,45분 이내,99.99
-2016,광역교통시설,버스터미널,승용차,60분 이내,100.0
-2016,광역교통시설,버스터미널,대중교통/도보,15분 이내,14.46
-2016,광역교통시설,버스터미널,대중교통/도보,30분 이내,74.57
-2016,광역교통시설,버스터미널,대중교통/도보,45분 이내,99.78
-2016,광역교통시설,버스터미널,대중교통/도보,60분 이내,100.0
-2016,광역교통시설,공항,승용차,15분 이내,1.54
-2016,광역교통시설,공항,승용차,30분 이내,12.74
-2016,광역교통시설,공항,승용차,45분 이내,39.26
-2016,광역교통시설,공항,승용차,60분 이내,69.61
-2016,광역교통시설,공항,대중교통/도보,15분 이내,0.0
-2016,광역교통시설,공항,대중교통/도보,30분 이내,1.78
-2016,광역교통시설,공항,대중교통/도보,45분 이내,13.16
-2016,광역교통시설,공항,대중교통/도보,60분 이내,37.03
+Year,Units,Access point,Transportation,Time(min),Value
+2016,Schools,Elementary school,Car,15,99.99
+2016,Schools,Elementary school,Car,30,100.0
+2016,Schools,Elementary school,Car,45,100.0
+2016,Schools,Elementary school,Car,60,100.0
+2016,Schools,Elementary school,Public transportation/walking,15,99.97
+2016,Schools,Elementary school,Public transportation/walking,30,100.0
+2016,Schools,Elementary school,Public transportation/walking,45,100.0
+2016,Schools,Elementary school,Public transportation/walking,60,100.0
+2016,Schools,Middle school,Car,15,99.99
+2016,Schools,Middle school,Car,30,100.0
+2016,Schools,Middle school,Car,45,100.0
+2016,Schools,Middle school,Car,60,100.0
+2016,Schools,Middle school,Public transportation/walking,15,98.82
+2016,Schools,Middle school,Public transportation/walking,30,100.0
+2016,Schools,Middle school,Public transportation/walking,45,100.0
+2016,Schools,Middle school,Public transportation/walking,60,100.0
+2016,Schools,High school,Car,15,99.97
+2016,Schools,High school,Car,30,100.0
+2016,Schools,High school,Car,45,100.0
+2016,Schools,High school,Car,60,100.0
+2016,Schools,High school,Public transportation/walking,15,94.49
+2016,Schools,High school,Public transportation/walking,30,100.0
+2016,Schools,High school,Public transportation/walking,45,100.0
+2016,Schools,High school,Public transportation/walking,60,100.0
+2016,Medical facilities,Public medical facilities,Car,15,87.67
+2016,Medical facilities,Public medical facilities,Car,30,99.99
+2016,Medical facilities,Public medical facilities,Car,45,100.0
+2016,Medical facilities,Public medical facilities,Car,60,100.0
+2016,Medical facilities,Public medical facilities,Public transportation/walking,15,33.67
+2016,Medical facilities,Public medical facilities,Public transportation/walking,30,97.01
+2016,Medical facilities,Public medical facilities,Public transportation/walking,45,99.98
+2016,Medical facilities,Public medical facilities,Public transportation/walking,60,100.0
+2016,Medical facilities,Hospital/Clinic,Car,15,99.98
+2016,Medical facilities,Hospital/Clinic,Car,30,99.99
+2016,Medical facilities,Hospital/Clinic,Car,45,100.0
+2016,Medical facilities,Hospital/Clinic,Car,60,100.0
+2016,Medical facilities,Hospital/Clinic,Public transportation/walking,15,99.99
+2016,Medical facilities,Hospital/Clinic,Public transportation/walking,30,100.0
+2016,Medical facilities,Hospital/Clinic,Public transportation/walking,45,100.0
+2016,Medical facilities,Hospital/Clinic,Public transportation/walking,60,100.0
+2016,Medical facilities,General hospital,Car,15,97.92
+2016,Medical facilities,General hospital,Car,30,99.99
+2016,Medical facilities,General hospital,Car,45,100.0
+2016,Medical facilities,General hospital,Car,60,100.0
+2016,Medical facilities,General hospital,Public transportation/walking,15,51.03
+2016,Medical facilities,General hospital,Public transportation/walking,30,99.53
+2016,Medical facilities,General hospital,Public transportation/walking,45,100.0
+2016,Medical facilities,General hospital,Public transportation/walking,60,100.0
+2016,Sale facilities,Large stores,Car,15,99.34
+2016,Sale facilities,Large stores,Car,30,99.99
+2016,Sale facilities,Large stores,Car,45,100.0
+2016,Sale facilities,Large stores,Car,60,100.0
+2016,Sale facilities,Large stores,Public transportation/walking,15,73.9
+2016,Sale facilities,Large stores,Public transportation/walking,30,99.95
+2016,Sale facilities,Large stores,Public transportation/walking,45,99.99
+2016,Sale facilities,Large stores,Public transportation/walking,60,100.0
+2016,Sale facilities,Traditional market,Car,15,99.49
+2016,Sale facilities,Traditional market,Car,30,99.99
+2016,Sale facilities,Traditional market,Car,45,100.0
+2016,Sale facilities,Traditional market,Car,60,100.0
+2016,Sale facilities,Traditional market,Public transportation/walking,15,85.27
+2016,Sale facilities,Traditional market,Public transportation/walking,30,99.84
+2016,Sale facilities,Traditional market,Public transportation/walking,45,100.0
+2016,Sale facilities,Traditional market,Public transportation/walking,60,100.0
+2016,Metropolitan Transportation Facilities,Train station,Car,15,28.04
+2016,Metropolitan Transportation Facilities,Train station,Car,30,91.06
+2016,Metropolitan Transportation Facilities,Train station,Car,45,100.0
+2016,Metropolitan Transportation Facilities,Train station,Car,60,100.0
+2016,Metropolitan Transportation Facilities,Train station,Public transportation/walking,15,7.44
+2016,Metropolitan Transportation Facilities,Train station,Public transportation/walking,30,46.55
+2016,Metropolitan Transportation Facilities,Train station,Public transportation/walking,45,96.53
+2016,Metropolitan Transportation Facilities,Train station,Public transportation/walking,60,100.0
+2016,Metropolitan Transportation Facilities,Bus terminal,Car,15,39.81
+2016,Metropolitan Transportation Facilities,Bus terminal,Car,30,97.98
+2016,Metropolitan Transportation Facilities,Bus terminal,Car,45,99.99
+2016,Metropolitan Transportation Facilities,Bus terminal,Car,60,100.0
+2016,Metropolitan Transportation Facilities,Bus terminal,Public transportation/walking,15,14.46
+2016,Metropolitan Transportation Facilities,Bus terminal,Public transportation/walking,30,74.57
+2016,Metropolitan Transportation Facilities,Bus terminal,Public transportation/walking,45,99.78
+2016,Metropolitan Transportation Facilities,Bus terminal,Public transportation/walking,60,100.0
+2016,Metropolitan Transportation Facilities,Airport,Car,15,1.54
+2016,Metropolitan Transportation Facilities,Airport,Car,30,12.74
+2016,Metropolitan Transportation Facilities,Airport,Car,45,39.26
+2016,Metropolitan Transportation Facilities,Airport,Car,60,69.61
+2016,Metropolitan Transportation Facilities,Airport,Public transportation/walking,15,0.0
+2016,Metropolitan Transportation Facilities,Airport,Public transportation/walking,30,1.78
+2016,Metropolitan Transportation Facilities,Airport,Public transportation/walking,45,13.16
+2016,Metropolitan Transportation Facilities,Airport,Public transportation/walking,60,37.03
