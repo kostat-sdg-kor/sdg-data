@@ -59,8 +59,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-d-1,data.IHR_Capacity,1
 #4-1-1,"data.Sex, data.Grade, data.Subjects",3
 #4-2-1,"data.Sex, data.Development_index",2
-#4-2-2,성별,1
-#4-3-1,성별,1
+#4-2-2,data.Sex,1
+#4-3-1,data.Sex,1
 #4-4-1,"성별, 기술유형",2
 #4-5-1,Skill,1
 #4-6-1,성별,1
