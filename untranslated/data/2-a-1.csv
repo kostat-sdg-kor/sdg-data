@@ -1,55 +1,55 @@
-Year,Units,Value
-2001,data.Agriculture_orientation_index_for_government_expenditures,1.59844
-2002,data.Agriculture_orientation_index_for_government_expenditures,1.61561
-2003,data.Agriculture_orientation_index_for_government_expenditures,1.65512
-2004,data.Agriculture_orientation_index_for_government_expenditures,1.50165
-2005,data.Agriculture_orientation_index_for_government_expenditures,1.71611
-2006,data.Agriculture_orientation_index_for_government_expenditures,2.04259
-2007,data.Agriculture_orientation_index_for_government_expenditures,2.10135
-2008,data.Agriculture_orientation_index_for_government_expenditures,2.20074
-2009,data.Agriculture_orientation_index_for_government_expenditures,1.89727
-2010,data.Agriculture_orientation_index_for_government_expenditures,2.08568
-2011,data.Agriculture_orientation_index_for_government_expenditures,2.15426
-2012,data.Agriculture_orientation_index_for_government_expenditures,1.95493
-2013,data.Agriculture_orientation_index_for_government_expenditures,1.93884
-2014,data.Agriculture_orientation_index_for_government_expenditures,1.80921
-2015,data.Agriculture_orientation_index_for_government_expenditures,2.05925
-2016,data.Agriculture_orientation_index_for_government_expenditures,2.17387
-2017,data.Agriculture_orientation_index_for_government_expenditures,0.71238
-2018,data.Agriculture_orientation_index_for_government_expenditures,0.72301
-2001,data.Agriculture_share_of_Government_Expenditure(%),5.69974
-2002,data.Agriculture_share_of_Government_Expenditure(%),5.18095
-2003,data.Agriculture_share_of_Government_Expenditure(%),4.90677
-2004,data.Agriculture_share_of_Government_Expenditure(%),4.44192
-2005,data.Agriculture_share_of_Government_Expenditure(%),4.49618
-2006,data.Agriculture_share_of_Government_Expenditure(%),5.1013
-2007,data.Agriculture_share_of_Government_Expenditure(%),4.79824
-2008,data.Agriculture_share_of_Government_Expenditure(%),4.71453
-2009,data.Agriculture_share_of_Government_Expenditure(%),4.25093
-2010,data.Agriculture_share_of_Government_Expenditure(%),4.47172
-2011,data.Agriculture_share_of_Government_Expenditure(%),4.7592
-2012,data.Agriculture_share_of_Government_Expenditure(%),4.27384
-2013,data.Agriculture_share_of_Government_Expenditure(%),4.06971
-2014,data.Agriculture_share_of_Government_Expenditure(%),3.72095
-2015,data.Agriculture_share_of_Government_Expenditure(%),4.12655
-2016,data.Agriculture_share_of_Government_Expenditure(%),4.04131
-2017,data.Agriculture_share_of_Government_Expenditure(%),1.31844
-2018,data.Agriculture_share_of_Government_Expenditure(%),1.31844
-2001,data.Agriculture_value_added_share_of_GDP(%),3.56582
-2002,data.Agriculture_value_added_share_of_GDP(%),3.2068
-2003,data.Agriculture_value_added_share_of_GDP(%),2.9646
-2004,data.Agriculture_value_added_share_of_GDP(%),2.95802
-2005,data.Agriculture_value_added_share_of_GDP(%),2.61998
-2006,data.Agriculture_value_added_share_of_GDP(%),2.49747
-2007,data.Agriculture_value_added_share_of_GDP(%),2.28341
-2008,data.Agriculture_value_added_share_of_GDP(%),2.14225
-2009,data.Agriculture_value_added_share_of_GDP(%),2.24056
-2010,data.Agriculture_value_added_share_of_GDP(%),2.14402
-2011,data.Agriculture_value_added_share_of_GDP(%),2.2092
-2012,data.Agriculture_value_added_share_of_GDP(%),2.18619
-2013,data.Agriculture_value_added_share_of_GDP(%),2.09905
-2014,data.Agriculture_value_added_share_of_GDP(%),2.05668
-2015,data.Agriculture_value_added_share_of_GDP(%),2.00391
-2016,data.Agriculture_value_added_share_of_GDP(%),1.85903
-2017,data.Agriculture_value_added_share_of_GDP(%),1.85076
-2018,data.Agriculture_value_added_share_of_GDP(%),1.82355
+Year,구분,Value
+2001,농업지향지수,1.59844
+2002,농업지향지수,1.61561
+2003,농업지향지수,1.65512
+2004,농업지향지수,1.50165
+2005,농업지향지수,1.71611
+2006,농업지향지수,2.04259
+2007,농업지향지수,2.10135
+2008,농업지향지수,2.20074
+2009,농업지향지수,1.89727
+2010,농업지향지수,2.08568
+2011,농업지향지수,2.15426
+2012,농업지향지수,1.95493
+2013,농업지향지수,1.93884
+2014,농업지향지수,1.80921
+2015,농업지향지수,2.05925
+2016,농업지향지수,2.17387
+2017,농업지향지수,0.71238
+2018,농업지향지수,0.72301
+2001,정부지출 중 농업지출 비율,5.69974
+2002,정부지출 중 농업지출 비율,5.18095
+2003,정부지출 중 농업지출 비율,4.90677
+2004,정부지출 중 농업지출 비율,4.44192
+2005,정부지출 중 농업지출 비율,4.49618
+2006,정부지출 중 농업지출 비율,5.1013
+2007,정부지출 중 농업지출 비율,4.79824
+2008,정부지출 중 농업지출 비율,4.71453
+2009,정부지출 중 농업지출 비율,4.25093
+2010,정부지출 중 농업지출 비율,4.47172
+2011,정부지출 중 농업지출 비율,4.7592
+2012,정부지출 중 농업지출 비율,4.27384
+2013,정부지출 중 농업지출 비율,4.06971
+2014,정부지출 중 농업지출 비율,3.72095
+2015,정부지출 중 농업지출 비율,4.12655
+2016,정부지출 중 농업지출 비율,4.04131
+2017,정부지출 중 농업지출 비율,1.31844
+2018,정부지출 중 농업지출 비율,1.31844
+2001,GDP 중 농업부가가치 비율,3.56582
+2002,GDP 중 농업부가가치 비율,3.2068
+2003,GDP 중 농업부가가치 비율,2.9646
+2004,GDP 중 농업부가가치 비율,2.95802
+2005,GDP 중 농업부가가치 비율,2.61998
+2006,GDP 중 농업부가가치 비율,2.49747
+2007,GDP 중 농업부가가치 비율,2.28341
+2008,GDP 중 농업부가가치 비율,2.14225
+2009,GDP 중 농업부가가치 비율,2.24056
+2010,GDP 중 농업부가가치 비율,2.14402
+2011,GDP 중 농업부가가치 비율,2.2092
+2012,GDP 중 농업부가가치 비율,2.18619
+2013,GDP 중 농업부가가치 비율,2.09905
+2014,GDP 중 농업부가가치 비율,2.05668
+2015,GDP 중 농업부가가치 비율,2.00391
+2016,GDP 중 농업부가가치 비율,1.85903
+2017,GDP 중 농업부가가치 비율,1.85076
+2018,GDP 중 농업부가가치 비율,1.82355
