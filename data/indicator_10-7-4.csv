@@ -1,15 +1,15 @@
-Year,세부사항별,Value
-2013,난민신청현황,1574
-2014,난민신청현황,2896
-2015,난민신청현황,5711
-2016,난민신청현황,7541
-2017,난민신청현황,9942
-2018,난민신청현황,16173
-2019,난민신청현황,15451
-2013,난민인정자 현황,57
-2014,난민인정자 현황,94
-2015,난민인정자 현황,105
-2016,난민인정자 현황,98
-2017,난민인정자 현황,121
-2018,난민인정자 현황,144
-2019,난민인정자 현황,79
+Year,data.Category,Value
+2013,data.Refugees_request,1574
+2014,data.Refugees_request,2896
+2015,data.Refugees_request,5711
+2016,data.Refugees_request,7541
+2017,data.Refugees_request,9942
+2018,data.Refugees_request,16173
+2019,data.Refugees_request,15451
+2013,data.Refugees_recognized,57
+2014,data.Refugees_recognized,94
+2015,data.Refugees_recognized,105
+2016,data.Refugees_recognized,98
+2017,data.Refugees_recognized,121
+2018,data.Refugees_recognized,144
+2019,data.Refugees_recognized,79
