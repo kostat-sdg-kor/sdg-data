@@ -1,1 +1,55 @@
-Year,Value
+Year,Value,Units
+2001,1.59844,농업지향지수
+2002,1.61561,농업지향지수
+2003,1.65512,농업지향지수
+2004,1.50165,농업지향지수
+2005,1.71611,농업지향지수
+2006,2.04259,농업지향지수
+2007,2.10135,농업지향지수
+2008,2.20074,농업지향지수
+2009,1.89727,농업지향지수
+2010,2.08568,농업지향지수
+2011,2.15426,농업지향지수
+2012,1.95493,농업지향지수
+2013,1.93884,농업지향지수
+2014,1.80921,농업지향지수
+2015,2.05925,농업지향지수
+2016,2.17387,농업지향지수
+2017,0.71238,농업지향지수
+2018,0.72301,농업지향지수
+2001,5.69974,data.Agriculture_share_of_Government_Expenditure(%)
+2002,5.18095,data.Agriculture_share_of_Government_Expenditure(%)
+2003,4.90677,data.Agriculture_share_of_Government_Expenditure(%)
+2004,4.44192,data.Agriculture_share_of_Government_Expenditure(%)
+2005,4.49618,data.Agriculture_share_of_Government_Expenditure(%)
+2006,5.1013,data.Agriculture_share_of_Government_Expenditure(%)
+2007,4.79824,data.Agriculture_share_of_Government_Expenditure(%)
+2008,4.71453,data.Agriculture_share_of_Government_Expenditure(%)
+2009,4.25093,data.Agriculture_share_of_Government_Expenditure(%)
+2010,4.47172,data.Agriculture_share_of_Government_Expenditure(%)
+2011,4.7592,data.Agriculture_share_of_Government_Expenditure(%)
+2012,4.27384,data.Agriculture_share_of_Government_Expenditure(%)
+2013,4.06971,data.Agriculture_share_of_Government_Expenditure(%)
+2014,3.72095,data.Agriculture_share_of_Government_Expenditure(%)
+2015,4.12655,data.Agriculture_share_of_Government_Expenditure(%)
+2016,4.04131,data.Agriculture_share_of_Government_Expenditure(%)
+2017,1.31844,data.Agriculture_share_of_Government_Expenditure(%)
+2018,1.31844,data.Agriculture_share_of_Government_Expenditure(%)
+2001,3.56582,GDP 중 농업부가가치 비율(%)
+2002,3.2068,GDP 중 농업부가가치 비율(%)
+2003,2.9646,GDP 중 농업부가가치 비율(%)
+2004,2.95802,GDP 중 농업부가가치 비율(%)
+2005,2.61998,GDP 중 농업부가가치 비율(%)
+2006,2.49747,GDP 중 농업부가가치 비율(%)
+2007,2.28341,GDP 중 농업부가가치 비율(%)
+2008,2.14225,GDP 중 농업부가가치 비율(%)
+2009,2.24056,GDP 중 농업부가가치 비율(%)
+2010,2.14402,GDP 중 농업부가가치 비율(%)
+2011,2.2092,GDP 중 농업부가가치 비율(%)
+2012,2.18619,GDP 중 농업부가가치 비율(%)
+2013,2.09905,GDP 중 농업부가가치 비율(%)
+2014,2.05668,GDP 중 농업부가가치 비율(%)
+2015,2.00391,GDP 중 농업부가가치 비율(%)
+2016,1.85903,GDP 중 농업부가가치 비율(%)
+2017,1.85076,GDP 중 농업부가가치 비율(%)
+2018,1.82355,GDP 중 농업부가가치 비율(%)
