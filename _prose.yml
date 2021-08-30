@@ -132,7 +132,7 @@ prose:
       - name: "indicator_name"
         field:
             element: text
-            label: "Indicator"
+            label: "Indicator name"
             translation_key: metadata_fields.indicator_name
             scope: national   
 #데이터명(1, 3유형에만 해당/ 2, 4유형은 삭제)
