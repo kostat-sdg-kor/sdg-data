@@ -1,22 +1,22 @@
-Year,구분,Value
-2008,국민기초생활보장 수급률,3.1
-2009,국민기초생활보장 수급률,3.2
-2010,국민기초생활보장 수급률,3.1
-2011,국민기초생활보장 수급률,2.9
-2012,국민기초생활보장 수급률,2.7
-2013,국민기초생활보장 수급률,2.6
-2014,국민기초생활보장 수급률,2.6
-2015,국민기초생활보장 수급률,3.2
-2016,국민기초생활보장 수급률,3.2
-2017,국민기초생활보장 수급률,3.1
-2018,국민기초생활보장 수급률,3.4
-2008,기초(노령)연금 수급률,57.2
-2009,기초(노령)연금 수급률,68.9
-2010,기초(노령)연금 수급률,67.7
-2011,기초(노령)연금 수급률,67.0
-2012,기초(노령)연금 수급률,65.8
-2013,기초(노령)연금 수급률,65.0
-2014,기초(노령)연금 수급률,66.8
-2015,기초(노령)연금 수급률,66.4
-2016,기초(노령)연금 수급률,65.5
-2017,기초(노령)연금 수급률,66.3
+Year,data.category,Value
+2008,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,3.1
+2009,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,3.2
+2010,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,3.1
+2011,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,2.9
+2012,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,2.7
+2013,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,2.6
+2014,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,2.6
+2015,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,3.2
+2016,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,3.2
+2017,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,3.1
+2018,data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,3.4
+2008,data.Old-age_pension_take-up_rate,57.2
+2009,data.Old-age_pension_take-up_rate,68.9
+2010,data.Old-age_pension_take-up_rate,67.7
+2011,data.Old-age_pension_take-up_rate,67.0
+2012,data.Old-age_pension_take-up_rate,65.8
+2013,data.Old-age_pension_take-up_rate,65.0
+2014,data.Old-age_pension_take-up_rate,66.8
+2015,data.Old-age_pension_take-up_rate,66.4
+2016,data.Old-age_pension_take-up_rate,65.5
+2017,data.Old-age_pension_take-up_rate,66.3
