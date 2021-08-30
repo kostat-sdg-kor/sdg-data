@@ -1,4 +1,4 @@
-Year,Sex,Age,Occupation major group,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
+Year,성별,연령별,Occupation major group,Country,Region,Observation status,Unit multiplier,Unit measure,GeoCode,Value
 2000.0,,,,,,Undefined,Units,Percentage (%),,0.813175828198992
 2001.0,,,,,,Undefined,Units,Percentage (%),,0.631252841772565
 2002.0,,,,,,Undefined,Units,Percentage (%),,0.553371561300069
@@ -17,16 +17,16 @@ Year,Sex,Age,Occupation major group,Country,Region,Observation status,Unit multi
 2015.0,,,,,,Undefined,Units,Percentage (%),,2.54450711227502
 2016.0,,,,,,Undefined,Units,Percentage (%),,2.83644040401781
 2017.0,,,,,,Undefined,Units,Percentage (%),,2.79548027085114
-2013.0,Male,,,,,Undefined,Units,Percentage (%),,1.62132519057777
-2014.0,Male,,,,,Undefined,Units,Percentage (%),,1.89940372166646
-2015.0,Male,,,,,Undefined,Units,Percentage (%),,2.22315605838853
-2016.0,Male,,,,,Undefined,Units,Percentage (%),,2.56600273942205
-2017.0,Male,,,,,Undefined,Units,Percentage (%),,2.39073551075099
-2013.0,Female,,,,,Undefined,Units,Percentage (%),,2.2783842422408
-2014.0,Female,,,,,Undefined,Units,Percentage (%),,2.65323050202033
-2015.0,Female,,,,,Undefined,Units,Percentage (%),,2.91237893618361
-2016.0,Female,,,,,Undefined,Units,Percentage (%),,3.14238041846002
-2017.0,Female,,,,,Undefined,Units,Percentage (%),,3.25190203677003
+2013.0,남성,,,,,Undefined,Units,Percentage (%),,1.62132519057777
+2014.0,남성,,,,,Undefined,Units,Percentage (%),,1.89940372166646
+2015.0,남성,,,,,Undefined,Units,Percentage (%),,2.22315605838853
+2016.0,남성,,,,,Undefined,Units,Percentage (%),,2.56600273942205
+2017.0,남성,,,,,Undefined,Units,Percentage (%),,2.39073551075099
+2013.0,여성,,,,,Undefined,Units,Percentage (%),,2.2783842422408
+2014.0,여성,,,,,Undefined,Units,Percentage (%),,2.65323050202033
+2015.0,여성,,,,,Undefined,Units,Percentage (%),,2.91237893618361
+2016.0,여성,,,,,Undefined,Units,Percentage (%),,3.14238041846002
+2017.0,여성,,,,,Undefined,Units,Percentage (%),,3.25190203677003
 2013.0,,16 to 24,,,,Undefined,Units,Percentage (%),,5.71564408722696
 2014.0,,16 to 24,,,,Undefined,Units,Percentage (%),,6.11081194700855
 2015.0,,16 to 24,,,,Undefined,Units,Percentage (%),,7.58070572562438

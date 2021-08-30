@@ -1,4 +1,4 @@
-Year,Units,Sex,Disability status,Age,Unit measure,Unit multiplier,Observation status,Value
+Year,Units,성별,Disability status,연령별,Unit measure,Unit multiplier,Observation status,Value
 2001 Q4,Seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,12.9347813419
 2002 Q1,Seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,13.270712424813963
 2002 Q2,Seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,13.410667192048292
@@ -69,146 +69,146 @@ Year,Units,Sex,Disability status,Age,Unit measure,Unit multiplier,Observation st
 2018 Q3,Seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,10.856273275592736
 2018 Q4,Seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,11.333762642208812
 2019 Q1,Seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,11.018299674829333
-2001 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.550918877727412
-2002 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.238302032727498
-2002 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.36125860515742
-2002 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.344896007555704
-2002 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.409346559684504
-2003 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.316120652479208
-2003 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.665086821008362
-2003 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.69531154461105
-2003 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.276122637839736
-2004 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.207500926428455
-2004 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.37076832144442
-2004 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.852803378378663
-2004 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.409476351406228
-2005 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.154902041443544
-2005 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.517317157203143
-2005 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.76323939112572
-2005 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.686585434537353
-2006 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.107548923333557
-2006 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.130439761273912
-2006 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.133011142168892
-2006 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.991349842525487
-2007 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.19607146555029
-2007 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.226324501427568
-2007 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.591712332732095
-2007 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.310464452992557
-2008 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.231270594654742
-2008 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.60650941411578
-2008 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.47887397557449
-2008 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.243386782894856
-2009 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.775450225721078
-2009 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.268737415826024
-2009 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.032381290621045
-2009 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.163004284335106
-2010 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.877858779982866
-2010 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.188736271973758
-2010 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.467552504278476
-2010 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.498153495253508
-2011 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.254569863905942
-2011 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.428540827710764
-2011 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.845133529645189
-2011 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.676554525883873
-2012 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.329860254315324
-2012 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.34476855135058
-2012 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.922195688728149
-2012 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.591326641335186
-2013 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.570143086934362
-2013 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.56621933940746
-2013 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.938731129727014
-2013 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.590024883069267
-2014 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.392956355697972
-2014 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.180176901580836
-2014 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.110230857793324
-2014 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.36187412185873
-2015 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.350464954379474
-2015 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.439138465040944
-2015 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.742548312340514
-2015 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.754965622723605
-2016 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.085363708854356
-2016 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.192622508900744
-2016 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.818537949149391
-2016 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.45977986142789
-2017 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.83028454771982
-2017 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.739463728434378
-2017 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.690092837540568
-2017 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.383841781560056
-2018 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.098520145505812
-2018 Q2,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.890844964835091
-2018 Q3,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,9.723333475895265
-2018 Q4,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.530869664877534
-2019 Q1,Seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.764018172389296
-2001 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.336875146810296
-2002 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.32012550959257
-2002 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.478642381826448
-2002 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.347911202096537
-2002 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.02124679588257
-2003 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.70978998303509
-2003 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.15247005446155
-2003 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.560039857833669
-2003 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.938118936638665
-2004 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.531509179441368
-2004 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.521626110224265
-2004 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.0486642817745
-2004 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.492071555658004
-2005 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.717239119207646
-2005 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.86138846104626
-2005 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.175915145184248
-2005 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.113768434331664
-2006 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.044439589303217
-2006 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.99250754469562
-2006 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.429096123041965
-2006 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.678587870441776
-2007 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.95321537540755
-2007 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.90514633770373
-2007 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.858422490092329
-2007 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.557938347327166
-2008 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.578939579947404
-2008 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.03693732141053
-2008 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.10621044050603
-2008 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.080558599283904
-2009 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.496610854876153
-2009 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.83797255048316
-2009 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.85739288417322
-2009 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.60566829557803
-2010 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.069148842280814
-2010 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.218872730233564
-2010 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.13444340678499
-2010 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.245021793695493
-2011 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.34955662365501
-2011 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.19879206853371
-2011 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.977838017307295
-2011 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.256676210531108
-2012 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.113747063038392
-2012 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.079464910477125
-2012 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.147510437076164
-2012 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.981954298933898
-2013 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.502314131310992
-2013 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.241984190597964
-2013 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.976537573653212
-2013 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.858677201416445
-2014 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.469640536902956
-2014 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.282457971835546
-2014 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.495777295345324
-2014 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.400569182659124
-2015 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.401954215253848
-2015 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.913682485348176
-2015 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.904342692574192
-2015 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.020158895092862
-2016 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.953589603107316
-2016 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.29668142911669
-2016 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.177594645419177
-2016 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.559016860056568
-2017 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.514392936966129
-2017 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.587008055552335
-2017 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,10.800447331827154
-2017 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.124324565868282
-2018 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.636411104761429
-2018 Q2,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.350713516466971
-2018 Q3,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.040093119179316
-2018 Q4,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.172694901167937
-2019 Q1,Seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.284016266746304
+2001 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.550918877727412
+2002 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.238302032727498
+2002 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.36125860515742
+2002 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.344896007555704
+2002 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.409346559684504
+2003 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.316120652479208
+2003 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.665086821008362
+2003 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.69531154461105
+2003 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.276122637839736
+2004 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.207500926428455
+2004 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.37076832144442
+2004 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.852803378378663
+2004 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.409476351406228
+2005 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.154902041443544
+2005 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.517317157203143
+2005 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.76323939112572
+2005 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.686585434537353
+2006 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.107548923333557
+2006 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.130439761273912
+2006 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.133011142168892
+2006 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.991349842525487
+2007 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.19607146555029
+2007 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.226324501427568
+2007 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.591712332732095
+2007 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.310464452992557
+2008 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.231270594654742
+2008 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.60650941411578
+2008 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.47887397557449
+2008 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.243386782894856
+2009 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.775450225721078
+2009 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.268737415826024
+2009 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.032381290621045
+2009 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.163004284335106
+2010 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.877858779982866
+2010 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.188736271973758
+2010 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.467552504278476
+2010 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.498153495253508
+2011 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.254569863905942
+2011 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.428540827710764
+2011 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.845133529645189
+2011 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.676554525883873
+2012 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.329860254315324
+2012 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.34476855135058
+2012 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.922195688728149
+2012 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.591326641335186
+2013 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.570143086934362
+2013 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.56621933940746
+2013 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.938731129727014
+2013 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.590024883069267
+2014 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.392956355697972
+2014 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.180176901580836
+2014 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.110230857793324
+2014 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.36187412185873
+2015 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.350464954379474
+2015 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.439138465040944
+2015 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.742548312340514
+2015 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.754965622723605
+2016 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.085363708854356
+2016 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.192622508900744
+2016 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.818537949149391
+2016 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.45977986142789
+2017 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.83028454771982
+2017 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.739463728434378
+2017 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.690092837540568
+2017 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.383841781560056
+2018 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.098520145505812
+2018 Q2,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.890844964835091
+2018 Q3,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,9.723333475895265
+2018 Q4,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.530869664877534
+2019 Q1,Seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.764018172389296
+2001 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.336875146810296
+2002 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.32012550959257
+2002 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.478642381826448
+2002 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.347911202096537
+2002 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.02124679588257
+2003 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.70978998303509
+2003 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.15247005446155
+2003 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.560039857833669
+2003 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.938118936638665
+2004 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.531509179441368
+2004 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.521626110224265
+2004 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.0486642817745
+2004 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.492071555658004
+2005 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.717239119207646
+2005 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.86138846104626
+2005 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.175915145184248
+2005 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.113768434331664
+2006 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.044439589303217
+2006 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.99250754469562
+2006 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.429096123041965
+2006 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.678587870441776
+2007 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.95321537540755
+2007 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.90514633770373
+2007 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.858422490092329
+2007 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.557938347327166
+2008 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.578939579947404
+2008 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.03693732141053
+2008 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.10621044050603
+2008 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.080558599283904
+2009 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.496610854876153
+2009 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.83797255048316
+2009 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.85739288417322
+2009 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.60566829557803
+2010 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.069148842280814
+2010 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.218872730233564
+2010 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.13444340678499
+2010 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.245021793695493
+2011 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.34955662365501
+2011 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.19879206853371
+2011 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.977838017307295
+2011 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.256676210531108
+2012 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.113747063038392
+2012 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.079464910477125
+2012 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.147510437076164
+2012 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.981954298933898
+2013 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.502314131310992
+2013 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.241984190597964
+2013 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.976537573653212
+2013 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.858677201416445
+2014 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.469640536902956
+2014 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.282457971835546
+2014 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.495777295345324
+2014 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.400569182659124
+2015 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.401954215253848
+2015 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.913682485348176
+2015 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.904342692574192
+2015 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.020158895092862
+2016 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.953589603107316
+2016 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.29668142911669
+2016 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.177594645419177
+2016 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.559016860056568
+2017 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.514392936966129
+2017 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.587008055552335
+2017 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,10.800447331827154
+2017 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.124324565868282
+2018 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.636411104761429
+2018 Q2,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.350713516466971
+2018 Q3,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.040093119179316
+2018 Q4,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.172694901167937
+2019 Q1,Seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.284016266746304
 2014 Q1,Not seasonally adjusted percentage (%),,Limiting long-term illness/disability,,Percentage (%),Units,Undefined,29.3
 2014 Q2,Not seasonally adjusted percentage (%),,Limiting long-term illness/disability,,Percentage (%),Units,Undefined,30.2
 2014 Q3,Not seasonally adjusted percentage (%),,Limiting long-term illness/disability,,Percentage (%),Units,Undefined,32.2
@@ -311,146 +311,146 @@ Year,Units,Sex,Disability status,Age,Unit measure,Unit multiplier,Observation st
 2018 Q3,Not seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,12.452419821241197
 2018 Q4,Not seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,10.97466585018008
 2019 Q1,Not seasonally adjusted percentage (%),,,,Percentage (%),Units,Undefined,10.274093795709703
-2001 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.21524946402766
-2002 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.987374262624368
-2002 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.479095048619754
-2002 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.804934192107256
-2002 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.046519405531086
-2003 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.011086089830638
-2003 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,9.793696372955004
-2003 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.233535781969982
-2003 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,9.878897145817232
-2004 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,9.829417468466325
-2004 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,9.542133737954735
-2004 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.465699630474804
-2004 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.98125910064794
-2005 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.702283478323684
-2005 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.732309310238726
-2005 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.422240982296858
-2005 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.23289721888889
-2006 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.637340110928536
-2006 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.372462289563824
-2006 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.805350503267691
-2006 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.495298389362238
-2007 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.742897092510589
-2007 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.47834797656517
-2007 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.241711108673668
-2007 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.797729619081506
-2008 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.837391347995853
-2008 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.80277792227636
-2008 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.128800134141994
-2008 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.731954753096742
-2009 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.38806514546491
-2009 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.397906875767683
-2009 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.677557126456747
-2009 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.70471962442362
-2010 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.46104040401858
-2010 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.277408397060496
-2010 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.109575642992166
-2010 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.128002043310325
-2011 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.735375474355784
-2011 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.542778137671329
-2011 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,17.496133620891914
-2011 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.357448404849034
-2012 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.739654049416805
-2012 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,14.576643966328842
-2012 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.610760917890545
-2012 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.312914485177954
-2013 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.848125177909536
-2013 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.885788723986469
-2013 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,15.62958910177478
-2013 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.316339077341423
-2014 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.595752268564002
-2014 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.590421660346536
-2014 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.805174904225336
-2014 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.074445082595236
-2015 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.511237199246064
-2015 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.92311209292126
-2015 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,12.40333186766098
-2015 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.449792694003827
-2016 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.243497939471627
-2016 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.702108400228214
-2016 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.474823293867086
-2016 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.14076978427262
-2017 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,9.98818292591386
-2017 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.244809747752132
-2017 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,13.331571974912864
-2017 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.062079891129525
-2018 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.258990690905414
-2018 Q2,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.381723652101265
-2018 Q3,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,11.369788636323904
-2018 Q4,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.237050401372567
-2019 Q1,Not seasonally adjusted percentage (%),Male,,,Percentage (%),Units,Undefined,10.050623044831054
-2001 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.760206900224574
-2002 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.72811211864173
-2002 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.667105909583649
-2002 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.201923347807014
-2002 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.418909556994643
-2003 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.053054051461135
-2003 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.350222388889712
-2003 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.470950316829402
-2003 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.34086429829638
-2004 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.794601855029809
-2004 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.758288180239877
-2004 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.954456070515032
-2004 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.930008514295835
-2005 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.888543026393195
-2005 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.175382435936816
-2005 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.068878969395787
-2005 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.611857428992025
-2006 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.143788939998004
-2006 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.39817446269778
-2006 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,18.31465196099313
-2006 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.226540424203233
-2007 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.009447341884885
-2007 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.430158035862457
-2007 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.73941747331102
-2007 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.139077572664316
-2008 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.59778827094247
-2008 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.671329442285993
-2008 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.989163852237887
-2008 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.672717394332672
-2009 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.45958494624757
-2009 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.55017612533416
-2009 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,18.7325899859615
-2009 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.194037011353547
-2010 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.010277406614605
-2010 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.97194724654664
-2010 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,18.99303419755692
-2010 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.79676265998166
-2011 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.299444414970742
-2011 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.982760588263965
-2011 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,19.810064078517275
-2011 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.81219721043568
-2012 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.128968938221107
-2012 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.78011378681015
-2012 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.957307488898667
-2012 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.495540992249266
-2013 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.559441076532266
-2013 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,15.923983420464296
-2013 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,17.729900261653807
-2013 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.353669619394395
-2014 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.589369225164848
-2014 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.94857354110382
-2014 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,16.200275644160918
-2014 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.882792397913285
-2015 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.601298984505616
-2015 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.535075113192752
-2015 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,14.5166638103458
-2015 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.522970789874083
-2016 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.19239737650041
-2016 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.876728375927252
-2016 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.733829074472755
-2016 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.085570383647688
-2017 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,10.779789240961634
-2017 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.106178624615865
-2017 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,12.33628133589586
-2017 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,10.679349287526438
-2018 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,10.911298575423451
-2018 Q2,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,10.84096474715358
-2018 Q3,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,13.583671702703008
-2018 Q4,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,11.74539048245683
-2019 Q1,Not seasonally adjusted percentage (%),Female,,,Percentage (%),Units,Undefined,10.507614070471348
+2001 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.21524946402766
+2002 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.987374262624368
+2002 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.479095048619754
+2002 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.804934192107256
+2002 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.046519405531086
+2003 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.011086089830638
+2003 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,9.793696372955004
+2003 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.233535781969982
+2003 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,9.878897145817232
+2004 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,9.829417468466325
+2004 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,9.542133737954735
+2004 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.465699630474804
+2004 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.98125910064794
+2005 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.702283478323684
+2005 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.732309310238726
+2005 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.422240982296858
+2005 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.23289721888889
+2006 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.637340110928536
+2006 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.372462289563824
+2006 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.805350503267691
+2006 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.495298389362238
+2007 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.742897092510589
+2007 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.47834797656517
+2007 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.241711108673668
+2007 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.797729619081506
+2008 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.837391347995853
+2008 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.80277792227636
+2008 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.128800134141994
+2008 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.731954753096742
+2009 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.38806514546491
+2009 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.397906875767683
+2009 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.677557126456747
+2009 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.70471962442362
+2010 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.46104040401858
+2010 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.277408397060496
+2010 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.109575642992166
+2010 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.128002043310325
+2011 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.735375474355784
+2011 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.542778137671329
+2011 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,17.496133620891914
+2011 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.357448404849034
+2012 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.739654049416805
+2012 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,14.576643966328842
+2012 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.610760917890545
+2012 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.312914485177954
+2013 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.848125177909536
+2013 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.885788723986469
+2013 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,15.62958910177478
+2013 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.316339077341423
+2014 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.595752268564002
+2014 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.590421660346536
+2014 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.805174904225336
+2014 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.074445082595236
+2015 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.511237199246064
+2015 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.92311209292126
+2015 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,12.40333186766098
+2015 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.449792694003827
+2016 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.243497939471627
+2016 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.702108400228214
+2016 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.474823293867086
+2016 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.14076978427262
+2017 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,9.98818292591386
+2017 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.244809747752132
+2017 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,13.331571974912864
+2017 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.062079891129525
+2018 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.258990690905414
+2018 Q2,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.381723652101265
+2018 Q3,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,11.369788636323904
+2018 Q4,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.237050401372567
+2019 Q1,Not seasonally adjusted percentage (%),남성,,,Percentage (%),Units,Undefined,10.050623044831054
+2001 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.760206900224574
+2002 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.72811211864173
+2002 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.667105909583649
+2002 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.201923347807014
+2002 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.418909556994643
+2003 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.053054051461135
+2003 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.350222388889712
+2003 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.470950316829402
+2003 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.34086429829638
+2004 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.794601855029809
+2004 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.758288180239877
+2004 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.954456070515032
+2004 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.930008514295835
+2005 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.888543026393195
+2005 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.175382435936816
+2005 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.068878969395787
+2005 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.611857428992025
+2006 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.143788939998004
+2006 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.39817446269778
+2006 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,18.31465196099313
+2006 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.226540424203233
+2007 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.009447341884885
+2007 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.430158035862457
+2007 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.73941747331102
+2007 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.139077572664316
+2008 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.59778827094247
+2008 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.671329442285993
+2008 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.989163852237887
+2008 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.672717394332672
+2009 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.45958494624757
+2009 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.55017612533416
+2009 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,18.7325899859615
+2009 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.194037011353547
+2010 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.010277406614605
+2010 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.97194724654664
+2010 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,18.99303419755692
+2010 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.79676265998166
+2011 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.299444414970742
+2011 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.982760588263965
+2011 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,19.810064078517275
+2011 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.81219721043568
+2012 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.128968938221107
+2012 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.78011378681015
+2012 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.957307488898667
+2012 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.495540992249266
+2013 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.559441076532266
+2013 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,15.923983420464296
+2013 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,17.729900261653807
+2013 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.353669619394395
+2014 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.589369225164848
+2014 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.94857354110382
+2014 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,16.200275644160918
+2014 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.882792397913285
+2015 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.601298984505616
+2015 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.535075113192752
+2015 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,14.5166638103458
+2015 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.522970789874083
+2016 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.19239737650041
+2016 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.876728375927252
+2016 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.733829074472755
+2016 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.085570383647688
+2017 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,10.779789240961634
+2017 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.106178624615865
+2017 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,12.33628133589586
+2017 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,10.679349287526438
+2018 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,10.911298575423451
+2018 Q2,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,10.84096474715358
+2018 Q3,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,13.583671702703008
+2018 Q4,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,11.74539048245683
+2019 Q1,Not seasonally adjusted percentage (%),여성,,,Percentage (%),Units,Undefined,10.507614070471348
 2001 Q4,Seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,8.272216352582761
 2002 Q1,Seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,8.261718963724894
 2002 Q2,Seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,8.674003092263249
@@ -521,146 +521,146 @@ Year,Units,Sex,Disability status,Age,Unit measure,Unit multiplier,Observation st
 2018 Q3,Seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,3.468690996047257
 2018 Q4,Seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,4.838930286177232
 2019 Q1,Seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,3.684027704957039
-2001 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.398679592408051
-2002 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.196726941787963
-2002 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.827910949563114
-2002 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.78262406219878
-2002 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.677778773671577
-2003 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,11.153118855813531
-2003 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.63313282229703
-2003 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.229778393285343
-2003 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.536593742010773
-2004 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.795811892968047
-2004 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.873282994985484
-2004 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.211050506076775
-2004 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.299205988037365
-2005 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.300893771216732
-2005 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.817440965037097
-2005 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,11.124577897772625
-2005 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,11.350313882178
-2006 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.496943715051108
-2006 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.497844145097984
-2006 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.22526830191869
-2006 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.6611832595404
-2007 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.29074728707561
-2007 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.141674544211089
-2007 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.100100219133271
-2007 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.520437404558892
-2008 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.918679328768964
-2008 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.275840473866205
-2008 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.913666903276434
-2008 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.783603375875287
-2009 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.890114760781075
-2009 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.802503437549564
-2009 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.514741222744677
-2009 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.675657217682632
-2010 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.8352558354830615
-2010 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.897124965881418
-2010 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.603225996409752
-2010 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.004055064052776
-2011 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.95224482708447
-2011 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.476660012721205
-2011 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.188127973764232
-2011 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.570164618441924
-2012 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.848713919848387
-2012 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.446771780453557
-2012 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.0887348709366425
-2012 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.36943016545621
-2013 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.71552985759175
-2013 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.884978773411258
-2013 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.447600932594858
-2013 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.189745357166922
-2014 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.890709425529805
-2014 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.358877978948297
-2014 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.725936321445817
-2014 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.8360270241838834
-2015 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.005792892275051
-2015 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.653680930726137
-2015 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.046782387278397
-2015 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.151992490917533
-2016 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.79898443736636
-2016 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.425218621244407
-2016 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.48184284954368
-2016 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.807716933289876
-2017 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.1839514336920045
-2017 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.348852655293167
-2017 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.430762841576785
-2017 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.634050036083816
-2018 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.946257819789794
-2018 Q2,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.930683567747909
-2018 Q3,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,2.923860984177717
-2018 Q4,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.720100048554269
-2019 Q1,Seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.509327527745061
-2001 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,8.1394935444747
-2002 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.280449444494167
-2002 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,8.51248532312721
-2002 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.167528940222147
-2002 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.455280479047256
-2003 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.794716697592476
-2003 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,8.525181114053321
-2003 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.9564108289251125
-2003 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.2181896732503095
-2004 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.55658853492599
-2004 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.648541457532951
-2004 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.8288349524559
-2004 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.988779710270541
-2005 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,8.16352265406632
-2005 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.464424438514607
-2005 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.243248368361131
-2005 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.916421934225664
-2006 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.531062504098056
-2006 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.285952302803301
-2006 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.571743521130794
-2006 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.787237807183717
-2007 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.763638450201852
-2007 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.702456461708869
-2007 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.67639846992749
-2007 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.288548135156932
-2008 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.125739961997829
-2008 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.497591043758407
-2008 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.842332139295923
-2008 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.235472902907581
-2009 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.6765550090923735
-2009 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.69703224238458
-2009 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.255805802940082
-2009 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.429822087114251
-2010 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.067566976467551
-2010 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.587899213403903
-2010 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.962768617766865
-2010 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.128213896381952
-2011 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.609147295057634
-2011 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.276425349884416
-2011 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.251295863175451
-2011 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.081732006083655
-2012 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.552252532260028
-2012 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.729401368157454
-2012 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.6322108678704015
-2012 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.712768855908562
-2013 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.575168435559725
-2013 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.503609116274927
-2013 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.859328891708013
-2013 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.610182976406
-2014 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.4504383773539176
-2014 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.321528463251863
-2014 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.750156366858816
-2014 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.667405106015704
-2015 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.1630091636795123
-2015 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.837621934633408
-2015 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.0743051856097625
-2015 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.5132978924441445
-2016 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.396324079496556
-2016 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.204161391099895
-2016 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.757009670473511
-2016 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.7558546122626586
-2017 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.270822536109063
-2017 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.984469794406565
-2017 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.931456955968204
-2017 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.231711632187291
-2018 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.60917980249818
-2018 Q2,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.085535407328418
-2018 Q3,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.039982149582087
-2018 Q4,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.963587858044727
-2019 Q1,Seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.817711316107565
+2001 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.398679592408051
+2002 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.196726941787963
+2002 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.827910949563114
+2002 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.78262406219878
+2002 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.677778773671577
+2003 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,11.153118855813531
+2003 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.63313282229703
+2003 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.229778393285343
+2003 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.536593742010773
+2004 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.795811892968047
+2004 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.873282994985484
+2004 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.211050506076775
+2004 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.299205988037365
+2005 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.300893771216732
+2005 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.817440965037097
+2005 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,11.124577897772625
+2005 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,11.350313882178
+2006 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.496943715051108
+2006 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.497844145097984
+2006 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.22526830191869
+2006 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.6611832595404
+2007 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.29074728707561
+2007 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.141674544211089
+2007 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.100100219133271
+2007 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.520437404558892
+2008 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.918679328768964
+2008 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.275840473866205
+2008 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.913666903276434
+2008 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.783603375875287
+2009 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.890114760781075
+2009 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.802503437549564
+2009 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.514741222744677
+2009 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.675657217682632
+2010 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.8352558354830615
+2010 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.897124965881418
+2010 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.603225996409752
+2010 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.004055064052776
+2011 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.95224482708447
+2011 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.476660012721205
+2011 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.188127973764232
+2011 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.570164618441924
+2012 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.848713919848387
+2012 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.446771780453557
+2012 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.0887348709366425
+2012 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.36943016545621
+2013 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.71552985759175
+2013 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.884978773411258
+2013 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.447600932594858
+2013 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.189745357166922
+2014 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.890709425529805
+2014 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.358877978948297
+2014 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.725936321445817
+2014 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.8360270241838834
+2015 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.005792892275051
+2015 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.653680930726137
+2015 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.046782387278397
+2015 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.151992490917533
+2016 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.79898443736636
+2016 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.425218621244407
+2016 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.48184284954368
+2016 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.807716933289876
+2017 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.1839514336920045
+2017 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.348852655293167
+2017 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.430762841576785
+2017 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.634050036083816
+2018 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.946257819789794
+2018 Q2,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.930683567747909
+2018 Q3,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,2.923860984177717
+2018 Q4,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.720100048554269
+2019 Q1,Seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.509327527745061
+2001 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,8.1394935444747
+2002 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.280449444494167
+2002 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,8.51248532312721
+2002 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.167528940222147
+2002 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.455280479047256
+2003 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.794716697592476
+2003 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,8.525181114053321
+2003 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.9564108289251125
+2003 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.2181896732503095
+2004 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.55658853492599
+2004 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.648541457532951
+2004 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.8288349524559
+2004 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.988779710270541
+2005 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,8.16352265406632
+2005 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.464424438514607
+2005 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.243248368361131
+2005 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.916421934225664
+2006 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.531062504098056
+2006 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.285952302803301
+2006 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.571743521130794
+2006 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.787237807183717
+2007 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.763638450201852
+2007 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.702456461708869
+2007 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.67639846992749
+2007 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.288548135156932
+2008 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.125739961997829
+2008 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.497591043758407
+2008 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.842332139295923
+2008 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.235472902907581
+2009 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.6765550090923735
+2009 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.69703224238458
+2009 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.255805802940082
+2009 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.429822087114251
+2010 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.067566976467551
+2010 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.587899213403903
+2010 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.962768617766865
+2010 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.128213896381952
+2011 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.609147295057634
+2011 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.276425349884416
+2011 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.251295863175451
+2011 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.081732006083655
+2012 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.552252532260028
+2012 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.729401368157454
+2012 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.6322108678704015
+2012 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.712768855908562
+2013 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.575168435559725
+2013 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.503609116274927
+2013 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.859328891708013
+2013 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.610182976406
+2014 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.4504383773539176
+2014 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.321528463251863
+2014 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.750156366858816
+2014 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.667405106015704
+2015 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.1630091636795123
+2015 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.837621934633408
+2015 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.0743051856097625
+2015 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.5132978924441445
+2016 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.396324079496556
+2016 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.204161391099895
+2016 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.757009670473511
+2016 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.7558546122626586
+2017 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.270822536109063
+2017 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.984469794406565
+2017 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.931456955968204
+2017 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.231711632187291
+2018 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.60917980249818
+2018 Q2,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.085535407328418
+2018 Q3,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.039982149582087
+2018 Q4,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.963587858044727
+2019 Q1,Seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.817711316107565
 2001 Q4,Not seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,7.70702244422868
 2002 Q1,Not seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,7.540962325145747
 2002 Q2,Not seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,7.316225651888448
@@ -731,146 +731,146 @@ Year,Units,Sex,Disability status,Age,Unit measure,Unit multiplier,Observation st
 2018 Q3,Not seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,5.047545676369855
 2018 Q4,Not seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,4.25372962958018
 2019 Q1,Not seasonally adjusted percentage (%),,,16 to 17,Percentage (%),Units,Undefined,2.69438556753706
-2001 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.899245970905344
-2002 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.064873435267954
-2002 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.843579392494243
-2002 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,12.907218458037097
-2002 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.171902970289846
-2003 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.992026124428945
-2003 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.556843725488763
-2003 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,13.407451796825413
-2003 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.981514230326793
-2004 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.633125279971802
-2004 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.690351545446121
-2004 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,12.382686552250153
-2004 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.689087132658557
-2005 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.103074001808489
-2005 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.570565950239388
-2005 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,14.211171671993585
-2005 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.698916006893509
-2006 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.2924598170135
-2006 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,9.303466633485094
-2006 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,13.118818136784094
-2006 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.986424354356945
-2007 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.097204552947769
-2007 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.094072384191366
-2007 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.76061307269481
-2007 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.789572680376596
-2008 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.79196534829897
-2008 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.377689039992867
-2008 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.408247645181016
-2008 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.047783842232917
-2009 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.755656522420376
-2009 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.991873930690804
-2009 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.94624780951647
-2009 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.949223850664029
-2010 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.755128744073254
-2010 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.14754311958542
-2010 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.98640576149196
-2010 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.362858212652895
-2011 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.894539177687991
-2011 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.715625010741631
-2011 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,10.474639001617504
-2011 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.893818491240561
-2012 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.997728005084529
-2012 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.7175668362565
-2012 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,8.314505490844294
-2012 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.770218581176346
-2013 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.8900300462038855
-2013 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.163992533292824
-2013 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.564543681653038
-2013 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.667546268915003
-2014 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.0977637301107586
-2014 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,2.7413776440338085
-2014 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.794472759573718
-2014 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.35155247297806
-2015 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.210304118606199
-2015 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.166362468322658
-2015 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.04501907478806
-2015 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.663796430816423
-2016 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.019405839507158
-2016 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.084856626035604
-2016 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,6.452101158471947
-2016 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.277626900026854
-2017 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.3905425217963385
-2017 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,5.10113814498977
-2017 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,7.348838336573002
-2017 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.083432518680537
-2018 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.127610226269935
-2018 Q2,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.764200639779406
-2018 Q3,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.8324353392663095
-2018 Q4,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,4.160654192981616
-2019 Q1,Not seasonally adjusted percentage (%),Male,,16 to 17,Percentage (%),Units,Undefined,3.6662773073774426
-2001 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.505284403354448
-2002 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.991129580173622
-2002 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.762797118592465
-2002 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,9.67992992075444
-2002 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.743770456074784
-2003 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.408053815384797
-2003 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.906188229034569
-2003 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,9.454581942203
-2003 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.477759152224501
-2004 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.1087026017392505
-2004 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.2369664341317295
-2004 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,10.20526833885757
-2004 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.226030729266353
-2005 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.620329171122404
-2005 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.237713902626565
-2005 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,8.572643388706672
-2005 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.168789641248693
-2006 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.88806664771159
-2006 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.257406947756411
-2006 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,9.878607759673727
-2006 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.089988570396773
-2007 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.985284164119179
-2007 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.909616589662417
-2007 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,9.89734924803006
-2007 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.680367609576714
-2008 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.273305903353449
-2008 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.919826303512453
-2008 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,8.95262395862913
-2008 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.693323723099319
-2009 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.770065572095254
-2009 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.257819116922085
-2009 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,7.267640077124507
-2009 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.8951147849126695
-2010 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.206146985944651
-2010 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.242532174307511
-2010 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.867457498319595
-2010 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.602036428106574
-2011 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.8487819928313294
-2011 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.005022454472712
-2011 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,6.961324452244541
-2011 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.583619125660656
-2012 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.883192928429903
-2012 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.460520792027772
-2012 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.244577434855064
-2012 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.175294026656581
-2013 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.907702171114825
-2013 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.315873357391807
-2013 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.348265129126918
-2013 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.0199473348882524
-2014 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.757830996580237
-2014 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.218164514841548
-2014 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.158251263602949
-2014 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.057025391824707
-2015 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.400472280332889
-2015 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.755390056654013
-2015 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.378337328802318
-2015 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,1.8759907813293837
-2016 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.6046833844884363
-2016 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.120646555851935
-2016 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.039814868712874
-2016 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.1135420165330783
-2017 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.4546309584030563
-2017 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.8484330470989696
-2017 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.173751598915236
-2017 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,3.5834202986157337
-2018 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.808360314038576
-2018 Q2,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,2.911380918912477
-2018 Q3,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,5.273103428226185
-2018 Q4,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,4.3513694067865325
-2019 Q1,Not seasonally adjusted percentage (%),Female,,16 to 17,Percentage (%),Units,Undefined,1.6741917916958993
+2001 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.899245970905344
+2002 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.064873435267954
+2002 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.843579392494243
+2002 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,12.907218458037097
+2002 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.171902970289846
+2003 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.992026124428945
+2003 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.556843725488763
+2003 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,13.407451796825413
+2003 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.981514230326793
+2004 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.633125279971802
+2004 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.690351545446121
+2004 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,12.382686552250153
+2004 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.689087132658557
+2005 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.103074001808489
+2005 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.570565950239388
+2005 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,14.211171671993585
+2005 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.698916006893509
+2006 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.2924598170135
+2006 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,9.303466633485094
+2006 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,13.118818136784094
+2006 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.986424354356945
+2007 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.097204552947769
+2007 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.094072384191366
+2007 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.76061307269481
+2007 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.789572680376596
+2008 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.79196534829897
+2008 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.377689039992867
+2008 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.408247645181016
+2008 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.047783842232917
+2009 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.755656522420376
+2009 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.991873930690804
+2009 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.94624780951647
+2009 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.949223850664029
+2010 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.755128744073254
+2010 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.14754311958542
+2010 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.98640576149196
+2010 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.362858212652895
+2011 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.894539177687991
+2011 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.715625010741631
+2011 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,10.474639001617504
+2011 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.893818491240561
+2012 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.997728005084529
+2012 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.7175668362565
+2012 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,8.314505490844294
+2012 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.770218581176346
+2013 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.8900300462038855
+2013 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.163992533292824
+2013 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.564543681653038
+2013 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.667546268915003
+2014 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.0977637301107586
+2014 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,2.7413776440338085
+2014 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.794472759573718
+2014 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.35155247297806
+2015 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.210304118606199
+2015 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.166362468322658
+2015 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.04501907478806
+2015 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.663796430816423
+2016 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.019405839507158
+2016 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.084856626035604
+2016 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,6.452101158471947
+2016 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.277626900026854
+2017 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.3905425217963385
+2017 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,5.10113814498977
+2017 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,7.348838336573002
+2017 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.083432518680537
+2018 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.127610226269935
+2018 Q2,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.764200639779406
+2018 Q3,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.8324353392663095
+2018 Q4,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,4.160654192981616
+2019 Q1,Not seasonally adjusted percentage (%),남성,,16 to 17,Percentage (%),Units,Undefined,3.6662773073774426
+2001 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.505284403354448
+2002 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.991129580173622
+2002 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.762797118592465
+2002 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,9.67992992075444
+2002 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.743770456074784
+2003 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.408053815384797
+2003 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.906188229034569
+2003 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,9.454581942203
+2003 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.477759152224501
+2004 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.1087026017392505
+2004 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.2369664341317295
+2004 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,10.20526833885757
+2004 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.226030729266353
+2005 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.620329171122404
+2005 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.237713902626565
+2005 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,8.572643388706672
+2005 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.168789641248693
+2006 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.88806664771159
+2006 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.257406947756411
+2006 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,9.878607759673727
+2006 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.089988570396773
+2007 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.985284164119179
+2007 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.909616589662417
+2007 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,9.89734924803006
+2007 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.680367609576714
+2008 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.273305903353449
+2008 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.919826303512453
+2008 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,8.95262395862913
+2008 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.693323723099319
+2009 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.770065572095254
+2009 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.257819116922085
+2009 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,7.267640077124507
+2009 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.8951147849126695
+2010 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.206146985944651
+2010 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.242532174307511
+2010 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.867457498319595
+2010 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.602036428106574
+2011 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.8487819928313294
+2011 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.005022454472712
+2011 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,6.961324452244541
+2011 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.583619125660656
+2012 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.883192928429903
+2012 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.460520792027772
+2012 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.244577434855064
+2012 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.175294026656581
+2013 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.907702171114825
+2013 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.315873357391807
+2013 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.348265129126918
+2013 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.0199473348882524
+2014 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.757830996580237
+2014 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.218164514841548
+2014 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.158251263602949
+2014 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.057025391824707
+2015 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.400472280332889
+2015 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.755390056654013
+2015 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.378337328802318
+2015 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,1.8759907813293837
+2016 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.6046833844884363
+2016 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.120646555851935
+2016 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.039814868712874
+2016 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.1135420165330783
+2017 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.4546309584030563
+2017 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.8484330470989696
+2017 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.173751598915236
+2017 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,3.5834202986157337
+2018 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.808360314038576
+2018 Q2,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,2.911380918912477
+2018 Q3,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,5.273103428226185
+2018 Q4,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,4.3513694067865325
+2019 Q1,Not seasonally adjusted percentage (%),여성,,16 to 17,Percentage (%),Units,Undefined,1.6741917916958993
 2001 Q4,Seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,14.339616239730532
 2002 Q1,Seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,14.77648757104805
 2002 Q2,Seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,14.831376950926629
@@ -941,146 +941,146 @@ Year,Units,Sex,Disability status,Age,Unit measure,Unit multiplier,Observation st
 2018 Q3,Seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,12.698893121378516
 2018 Q4,Seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,12.959274940477204
 2019 Q1,Seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,12.860230071040943
-2001 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.21659569332593
-2002 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.86800331193368
-2002 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.140511133281889
-2002 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.82241933550748
-2002 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.631135987284198
-2003 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.365140750357778
-2003 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.972965400072765
-2003 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.83343664083198
-2003 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.494627739031772
-2004 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.622872817239678
-2004 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.809557004200984
-2004 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.33265739442815
-2004 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.025190416412787
-2005 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.69484496666239
-2005 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.01153452390496
-2005 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.948552610476398
-2005 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.07348728730687
-2006 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.572897344810604
-2006 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.889531511859282
-2006 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.68296460944388
-2006 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.66351563889585
-2007 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.034727185507524
-2007 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.117281896319186
-2007 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.59888286107348
-2007 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.82559428434937
-2008 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.18237214497504
-2008 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.56058267773455
-2008 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.780194299761453
-2008 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.507030732197777
-2009 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.43294900207318
-2009 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.07878665128456
-2009 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.12500279310811
-2009 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.959405919307144
-2010 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.817895071017968
-2010 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.91298820606486
-2010 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.338343637140763
-2010 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.799939571361897
-2011 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.222241250251557
-2011 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.29130682763636
-2011 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.88739077020236
-2011 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.829705016906818
-2012 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.573272771971734
-2012 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.4251700849787
-2012 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.985532135402623
-2012 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.76121282385284
-2013 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.646910438630826
-2013 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.866050450650947
-2013 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.450177893605023
-2013 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.806797280045584
-2014 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.630464560407658
-2014 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.49530206448426
-2014 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.303725997448602
-2014 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.324277964335824
-2015 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.259145049478176
-2015 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.45557455774358
-2015 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.47252886942148
-2015 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.457658762172391
-2016 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.703346194533172
-2016 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.930958075114829
-2016 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.69777082169638
-2016 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.157763425223951
-2017 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.520938626940223
-2017 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.105893763809233
-2017 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.270897658447872
-2017 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.081998357703876
-2018 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.640362792461064
-2018 Q2,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.378868050623534
-2018 Q3,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.42288878188161
-2018 Q4,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.988704426189647
-2019 Q1,Seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.339163669618198
-2001 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.448182130513924
-2002 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.67429073200754
-2002 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.514856053678372
-2002 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.731421630261554
-2002 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.217375743693246
-2003 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.2874555230922
-2003 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.34929756952623
-2003 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.03469207989899
-2003 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.446004701374253
-2004 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.82493471902266
-2004 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.78557112354405
-2004 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.40483937998597
-2004 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.63304620302378
-2005 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.862977595720402
-2005 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.236026785851625
-2005 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.686371428315205
-2005 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.68025523645827
-2006 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.68012871396607
-2006 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.38767938637529
-2006 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.861006434168665
-2006 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.121792812085825
-2007 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.48000502723533
-2007 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.43750152384145
-2007 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.11080505828942
-2007 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.11065243244709
-2008 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.18325494295777
-2008 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.66576564018548
-2008 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.64989469779614
-2008 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.768617552020764
-2009 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.162754870389826
-2009 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.57592350398422
-2009 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.96905662638294
-2009 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.58248827775077
-2010 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.24322668800939
-2010 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.27344744408212
-2010 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.31268477458725
-2010 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.392882415709813
-2011 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.383913193813317
-2011 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.52154411567004
-2011 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,21.237071700374106
-2011 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.363890369788365
-2012 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.05389747486199
-2012 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.20917122628252
-2012 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.32303601500941
-2012 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.10595434021449
-2013 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.55011338595351
-2013 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.25223367480949
-2013 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.08869727232528
-2013 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.74908046592581
-2014 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.30281023462947
-2014 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.84494013629209
-2014 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.25496289484334
-2014 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.1481085680616
-2015 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.2701598042424
-2015 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.731737527638703
-2015 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,15.40042498588314
-2015 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,15.684292587362656
-2016 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,15.373781868722732
-2016 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,14.342932977803638
-2016 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,14.303139856126167
-2016 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.52509981067528
-2017 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.335960173734929
-2017 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.495252373887832
-2017 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.52065095180822
-2017 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.846291200876164
-2018 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.636745457894769
-2018 Q2,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.40524273967054
-2018 Q3,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,14.031040904697129
-2018 Q4,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.97240513371937
-2019 Q1,Seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.404111903929438
+2001 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.21659569332593
+2002 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.86800331193368
+2002 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.140511133281889
+2002 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.82241933550748
+2002 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.631135987284198
+2003 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.365140750357778
+2003 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.972965400072765
+2003 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.83343664083198
+2003 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.494627739031772
+2004 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.622872817239678
+2004 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.809557004200984
+2004 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.33265739442815
+2004 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.025190416412787
+2005 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.69484496666239
+2005 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.01153452390496
+2005 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.948552610476398
+2005 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.07348728730687
+2006 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.572897344810604
+2006 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.889531511859282
+2006 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.68296460944388
+2006 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.66351563889585
+2007 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.034727185507524
+2007 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.117281896319186
+2007 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.59888286107348
+2007 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.82559428434937
+2008 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.18237214497504
+2008 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.56058267773455
+2008 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.780194299761453
+2008 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.507030732197777
+2009 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.43294900207318
+2009 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.07878665128456
+2009 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.12500279310811
+2009 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.959405919307144
+2010 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.817895071017968
+2010 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.91298820606486
+2010 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.338343637140763
+2010 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.799939571361897
+2011 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.222241250251557
+2011 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.29130682763636
+2011 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.88739077020236
+2011 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.829705016906818
+2012 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.573272771971734
+2012 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.4251700849787
+2012 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.985532135402623
+2012 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.76121282385284
+2013 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.646910438630826
+2013 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.866050450650947
+2013 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.450177893605023
+2013 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.806797280045584
+2014 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.630464560407658
+2014 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.49530206448426
+2014 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.303725997448602
+2014 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.324277964335824
+2015 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.259145049478176
+2015 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.45557455774358
+2015 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.47252886942148
+2015 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.457658762172391
+2016 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.703346194533172
+2016 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.930958075114829
+2016 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.69777082169638
+2016 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.157763425223951
+2017 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.520938626940223
+2017 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.105893763809233
+2017 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.270897658447872
+2017 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.081998357703876
+2018 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.640362792461064
+2018 Q2,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.378868050623534
+2018 Q3,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.42288878188161
+2018 Q4,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.988704426189647
+2019 Q1,Seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.339163669618198
+2001 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.448182130513924
+2002 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.67429073200754
+2002 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.514856053678372
+2002 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.731421630261554
+2002 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.217375743693246
+2003 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.2874555230922
+2003 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.34929756952623
+2003 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.03469207989899
+2003 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.446004701374253
+2004 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.82493471902266
+2004 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.78557112354405
+2004 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.40483937998597
+2004 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.63304620302378
+2005 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.862977595720402
+2005 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.236026785851625
+2005 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.686371428315205
+2005 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.68025523645827
+2006 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.68012871396607
+2006 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.38767938637529
+2006 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.861006434168665
+2006 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.121792812085825
+2007 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.48000502723533
+2007 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.43750152384145
+2007 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.11080505828942
+2007 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.11065243244709
+2008 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.18325494295777
+2008 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.66576564018548
+2008 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.64989469779614
+2008 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.768617552020764
+2009 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.162754870389826
+2009 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.57592350398422
+2009 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.96905662638294
+2009 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.58248827775077
+2010 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.24322668800939
+2010 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.27344744408212
+2010 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.31268477458725
+2010 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.392882415709813
+2011 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.383913193813317
+2011 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.52154411567004
+2011 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,21.237071700374106
+2011 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.363890369788365
+2012 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.05389747486199
+2012 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.20917122628252
+2012 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.32303601500941
+2012 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.10595434021449
+2013 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.55011338595351
+2013 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.25223367480949
+2013 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.08869727232528
+2013 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.74908046592581
+2014 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.30281023462947
+2014 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.84494013629209
+2014 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.25496289484334
+2014 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.1481085680616
+2015 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.2701598042424
+2015 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.731737527638703
+2015 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,15.40042498588314
+2015 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,15.684292587362656
+2016 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,15.373781868722732
+2016 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,14.342932977803638
+2016 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,14.303139856126167
+2016 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.52509981067528
+2017 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.335960173734929
+2017 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.495252373887832
+2017 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.52065095180822
+2017 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.846291200876164
+2018 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.636745457894769
+2018 Q2,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.40524273967054
+2018 Q3,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,14.031040904697129
+2018 Q4,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.97240513371937
+2019 Q1,Seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.404111903929438
 2001 Q4,Not seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,13.916894088291098
 2002 Q1,Not seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,14.445910607871976
 2002 Q2,Not seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,14.137566937729314
@@ -1151,143 +1151,143 @@ Year,Units,Sex,Disability status,Age,Unit measure,Unit multiplier,Observation st
 2018 Q3,Not seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,14.29935262531487
 2018 Q4,Not seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,12.65676692432357
 2019 Q1,Not seasonally adjusted percentage (%),,,18 to 24,Percentage (%),Units,Undefined,12.177663098462128
-2001 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.931577727679782
-2002 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.888787351780222
-2002 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.289774243562553
-2002 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.773670030186484
-2002 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.31167689640236
-2003 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.317551541561706
-2003 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.162705491665218
-2003 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.88523134426141
-2003 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.144042626762156
-2004 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.475649051687355
-2004 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,10.084737431390796
-2004 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.489962818706587
-2004 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.650046638303436
-2005 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.459251389709788
-2005 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.360808677303012
-2005 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.193325841061904
-2005 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.677043599156246
-2006 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.314840927214638
-2006 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.257387141218674
-2006 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.003260225363483
-2006 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.21901459319343
-2007 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.795268777626626
-2007 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.45584798700316
-2007 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.957394506045084
-2007 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.375632364226206
-2008 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.998902271375322
-2008 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.783897867466626
-2008 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.189350180265556
-2008 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.059177106473207
-2009 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.255963626775271
-2009 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.191104442313096
-2009 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.551294428234737
-2009 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.575373919368024
-2010 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.583799331877785
-2010 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.957332910224496
-2010 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.778373289227186
-2010 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.50323776584275
-2011 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.84815313738472
-2011 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.372123182498514
-2011 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,19.36888898473421
-2011 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.605485954534718
-2012 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.052047391408852
-2012 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,16.64679372563891
-2012 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,17.532597268010353
-2012 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.567464619435336
-2013 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.952253244900826
-2013 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.196363816658192
-2013 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,18.028289626571187
-2013 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.598692314012732
-2014 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.83213980641006
-2014 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.91282844527518
-2014 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.900930980463349
-2014 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.088229568973258
-2015 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.408550725137136
-2015 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.932112827452244
-2015 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.046124885012055
-2015 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.199681577542854
-2016 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.845449010522849
-2016 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.40187455880693
-2016 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,15.27363462682096
-2016 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.892632918961144
-2017 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.666450847650768
-2017 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.548644744333249
-2017 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,14.842521898273748
-2017 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,12.81781345669554
-2018 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.795600052565405
-2018 Q2,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.78420311035351
-2018 Q3,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,13.003826202716803
-2018 Q4,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.76152688228708
-2019 Q1,Not seasonally adjusted percentage (%),Male,,18 to 24,Percentage (%),Units,Undefined,11.65842013863514
-2001 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.888393146303272
-2002 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.993643101608097
-2002 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.977542135918302
-2002 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.39359962894213
-2002 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.64672745257498
-2003 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.55263184390698
-2003 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.782290549077043
-2003 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.77668941186799
-2003 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.889928006933765
-2004 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.004910700456136
-2004 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.20863702380278
-2004 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.175723986574145
-2004 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.128246495903433
-2005 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.953180506069348
-2005 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.70293050886599
-2005 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.456679670955992
-2005 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.246911881768245
-2006 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.708094587528503
-2006 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.912798025617867
-2006 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.63088614522134
-2006 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.737123010648762
-2007 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.490754405264546
-2007 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.049978200509425
-2007 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.898215556242977
-2007 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.74392876537128
-2008 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.16664259153902
-2008 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.358623398884035
-2008 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.47042531966715
-2008 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.39744720655949
-2009 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.090288324955097
-2009 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.329008051053183
-2009 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,21.80760624776996
-2009 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.203639759395323
-2010 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.13213494799966
-2010 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.052375091735456
-2010 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,22.1592385319634
-2010 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.96486591183529
-2011 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.2589147179908
-2011 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.31975038975455
-2011 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,23.10059221001821
-2011 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.93309947779193
-2012 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.988830427446544
-2012 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.90209837189354
-2012 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,21.18292739745497
-2012 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.63254240182354
-2013 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.536864347539247
-2013 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,18.900827072910783
-2013 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,20.909974722245376
-2013 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.265973011731223
-2014 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.374288264189733
-2014 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.451753546662292
-2014 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,19.0355696548936
-2014 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.65403683375916
-2015 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.45977668030147
-2015 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,16.277724062139
-2015 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,17.091028068512358
-2015 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,15.222633244201424
-2016 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,14.620300126620249
-2016 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.83790911585919
-2016 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,15.928393978437844
-2016 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.094200802535106
-2017 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.62187368181632
-2017 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.927879652153198
-2017 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,14.12999611894145
-2017 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.452109934447597
-2018 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.93049861529234
-2018 Q2,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.812073111406573
-2018 Q3,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,15.651881451960683
-2018 Q4,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,13.591263391540414
-2019 Q1,Not seasonally adjusted percentage (%),Female,,18 to 24,Percentage (%),Units,Undefined,12.71964164847812
+2001 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.931577727679782
+2002 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.888787351780222
+2002 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.289774243562553
+2002 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.773670030186484
+2002 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.31167689640236
+2003 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.317551541561706
+2003 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.162705491665218
+2003 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.88523134426141
+2003 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.144042626762156
+2004 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.475649051687355
+2004 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,10.084737431390796
+2004 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.489962818706587
+2004 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.650046638303436
+2005 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.459251389709788
+2005 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.360808677303012
+2005 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.193325841061904
+2005 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.677043599156246
+2006 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.314840927214638
+2006 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.257387141218674
+2006 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.003260225363483
+2006 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.21901459319343
+2007 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.795268777626626
+2007 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.45584798700316
+2007 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.957394506045084
+2007 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.375632364226206
+2008 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.998902271375322
+2008 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.783897867466626
+2008 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.189350180265556
+2008 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.059177106473207
+2009 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.255963626775271
+2009 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.191104442313096
+2009 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.551294428234737
+2009 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.575373919368024
+2010 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.583799331877785
+2010 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.957332910224496
+2010 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.778373289227186
+2010 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.50323776584275
+2011 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.84815313738472
+2011 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.372123182498514
+2011 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,19.36888898473421
+2011 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.605485954534718
+2012 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.052047391408852
+2012 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,16.64679372563891
+2012 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,17.532597268010353
+2012 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.567464619435336
+2013 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.952253244900826
+2013 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.196363816658192
+2013 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,18.028289626571187
+2013 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.598692314012732
+2014 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.83213980641006
+2014 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.91282844527518
+2014 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.900930980463349
+2014 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.088229568973258
+2015 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.408550725137136
+2015 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.932112827452244
+2015 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.046124885012055
+2015 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.199681577542854
+2016 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.845449010522849
+2016 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.40187455880693
+2016 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,15.27363462682096
+2016 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.892632918961144
+2017 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.666450847650768
+2017 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.548644744333249
+2017 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,14.842521898273748
+2017 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,12.81781345669554
+2018 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.795600052565405
+2018 Q2,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.78420311035351
+2018 Q3,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,13.003826202716803
+2018 Q4,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.76152688228708
+2019 Q1,Not seasonally adjusted percentage (%),남성,,18 to 24,Percentage (%),Units,Undefined,11.65842013863514
+2001 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.888393146303272
+2002 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.993643101608097
+2002 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.977542135918302
+2002 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.39359962894213
+2002 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.64672745257498
+2003 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.55263184390698
+2003 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.782290549077043
+2003 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.77668941186799
+2003 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.889928006933765
+2004 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.004910700456136
+2004 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.20863702380278
+2004 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.175723986574145
+2004 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.128246495903433
+2005 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.953180506069348
+2005 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.70293050886599
+2005 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.456679670955992
+2005 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.246911881768245
+2006 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.708094587528503
+2006 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.912798025617867
+2006 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.63088614522134
+2006 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.737123010648762
+2007 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.490754405264546
+2007 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.049978200509425
+2007 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.898215556242977
+2007 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.74392876537128
+2008 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.16664259153902
+2008 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.358623398884035
+2008 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.47042531966715
+2008 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.39744720655949
+2009 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.090288324955097
+2009 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.329008051053183
+2009 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,21.80760624776996
+2009 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.203639759395323
+2010 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.13213494799966
+2010 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.052375091735456
+2010 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,22.1592385319634
+2010 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.96486591183529
+2011 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.2589147179908
+2011 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.31975038975455
+2011 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,23.10059221001821
+2011 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.93309947779193
+2012 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.988830427446544
+2012 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.90209837189354
+2012 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,21.18292739745497
+2012 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.63254240182354
+2013 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.536864347539247
+2013 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,18.900827072910783
+2013 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,20.909974722245376
+2013 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.265973011731223
+2014 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.374288264189733
+2014 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.451753546662292
+2014 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,19.0355696548936
+2014 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.65403683375916
+2015 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.45977668030147
+2015 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,16.277724062139
+2015 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,17.091028068512358
+2015 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,15.222633244201424
+2016 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,14.620300126620249
+2016 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.83790911585919
+2016 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,15.928393978437844
+2016 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.094200802535106
+2017 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.62187368181632
+2017 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.927879652153198
+2017 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,14.12999611894145
+2017 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.452109934447597
+2018 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.93049861529234
+2018 Q2,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.812073111406573
+2018 Q3,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,15.651881451960683
+2018 Q4,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,13.591263391540414
+2019 Q1,Not seasonally adjusted percentage (%),여성,,18 to 24,Percentage (%),Units,Undefined,12.71964164847812
