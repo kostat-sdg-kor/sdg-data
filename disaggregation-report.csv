@@ -15,7 +15,7 @@ data.Grade,1,2
 data.Household_expenditure_on_health,1,2
 data.IHR_Capacity,1,13
 data.Income_classes,2,5
-data.Residential_area,2,2
+data.Residential_area,3,4
 data.School,1,3
 data.School_environment_indicators,1,6
 data.Sex,19,2
@@ -49,7 +49,6 @@ data.Vaccine,1,3
 이유별,1,15
 종류별,2,17
 지불금액별,1,4
-지역구분,1,2
 지역별,1,8
 차별이유,1,15
 처리방법별,1,4

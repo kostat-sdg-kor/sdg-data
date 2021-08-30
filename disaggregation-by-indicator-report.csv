@@ -39,7 +39,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-18-3,구분,1
 #17-19-2,구분,1
 #17-8-1,"성별, 연령",2
-#2-1-1,"data.Sex, data.Residential_area, data.Income_classes, data.Age",4
+#2-1-1,"data.Residential_area, data.Sex, data.Income_classes, data.Age",4
 #2-1-2,"data.Residential_area, data.Income_classes",2
 #2-3-1,data.Cultivation_size,1
 #2-3-2,data.Cultivation_size,1
@@ -70,7 +70,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-4-1,data.Sex,1
 #5-b-1,"data.Sex, data.Age, data.Device_type",3
 #6-3-2,Category,1
-#7-1-1,지역구분,1
+#7-1-1,data.Residential_area,1
 #8-10-1,구분,1
 #8-10-2,성별,1
 #8-4-2,종류별,1
