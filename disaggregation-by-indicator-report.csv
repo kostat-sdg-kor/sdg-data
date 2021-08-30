@@ -6,7 +6,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-6-1,data.Name_of_international_institution,1
 #10-7-1,"data.Payment, data.Recruitment_cost",2
 #10-7-4,data.Category,1
-#10-a-1,유형,1
+#10-a-1,data.Type_of_product,1
 #11-1-1,시도별,1
 #11-2-1,"유형별, 수단별, 소요시간별",3
 #11-5-1,구분,1
