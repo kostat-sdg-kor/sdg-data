@@ -9,7 +9,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2001,,50~64,,,17.4
 2001,,65~,,,27.8
 2001,,,data.Suburban(Dong),,18
-2001,,,data.Rural(Eup,_Myeon),,20
+2001,,,data.Rural(Eup/Myeon),,20
 2001,,,,data.Lower,24.2
 2001,,,,data.Lower-middle,21.6
 2001,,,,data.Middle,16.5
@@ -25,7 +25,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2001,data.Male,50~64,,,13.8
 2001,data.Male,65~,,,20.9
 2001,data.Male,,data.Suburban(Dong),,13.7
-2001,data.Male,,data.Rural(Eup,_Myeon),,16.4
+2001,data.Male,,data.Rural(Eup/Myeon),,16.4
 2001,data.Male,,,data.Lower,19.4
 2001,data.Male,,,data.Lower-middle,17.7
 2001,data.Male,,,data.Middle,11.3
@@ -41,7 +41,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2001,data.Female,50~64,,,20.3
 2001,data.Female,65~,,,32.1
 2001,data.Female,,data.Suburban(Dong),,21.9
-2001,data.Female,,data.Rural(Eup,_Myeon),,23.2
+2001,data.Female,,data.Rural(Eup/Myeon),,23.2
 2001,data.Female,,,data.Lower,28.4
 2001,data.Female,,,data.Lower-middle,25.3
 2001,data.Female,,,data.Middle,21.4
@@ -57,7 +57,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2005,,50~64,,,9.7
 2005,,65~,,,15.8
 2005,,,data.Suburban(Dong),,11.4
-2005,,,data.Rural(Eup,_Myeon),,12.3
+2005,,,data.Rural(Eup/Myeon),,12.3
 2005,,,,data.Lower,14.1
 2005,,,,data.Lower-middle,12.8
 2005,,,,data.Middle,9.9
@@ -73,7 +73,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2005,data.Male,50~64,,,8.7
 2005,data.Male,65~,,,13.8
 2005,data.Male,,data.Suburban(Dong),,9.3
-2005,data.Male,,data.Rural(Eup,_Myeon),,10
+2005,data.Male,,data.Rural(Eup/Myeon),,10
 2005,data.Male,,,data.Lower,12.3
 2005,data.Male,,,data.Lower-middle,12.1
 2005,data.Male,,,data.Middle,7.4
@@ -89,7 +89,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2005,data.Female,50~64,,,10.6
 2005,data.Female,65~,,,17.2
 2005,data.Female,,data.Suburban(Dong),,13.6
-2005,data.Female,,data.Rural(Eup,_Myeon),,14.6
+2005,data.Female,,data.Rural(Eup/Myeon),,14.6
 2005,data.Female,,,data.Lower,16
 2005,data.Female,,,data.Lower-middle,13.6
 2005,data.Female,,,data.Middle,12.5
@@ -105,7 +105,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2007,,50~64,,,13.7
 2007,,65~,,,27.5
 2007,,,data.Suburban(Dong),,17.4
-2007,,,data.Rural(Eup,_Myeon),,16.2
+2007,,,data.Rural(Eup/Myeon),,16.2
 2007,,,,data.Lower,21
 2007,,,,data.Lower-middle,16.8
 2007,,,,data.Middle,15.2
@@ -121,7 +121,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2007,data.Male,50~64,,,7.1
 2007,data.Male,65~,,,24.2
 2007,data.Male,,data.Suburban(Dong),,11.3
-2007,data.Male,,data.Rural(Eup,_Myeon),,11.1
+2007,data.Male,,data.Rural(Eup/Myeon),,11.1
 2007,data.Male,,,data.Lower,14.7
 2007,data.Male,,,data.Lower-middle,8.9
 2007,data.Male,,,data.Middle,8.5
@@ -137,7 +137,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2007,data.Female,50~64,,,20.1
 2007,data.Female,65~,,,29.7
 2007,data.Female,,data.Suburban(Dong),,23.3
-2007,data.Female,,data.Rural(Eup,_Myeon),,21.9
+2007,data.Female,,data.Rural(Eup/Myeon),,21.9
 2007,data.Female,,,data.Lower,27.6
 2007,data.Female,,,data.Lower-middle,25.2
 2007,data.Female,,,data.Middle,22.2
@@ -153,7 +153,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2008,,50~64,,,9.3
 2008,,65~,,,20.5
 2008,,,data.Suburban(Dong),,13.6
-2008,,,data.Rural(Eup,_Myeon),,14.6
+2008,,,data.Rural(Eup/Myeon),,14.6
 2008,,,,data.Lower,17.9
 2008,,,,data.Lower-middle,15
 2008,,,,data.Middle,13.1
@@ -169,7 +169,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2008,data.Male,50~64,,,6.7
 2008,data.Male,65~,,,15.2
 2008,data.Male,,data.Suburban(Dong),,10.4
-2008,data.Male,,data.Rural(Eup,_Myeon),,12.3
+2008,data.Male,,data.Rural(Eup/Myeon),,12.3
 2008,data.Male,,,data.Lower,14.1
 2008,data.Male,,,data.Lower-middle,12.9
 2008,data.Male,,,data.Middle,10.3
@@ -185,7 +185,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2008,data.Female,50~64,,,11.9
 2008,data.Female,65~,,,24.2
 2008,data.Female,,data.Suburban(Dong),,16.7
-2008,data.Female,,data.Rural(Eup,_Myeon),,17
+2008,data.Female,,data.Rural(Eup/Myeon),,17
 2008,data.Female,,,data.Lower,21.7
 2008,data.Female,,,data.Lower-middle,17.1
 2008,data.Female,,,data.Middle,15.7
@@ -201,7 +201,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2009,,50~64,,,9.1
 2009,,65~,,,22.6
 2009,,,data.Suburban(Dong),,13.9
-2009,,,data.Rural(Eup,_Myeon),,15.7
+2009,,,data.Rural(Eup/Myeon),,15.7
 2009,,,,data.Lower,19.8
 2009,,,,data.Lower-middle,15.9
 2009,,,,data.Middle,13.4
@@ -217,7 +217,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2009,data.Male,50~64,,,6.2
 2009,data.Male,65~,,,17.3
 2009,data.Male,,data.Suburban(Dong),,10
-2009,data.Male,,data.Rural(Eup,_Myeon),,10.6
+2009,data.Male,,data.Rural(Eup/Myeon),,10.6
 2009,data.Male,,,data.Lower,15.1
 2009,data.Male,,,data.Lower-middle,12
 2009,data.Male,,,data.Middle,10.1
@@ -233,7 +233,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2009,data.Female,50~64,,,11.9
 2009,data.Female,65~,,,26.1
 2009,data.Female,,data.Suburban(Dong),,17.9
-2009,data.Female,,data.Rural(Eup,_Myeon),,20.9
+2009,data.Female,,data.Rural(Eup/Myeon),,20.9
 2009,data.Female,,,data.Lower,24.5
 2009,data.Female,,,data.Lower-middle,19.7
 2009,data.Female,,,data.Middle,16.9
@@ -249,7 +249,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2010,,50~64,,,5.7
 2010,,65~,,,14.7
 2010,,,data.Suburban(Dong),,10.2
-2010,,,data.Rural(Eup,_Myeon),,9.5
+2010,,,data.Rural(Eup/Myeon),,9.5
 2010,,,,data.Lower,14.2
 2010,,,,data.Lower-middle,11.4
 2010,,,,data.Middle,7.8
@@ -265,7 +265,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2010,data.Male,50~64,,,3.7
 2010,data.Male,65~,,,10.6
 2010,data.Male,,data.Suburban(Dong),,7.1
-2010,data.Male,,data.Rural(Eup,_Myeon),,6.1
+2010,data.Male,,data.Rural(Eup/Myeon),,6.1
 2010,data.Male,,,data.Lower,11.8
 2010,data.Male,,,data.Lower-middle,7.5
 2010,data.Male,,,data.Middle,5.6
@@ -281,7 +281,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2010,data.Female,50~64,,,7.8
 2010,data.Female,65~,,,17.5
 2010,data.Female,,data.Suburban(Dong),,13.3
-2010,data.Female,,data.Rural(Eup,_Myeon),,12.9
+2010,data.Female,,data.Rural(Eup/Myeon),,12.9
 2010,data.Female,,,data.Lower,16.6
 2010,data.Female,,,data.Lower-middle,15.2
 2010,data.Female,,,data.Middle,10.1
@@ -297,7 +297,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2011,,50~64,,,5.9
 2011,,65~,,,17
 2011,,,data.Suburban(Dong),,11
-2011,,,data.Rural(Eup,_Myeon),,9
+2011,,,data.Rural(Eup/Myeon),,9
 2011,,,,data.Lower,12.7
 2011,,,,data.Lower-middle,11.2
 2011,,,,data.Middle,10.3
@@ -313,7 +313,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2011,data.Male,50~64,,,4.5
 2011,data.Male,65~,,,12.3
 2011,data.Male,,data.Suburban(Dong),,7.8
-2011,data.Male,,data.Rural(Eup,_Myeon),,5.4
+2011,data.Male,,data.Rural(Eup/Myeon),,5.4
 2011,data.Male,,,data.Lower,10.5
 2011,data.Male,,,data.Lower-middle,7.5
 2011,data.Male,,,data.Middle,6.9
@@ -329,7 +329,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2011,data.Female,50~64,,,7.3
 2011,data.Female,65~,,,20.2
 2011,data.Female,,data.Suburban(Dong),,14.2
-2011,data.Female,,data.Rural(Eup,_Myeon),,12.5
+2011,data.Female,,data.Rural(Eup/Myeon),,12.5
 2011,data.Female,,,data.Lower,14.9
 2011,data.Female,,,data.Lower-middle,14.9
 2011,data.Female,,,data.Middle,13.6
@@ -345,7 +345,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2012,,50~64,,,8
 2012,,65~,,,15.6
 2012,,,data.Suburban(Dong),,11.1
-2012,,,data.Rural(Eup,_Myeon),,15.2
+2012,,,data.Rural(Eup/Myeon),,15.2
 2012,,,,data.Lower,17.4
 2012,,,,data.Lower-middle,10.9
 2012,,,,data.Middle,13.2
@@ -361,7 +361,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2012,data.Male,50~64,,,7
 2012,data.Male,65~,,,9.8
 2012,data.Male,,data.Suburban(Dong),,7.7
-2012,data.Male,,data.Rural(Eup,_Myeon),,11.2
+2012,data.Male,,data.Rural(Eup/Myeon),,11.2
 2012,data.Male,,,data.Lower,13.5
 2012,data.Male,,,data.Lower-middle,7.8
 2012,data.Male,,,data.Middle,8.5
@@ -377,7 +377,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2012,data.Female,50~64,,,8.9
 2012,data.Female,65~,,,19.7
 2012,data.Female,,data.Suburban(Dong),,14.5
-2012,data.Female,,data.Rural(Eup,_Myeon),,19.4
+2012,data.Female,,data.Rural(Eup/Myeon),,19.4
 2012,data.Female,,,data.Lower,21.2
 2012,data.Female,,,data.Lower-middle,14.2
 2012,data.Female,,,data.Middle,17.8
@@ -393,7 +393,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2013,,50~64,,,3.1
 2013,,65~,,,8.5
 2013,,,data.Suburban(Dong),,8.3
-2013,,,data.Rural(Eup,_Myeon),,7.1
+2013,,,data.Rural(Eup/Myeon),,7.1
 2013,,,,data.Lower,11.8
 2013,,,,data.Lower-middle,7.3
 2013,,,,data.Middle,7.6
@@ -409,7 +409,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2013,data.Male,50~64,,,2.6
 2013,data.Male,65~,,,6.5
 2013,data.Male,,data.Suburban(Dong),,5.4
-2013,data.Male,,data.Rural(Eup,_Myeon),,5
+2013,data.Male,,data.Rural(Eup/Myeon),,5
 2013,data.Male,,,data.Lower,9
 2013,data.Male,,,data.Lower-middle,4.6
 2013,data.Male,,,data.Middle,3.3
@@ -425,7 +425,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2013,data.Female,50~64,,,3.5
 2013,data.Female,65~,,,9.9
 2013,data.Female,,data.Suburban(Dong),,11.1
-2013,data.Female,,data.Rural(Eup,_Myeon),,9.4
+2013,data.Female,,data.Rural(Eup/Myeon),,9.4
 2013,data.Female,,,data.Lower,14.5
 2013,data.Female,,,data.Lower-middle,10.4
 2013,data.Female,,,data.Middle,11.7
@@ -441,7 +441,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2014,,50~64,,,3.3
 2014,,65~,,,8.3
 2014,,,data.Suburban(Dong),,7.9
-2014,,,data.Rural(Eup,_Myeon),,8.5
+2014,,,data.Rural(Eup/Myeon),,8.5
 2014,,,,data.Lower,11.7
 2014,,,,data.Lower-middle,8.7
 2014,,,,data.Middle,5.7
@@ -457,7 +457,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2014,data.Male,50~64,,,2.4
 2014,data.Male,65~,,,5.9
 2014,data.Male,,data.Suburban(Dong),,5.1
-2014,data.Male,,data.Rural(Eup,_Myeon),,6.1
+2014,data.Male,,data.Rural(Eup/Myeon),,6.1
 2014,data.Male,,,data.Lower,8.2
 2014,data.Male,,,data.Lower-middle,5.3
 2014,data.Male,,,data.Middle,3.2
@@ -473,7 +473,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2014,data.Female,50~64,,,4.1
 2014,data.Female,65~,,,10
 2014,data.Female,,data.Suburban(Dong),,10.7
-2014,data.Female,,data.Rural(Eup,_Myeon),,11
+2014,data.Female,,data.Rural(Eup/Myeon),,11
 2014,data.Female,,,data.Lower,15.4
 2014,data.Female,,,data.Lower-middle,12
 2014,data.Female,,,data.Middle,8.3
@@ -489,7 +489,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2015,,50~64,,,3.9
 2015,,65~,,,8.3
 2015,,,data.Suburban(Dong),,8.6
-2015,,,data.Rural(Eup,_Myeon),,8.5
+2015,,,data.Rural(Eup/Myeon),,8.5
 2015,,,,data.Lower,14.3
 2015,,,,data.Lower-middle,9.4
 2015,,,,data.Middle,6.1
@@ -505,7 +505,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2015,data.Male,50~64,,,3
 2015,data.Male,65~,,,6.1
 2015,data.Male,,data.Suburban(Dong),,5.5
-2015,data.Male,,data.Rural(Eup,_Myeon),,5.5
+2015,data.Male,,data.Rural(Eup/Myeon),,5.5
 2015,data.Male,,,data.Lower,11
 2015,data.Male,,,data.Lower-middle,6.6
 2015,data.Male,,,data.Middle,3.1
@@ -521,7 +521,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2015,data.Female,50~64,,,4.7
 2015,data.Female,65~,,,9.9
 2015,data.Female,,data.Suburban(Dong),,11.5
-2015,data.Female,,data.Rural(Eup,_Myeon),,11.9
+2015,data.Female,,data.Rural(Eup/Myeon),,11.9
 2015,data.Female,,,data.Lower,17.8
 2015,data.Female,,,data.Lower-middle,12.2
 2015,data.Female,,,data.Middle,9.1
@@ -537,7 +537,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2016,,50~64,,,9.1
 2016,,65~,,,14.1
 2016,,,data.Suburban(Dong),,11.9
-2016,,,data.Rural(Eup,_Myeon),,15.3
+2016,,,data.Rural(Eup/Myeon),,15.3
 2016,,,,data.Lower,16.2
 2016,,,,data.Lower-middle,12.3
 2016,,,,data.Middle,12.7
@@ -553,7 +553,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2016,data.Male,50~64,,,7
 2016,data.Male,65~,,,10.6
 2016,data.Male,,data.Suburban(Dong),,7.6
-2016,data.Male,,data.Rural(Eup,_Myeon),,11.6
+2016,data.Male,,data.Rural(Eup/Myeon),,11.6
 2016,data.Male,,,data.Lower,14.3
 2016,data.Male,,,data.Lower-middle,6.1
 2016,data.Male,,,data.Middle,8.2
@@ -569,7 +569,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2016,data.Female,50~64,,,11.3
 2016,data.Female,65~,,,16.6
 2016,data.Female,,data.Suburban(Dong),,16.1
-2016,data.Female,,data.Rural(Eup,_Myeon),,19.2
+2016,data.Female,,data.Rural(Eup/Myeon),,19.2
 2016,data.Female,,,data.Lower,18.4
 2016,data.Female,,,data.Lower-middle,18.1
 2016,data.Female,,,data.Middle,17
@@ -585,7 +585,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2017,,50~64,,,9.9
 2017,,65~,,,14.7
 2017,,,data.Suburban(Dong),,13.1
-2017,,,data.Rural(Eup,_Myeon),,14.7
+2017,,,data.Rural(Eup/Myeon),,14.7
 2017,,,,data.Lower,19.1
 2017,,,,data.Lower-middle,13.5
 2017,,,,data.Middle,12
@@ -601,7 +601,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2017,data.Male,50~64,,,8.3
 2017,data.Male,65~,,,14.6
 2017,data.Male,,data.Suburban(Dong),,10.4
-2017,data.Male,,data.Rural(Eup,_Myeon),,12.4
+2017,data.Male,,data.Rural(Eup/Myeon),,12.4
 2017,data.Male,,,data.Lower,16.1
 2017,data.Male,,,data.Lower-middle,11.4
 2017,data.Male,,,data.Middle,9
@@ -617,7 +617,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2017,data.Female,50~64,,,11.5
 2017,data.Female,65~,,,14.9
 2017,data.Female,,data.Suburban(Dong),,15.8
-2017,data.Female,,data.Rural(Eup,_Myeon),,17.1
+2017,data.Female,,data.Rural(Eup/Myeon),,17.1
 2017,data.Female,,,data.Lower,22.3
 2017,data.Female,,,data.Lower-middle,15.7
 2017,data.Female,,,data.Middle,15.1
@@ -633,7 +633,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2018,,50~64,,,8.8
 2018,,65~,,,14.4
 2018,,,data.Suburban(Dong),,12.9
-2018,,,data.Rural(Eup,_Myeon),,12.6
+2018,,,data.Rural(Eup/Myeon),,12.6
 2018,,,,data.Lower,16.3
 2018,,,,data.Lower-middle,12.4
 2018,,,,data.Middle,13.7
@@ -649,7 +649,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2018,data.Male,50~64,,,5.3
 2018,data.Male,65~,,,11.1
 2018,data.Male,,data.Suburban(Dong),,8.3
-2018,data.Male,,data.Rural(Eup,_Myeon),,8.3
+2018,data.Male,,data.Rural(Eup/Myeon),,8.3
 2018,data.Male,,,data.Lower,10
 2018,data.Male,,,data.Lower-middle,8.4
 2018,data.Male,,,data.Middle,10.3
@@ -665,7 +665,7 @@ Year,data.Sex,data.Age,data.Residential_area,data.Income_classes,Value
 2018,data.Female,50~64,,,12.3
 2018,data.Female,65~,,,16.9
 2018,data.Female,,data.Suburban(Dong),,17.5
-2018,data.Female,,data.Rural(Eup,_Myeon),,16.9
+2018,data.Female,,data.Rural(Eup/Myeon),,16.9
 2018,data.Female,,,data.Lower,22.2
 2018,data.Female,,,data.Lower-middle,16.5
 2018,data.Female,,,data.Middle,17.1
