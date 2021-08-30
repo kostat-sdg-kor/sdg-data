@@ -1,6 +1,6 @@
-Year,취업소개료 지불여부,지불금액별,Value
-2018,지불함,,12.7
-2018,지불함,15만 원 미만,56.5
-2018,지불함,15만 원~30만 원 미만,30.6
-2018,지불함,30만 원 이상,12.9
-2018,지불한 적 없음,해당없음,87.3
+Year,data.Payment,data.Recruitment_cost,Value
+2018,data.01_Yes,,12.7
+2018,data.01_Yes,data.~150mKRW ,56.5
+2018,data.01_Yes,data.150~300mKRW ,30.6
+2018,data.01_Yes,data.+300mKRW,12.9
+2018,data.02_No,data.N/A,87.3
