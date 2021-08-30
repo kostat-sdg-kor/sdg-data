@@ -3,8 +3,8 @@ data.01_Urban,1,1
 data.02_Suburban,1,1
 data.03_Rural,1,1
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
-data.dead_or_missing,1,1
-data.directly_affected,1,1
+data.dead_or_missing,2,2
+data.directly_affected,2,2
 data.Old-age_pension_take-up_rate,1,1
 data.Refugees_recognized,1,1
 data.Refugees_request,1,1
