@@ -1,35 +1,35 @@
 Year,구분,Value
-2002,기초 식수 서비스,98.55287
-2003,기초 식수 서비스,98.55287
-2004,기초 식수 서비스,98.55287
-2005,기초 식수 서비스,98.55287
-2006,기초 식수 서비스,98.55287
-2007,기초 식수 서비스,98.66513
-2008,기초 식수 서비스,98.77738
-2009,기초 식수 서비스,98.88963
-2010,기초 식수 서비스,99.00189
-2011,기초 식수 서비스,99.11414
-2012,기초 식수 서비스,99.22639
-2013,기초 식수 서비스,99.33864
-2014,기초 식수 서비스,99.4509
-2015,기초 식수 서비스,99.56315
-2016,기초 식수 서비스,99.6754
-2017,기초 식수 서비스,99.78765
-2000,기초 위생 서비스,100.0
-2001,기초 위생 서비스,100.0
-2002,기초 위생 서비스,100.0
-2003,기초 위생 서비스,100.0
-2004,기초 위생 서비스,100.0
-2005,기초 위생 서비스,100.0
-2006,기초 위생 서비스,100.0
-2007,기초 위생 서비스,100.0
-2008,기초 위생 서비스,100.0
-2009,기초 위생 서비스,100.0
-2010,기초 위생 서비스,100.0
-2011,기초 위생 서비스,100.0
-2012,기초 위생 서비스,100.0
-2013,기초 위생 서비스,100.0
-2014,기초 위생 서비스,100.0
-2015,기초 위생 서비스,100.0
-2016,기초 위생 서비스,100.0
-2017,기초 위생 서비스,100.0
+2002,data.Basic_drinking_water_services,98.55287
+2003,data.Basic_drinking_water_services,98.55287
+2004,data.Basic_drinking_water_services,98.55287
+2005,data.Basic_drinking_water_services,98.55287
+2006,data.Basic_drinking_water_services,98.55287
+2007,data.Basic_drinking_water_services,98.66513
+2008,data.Basic_drinking_water_services,98.77738
+2009,data.Basic_drinking_water_services,98.88963
+2010,data.Basic_drinking_water_services,99.00189
+2011,data.Basic_drinking_water_services,99.11414
+2012,data.Basic_drinking_water_services,99.22639
+2013,data.Basic_drinking_water_services,99.33864
+2014,data.Basic_drinking_water_services,99.4509
+2015,data.Basic_drinking_water_services,99.56315
+2016,data.Basic_drinking_water_services,99.6754
+2017,data.Basic_drinking_water_services,99.78765
+2000,data.Basic_sanitation_services,100.0
+2001,data.Basic_sanitation_services,100.0
+2002,data.Basic_sanitation_services,100.0
+2003,data.Basic_sanitation_services,100.0
+2004,data.Basic_sanitation_services,100.0
+2005,data.Basic_sanitation_services,100.0
+2006,data.Basic_sanitation_services,100.0
+2007,data.Basic_sanitation_services,100.0
+2008,data.Basic_sanitation_services,100.0
+2009,data.Basic_sanitation_services,100.0
+2010,data.Basic_sanitation_services,100.0
+2011,data.Basic_sanitation_services,100.0
+2012,data.Basic_sanitation_services,100.0
+2013,data.Basic_sanitation_services,100.0
+2014,data.Basic_sanitation_services,100.0
+2015,data.Basic_sanitation_services,100.0
+2016,data.Basic_sanitation_services,100.0
+2017,data.Basic_sanitation_services,100.0
