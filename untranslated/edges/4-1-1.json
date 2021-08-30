@@ -1,1 +1,1 @@
-{"From":["\ud559\ub144","\uacfc\ubaa9"],"To":["\uacfc\ubaa9","\uc131\ubcc4"]}
+{"From":["data.Grade","data.Subjects"],"To":["data.Subjects","data.Sex"]}
