@@ -12,9 +12,9 @@ Year,data.Sex,Value
 2010,data.Male,28.7
 2010,data.Female,32.3
 2011,,32.4
-2011,data.Female,30.7
-2011,data.Male,34
-#REF!
+2011,data.Male,30.7
+2011,data.Female,34
+2012,,35.6
 2012,data.Male,31.8
 2012,data.Female,39.4
 2013,,30.2
