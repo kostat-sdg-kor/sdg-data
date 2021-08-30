@@ -5,7 +5,7 @@ data.Alcohol,1,12
 data.Banking_service,1,2
 data.Birth_location,1,6
 data.category,2,4
-data.Category,3,9
+data.Category,4,15
 data.Cause_of_death,1,4
 data.Cultivation_size,2,9
 data.Delievery_option,1,2
@@ -45,7 +45,6 @@ data.Vaccine,1,3
 세부수준별,1,5
 소요시간별,1,4
 수단별,1,2
-시도별,1,3
 어업별,1,4
 연령,1,9
 연령별,1,5
