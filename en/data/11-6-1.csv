@@ -1,66 +1,66 @@
-Year,구분,Value
-2000,생활폐기물,39384.2
-2001,생활폐기물,40768.2
-2002,생활폐기물,42782.9
-2003,생활폐기물,42918.1
-2004,생활폐기물,41578.0
-2005,생활폐기물,40566.5
-2006,생활폐기물,40899.6
-2007,생활폐기물,42570.8
-2008,생활폐기물,42268.9
-2009,생활폐기물,42085.8
-2010,생활폐기물,40920.4
-2011,생활폐기물,40941.7
-2012,생활폐기물,41644.2
-2013,생활폐기물,40542.7
-2014,생활폐기물,42355.2
-2015,생활폐기물,43411.2
-2016,생활폐기물,45460.3
-2017,생활폐기물,45008.9
-2018,생활폐기물,46749.3
-2000,사업장생활계폐기물,7053.5
-2001,사업장생활계폐기물,7730.4
-2002,사업장생활계폐기물,7118.7
-2003,사업장생활계폐기물,7818.7
-2004,사업장생활계폐기물,8429.3
-2005,사업장생활계폐기물,7831.8
-2006,사업장생활계폐기물,7941.6
-2007,사업장생활계폐기물,7775.5
-2008,사업장생활계폐기물,9803.4
-2009,사업장생활계폐기물,8820.4
-2010,사업장생활계폐기물,8238.6
-2011,사업장생활계폐기물,7992.7
-2012,사업장생활계폐기물,7345.6
-2013,사업장생활계폐기물,8185.5
-2014,사업장생활계폐기물,7559.6
-2015,사업장생활계폐기물,7835.6
-2016,사업장생활계폐기물,8311.6
-2017,사업장생활계폐기물,8480.6
-2018,사업장생활계폐기물,9286.1
-2005,건설폐기물,129572.5
-2006,건설폐기물,168984.9
-2007,건설폐기물,172005.0
-2008,건설폐기물,176447.3
-2009,건설폐기물,183350.8
-2010,건설폐기물,178120.4
-2011,건설폐기물,186417.2
-2012,건설폐기물,186628.5
-2013,건설폐기물,183537.7
-2014,건설폐기물,185382.4
-2015,건설폐기물,198259.8
-2016,건설폐기물,199444.0
-2017,건설폐기물,196261.6
-2018,건설폐기물,206950.9
-2006,사업장배출시설계폐기물,101099.3
-2007,사업장배출시설계폐기물,114807.0
-2008,사업장배출시설계폐기물,130777.3
-2009,사업장배출시설계폐기물,123604.1
-2010,사업장배출시설계폐기물,137875.0
-2011,사업장배출시설계폐기물,137960.5
-2012,사업장배출시설계폐기물,146390.4
-2013,사업장배출시설계폐기물,148443.1
-2014,사업장배출시설계폐기물,153188.5
-2015,사업장배출시설계폐기물,155305.5
-2016,사업장배출시설계폐기물,162128.9
-2017,사업장배출시설계폐기물,164874.7
-2018,사업장배출시설계폐기물,167726.9
+Year,data.Category,Value
+2000,Municipal waste,39384.2
+2001,Municipal waste,40768.2
+2002,Municipal waste,42782.9
+2003,Municipal waste,42918.1
+2004,Municipal waste,41578.0
+2005,Municipal waste,40566.5
+2006,Municipal waste,40899.6
+2007,Municipal waste,42570.8
+2008,Municipal waste,42268.9
+2009,Municipal waste,42085.8
+2010,Municipal waste,40920.4
+2011,Municipal waste,40941.7
+2012,Municipal waste,41644.2
+2013,Municipal waste,40542.7
+2014,Municipal waste,42355.2
+2015,Municipal waste,43411.2
+2016,Municipal waste,45460.3
+2017,Municipal waste,45008.9
+2018,Municipal waste,46749.3
+2000,Industrial solid waste,7053.5
+2001,Industrial solid waste,7730.4
+2002,Industrial solid waste,7118.7
+2003,Industrial solid waste,7818.7
+2004,Industrial solid waste,8429.3
+2005,Industrial solid waste,7831.8
+2006,Industrial solid waste,7941.6
+2007,Industrial solid waste,7775.5
+2008,Industrial solid waste,9803.4
+2009,Industrial solid waste,8820.4
+2010,Industrial solid waste,8238.6
+2011,Industrial solid waste,7992.7
+2012,Industrial solid waste,7345.6
+2013,Industrial solid waste,8185.5
+2014,Industrial solid waste,7559.6
+2015,Industrial solid waste,7835.6
+2016,Industrial solid waste,8311.6
+2017,Industrial solid waste,8480.6
+2018,Industrial solid waste,9286.1
+2005,Construction waste,129572.5
+2006,Construction waste,168984.9
+2007,Construction waste,172005.0
+2008,Construction waste,176447.3
+2009,Construction waste,183350.8
+2010,Construction waste,178120.4
+2011,Construction waste,186417.2
+2012,Construction waste,186628.5
+2013,Construction waste,183537.7
+2014,Construction waste,185382.4
+2015,Construction waste,198259.8
+2016,Construction waste,199444.0
+2017,Construction waste,196261.6
+2018,Construction waste,206950.9
+2006,Industrial hazardous waste,101099.3
+2007,Industrial hazardous waste,114807.0
+2008,Industrial hazardous waste,130777.3
+2009,Industrial hazardous waste,123604.1
+2010,Industrial hazardous waste,137875.0
+2011,Industrial hazardous waste,137960.5
+2012,Industrial hazardous waste,146390.4
+2013,Industrial hazardous waste,148443.1
+2014,Industrial hazardous waste,153188.5
+2015,Industrial hazardous waste,155305.5
+2016,Industrial hazardous waste,162128.9
+2017,Industrial hazardous waste,164874.7
+2018,Industrial hazardous waste,167726.9
