@@ -15,7 +15,7 @@ data.Household_expenditure_on_health,1,2
 data.IHR_Capacity,1,13
 data.Income_classes,2,5
 data.Residential_area,2,2
-data.Sex,13,2
+data.Sex,14,2
 data.Subjects,1,2
 data.Type_of_occupation,1,9
 data.Type_of_skill,1,2
@@ -32,7 +32,7 @@ data.Vaccine,1,3
 단위별,1,2
 도시규모별,1,5
 동･읍면부별,1,2
-성별,13,7
+성별,12,7
 세부사항별,1,2
 세부수준별,1,5
 소요시간별,1,4
