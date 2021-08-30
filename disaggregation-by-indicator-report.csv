@@ -5,7 +5,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-3-1,data.Reasons,1
 #10-6-1,data.Name_of_international_institution,1
 #10-7-1,"data.Payment, data.Recruitment_cost",2
-#10-7-4,data.Category,1
+#10-7-4,data.category,1
 #10-a-1,data.Type_of_product,1
 #11-1-1,data.Category,1
 #11-2-1,"data.Access_point, data.Transportation, data.Time(min)",3
@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-1,data.Category,1
 #11-6-2,data.Category,1
 #11-7-1,data.Category,1
-#11-7-2,폭력범죄 유형별,1
+#11-7-2,data.Category,1
 #12-1-1,구분,1
 #12-2-2,종류별,1
 #12-3-1,도시규모별,1

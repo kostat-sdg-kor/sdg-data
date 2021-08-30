@@ -2,6 +2,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 data.01_Urban,1,1
 data.02_Suburban,1,1
 data.03_Rural,1,1
+data.Assault,1,1
 data.Busan,1,1
 data.Construction_waste,1,1
 data.Daegu,1,1
@@ -11,6 +12,7 @@ data.directly_affected,1,1
 data.Domestic_Freight,4,1
 data.Domestic_Passenger,5,1
 data.Gwangju,1,1
+data.Harassment,1,1
 data.Incheon,1,1
 data.Industrial_hazardous_waste,1,1
 data.Industrial_solid_waste,1,1
@@ -18,11 +20,11 @@ data.International_Freight,2,1
 data.International_Passenger,2,1
 data.Municipal_waste,1,1
 data.Open_water_area,1,1
-data.Refugees_recognized,1,1
-data.Refugees_request,1,1
 data.River,1,1
+data.Robbery,1,1
 data.Sejong,1,1
 data.Seoul,1,1
+data.Sexual_violence,1,1
 data.Ulsan,1,1
 data.Underground_water,1,1
 PM10,1,1
