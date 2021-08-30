@@ -42,8 +42,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-1-1,"data.Residential_area, data.Income_classes, data.Sex, data.Age",4
 #2-1-2,"data.Residential_area, data.Income_classes",2
 #2-3-1,data.Cultivation_size,1
-#2-3-2,경지규모별,1
-#2-a-1,구분,1
+#2-3-2,data.Cultivation_size,1
 #3-1-2,"분만장소별, 분만방법별",2
 #3-2-1,성별,1
 #3-2-2,성별,1
