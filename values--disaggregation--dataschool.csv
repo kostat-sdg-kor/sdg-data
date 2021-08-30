@@ -1,4 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-고등학교,6,1
-중학교,6,1
-초등학교,6,1
+data.Elementary_school,6,1
+data.High_school,6,1
+data.Middle_school,6,1

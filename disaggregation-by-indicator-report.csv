@@ -64,7 +64,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-1,"성별, 기술유형",2
 #4-5-1,"data.Education_indicators, data.Type_of_skill",2
 #4-6-1,data.Sex,1
-#4-a-1,"접근, 교육수준",2
+#4-a-1,"data.School_environment_indicators, data.School",2
 #5-2-1,성별,1
 #5-2-2,성별,1
 #5-4-1,성별,1
