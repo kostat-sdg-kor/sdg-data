@@ -5,8 +5,8 @@ data.Age,3,23
 data.Alcohol,1,12
 data.Banking_service,1,2
 data.Birth_location,1,6
-data.category,7,15
-data.Category,4,19
+data.category,9,27
+data.Category,2,7
 data.Cause_of_death,1,4
 data.Cultivation_size,2,9
 data.Delievery_option,1,2
