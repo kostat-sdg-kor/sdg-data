@@ -69,7 +69,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-2-2,data.Sex,1
 #5-4-1,data.Sex,1
 #5-b-1,"data.Sex, data.Age, data.Device_type",3
-#6-3-2,Category,1
+#6-3-2,data.Category,1
 #7-1-1,data.Residential_area,1
 #8-10-1,구분,1
 #8-10-2,성별,1
