@@ -1,1 +1,12 @@
-Year,Value
+Year,Value,Units
+2015,1,data.Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)
+2016,1,data.Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)
+2017,1,data.Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)
+2018,1,data.Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)
+2019,1,data.Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)
+2015,1,인구주택총조사실시
+2015,1,75%이상 사망등록
+2016,1,75%이상 사망등록
+2017,1,75%이상 사망등록
+2018,1,75%이상 사망등록
+2019,1,75%이상 사망등록
