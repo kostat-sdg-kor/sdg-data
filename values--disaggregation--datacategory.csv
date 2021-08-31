@@ -21,6 +21,7 @@ data.dead_or_missing,3,3
 data.directly_affected,3,3
 data.Domestic_waste,1,1
 data.Etc._(tonnes/day),1,1
+data.Extent_of_use_of_country-owned_results_frameworks_and_planning_tools_by_providers_of_development_cooperation_-_data_by_provider_(%)_,1,1
 data.First_publication,1,1
 data.Freshwater,1,1
 data.Gwangju,1,1
@@ -39,6 +40,9 @@ data.Parties_meeting_their_commitments_and_obligations_in_transmitting_informati
 data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Stockholm_Convention_on_hazardous_waste_and_other_chemicals,1,1
 data.preferencial_status,7,1
 data.Proportion_of_members_of_developing_countries(%),10,1
+data.Proportion_of_project_objectives_of_new_development_interventions_drawn_from_country-led_result_frameworks_-_data_by_provider_(%),1,1
+data.Proportion_of_results_indicators_drawn_from_country-led_results_frameworks_-_data_by_provider_(%),1,1
+data.Proportion_of_results_indicators_which_will_be_monitored_using_government_sources_and_monitoring_systems_-_data_by_provider_(%),1,1
 data.Proportion_of_voting_right_of_developing_countries(%),10,1
 data.Refugees_recognized,1,1
 data.Refugees_request,1,1

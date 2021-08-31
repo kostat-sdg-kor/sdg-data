@@ -1,8 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.Agricultural_products,3,2
-data.Arms,3,2
+data.Agricultural_products,5,3
+data.Arms,5,3
 data.BIM,6,2
-data.Clothing,3,2
+data.Clothing,5,3
 data.COL,6,2
 data.CPR,6,2
 data.CRO,6,2
@@ -10,16 +10,16 @@ data.FEO,6,2
 data.FOF,6,2
 data.GAS,6,2
 data.GBO,6,2
-data.Industrial_products,3,2
+data.Industrial_products,5,3
 data.MEO,6,2
 data.NFO,6,2
 data.NMA,6,2
 data.NMC,6,2
 data.NMM,6,2
-data.Oil,3,2
+data.Oil,5,3
 data.PET,6,2
 data.RAW,6,2
-data.Textiles,3,2
-data.Total_or_no_breakdown,3,2
+data.Textiles,5,3
+data.Total_or_no_breakdown,5,3
 data.WCH,6,2
 data.WOD,6,2
