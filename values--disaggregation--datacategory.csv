@@ -1,4 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
+CH₄,1,1
+CO₂,1,1
 data.01_Average,1,1
 data.01_Urban,1,1
 data.02_Special_city,1,1
@@ -42,5 +44,9 @@ data.Ulsan,1,1
 data.Waste_disposed_by_type_of_treatment(tonnes/day),1,1
 data.Waste_incinerated_by_type_of_treatment(tonnes/day),1,1
 data.Waste_recycled_by_type_of_treatment(tonnes/day),1,1
+HFCs,1,1
+N₂O,1,1
+PFCs,1,1
 PM10,1,1
 PM2.5,1,1
+SF6,1,1
