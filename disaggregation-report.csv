@@ -5,7 +5,7 @@ data.Age,3,23
 data.Alcohol,1,12
 data.Banking_service,1,2
 data.Birth_location,1,6
-data.category,16,51
+data.category,17,53
 data.Category,2,7
 data.Cause_of_death,1,4
 data.Cultivation_size,2,9
@@ -40,7 +40,7 @@ Unit,1,2
 경험여부,1,2
 공공서비스 유형별,1,10
 관세제도,2,3
-구분,4,11
+구분,3,9
 국제기구,1,10
 동･읍면부별,1,2
 성별,4,5
