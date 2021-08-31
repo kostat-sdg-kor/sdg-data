@@ -1,4 +1,4 @@
-Year,처리방법별,Value
+Year,Category,Value
 2011,,10021
 2012,,12487
 2013,,12407
@@ -8,39 +8,39 @@ Year,처리방법별,Value
 2017,,14905
 2018,,15389
 2019,,15556
-2011,매립,1875
-2012,매립,2874
-2013,매립,2370
-2014,매립,2531
-2015,매립,2668
-2016,매립,2910
-2017,매립,3255
-2018,매립,3115
-2019,매립,2835
-2011,소각,1819
-2012,소각,2037
-2013,소각,2123
-2014,소각,2103
-2015,소각,2180
-2016,소각,2315
-2017,소각,2252
-2018,소각,2272
-2019,소각,2261
-2011,재활용,5717
-2012,재활용,6788
-2013,재활용,7331
-2014,재활용,7547
-2015,재활용,7710
-2016,재활용,7714
-2017,재활용,8379
-2018,재활용,9231
-2019,재활용,9719
-2011,기타,611
-2012,기타,788
-2013,기타,583
-2014,기타,991
-2015,기타,844
-2016,기타,844
-2017,기타,1019
-2018,기타,771
-2019,기타,742
+2011,"Waste disposed, by type of treatment(tonnes/day)",1875
+2012,"Waste disposed, by type of treatment(tonnes/day)",2874
+2013,"Waste disposed, by type of treatment(tonnes/day)",2370
+2014,"Waste disposed, by type of treatment(tonnes/day)",2531
+2015,"Waste disposed, by type of treatment(tonnes/day)",2668
+2016,"Waste disposed, by type of treatment(tonnes/day)",2910
+2017,"Waste disposed, by type of treatment(tonnes/day)",3255
+2018,"Waste disposed, by type of treatment(tonnes/day)",3115
+2019,"Waste disposed, by type of treatment(tonnes/day)",2835
+2011,"Waste incinerated, by type of treatment(tonnes/day)",1819
+2012,"Waste incinerated, by type of treatment(tonnes/day)",2037
+2013,"Waste incinerated, by type of treatment(tonnes/day)",2123
+2014,"Waste incinerated, by type of treatment(tonnes/day)",2103
+2015,"Waste incinerated, by type of treatment(tonnes/day)",2180
+2016,"Waste incinerated, by type of treatment(tonnes/day)",2315
+2017,"Waste incinerated, by type of treatment(tonnes/day)",2252
+2018,"Waste incinerated, by type of treatment(tonnes/day)",2272
+2019,"Waste incinerated, by type of treatment(tonnes/day)",2261
+2011,"Waste recycled, by type of treatment(tonnes/day)",5717
+2012,"Waste recycled, by type of treatment(tonnes/day)",6788
+2013,"Waste recycled, by type of treatment(tonnes/day)",7331
+2014,"Waste recycled, by type of treatment(tonnes/day)",7547
+2015,"Waste recycled, by type of treatment(tonnes/day)",7710
+2016,"Waste recycled, by type of treatment(tonnes/day)",7714
+2017,"Waste recycled, by type of treatment(tonnes/day)",8379
+2018,"Waste recycled, by type of treatment(tonnes/day)",9231
+2019,"Waste recycled, by type of treatment(tonnes/day)",9719
+2011,Etc. (tonnes/day),611
+2012,Etc. (tonnes/day),788
+2013,Etc. (tonnes/day),583
+2014,Etc. (tonnes/day),991
+2015,Etc. (tonnes/day),844
+2016,Etc. (tonnes/day),844
+2017,Etc. (tonnes/day),1019
+2018,Etc. (tonnes/day),771
+2019,Etc. (tonnes/day),742

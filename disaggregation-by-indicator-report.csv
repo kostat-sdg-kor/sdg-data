@@ -17,8 +17,8 @@ Indicator,Disaggregations,Number of disaggregations
 #12-2-2,data.Type_of_product,1
 #12-3-1,data.category,1
 #12-4-1,data.category,1
-#12-4-2,처리방법별,1
-#12-5-1,구분,1
+#12-4-2,data.category,1
+#12-5-1,data.category,1
 #12-6-1,유형,1
 #13-1-1,구분,1
 #13-2-2,온실가스별,1
