@@ -1,1 +1,1 @@
-{"data":{"Year":[2014,2016,2018,2014,2016,2018],"Units":["\uc7ac\uc0b0\ubc94\uc8c4","\uc7ac\uc0b0\ubc94\uc8c4","\uc7ac\uc0b0\ubc94\uc8c4","\ud3ed\ub825\ubc94\uc8c4","\ud3ed\ub825\ubc94\uc8c4","\ud3ed\ub825\ubc94\uc8c4"],"Value":[23.58,21.53,21.71,16.26,27.44,32.6]},"edges":[]}
+{"data":{"Year":[2014,2016,2018,2014,2016,2018],"data.category":["data.Property_crime","data.Property_crime","data.Property_crime","data.Violence_crime","data.Violence_crime","data.Violence_crime"],"Value":[23.58,21.53,21.71,16.26,27.44,32.6]},"edges":[]}

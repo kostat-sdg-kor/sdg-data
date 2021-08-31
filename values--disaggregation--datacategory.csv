@@ -41,6 +41,7 @@ data.Parties_meeting_their_commitments_and_obligations_in_transmitting_informati
 data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Rotterdam_Convention_on_hazardous_waste_and_other_chemicals,1,1
 data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Stockholm_Convention_on_hazardous_waste_and_other_chemicals,1,1
 data.preferencial_status,7,1
+data.Property_crime,1,1
 data.Proportion_of_members_of_developing_countries(%),10,1
 data.Proportion_of_project_objectives_of_new_development_interventions_drawn_from_country-led_result_frameworks_-_data_by_provider_(%),1,1
 data.Proportion_of_results_indicators_drawn_from_country-led_results_frameworks_-_data_by_provider_(%),1,1
@@ -56,6 +57,7 @@ data.Sexual_violence,2,2
 data.Specified_waste,1,1
 data.Ulsan,1,1
 data.Urban,1,1
+data.Violence_crime,1,1
 data.Waste_disposed_by_type_of_treatment(tonnes/day),1,1
 data.Waste_incinerated_by_type_of_treatment(tonnes/day),1,1
 data.Waste_recycled_by_type_of_treatment(tonnes/day),1,1
