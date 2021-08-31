@@ -24,7 +24,7 @@ Indicator,Disaggregations,Number of disaggregations
 #13-2-2,data.category,1
 #14-4-1,"Unit, data.Fisheries_type",2
 #15-1-2,data.category,1
-#16-1-1,성별,1
+#16-1-1,data.Sex,1
 #16-1-3,폭력범죄 유형별,1
 #16-6-2,"공공서비스 유형별, 경험여부, 세부수준별",3
 #16-7-1,성별,1

@@ -1,12 +1,12 @@
 Year,Value,Units
-2012,1,나고야의정서 채택국가
-2012,106,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2013,132,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2014,158,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2015,191,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2016,223,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2017,254,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2018,267,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2019,276,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2020,277,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
-2021,277,식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
+2012,1,data.Countries_that_are_parties_to_the_Nagoya_Protocol_(1_=_YES;_0_=_NO)
+2012,106,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2013,132,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2014,158,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2015,191,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2016,223,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2017,254,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2018,267,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2019,276,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2020,277,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)
+2021,277,data.Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number)

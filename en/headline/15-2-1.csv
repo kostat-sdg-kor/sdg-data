@@ -1,36 +1,36 @@
 Year,Value,Units
-2000,58.68,산림 내 지상부 바이오매스 총량
-2010,98.4,산림 내 지상부 바이오매스 총량
-2015,115.7,산림 내 지상부 바이오매스 총량
-2016,119.04,산림 내 지상부 바이오매스 총량
-2017,122.31,산림 내 지상부 바이오매스 총량
-2018,125.51,산림 내 지상부 바이오매스 총량
-2019,128.63,산림 내 지상부 바이오매스 총량
-2020,131.69,산림 내 지상부 바이오매스 총량
-2000,0.0,산림경영인증 면적
-2005,0.0,산림경영인증 면적
-2010,193.391,산림경영인증 면적
-2015,384.216,산림경영인증 면적
-2016,390.568,산림경영인증 면적
-2017,392.291,산림경영인증 면적
-2018,337.616,산림경영인증 면적
-2019,214.571,산림경영인증 면적
-2020,673.193,산림경영인증 면적
-2010,-0.14,산림면적 연간 순 변화율
-2020,-0.16,산림면적 연간 순 변화율
-2000,59.02,장기산림경영계획에 포함된 산림면적 비율
-2010,50.1,장기산림경영계획에 포함된 산림면적 비율
-2015,51.73,장기산림경영계획에 포함된 산림면적 비율
-2016,50.7,장기산림경영계획에 포함된 산림면적 비율
-2017,44.72,장기산림경영계획에 포함된 산림면적 비율
-2018,42.92,장기산림경영계획에 포함된 산림면적 비율
-2019,41.14,장기산림경영계획에 포함된 산림면적 비율
-2020,39.34,장기산림경영계획에 포함된 산림면적 비율
-2000,5.32,보호림 비율
-2010,6.52,보호림 비율
-2015,7.02,보호림 비율
-2016,7.02,보호림 비율
-2017,6.86,보호림 비율
-2018,6.86,보호림 비율
-2019,6.86,보호림 비율
-2020,6.86,보호림 비율
+2000,58.68,Above-ground biomass stock in forest (tonnes per hectare)
+2010,98.4,Above-ground biomass stock in forest (tonnes per hectare)
+2015,115.7,Above-ground biomass stock in forest (tonnes per hectare)
+2016,119.04,Above-ground biomass stock in forest (tonnes per hectare)
+2017,122.31,Above-ground biomass stock in forest (tonnes per hectare)
+2018,125.51,Above-ground biomass stock in forest (tonnes per hectare)
+2019,128.63,Above-ground biomass stock in forest (tonnes per hectare)
+2020,131.69,Above-ground biomass stock in forest (tonnes per hectare)
+2000,0.0,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2005,0.0,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2010,193.391,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2015,384.216,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2016,390.568,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2017,392.291,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2018,337.616,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2019,214.571,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2020,673.193,Forest area under an independently verified forest management certification scheme (thousands of hectares)
+2010,-0.14,Forest area annual net change rate (%)
+2020,-0.16,Forest area annual net change rate (%)
+2000,59.02,Proportion of forest area under a long-term management plan (%)
+2010,50.1,Proportion of forest area under a long-term management plan (%)
+2015,51.73,Proportion of forest area under a long-term management plan (%)
+2016,50.7,Proportion of forest area under a long-term management plan (%)
+2017,44.72,Proportion of forest area under a long-term management plan (%)
+2018,42.92,Proportion of forest area under a long-term management plan (%)
+2019,41.14,Proportion of forest area under a long-term management plan (%)
+2020,39.34,Proportion of forest area under a long-term management plan (%)
+2000,5.32,Proportion of forest area within legally established protected areas (%)
+2010,6.52,Proportion of forest area within legally established protected areas (%)
+2015,7.02,Proportion of forest area within legally established protected areas (%)
+2016,7.02,Proportion of forest area within legally established protected areas (%)
+2017,6.86,Proportion of forest area within legally established protected areas (%)
+2018,6.86,Proportion of forest area within legally established protected areas (%)
+2019,6.86,Proportion of forest area within legally established protected areas (%)
+2020,6.86,Proportion of forest area within legally established protected areas (%)
