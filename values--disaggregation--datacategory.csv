@@ -7,6 +7,7 @@ data.03_Metropolitan_city,1,1
 data.03_Rural,1,1
 data.04_Small-Medium_sized_cities,1,1
 data.05_Provinces,1,1
+data.Accumulated_publication,1,1
 data.Assault,1,1
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
 data.Busan,1,1
@@ -17,6 +18,7 @@ data.dead_or_missing,2,2
 data.directly_affected,2,2
 data.Domestic_waste,1,1
 data.Etc._(tonnes/day),1,1
+data.First_publication,1,1
 data.Gwangju,1,1
 data.Harassment,1,1
 data.Incheon,1,1
