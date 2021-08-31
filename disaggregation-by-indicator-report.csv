@@ -34,7 +34,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-10-1,"data.Type_of_product, data.category",2
 #17-12-1,"Time serieses, data.Type_of_product",2
 #17-15-1,data.category,1
-#17-18-3,구분,1
+#17-18-3,data.category,1
 #17-19-2,구분,1
 #17-8-1,"data.Sex, data.Age",2
 #2-1-1,"data.Residential_area, data.Sex, data.Income_classes, data.Age",4
