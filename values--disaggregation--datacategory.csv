@@ -10,8 +10,7 @@ data.03_Rural,1,1
 data.04_Small-Medium_sized_cities,1,1
 data.05_Provinces,1,1
 data.Accumulated_publication,1,1
-data.Assault,1,1
-data.Assult,1,1
+data.Assault,2,2
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
 data.Busan,1,1
 data.Construction_waste,2,2
@@ -53,8 +52,7 @@ data.Robbery,2,2
 data.Rural,1,1
 data.Sejong,1,1
 data.Seoul,1,1
-data.Sexual violence,1,1
-data.Sexual_violence,1,1
+data.Sexual_violence,2,2
 data.Specified_waste,1,1
 data.Ulsan,1,1
 data.Urban,1,1
