@@ -1,16 +1,16 @@
-Year,차별이유,Value
-2019,범주01_성별,13.9
-2019,범주02_나이,13.6
-2019,범주03_경제적 지위,10.3
-2019,범주04_고용형태,7.8
-2019,범주05_학력/학벌,7.7
-2019,범주06_신체조건,6.6
-2019,범주07_사상/정치,4.1
-2019,범주08_혼인상황,3.3
-2019,범주09_출신지역,2.7
-2019,범주10_임신/출산,2.6
-2019,범주11_질병/병력,2.3
-2019,범주12_종교,2.2
-2019,범주13_장애,1.7
-2019,범주14_인종/출신,1.4
-2019,범주15_가족상황,1.2
+Year,data.Reasons,Value
+2019,data.01_Sex,13.9
+2019,data.02_Age,13.6
+2019,data.03_Socio-Eoconomic_status,10.3
+2019,data.04_Forms_of_employment,7.8
+2019,data.05_Educational_background,7.7
+2019,data.06_Physical_condition,6.6
+2019,data.07_Political_opinion,4.1
+2019,data.08_Marital status_such_as_being_single/married/divorced/widowed,3.3
+2019,data.09_Geographic_location_or_Place_of_residence,2.7
+2019,data.10_Marital_status_such_as_being_pregnant/with_or_without_children,2.6
+2019,data.11_Health_status,2.3
+2019,data.12_Religion,2.2
+2019,data.13_Disability,1.7
+2019,data.14_Ethnicity/Colour/Language/Migration_status,1.4
+2019,data.15_Marital_status_such_as_being_orphan/born_from_unmarried_parents,1.2
