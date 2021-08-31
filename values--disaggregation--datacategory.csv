@@ -1,7 +1,12 @@
 Value,Disaggregation combinations using this value,Number of indicators
+data.01_Average,1,1
 data.01_Urban,1,1
+data.02_Special_city,1,1
 data.02_Suburban,1,1
+data.03_Metropolitan_city,1,1
 data.03_Rural,1,1
+data.04_Small-Medium_sized_cities,1,1
+data.05_Provinces,1,1
 data.Assault,1,1
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
 data.Busan,1,1
@@ -17,6 +22,10 @@ data.Industrial_hazardous_waste,1,1
 data.Industrial_solid_waste,1,1
 data.Municipal_waste,1,1
 data.Old-age_pension_take-up_rate,1,1
+data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Basel_Convention_on_hazardous_waste_and_other_chemicals,1,1
+data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Montreal_Protocol_on_hazardous_waste_and_other_chemicals,1,1
+data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Rotterdam_Convention_on_hazardous_waste_and_other_chemicals,1,1
+data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Stockholm_Convention_on_hazardous_waste_and_other_chemicals,1,1
 data.Refugees_recognized,1,1
 data.Refugees_request,1,1
 data.Robbery,1,1
