@@ -29,8 +29,8 @@ Indicator,Disaggregations,Number of disaggregations
 #16-6-2,"data.Public_Services, data.Experiences, data.Satisfaction",3
 #16-7-1,data.Sex,1
 #16-7-2,"data.category, data.Sex, data.Age",3
-#16-8-1,국제기구,1
-#16-b-1,차별이유,1
+#16-8-1,"data.category, data.Name_of_international_institution",2
+#16-b-1,data.Reasons,1
 #17-10-1,"관세제도, 품목",2
 #17-12-1,"관세제도, 품목",2
 #17-15-1,구분,1
