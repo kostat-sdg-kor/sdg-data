@@ -29,15 +29,15 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-1,data.category,1
 #16-6-2,"data.Public_Services, data.Experiences, data.Satisfaction",3
 #16-7-1,data.Sex,1
-#16-7-2,"data.category, data.Sex, data.Age",3
+#16-7-2,"data.Sex, data.category, data.Age",3
 #16-8-1,data.Name_of_international_institution,1
 #16-b-1,data.Reasons,1
-#17-10-1,"data.Type_of_product, data.category",2
-#17-12-1,"Time serieses, data.Type_of_product",2
+#17-10-1,"data.category, data.Type_of_product",2
+#17-12-1,"data.Type_of_product, Time serieses",2
 #17-15-1,data.category,1
 #17-18-3,data.category,1
 #17-8-1,"data.Sex, data.Age",2
-#2-1-1,"data.Residential_area, data.Sex, data.Income_classes, data.Age",4
+#2-1-1,"data.Sex, data.Age, data.Residential_area, data.Income_classes",4
 #2-1-2,"data.Residential_area, data.Income_classes",2
 #2-3-1,data.Cultivation_size,1
 #2-3-2,data.Cultivation_size,1
