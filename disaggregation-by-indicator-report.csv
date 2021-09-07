@@ -3,6 +3,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-2,"data.Sex, data.Age",2
 #1-5-1,data.category,1
 #10-3-1,data.Reasons,1
+#10-4-2,data.category,1
 #10-6-1,data.Name_of_international_institution,1
 #10-7-1,"data.Payment, data.Recruitment_cost",2
 #10-7-4,data.category,1
