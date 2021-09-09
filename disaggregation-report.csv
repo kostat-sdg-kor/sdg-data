@@ -12,7 +12,7 @@ data.Delievery_option,1,2
 data.Development_index,1,2
 data.Device_type,1,3
 data.Diseases,1,3
-data.Education_indicators,1,6
+data.education_indicators,1,6
 data.Experiences,1,2
 data.Fisheries_type,1,4
 data.Grade,1,2
