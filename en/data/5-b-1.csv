@@ -1,14 +1,4 @@
 Year,Device type,Sex,Age,Value
-2018,Mobile devices,,,91.4
-2018,Mobile devices,Male,,83.8
-2018,Mobile devices,Female,,89.0
-2018,Mobile devices,,6-10,96.9
-2018,Mobile devices,,20-29,99.9
-2018,Mobile devices,,30-39,99.9
-2018,Mobile devices,,40-49,99.8
-2018,Mobile devices,,50-59,98.5
-2018,Mobile devices,,60-69,87.7
-2018,Mobile devices,,70+,37.5
 2018,Smartphone,,,91.0
 2018,Smartphone,Male,,93.4
 2018,Smartphone,Female,,88.6
@@ -19,26 +9,6 @@ Year,Device type,Sex,Age,Value
 2018,Smartphone,,50-59,98.4
 2018,Smartphone,,60-69,87.5
 2018,Smartphone,,70+,36.3
-2018,Feature phone,,,8.2
-2018,Feature phone,Male,,6.0
-2018,Feature phone,Female,,10.4
-2018,Feature phone,,6-10,1.8
-2018,Feature phone,,20-29,0.3
-2018,Feature phone,,30-39,0.1
-2018,Feature phone,,40-49,0.4
-2018,Feature phone,,50-59,1.8
-2018,Feature phone,,60-69,12.9
-2018,Feature phone,,70+,58.4
-2019,Mobile devices,,,92.4
-2019,Mobile devices,Male,,94.5
-2019,Mobile devices,Female,,90.3
-2019,Mobile devices,,6-10,97.1
-2019,Mobile devices,,20-29,100.0
-2019,Mobile devices,,30-39,99.9
-2019,Mobile devices,,40-49,99.9
-2019,Mobile devices,,50-59,99.8
-2019,Mobile devices,,60-69,92.0
-2019,Mobile devices,,70+,41.0
 2019,Smartphone,,,92.2
 2019,Smartphone,Male,,94.4
 2019,Smartphone,Female,,90.0
@@ -49,13 +19,3 @@ Year,Device type,Sex,Age,Value
 2019,Smartphone,,50-59,99.8
 2019,Smartphone,,60-69,92.0
 2019,Smartphone,,70+,40.2
-2019,Feature phone,,,8.1
-2019,Feature phone,Male,,6.2
-2019,Feature phone,Female,,10.1
-2019,Feature phone,,6-10,2.1
-2019,Feature phone,,20-29,0.4
-2019,Feature phone,,30-39,0.6
-2019,Feature phone,,40-49,1.4
-2019,Feature phone,,50-59,1.6
-2019,Feature phone,,60-69,10.6
-2019,Feature phone,,70+,56.1
