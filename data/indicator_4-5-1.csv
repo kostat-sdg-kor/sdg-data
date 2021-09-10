@@ -1,4 +1,4 @@
-Year,data.education_indicators,data.Type_of_skill,Value
+Year,data.Education_indicators,data.Type_of_skill,Value
 2005,data.Gender_parity_index_for_participation_rate_in_organized_learning,,0.99982
 2013,data.Gender_parity_index_for_participation_rate_in_organized_learning,,1.00755
 2014,data.Gender_parity_index_for_participation_rate_in_organized_learning,,0.99725
