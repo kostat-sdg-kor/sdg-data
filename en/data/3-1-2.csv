@@ -1,17 +1,13 @@
-Year,Birth location,Delievery option,Value
-2015,General hospital,,10.8
-2015,Hospital,,70.6
-2015,Clinic,,18.0
-2015,Midwifery units,,0.5
-2015,Medical center,,0.1
-2015,Home,,0.0
-2015,,Natural birth,60.9
-2015,,C-section,39.1
-2018,General hospital,,10.8
-2018,Hospital,,80.7
-2018,Clinic,,8.3
-2018,Midwifery units,,0.2
-2018,Medical center,,0.1
-2018,Home,,0.0
-2018,,Natural birth,57.7
-2018,,C-section,42.3
+Year,Birth location,Value
+2015,General hospital,10.8
+2015,Hospital,70.6
+2015,Clinic,18.0
+2015,Midwifery units,0.5
+2015,Medical center,0.1
+2015,Home,0.0
+2018,General hospital,10.8
+2018,Hospital,80.7
+2018,Clinic,8.3
+2018,Midwifery units,0.2
+2018,Medical center,0.1
+2018,Home,0.0
