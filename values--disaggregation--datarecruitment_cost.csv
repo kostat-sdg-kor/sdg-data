@@ -1,5 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.150~300mKRW ,1,1
+data.-150mKRW ,1,1
+data.150-300mKRW ,1,1
 data.+300mKRW,1,1
 data.N/A,1,1
-data.~150mKRW ,1,1
