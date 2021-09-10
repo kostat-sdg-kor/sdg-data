@@ -17,6 +17,9 @@ data.Assault,2,2
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
 data.Busan,1,1
 data.Construction_waste,2,2
+data.Countries_that_have_conducted_at_least_one_population_and_housing_census_in_the_last_10_years_(1_=_YES;_0_=_NO),1,1
+data.Countries_with_birth_registration_data_that_are_at_least_90_percent_complete_(1_=_YES;_0_=_NO),1,1
+data.Countries_with_death_registration_data_that_are_at_least_75_percent_complete_(1_=_YES;_0_=_NO),1,1
 data.Countries_with_national_statistical_plans_that_are_under_implementation_(1_=_YES;_0_=_NO),1,1
 data.Countries_with_national_statistical_plans_with_funding_from_Government_(1_=_YES;_0_=_NO),1,1
 data.Daegu,1,1
