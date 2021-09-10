@@ -34,7 +34,7 @@ data.Subjects,1,2
 data.Time(min),1,4
 data.Transportation,1,2
 data.Type_of_occupation,1,9
-data.Type_of_product,4,24
+data.Type_of_product,3,7
 data.Type_of_skill,1,2
 data.Vaccine,1,3
 Time serieses,1,2
