@@ -1,4 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
+data.dead_or_missing,1,1
+data.directly_affected,1,1
 data.Domestic_Freight,4,1
 data.Domestic_Passenger,5,1
 data.International_Freight,2,1
