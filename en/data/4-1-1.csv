@@ -23,9 +23,9 @@ Year,Grade,Subjects,Sex,Value
 2009,Middle school,Reading,,94.2059831374301
 2009,Middle school,Reading,Male,91.19
 2009,Middle school,Reading,Female,97.58
-2011,Elementary school 2nd/3rd,Mathematics,,96.6250624829496
-2011,Elementary school 2nd/3rd,Mathematics,Male,96.5557553551492
-2011,Elementary school 2nd/3rd,Mathematics,Female,96.6999404824642
+2011,data.Elementary_school_Primary,Mathematics,,96.6250624829496
+2011,data.Elementary_school_Primary,Mathematics,Male,96.5557553551492
+2011,data.Elementary_school_Primary,Mathematics,Female,96.6999404824642
 2012,Middle school,Mathematics,,90.8668931490637
 2012,Middle school,Mathematics,Male,90.82
 2012,Middle school,Mathematics,Female,90.92
@@ -38,9 +38,9 @@ Year,Grade,Subjects,Sex,Value
 2015,Middle school,Reading,,86.3429728462679
 2015,Middle school,Reading,Male,80.8356517643625
 2015,Middle school,Reading,Female,92.3634957226471
-2015,Elementary school 2nd/3rd,Mathematics,,96.8516571848543
-2015,Elementary school 2nd/3rd,Mathematics,Male,96.6061791591358
-2015,Elementary school 2nd/3rd,Mathematics,Female,97.1149365852532
+2015,data.Elementary_school_Primary,Mathematics,,96.8516571848543
+2015,data.Elementary_school_Primary,Mathematics,Male,96.6061791591358
+2015,data.Elementary_school_Primary,Mathematics,Female,97.1149365852532
 2018,Middle school,Mathematics,,85.0014731961941
 2018,Middle school,Mathematics,Male,84.4343467763045
 2018,Middle school,Mathematics,Female,85.626355330099
