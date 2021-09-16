@@ -28,7 +28,7 @@ data.Residential_area,3,4
 data.Satisfaction,1,5
 data.School,1,3
 data.School_environment_indicators,1,6
-data.Sex,26,3
+data.Sex,25,3
 data.Skill,1,9
 data.Subjects,1,2
 data.Time(min),1,4
