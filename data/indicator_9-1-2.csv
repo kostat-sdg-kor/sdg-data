@@ -19,14 +19,14 @@ Year,units,data.Mode_of_transportation,Value
 2014,data.Domestic_Passenger,data.Sky_roads,26678513
 2015,data.Domestic_Passenger,data.Sky_roads,27193794
 2016,data.Domestic_Passenger,data.Sky_roads,28090714
-2017,data.Domestic_Passenger,data.Sky_roads,5968577
+2017,data.Domestic_Passenger,data.Sky_roads,28192366
 2011,data.Domestic_Passenger,data.Shipping,14266
 2012,data.Domestic_Passenger,data.Shipping,14538
 2013,data.Domestic_Passenger,data.Shipping,16063
 2014,data.Domestic_Passenger,data.Shipping,14271
 2015,data.Domestic_Passenger,data.Shipping,15381
 2016,data.Domestic_Passenger,data.Shipping,15423
-2017,data.Domestic_Passenger,data.Shipping,0
+2017,data.Domestic_Passenger,data.Shipping,16910
 2011,data.Domestic_Passenger,data.Air_transport,20981
 2012,data.Domestic_Passenger,data.Air_transport,21602
 2013,data.Domestic_Passenger,data.Air_transport,22353
