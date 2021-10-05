@@ -1,43 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 data.Agriculture(ISIC4 A01 A0210 A0322),1,1
-data.Agriculture(ISIC4 A01 A0210 A0323),1,1
-data.Agriculture(ISIC4 A01 A0210 A0324),1,1
-data.Agriculture(ISIC4 A01 A0210 A0325),1,1
-data.Agriculture(ISIC4 A01 A0210 A0326),1,1
-data.Agriculture(ISIC4 A01 A0210 A0327),1,1
-data.Agriculture(ISIC4 A01 A0210 A0328),1,1
-data.Agriculture(ISIC4 A01 A0210 A0329),1,1
-data.Agriculture(ISIC4 A01 A0210 A0330),1,1
-data.Agriculture(ISIC4 A01 A0210 A0331),1,1
-data.Agriculture(ISIC4 A01 A0210 A0332),1,1
-data.Agriculture(ISIC4 A01 A0210 A0333),1,1
-data.Agriculture(ISIC4 A01 A0210 A0334),1,1
-data.Agriculture(ISIC4 A01 A0210 A0335),1,1
-data.Agriculture(ISIC4 A01 A0210 A0336),1,1
-data.Agriculture(ISIC4 A01 A0210 A0337),1,1
-data.Agriculture(ISIC4 A01 A0210 A0338),1,1
-data.Agriculture(ISIC4 A01 A0210 A0339),1,1
-data.Agriculture(ISIC4 A01 A0210 A0340),1,1
 data.Commitments,1,1
 data.Disbursement,1,1
 data.Industries,1,1
-data.Services(ISIC10 G to T),1,1
-data.Services(ISIC11 G to T),1,1
-data.Services(ISIC12 G to T),1,1
-data.Services(ISIC13 G to T),1,1
-data.Services(ISIC14 G to T),1,1
-data.Services(ISIC15 G to T),1,1
-data.Services(ISIC16 G to T),1,1
-data.Services(ISIC17 G to T),1,1
-data.Services(ISIC18 G to T),1,1
-data.Services(ISIC19 G to T),1,1
-data.Services(ISIC20 G to T),1,1
-data.Services(ISIC21 G to T),1,1
-data.Services(ISIC22 G to T),1,1
 data.Services(ISIC4 G to T),1,1
-data.Services(ISIC5 G to T),1,1
-data.Services(ISIC6 G to T),1,1
-data.Services(ISIC7 G to T),1,1
-data.Services(ISIC8 G to T),1,1
-data.Services(ISIC9 G to T),1,1
 data.Total(no breakdown),1,1
