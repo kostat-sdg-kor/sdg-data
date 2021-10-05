@@ -70,7 +70,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-b-1,"data.Sex, data.Device_type, data.Age",3
 #6-3-1,data.category,1
 #6-3-2,data.category,1
-#6-4-1,Category,1
+#6-4-1,data.Category,1
 #7-1-1,data.Residential_area,1
 #8-10-1,data.Banking_service,1
 #8-10-2,data.Sex,1
