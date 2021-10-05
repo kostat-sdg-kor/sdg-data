@@ -1,39 +1,77 @@
-Year,Units,Value
-2004,Sewage generation,11946076
-2004,Excretions,49053
-2005,Sewage generation,16832611
-2005,Excretions,47627
-2006,Sewage generation,16919995
-2006,Excretions,47094
-2007,Sewage generation,16744875
-2007,Excretions,44766
-2008,Sewage generation,17113106
-2008,Excretions,46420
-2009,Sewage generation,16681388
-2009,Excretions,48749
-2010,Sewage generation,16111195
-2010,Excretions,46189
-2011,Sewage generation,18660763
-2011,Excretions,42358
-2012,Sewage generation,15722166
-2012,Excretions,41747
-2013,Sewage generation,15148299
-2013,Excretions,62011
-2014,Sewage generation,16256451
-2014,Excretions,36447
-2015,Sewage generation,14975476
-2015,Excretions,37893
-2016,Sewage generation,14392658
-2016,Excretions,41343
-2007,Wastewater generation,2564967
-2008,Wastewater generation,2332102
-2009,Wastewater generation,2425750
-2010,Wastewater generation,2956447
-2011,Wastewater generation,2890343
-2012,Wastewater generation,3368232
-2013,Wastewater generation,3085935
-2014,Wastewater generation,2936815
-2015,Wastewater generation,1907340
-2016,Wastewater generation,2499775
-2017,Wastewater generation,2768019
-2018,Wastewater generation,2524743
+Year,ategory,Value
+2000,data.Industries,64.55
+2001,data.Industries,60.89
+2002,data.Industries,61.37
+2003,data.Industries,63.91
+2004,data.Industries,71.24
+2005,data.Industries,73.13
+2006,data.Industries,75.5
+2007,data.Industries,79.96
+2008,data.Industries,81.73
+2009,data.Industries,82.53
+2010,data.Industries,91.18
+2011,data.Industries,96.23
+2012,data.Industries,97.33
+2013,data.Industries,100.87
+2014,data.Industries,101.9
+2015,data.Industries,104.19
+2016,data.Industries,107.67
+2017,data.Industries,113.99
+2018,data.Industries,115.55
+2018,data.Agriculture(ISIC4 A01 A0210 A0322),1.62
+2016,data.Agriculture(ISIC4 A01 A0210 A0323),1.53
+2017,data.Agriculture(ISIC4 A01 A0210 A0324),1.59
+2012,data.Agriculture(ISIC4 A01 A0210 A0325),1.54
+2013,data.Agriculture(ISIC4 A01 A0210 A0326),1.54
+2014,data.Agriculture(ISIC4 A01 A0210 A0327),1.57
+2015,data.Agriculture(ISIC4 A01 A0210 A0328),1.58
+2010,data.Agriculture(ISIC4 A01 A0210 A0329),1.43
+2011,data.Agriculture(ISIC4 A01 A0210 A0330),1.54
+2008,data.Agriculture(ISIC4 A01 A0210 A0331),1.3
+2009,data.Agriculture(ISIC4 A01 A0210 A0332),1.39
+2004,data.Agriculture(ISIC4 A01 A0210 A0333),1.39
+2005,data.Agriculture(ISIC4 A01 A0210 A0334),1.32
+2006,data.Agriculture(ISIC4 A01 A0210 A0335),1.37
+2007,data.Agriculture(ISIC4 A01 A0210 A0336),1.34
+2002,data.Agriculture(ISIC4 A01 A0210 A0337),1.28
+2003,data.Agriculture(ISIC4 A01 A0210 A0338),1.28
+2000,data.Agriculture(ISIC4 A01 A0210 A0339),1.26
+2001,data.Agriculture(ISIC4 A01 A0210 A0340),1.28
+2000,data.Services(ISIC4 G to T),74.13
+2002,data.Services(ISIC5 G to T),58.82
+2001,data.Services(ISIC6 G to T),64.5
+2003,data.Services(ISIC7 G to T),65.23
+2004,data.Services(ISIC8 G to T),72.51
+2006,data.Services(ISIC9 G to T),87.9
+2005,data.Services(ISIC10 G to T),82.83
+2007,data.Services(ISIC11 G to T),92.91
+2008,data.Services(ISIC12 G to T),95.82
+2009,data.Services(ISIC13 G to T),96.26
+2011,data.Services(ISIC14 G to T),102.71
+2010,data.Services(ISIC15 G to T),100.15
+2014,data.Services(ISIC16 G to T),113.14
+2012,data.Services(ISIC17 G to T),105.52
+2016,data.Services(ISIC18 G to T),130.96
+2013,data.Services(ISIC19 G to T),108.81
+2015,data.Services(ISIC20 G to T),129.97
+2017,data.Services(ISIC21 G to T),133.05
+2018,data.Services(ISIC22 G to T),137.47
+2018,data.Total(no breakdown),53.81
+2016,data.Total(no breakdown),50.86
+2017,data.Total(no breakdown),52.45
+2015,data.Total(no breakdown),49.71
+2013,data.Total(no breakdown),42.72
+2012,data.Total(no breakdown),41.45
+2014,data.Total(no breakdown),44.12
+2010,data.Total(no breakdown),39.04
+2011,data.Total(no breakdown),40.54
+2008,data.Total(no breakdown),36.36
+2009,data.Total(no breakdown),36.79
+2006,data.Total(no breakdown),33.59
+2007,data.Total(no breakdown),35.44
+2005,data.Total(no breakdown),29.93
+2004,data.Total(no breakdown),30.1
+2003,data.Total(no breakdown),27.89
+2002,data.Total(no breakdown),26.3
+2000,data.Total(no breakdown),26.54
+2001,data.Total(no breakdown),26.04
