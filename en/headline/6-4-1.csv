@@ -1,5 +1,39 @@
-Year,Value
-2000,26.2
-2005,
-2010,
-2015,
+Year,Value,Units
+2004,11946076,Sewage generation
+2004,49053,Excretions
+2005,16832611,Sewage generation
+2005,47627,Excretions
+2006,16919995,Sewage generation
+2006,47094,Excretions
+2007,16744875,Sewage generation
+2007,44766,Excretions
+2008,17113106,Sewage generation
+2008,46420,Excretions
+2009,16681388,Sewage generation
+2009,48749,Excretions
+2010,16111195,Sewage generation
+2010,46189,Excretions
+2011,18660763,Sewage generation
+2011,42358,Excretions
+2012,15722166,Sewage generation
+2012,41747,Excretions
+2013,15148299,Sewage generation
+2013,62011,Excretions
+2014,16256451,Sewage generation
+2014,36447,Excretions
+2015,14975476,Sewage generation
+2015,37893,Excretions
+2016,14392658,Sewage generation
+2016,41343,Excretions
+2007,2564967,Wastewater generation
+2008,2332102,Wastewater generation
+2009,2425750,Wastewater generation
+2010,2956447,Wastewater generation
+2011,2890343,Wastewater generation
+2012,3368232,Wastewater generation
+2013,3085935,Wastewater generation
+2014,2936815,Wastewater generation
+2015,1907340,Wastewater generation
+2016,2499775,Wastewater generation
+2017,2768019,Wastewater generation
+2018,2524743,Wastewater generation
