@@ -13,7 +13,7 @@ data.03_Rural,1,1
 data.04_Small-Medium_sized_cities,1,1
 data.05_Provinces,1,1
 data.Accumulated_publication,1,1
-data.Agriculture(ISIC4 A01 A0210 A0322),1,1
+data.Agriculture(ISIC4_A01_A0210_A0322),1,1
 data.Assault,2,2
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
 data.Busan,1,1
@@ -64,11 +64,11 @@ data.Robbery,2,2
 data.Rural,1,1
 data.Sejong,1,1
 data.Seoul,1,1
-data.Services(ISIC4 G to T),1,1
+data.Services(ISIC4_G_to_T),1,1
 data.Sewage_generation,1,1
 data.Sexual_violence,2,2
 data.Specified_waste,1,1
-data.Total(no breakdown),1,1
+data.Total(no_breakdown),1,1
 data.Ulsan,1,1
 data.Underground_water,1,1
 data.underweight,1,1
