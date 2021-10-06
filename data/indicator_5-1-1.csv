@@ -1,2 +1,5 @@
-Year,Value
-This is a non-statistical indicator,
+Year,data.category,Value
+2020,data.overarching_legal_frameworks_and_public_life,70
+2020,data.violence_against_women,90
+2020,data.employment_and_economic_benefits,90.90909
+2020,data.marriage_and_family,91.66666
