@@ -29,6 +29,7 @@ data.dead_or_missing,2,2
 data.directly_affected,2,2
 data.Disposable_income,1,1
 data.Domestic_waste,1,1
+data.employment_and_economic_benefits,1,1
 data.Etc._(tonnes/day),1,1
 data.Excretions,1,1
 data.Extent_of_use_of_country-owned_results_frameworks_and_planning_tools_by_providers_of_development_cooperation_-_data_by_provider_(%)_,1,1
@@ -43,10 +44,12 @@ data.Industrial_waste,1,1
 data.Industries,1,1
 data.Land,1,1
 data.Market_income,1,1
+data.marriage_and_family,1,1
 data.most-favoured-nation_status,7,1
 data.Municipal_waste,1,1
 data.Old-age_pension_take-up_rate,1,1
 data.Open_water_area,1,1
+data.overarching_legal_frameworks_and_public_life,1,1
 data.overweight,1,1
 data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Basel_Convention_on_hazardous_waste_and_other_chemicals,1,1
 data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Montreal_Protocol_on_hazardous_waste_and_other_chemicals,1,1
@@ -73,6 +76,7 @@ data.Ulsan,1,1
 data.Underground_water,1,1
 data.underweight,1,1
 data.Urban,1,1
+data.violence_against_women,1,1
 data.Violence_crime,1,1
 data.Waste_disposed_by_type_of_treatment(tonnes/day),1,1
 data.Waste_incinerated_by_type_of_treatment(tonnes/day),1,1
