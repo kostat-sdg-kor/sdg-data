@@ -38,7 +38,7 @@ Indicator,Disaggregations,Number of disaggregations
 #17-18-3,data.category,1
 #17-19-2,data.category,1
 #17-8-1,"data.Sex, data.Age",2
-#2-1-1,"data.Sex, data.Residential_area, data.Income_classes, data.Age",4
+#2-1-1,"data.Sex, data.Residential_area, data.Age, data.Income_classes",4
 #2-1-2,"data.Residential_area, data.Income_classes",2
 #2-2-2,data.category,1
 #2-3-1,data.Cultivation_size,1
@@ -68,7 +68,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-2-1,data.Sex,1
 #5-2-2,data.Sex,1
 #5-4-1,data.Sex,1
-#5-b-1,"data.Sex, data.Device_type, data.Age",3
+#5-b-1,"data.Sex, data.Age, data.Device_type",3
 #6-3-1,data.category,1
 #6-3-2,data.category,1
 #6-4-1,data.category,1
