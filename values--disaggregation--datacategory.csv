@@ -32,7 +32,8 @@ data.Domestic_waste,1,1
 data.employment_and_economic_benefits,1,1
 data.Etc._(tonnes/day),1,1
 data.Excretions,1,1
-data.Experience of physical punishment,1,1
+data.Experience_of_hearing_insulting_words,1,1
+data.Experience_of_physical_punishment,1,1
 data.Extent_of_use_of_country-owned_results_frameworks_and_planning_tools_by_providers_of_development_cooperation_-_data_by_provider_(%)_,1,1
 data.First_publication,1,1
 data.Freshwater,1,1
@@ -85,7 +86,6 @@ data.Waste_disposed_by_type_of_treatment(tonnes/day),1,1
 data.Waste_incinerated_by_type_of_treatment(tonnes/day),1,1
 data.Waste_recycled_by_type_of_treatment(tonnes/day),1,1
 data.Wastewater_generation,1,1
-Experience of hearing insulting words,1,1
 HFCs,1,1
 N₂O,1,1
 PFCs,1,1
