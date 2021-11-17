@@ -1,4 +1,4 @@
-Year,data.Cause_of_death,data.Sex,Value
+﻿Year,data.Cause_of_death,data.Sex,Value
 2000,data.Cancer,,13.7
 2000,data.Cancer,data.Male,15.0
 2000,data.Cancer,data.Female,12.4

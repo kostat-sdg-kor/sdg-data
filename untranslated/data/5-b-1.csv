@@ -1,4 +1,4 @@
-Year,data.Device_type,data.Sex,data.Age,Value
+﻿Year,data.Device_type,data.Sex,data.Age,Value
 2018,data.Smartphone,,,91.0
 2018,data.Smartphone,data.Male,,93.4
 2018,data.Smartphone,data.Female,,88.6
