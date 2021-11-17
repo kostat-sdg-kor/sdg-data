@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Reasons",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "① 남자 또는 여자라는 이유로",
+                "② 나이가 많거나 적다는 이유로",
+                "③ 직업이나 소득 등 경제적 지위를 이유로",
+                "④ 비정규직 등 고용형태를 이유로",
+                "⑤ 학력이나 학벌을 이유로",
+                "⑥ 키, 몸무게, 용모 등 신체조건을 이유로",
+                "⑦ 사상 또는 정치적인 입장의 차이로",
+                "⑧ 미혼(비혼), 이혼, 사별 등 혼인상황을 이유로",
+                "⑨ 출신지역을 이유로",
+                "⑩ 임신 또는 출산을 했다는 이유로",
+                "⑪ 질병 및 병력을 가지고 있다는 이유로",
+                "⑫ 종교를 이유로",
+                "⑬ 장애를 이유로",
+                "⑭ 인종, 피부색, 출신국가, 출신민족을 이유로",
+                "⑮ 한부모, 미혼(비혼) 모/부 등 가족상황을 이유로"
+              ]
+            },
+            "title": "이유별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-3-1",
+  "title": "국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘 경험을 보고한 인구 비율"
+}

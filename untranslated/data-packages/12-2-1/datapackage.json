@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes per capita",
+                "Tonnes per £m GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Domestic consumption category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomass",
+                "Metal ores",
+                "Non-metal minerals",
+                "Fossil energy materials",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-2-1",
+  "title": "물질발자국, 1인당 물질발자국, GDP당 물질발자국"
+}

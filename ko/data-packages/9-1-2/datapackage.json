@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "국내 화물량",
+                "국내 승객량",
+                "국제 화물량",
+                "국제 승객량"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Mode_of_transportation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "항공운수",
+                "철도",
+                "해상운송",
+                "공로",
+                "지하철"
+              ]
+            },
+            "title": "교통수단별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "승객 및 화물 운송량(운송수단별)"
+}

@@ -1,0 +1,69 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "19~29",
+                "30대",
+                "40대",
+                "50대",
+                "60대"
+              ]
+            },
+            "title": "연령별"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "여성",
+                "남성"
+              ]
+            },
+            "title": "성별"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농촌",
+                "도시"
+              ]
+            },
+            "title": "구분"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-2",
+  "title": "의사결정이 포용적이고 대응적이라고 생각하는 인구 비율(성, 연령, 장애 및 인구집단별)"
+}

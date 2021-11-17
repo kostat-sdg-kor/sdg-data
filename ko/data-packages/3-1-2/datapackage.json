@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Birth_location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "의원",
+                "종합병원",
+                "자택",
+                "병원",
+                "보건의료원",
+                "조산원"
+              ]
+            },
+            "title": "분만장소별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-2",
+  "title": "숙련된 의료인력이 참여한 출산 비율"
+}

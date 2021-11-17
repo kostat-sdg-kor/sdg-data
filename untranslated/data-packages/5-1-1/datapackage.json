@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.overarching_legal_frameworks_and_public_life",
+                "data.violence_against_women",
+                "data.employment_and_economic_benefits",
+                "data.marriage_and_family",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-1-1",
+  "title": "성에 근거한 비차별과 평등을 증진, 집행, 모니터링 할 수 있는 법적 체계 존재여부"
+}

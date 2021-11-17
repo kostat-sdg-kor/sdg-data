@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-7-1",
+  "title": "(i) 세계시민교육 (ii)지속가능발전교육이 국가의 (a)국가교육정책 (b) 교육과정 (c) 교사교육, (d) 학생평가 영역에서 주류화 된 정도(12.8.1/13.3.1과 동일)"
+}

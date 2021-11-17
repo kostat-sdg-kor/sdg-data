@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Experience_of_physical_punishment",
+                "data.Experience_of_hearing_insulting_words",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-1",
+  "title": "지난 1개월간 보호자로부터 체벌이나 심리적 위협을 경험한 적이 있는 1-17세 아동 비율"
+}

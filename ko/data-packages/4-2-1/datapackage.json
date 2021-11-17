@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Development_index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "인지발달",
+                "언어발달"
+              ]
+            },
+            "title": "분야별"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "여성",
+                "남성"
+              ]
+            },
+            "title": "성별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2-1",
+  "title": "건강, 학습 및 심리사회적 웰빙 측면에서 정상 발달과정에 있는 24-59개월 아동 비율(성별)"
+}

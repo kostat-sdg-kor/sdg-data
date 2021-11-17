@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Household_expenditure_on_health",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10%",
+                "25%",
+                ""
+              ]
+            },
+            "title": "Household expenditure on health"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-2",
+  "title": "가구 총지출 및 소득 대비 의료비 과부담 인구 비율"
+}

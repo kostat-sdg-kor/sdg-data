@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "폭행",
+                "괴롭힘",
+                "강도",
+                "성폭력"
+              ]
+            },
+            "title": "구분"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-7-2",
+  "title": "지난 12개월 동안 신체적 혹은 성적 괴롭힘을 당한 인구 비율(성, 연령, 장애 및 발생장소별)"
+}

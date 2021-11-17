@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Banking_service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ATM 개수",
+                "상업은행 지점수"
+              ]
+            },
+            "title": "은행서비스별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-10-1",
+  "title": "(a) 성인 10만 명당 상업은행 지점들과 (b) 성인 10만 명당 ATM의 개수"
+}

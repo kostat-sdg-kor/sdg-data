@@ -1,0 +1,58 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Proportion_of_members_of_developing_countries_in_international_organizations",
+                "data.Proportion_of_voting_rights_of_developing_countries_in_international_organizations",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Name_of_international_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ADB",
+                "AFDB",
+                "IABD",
+                "IBRD",
+                "IFC",
+                "IMF",
+                "UNGA",
+                "WTO",
+                "ECOSOC",
+                "FSB",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-8-1",
+  "title": "국제기구에서 개도국의 회원 및 투표권 비율"
+}

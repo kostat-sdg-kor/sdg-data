@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SCP 정책 제도적 기제 보유",
+                "SCP 정책수단 보유",
+                "SCP 이행계획보유 및 정책 우선순위"
+              ]
+            },
+            "title": "구분"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-1-1",
+  "title": "지속가능한 소비 및 생산을 지원하는 정책수단을 개발, 채택, 이행하고 있는 국가 수"
+}

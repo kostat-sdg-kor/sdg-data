@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G4 Non-performing loans to total gross loans",
+                "G5 Return on assets",
+                "G1 Regulatory capital to assets",
+                "G3 Non-performing loans net of provisions to capital",
+                "G2 Regulatory Tier 1 capital to risk-weighted assets",
+                "G6 Liquid assets to short term liabilities",
+                "G7 Net open position in foreign exchange to capital",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-5-1",
+  "title": "금융건전성지표"
+}

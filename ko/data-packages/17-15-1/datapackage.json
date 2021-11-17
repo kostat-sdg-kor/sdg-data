@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "공여국이 수원국 주도의 성과체계 및 기획수단을 활용하는 정도(공여국 자료)",
+                "공여국 사업 중 수원국 주도의 성과체계로부터 도출된 새로운 개발협력 사업 비중(공여국 자료)",
+                "수원국 주도의 성과체계로부터 도출된 결과 지표",
+                "수원국의 자원과 평가 체계를 활용하여 모니터링할 결과지표의 비율(공여국 자료)"
+              ]
+            },
+            "title": "구분"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-15-1",
+  "title": "개발협력사업 공여자가 개도국 주도 성과체계 및 기획수단을 사용하는 정도"
+}

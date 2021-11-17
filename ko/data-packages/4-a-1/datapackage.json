@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.School",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "초등학교",
+                "고등학교",
+                "중학교"
+              ]
+            },
+            "title": "교육수준별"
+          },
+          {
+            "name": "data.School_environment_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "컴퓨터",
+                "식수",
+                "전기",
+                "손씻기 시설",
+                "인터넷",
+                "성별 위생시설"
+              ]
+            },
+            "title": "학교 환경 요소"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1",
+  "title": "기본 서비스 제공하는 학교 비율(서비스 유형별)"
+}

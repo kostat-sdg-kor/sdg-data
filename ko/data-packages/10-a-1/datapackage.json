@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Type_of_product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농산품",
+                "무기",
+                "의류",
+                "공산품",
+                "기름",
+                "섬유",
+                "전체 혹은 감면없음"
+              ]
+            },
+            "title": "유형별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-a-1",
+  "title": "최빈개도국과 개발도상국으로부터의 수입에 적용되는 무관세 비율"
+}

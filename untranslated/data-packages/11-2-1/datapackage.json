@@ -1,0 +1,74 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Metropolitan_Transportation_Facilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Access_point",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Train_station",
+                "data.Bus_terminal",
+                "data.Airport",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Transportation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Car",
+                "data.Public_transportation/walking",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Time(min)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15",
+                "30",
+                "45",
+                "60",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-2-1",
+  "title": "대중교통에 편리하게 접근할 수 있는 인구 비율(연령, 성 및 장애별)"
+}

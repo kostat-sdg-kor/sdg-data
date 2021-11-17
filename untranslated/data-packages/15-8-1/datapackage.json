@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries_commitments_to_global_conventions/_international_agreements_",
+                "National_Biodiversity_Strategy_and_Action_Plan_(NBSAP)_targets_alignment_to_Aichi_Biodiversity_target_9",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-8-1",
+  "title": "외래침입종의 유입 예방과 통제를 위해 국가 차원의 법률과 적당한 수단을 채택하고 있는 국가의 비율"
+}

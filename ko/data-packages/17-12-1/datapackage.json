@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Time serieses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "최혜국 지위",
+                "특혜지위"
+              ]
+            },
+            "title": "Time serieses"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Type_of_product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농산품",
+                "무기",
+                "의류",
+                "공산품",
+                "기름",
+                "섬유",
+                "전체 혹은 감면없음"
+              ]
+            },
+            "title": "유형별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-12-1",
+  "title": "개도국, 최빈개도국 및 군소도서 개발국에 부과되는 가중 관세 평균"
+}

@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "G1_총자산 대비 기본자본(Tier 1) 비율",
+                "G2_위험가중자산 대비 기본자본(Tier 1) 비율",
+                "G3_총자본 대비 부실채권충당금 비율",
+                "G4_총채권 대비 부실채권 비율",
+                "G5_총자산순이익률",
+                "G6_단기부채 대비 유동자산 비율",
+                "G7_총자본 대비 외환종합포지션 비율"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-5-1",
+  "title": "금융건전성지표"
+}

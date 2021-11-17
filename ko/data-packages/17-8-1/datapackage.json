@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10-19",
+                "20-29",
+                "3-9",
+                "30-39",
+                "40-49",
+                "50-59",
+                "60+",
+                "60-69",
+                "70+"
+              ]
+            },
+            "title": "연령별"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "여성",
+                "남성"
+              ]
+            },
+            "title": "성별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-8-1",
+  "title": "인터넷 이용자 비율"
+}

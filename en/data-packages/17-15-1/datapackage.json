@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)",
+                "Proportion of project objectives of new development interventions drawn from country-led result frameworks - data by provider (%)",
+                "Proportion of results indicators drawn from country-led results frameworks - data by provider (%)",
+                "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%)",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-15-1",
+  "title": "개발협력사업 공여자가 개도국 주도 성과체계 및 기획수단을 사용하는 정도"
+}

@@ -1,0 +1,49 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Cultivation_size",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "① 0~0.5 ha",
+                "② 0.5~1.0 ha",
+                "③ 1.0~1.5 ha",
+                "④ 1.5~2.0 ha",
+                "⑤ 2.0~3.0 ha",
+                "⑥ 3.0~5.0 ha",
+                "⑦ 5.0~7.0 ha",
+                "⑧ 7.0~10.0 ha",
+                "⑨ 10.0 ha~",
+                ""
+              ]
+            },
+            "title": "Cultivation size"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3-2",
+  "title": "소규모 식량생산자 평균소득(성 및 원주민여부별)"
+}

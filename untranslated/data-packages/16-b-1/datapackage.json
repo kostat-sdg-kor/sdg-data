@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.Reasons",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.01_Sex",
+                "data.02_Age",
+                "data.03_Socio-Eoconomic_status",
+                "data.04_Forms_of_employment",
+                "data.05_Educational_background",
+                "data.06_Physical_condition",
+                "data.07_Political_opinion",
+                "data.08_Marital status_such_as_being_single/married/divorced/widowed",
+                "data.09_Geographic_location_or_Place_of_residence",
+                "data.10_Marital_status_such_as_being_pregnant/with_or_without_children",
+                "data.11_Health_status",
+                "data.12_Religion",
+                "data.13_Disability",
+                "data.14_Ethnicity/Colour/Language/Migration_status",
+                "data.15_Marital_status_such_as_being_orphan/born_from_unmarried_parents",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-b-1",
+  "title": "국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘 경험을 보고한 인구 비율"
+}

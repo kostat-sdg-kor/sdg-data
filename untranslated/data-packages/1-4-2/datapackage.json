@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Male",
+                "data.Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.0~19",
+                "data.20~29",
+                "data.30~39",
+                "data.40~49",
+                "data.50~59",
+                "data.60~69",
+                "data.70~79",
+                "data.80~",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-2",
+  "title": "(a) 법적으로 인정된 문서를 가지며 (b) 토지권이 보장된다고 인식하는, 안정된 토지권을 갖는 성인 인구 비율(성 및 보유형태별)"
+}

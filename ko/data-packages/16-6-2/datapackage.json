@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Experiences",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "경험했다",
+                "경험하지 않았다"
+              ]
+            },
+            "title": "경험여부"
+          },
+          {
+            "name": "data.Public_Services",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "주민자치센터",
+                "교육 서비스",
+                "소방 서비스",
+                "보건 서비스",
+                "인허가 서비스",
+                "인터넷 민원발급",
+                "주민참여예산",
+                "경찰 서비스",
+                "공청회·청문회",
+                "세무 서비스"
+              ]
+            },
+            "title": "공공서비스 유형별"
+          },
+          {
+            "name": "data.Satisfaction",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1 전혀 만족하지 않는다",
+                "2 별로 만족하지 않는다",
+                "3 보통이다",
+                "4 약간 만족한다",
+                "5 매우 만족한다"
+              ]
+            },
+            "title": "만족도"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-2",
+  "title": "가장 최근에 경험한 공공서비스에 대해 만족하는 인구비율"
+}

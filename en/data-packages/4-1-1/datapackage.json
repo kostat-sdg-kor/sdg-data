@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Grade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Middle school",
+                "Elementary school Primary",
+                ""
+              ]
+            },
+            "title": "Grade"
+          },
+          {
+            "name": "data.Subjects",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mathematics",
+                "Reading",
+                ""
+              ]
+            },
+            "title": "Subjects"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-1",
+  "title": "(a) 초등학교 2학년 혹은 3학년 시점, (b) 초등학교 말 (c) 중학교 말에 (i) 읽기와 (ii) 수학 분야 최소숙달수준에 도달한 아동 및 청소년 비율(성별)"
+}

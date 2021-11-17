@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Countries_with_national_statistical_plans_with_funding_from_Government_(1_=_YES;_0_=_NO)",
+                "data.Countries_with_national_statistical_plans_that_are_under_implementation_(1_=_YES;_0_=_NO)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-18-3",
+  "title": "재원이 충분히 확보되어 이행되고 있는 국가통계계획을 보유한 국가의 수(재정지원 출처별)"
+}

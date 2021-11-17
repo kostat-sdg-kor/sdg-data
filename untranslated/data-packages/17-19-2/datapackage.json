@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Countries_with_birth_registration_data_that_are_at_least_90_percent_complete_(1_=_YES;_0_=_NO)",
+                "data.Countries_that_have_conducted_at_least_one_population_and_housing_census_in_the_last_10_years_(1_=_YES;_0_=_NO)",
+                "data.Countries_with_death_registration_data_that_are_at_least_75_percent_complete_(1_=_YES;_0_=_NO)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-19-2",
+  "title": "지난 10년 동안 (a) 최소 한 번의 인구주택총조사를 진행했고, (b) 100%의 출생등록과 80%의 사망등록을 달성한 국가의 비율"
+}

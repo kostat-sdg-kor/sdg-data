@@ -1,0 +1,13 @@
+Year,data.Development_index,data.Sex,Value
+2013,data.Cognitive_development,,3.43
+2013,data.Cognitive_development,data.Male,3.4
+2013,data.Cognitive_development,data.Female,3.4
+2013,data.Language_development,,3.41
+2013,data.Language_development,data.Male,3.4
+2013,data.Language_development,data.Female,3.4
+2018,data.Cognitive_development,,2.23
+2018,data.Cognitive_development,data.Male,2.24
+2018,data.Cognitive_development,data.Female,2.22
+2018,data.Language_development,,2.25
+2018,data.Language_development,data.Male,2.24
+2018,data.Language_development,data.Female,2.26

@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "01~02",
+                "03~05",
+                "06~11",
+                "12~18",
+                "19~29",
+                "30~49",
+                "50~64",
+                "65~"
+              ]
+            },
+            "title": "연령별"
+          },
+          {
+            "name": "data.Income_classes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "하",
+                "중하",
+                "중",
+                "상",
+                "중상"
+              ]
+            },
+            "title": "소득수준별"
+          },
+          {
+            "name": "data.Residential_area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "읍/면",
+                "동"
+              ]
+            },
+            "title": "거주지역별"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "여성",
+                "남성"
+              ]
+            },
+            "title": "성별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-1",
+  "title": "영양부족인구 비율"
+}

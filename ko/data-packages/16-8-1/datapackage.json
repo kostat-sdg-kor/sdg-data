@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "개도국 회원국 비율",
+                "개도국 투표권 비율"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Name_of_international_institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ADB",
+                "AFDB",
+                "ECOSOC",
+                "FSB",
+                "IABD",
+                "IBRD",
+                "IFC",
+                "IMF",
+                "UNGA",
+                "WTO"
+              ]
+            },
+            "title": "국제기구명"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-8-1",
+  "title": "국제기구에서 개도국의 회원 및 투표권 비율"
+}

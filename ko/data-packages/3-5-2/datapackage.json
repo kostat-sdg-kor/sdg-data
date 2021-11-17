@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Alcohol",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "① 탁주",
+                "② 약주",
+                "③ 청주",
+                "④ 맥주",
+                "⑤ 과실주",
+                "⑥ 증류식 소주",
+                "⑦ 희석식 소주",
+                "⑧ 위스키",
+                "⑨ 브랜디",
+                "⑩ 일반 증류수",
+                "⑪ 리큐르",
+                "⑫ 기타 주류"
+              ]
+            },
+            "title": "주종별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-5-2",
+  "title": "15세 이상 인구 1인당 연간 순 알코올 소비량"
+}

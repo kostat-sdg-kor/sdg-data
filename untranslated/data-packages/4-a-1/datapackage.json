@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.School_environment_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Computer",
+                "data.Drinking_water",
+                "data.Electricity",
+                "data.Hand-washing_facilities",
+                "data.Internet",
+                "data.Single-sex_basic_sanitation_facilities",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.School",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Middle_school",
+                "data.Elementary_school",
+                "data.High_school",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1",
+  "title": "기본 서비스 제공하는 학교 비율(서비스 유형별)"
+}

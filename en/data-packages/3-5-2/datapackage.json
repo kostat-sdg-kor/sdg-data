@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Alcohol",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "① Takju",
+                "② Yakju",
+                "③ Cheongju",
+                "④ Beer",
+                "⑤ Wine",
+                "⑥ Distilled soju",
+                "⑦ Diluted soju",
+                "⑧ Whiskey",
+                "⑨ Brandy",
+                "⑩ Sprits",
+                "⑪ Liquor",
+                "⑫ Others",
+                ""
+              ]
+            },
+            "title": "Alcohol"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-5-2",
+  "title": "15세 이상 인구 1인당 연간 순 알코올 소비량"
+}

@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "data.Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "01~02",
+                "03~05",
+                "06~11",
+                "12~18",
+                "19~29",
+                "30~49",
+                "50~64",
+                "65~",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "data.Residential_area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Suburban(Dong)",
+                "Rural(Eup/Myeon)",
+                ""
+              ]
+            },
+            "title": "Residential area"
+          },
+          {
+            "name": "data.Income_classes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower",
+                "Lower-middle",
+                "Middle",
+                "Upper-middle",
+                "Upper",
+                ""
+              ]
+            },
+            "title": "Income classes"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-1",
+  "title": "영양부족인구 비율"
+}

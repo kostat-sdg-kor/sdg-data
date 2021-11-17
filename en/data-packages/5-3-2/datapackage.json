@@ -1,0 +1,141 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "NHS England Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "London",
+                "Midlands and East of England",
+                "North of England",
+                "South of England",
+                ""
+              ]
+            },
+            "title": "NHS England Region"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 1",
+                "1 to 4",
+                "5 to 9",
+                "10 to 14",
+                "15 to 17",
+                "18 and over",
+                "Not recorded",
+                "Not stated or unknown",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Country of birth",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not recorded",
+                "Not stated or unknown",
+                "Eastern Africa",
+                "Northern Africa",
+                "Western Africa",
+                "Rest of Africa",
+                "United Kingdom",
+                "Western Asia",
+                "Rest of Asia",
+                "Rest of World",
+                "Rest of Europe",
+                ""
+              ]
+            },
+            "title": "Country of birth"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 1,000,000 population",
+                "Number of newly recorded cases",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "FGM category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type 1",
+                "Type 2",
+                "Type 3 and others",
+                "Type 4",
+                "Not recorded or unknown",
+                ""
+              ]
+            },
+            "title": "FGM category"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-3-2",
+  "title": "15~49세 여아와 여성 중 여성성기절제를 한 인구 비율(연령별)"
+}

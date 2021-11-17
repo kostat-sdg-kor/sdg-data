@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Waste_disposed_by_type_of_treatment(tonnes/day)",
+                "data.Waste_incinerated_by_type_of_treatment(tonnes/day)",
+                "data.Waste_recycled_by_type_of_treatment(tonnes/day)",
+                "data.Etc._(tonnes/day)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2",
+  "title": "(a) 1인당 발생시키는 유해폐기물과 (b) 유해폐기물 처리 비율(처리유형별)"
+}

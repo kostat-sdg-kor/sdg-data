@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Education_indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "성 불평등지수",
+                "언어테스트 불평등지수",
+                "사회경제적 불평등지수",
+                "원주민 불평등지수",
+                "도농 불평등지수"
+              ]
+            },
+            "title": "형평성 영역"
+          },
+          {
+            "name": "data.Type_of_skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "문해력",
+                "수리력"
+              ]
+            },
+            "title": "능력별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "교육지표에 대한 형평지수(성, 도농, 소득분위, 장애상태, 원주민, 분쟁영향 여부별)"
+}

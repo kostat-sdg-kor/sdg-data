@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Time serieses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "preferencial status",
+                "most-favoured-nation status",
+                ""
+              ]
+            },
+            "title": "Time serieses"
+          },
+          {
+            "name": "data.Type_of_product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultural products",
+                "Total or no breakdown",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-12-1",
+  "title": "개도국, 최빈개도국 및 군소도서 개발국에 부과되는 가중 관세 평균"
+}

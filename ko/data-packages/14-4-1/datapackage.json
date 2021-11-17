@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "생산량",
+                "생산금액"
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "data.Fisheries_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "원양어업",
+                "일반해면어업",
+                "내수면어업",
+                "천해양식어업"
+              ]
+            },
+            "title": "어업별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-4-1",
+  "title": "생물학적으로 지속 가능한 수준에서의 어족자원 비율 "
+}

@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Basel_Convention_on_hazardous_waste_and_other_chemicals",
+                "data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Montreal_Protocol_on_hazardous_waste_and_other_chemicals",
+                "data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Rotterdam_Convention_on_hazardous_waste_and_other_chemicals",
+                "data.Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Stockholm_Convention_on_hazardous_waste_and_other_chemicals",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-1",
+  "title": "유해 폐기물과 기타 화학물질에 대한 국제 다자간 환경협약이 요구하는 정보제공에 관한 약속과 의무를 이행하는 당사국 수"
+}

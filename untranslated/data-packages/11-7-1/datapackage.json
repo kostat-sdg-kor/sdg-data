@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Seoul",
+                "data.Busan",
+                "data.Daegu",
+                "data.Incheon",
+                "data.Gwangju",
+                "data.Daejeon",
+                "data.Ulsan",
+                "data.Sejong",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-7-1",
+  "title": "도시에서 공공목적을 위해 개방된 공간이 차지하는 평균비율(성, 연령 및 장애별)"
+}

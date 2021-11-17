@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.Residential_area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Suburban(Dong)",
+                "data.Rural(Eup/Myeon)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Income_classes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Lower",
+                "data.Lower_middle",
+                "data.Middle",
+                "data.Upper_middle",
+                "data.Upper",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-2",
+  "title": "식량불안경험척도(FIES) 기준으로 중간 또는 심각한 수준의 식량불안 경험인구 비율"
+}

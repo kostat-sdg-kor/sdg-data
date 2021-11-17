@@ -1,0 +1,49 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Type_of_occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "치과의사",
+                "의사",
+                "조산사",
+                "간호사",
+                "작업치료사",
+                "한의사",
+                "약사",
+                "물리치료사",
+                "사회복지사"
+              ]
+            },
+            "title": "직종별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-c-1",
+  "title": "보건의료인력 밀도 및 분포"
+}

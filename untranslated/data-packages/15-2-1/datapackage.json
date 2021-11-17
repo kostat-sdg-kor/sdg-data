@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Above-ground_biomass_stock_in_forest_(tonnes_per_hectare)",
+                "data.Forest_area_under_an_independently_verified_forest_management_certification_scheme_(thousands_of_hectares)",
+                "data.Forest_area_annual_net_change_rate_(%)",
+                "data.Proportion_of_forest_area_under_a_long-term_management_plan_(%)",
+                "data.Proportion_of_forest_area_within_legally_established_protected_areas_(%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-2-1",
+  "title": "지속가능한 산림경영 이행상황"
+}

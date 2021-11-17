@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "여성",
+                "남성"
+              ]
+            },
+            "title": "성별"
+          },
+          {
+            "name": "data.Skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ARSP",
+                "CMFL",
+                "COPA",
+                "EMAIL",
+                "EPRS",
+                "INST",
+                "PCPR",
+                "SOFT",
+                "TRAF"
+              ]
+            },
+            "title": "기술유형"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "정보통신기술(ICT) 능력을 보유한 청소년과 성인의 비율(기술유형별)"
+}

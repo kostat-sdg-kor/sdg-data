@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Payment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "지불함",
+                "지불한 적 없음"
+              ]
+            },
+            "title": "취업소개료 지불여부"
+          },
+          {
+            "name": "data.Recruitment_cost",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "30만원 이상",
+                "data.-150mKRW ",
+                "data.150-300mKRW ",
+                "해당없음"
+              ]
+            },
+            "title": "지불금액별"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-7-1",
+  "title": "이주국가에서의 월소득 대비 이주근로자가 부담하는 취업비용 비율"
+}

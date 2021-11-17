@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "data.Cause_of_death",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Cancer",
+                "data.Diabetes",
+                "data.Cardiovascular_diseases",
+                "data.Chronic_respiratory_diseases",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Male",
+                "data.Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1",
+  "title": "심혈관계질환, 암, 당뇨 또는 만성호흡기질환 사망률"
+}

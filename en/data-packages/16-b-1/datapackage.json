@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "data.Reasons",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "① Sex",
+                "② Age",
+                "③ Socio-Eoconomic status",
+                "④ Forms of employment",
+                "⑤ Educational background",
+                "⑥ Physical condition",
+                "⑦ Political opinion",
+                "⑧ Marital status such as being single/married/divorced/widowed",
+                "⑨ Geographic_location or_Place of residence",
+                "⑩ Marital status such as being pregnant/with or without children",
+                "⑪ Health status",
+                "⑫ Religion",
+                "⑬ Disability",
+                "⑭ Ethnicity/Colour/Language/Migration_status",
+                "⑮ Marital status such as being orphan/born from unmarried parents",
+                ""
+              ]
+            },
+            "title": "Reasons"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-b-1",
+  "title": "국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘 경험을 보고한 인구 비율"
+}
