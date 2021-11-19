@@ -1,11 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.Community_center,6,1
-data.Education_service,6,1
+data.Community_center,5,1
+data.Education_service,5,1
 data.Fire_administration_service,6,1
-data.Health_service,6,1
-data.Licensing_service,6,1
-data.Online_official_documents,6,1
-data.Participatory_budgeting,6,1
-data.Police_service,6,1
-data.Public_hearing,6,1
-data.Tax_affair_service,6,1
+data.Health_service,5,1
+data.Licensing_service,5,1
+data.Online_official_documents,5,1
+data.Participatory_budgeting,5,1
+data.Police_service,5,1
+data.Public_hearing,5,1
+data.Tax_affair_service,5,1
