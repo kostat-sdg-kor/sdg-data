@@ -39,7 +39,6 @@
             "constraints": {
               "enum": [
                 "data.Experienced",
-                "data.No_experienced",
                 ""
               ]
             }
