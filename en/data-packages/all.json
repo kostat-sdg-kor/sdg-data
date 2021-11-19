@@ -4103,9 +4103,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Train station",
-                "Bus terminal",
-                "Airport",
+                "2.Train station",
+                "1.Bus terminal",
+                "3.Airport",
                 ""
               ]
             },
