@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Train station",
-                "Bus terminal",
-                "Airport",
+                "data.2.Train_station",
+                "data.1.Bus_terminal",
+                "data.3.Airport",
                 ""
               ]
             },
