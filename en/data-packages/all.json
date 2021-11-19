@@ -7749,17 +7749,6 @@
             "title": "Public Services"
           },
           {
-            "name": "data.Experiences",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Experienced",
-                ""
-              ]
-            },
-            "title": "Experiences"
-          },
-          {
             "name": "data.Satisfaction",
             "type": "string",
             "constraints": {

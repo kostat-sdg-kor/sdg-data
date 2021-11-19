@@ -34,16 +34,6 @@
             }
           },
           {
-            "name": "data.Experiences",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.Experienced",
-                ""
-              ]
-            }
-          },
-          {
             "name": "data.Satisfaction",
             "type": "string",
             "constraints": {

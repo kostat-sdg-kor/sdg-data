@@ -7734,17 +7734,6 @@
             "title": "Year"
           },
           {
-            "name": "data.Experiences",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "경험했다"
-              ]
-            },
-            "title": "경험여부"
-          },
-          {
             "name": "data.Public_Services",
             "type": "string",
             "constraints": {
