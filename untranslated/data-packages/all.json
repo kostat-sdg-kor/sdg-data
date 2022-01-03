@@ -5590,17 +5590,6 @@
             "type": "integer"
           },
           {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.Female",
-                "data.Male",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

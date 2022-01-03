@@ -19,18 +19,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "여성",
-                "남성"
-              ]
-            },
-            "title": "성별"
           }
         ]
       }
