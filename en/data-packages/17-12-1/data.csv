@@ -10,6 +10,7 @@ Year,Time serieses,Type of product,Value
 2016,preferencial status,Agricultural products,4.06457
 2017,preferencial status,Agricultural products,3.51956
 2018,preferencial status,Agricultural products,4.03987
+2019,preferencial status,Agricultural products,3.82292
 2000,preferencial status,Total or no breakdown,1.98015
 2005,preferencial status,Total or no breakdown,1.84785
 2010,preferencial status,Total or no breakdown,1.5983
@@ -21,6 +22,7 @@ Year,Time serieses,Type of product,Value
 2016,preferencial status,Total or no breakdown,0.16647
 2017,preferencial status,Total or no breakdown,0.18639
 2018,preferencial status,Total or no breakdown,0.12896
+2019,preferencial status,Total or no breakdown,0.13903
 2000,preferencial status,Arms,1.04129
 2005,preferencial status,Arms,0.96376
 2010,preferencial status,Arms,0.96139
@@ -32,6 +34,7 @@ Year,Time serieses,Type of product,Value
 2016,preferencial status,Arms,0.03395
 2017,preferencial status,Arms,0.03326
 2018,preferencial status,Arms,0.03326
+2019,preferencial status,Arms,0.03326
 2000,preferencial status,Clothing,13.28555
 2005,preferencial status,Clothing,12.33657
 2010,preferencial status,Clothing,12.52568
@@ -43,6 +46,7 @@ Year,Time serieses,Type of product,Value
 2016,preferencial status,Clothing,2.14519
 2017,preferencial status,Clothing,1.86969
 2018,preferencial status,Clothing,1.77323
+2019,preferencial status,Clothing,1.67627
 2000,preferencial status,Industrial products,1.87223
 2005,preferencial status,Industrial products,1.74735
 2010,preferencial status,Industrial products,1.49463
@@ -54,6 +58,7 @@ Year,Time serieses,Type of product,Value
 2016,preferencial status,Industrial products,0.14473
 2017,preferencial status,Industrial products,0.16786
 2018,preferencial status,Industrial products,0.11002
+2019,preferencial status,Industrial products,0.10121
 2000,preferencial status,Oil,0.29983
 2005,preferencial status,Oil,0.16938
 2010,preferencial status,Oil,0.0
@@ -65,6 +70,7 @@ Year,Time serieses,Type of product,Value
 2016,preferencial status,Oil,0.0
 2017,preferencial status,Oil,0.0
 2018,preferencial status,Oil,0.0
+2019,preferencial status,Oil,0.0
 2000,preferencial status,Textiles,8.39318
 2005,preferencial status,Textiles,7.11916
 2010,preferencial status,Textiles,6.91516
@@ -76,6 +82,7 @@ Year,Time serieses,Type of product,Value
 2016,preferencial status,Textiles,1.27852
 2017,preferencial status,Textiles,1.14223
 2018,preferencial status,Textiles,1.09354
+2019,preferencial status,Textiles,1.01648
 2000,most-favoured-nation status,Agricultural products,10.31922
 2005,most-favoured-nation status,Agricultural products,11.11541
 2010,most-favoured-nation status,Agricultural products,10.80633
@@ -87,6 +94,7 @@ Year,Time serieses,Type of product,Value
 2016,most-favoured-nation status,Agricultural products,10.76111
 2017,most-favoured-nation status,Agricultural products,10.20863
 2018,most-favoured-nation status,Agricultural products,10.81967
+2019,most-favoured-nation status,Agricultural products,10.63948
 2000,most-favoured-nation status,Total or no breakdown,2.00656
 2005,most-favoured-nation status,Total or no breakdown,1.87166
 2010,most-favoured-nation status,Total or no breakdown,1.61574
@@ -98,6 +106,7 @@ Year,Time serieses,Type of product,Value
 2016,most-favoured-nation status,Total or no breakdown,1.67528
 2017,most-favoured-nation status,Total or no breakdown,1.88355
 2018,most-favoured-nation status,Total or no breakdown,1.82196
+2019,most-favoured-nation status,Total or no breakdown,1.79684
 2000,most-favoured-nation status,Arms,1.11347
 2005,most-favoured-nation status,Arms,1.03352
 2010,most-favoured-nation status,Arms,1.03584
@@ -109,6 +118,7 @@ Year,Time serieses,Type of product,Value
 2016,most-favoured-nation status,Arms,1.0745
 2017,most-favoured-nation status,Arms,1.02403
 2018,most-favoured-nation status,Arms,1.07445
+2019,most-favoured-nation status,Arms,1.07446
 2000,most-favoured-nation status,Clothing,13.32878
 2005,most-favoured-nation status,Clothing,12.37509
 2010,most-favoured-nation status,Clothing,12.62214
@@ -120,6 +130,7 @@ Year,Time serieses,Type of product,Value
 2016,most-favoured-nation status,Clothing,12.54212
 2017,most-favoured-nation status,Clothing,12.39252
 2018,most-favoured-nation status,Clothing,12.53384
+2019,most-favoured-nation status,Clothing,12.53477
 2000,most-favoured-nation status,Industrial products,1.8984
 2005,most-favoured-nation status,Industrial products,1.77099
 2010,most-favoured-nation status,Industrial products,1.51117
@@ -131,6 +142,7 @@ Year,Time serieses,Type of product,Value
 2016,most-favoured-nation status,Industrial products,1.572
 2017,most-favoured-nation status,Industrial products,1.78455
 2018,most-favoured-nation status,Industrial products,1.72025
+2019,most-favoured-nation status,Industrial products,1.69119
 2000,most-favoured-nation status,Oil,0.29983
 2005,most-favoured-nation status,Oil,0.16938
 2010,most-favoured-nation status,Oil,0.0
@@ -142,6 +154,7 @@ Year,Time serieses,Type of product,Value
 2016,most-favoured-nation status,Oil,0.0
 2017,most-favoured-nation status,Oil,0.0
 2018,most-favoured-nation status,Oil,0.0
+2019,most-favoured-nation status,Oil,0.0
 2000,most-favoured-nation status,Textiles,8.44352
 2005,most-favoured-nation status,Textiles,7.14779
 2010,most-favoured-nation status,Textiles,6.9818
@@ -153,3 +166,4 @@ Year,Time serieses,Type of product,Value
 2016,most-favoured-nation status,Textiles,6.9851
 2017,most-favoured-nation status,Textiles,6.85683
 2018,most-favoured-nation status,Textiles,6.98865
+2019,most-favoured-nation status,Textiles,6.99941
