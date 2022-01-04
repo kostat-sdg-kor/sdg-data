@@ -7,8 +7,10 @@ Year,Units,Value
 2013,data.G4_Non-performing_loans_to_total_gross_loans,0.57068
 2014,data.G4_Non-performing_loans_to_total_gross_loans,0.48783
 2015,data.G4_Non-performing_loans_to_total_gross_loans,0.45686
-2016,data.G4_Non-performing_loans_to_total_gross_loans,0.469219999999999
+2016,data.G4_Non-performing_loans_to_total_gross_loans,0.46921
 2017,data.G4_Non-performing_loans_to_total_gross_loans,0.35236
+2018,data.G4_Non-performing_loans_to_total_gross_loans,0.25443
+2019,data.G4_Non-performing_loans_to_total_gross_loans,0.25114
 2008,data.G5_Return_on_assets,0.67379
 2009,data.G5_Return_on_assets,0.5808
 2010,data.G5_Return_on_assets,0.71
@@ -19,6 +21,8 @@ Year,Units,Value
 2015,data.G5_Return_on_assets,0.531339999999999
 2016,data.G5_Return_on_assets,1.94599
 2017,data.G5_Return_on_assets,0.67347
+2018,data.G5_Return_on_assets,0.77715
+2019,data.G5_Return_on_assets,0.70671
 2008,data.G1_Regulatory_capital_to_assets,6.29546
 2009,data.G1_Regulatory_capital_to_assets,7.29426
 2010,data.G1_Regulatory_capital_to_assets,7.59542
@@ -29,6 +33,8 @@ Year,Units,Value
 2015,data.G1_Regulatory_capital_to_assets,8.02821
 2016,data.G1_Regulatory_capital_to_assets,7.8732
 2017,data.G1_Regulatory_capital_to_assets,7.9931
+2018,data.G1_Regulatory_capital_to_assets,7.95558
+2019,data.G1_Regulatory_capital_to_assets,7.81913
 2008,data.G3_Non-performing_loans_net_of_provisions_to_capital,3.16607
 2009,data.G3_Non-performing_loans_net_of_provisions_to_capital,3.08055
 2010,data.G3_Non-performing_loans_net_of_provisions_to_capital,3.39135
@@ -39,6 +45,8 @@ Year,Units,Value
 2015,data.G3_Non-performing_loans_net_of_provisions_to_capital,2.12846
 2016,data.G3_Non-performing_loans_net_of_provisions_to_capital,2.13353
 2017,data.G3_Non-performing_loans_net_of_provisions_to_capital,1.66029
+2018,data.G3_Non-performing_loans_net_of_provisions_to_capital,1.28498
+2019,data.G3_Non-performing_loans_net_of_provisions_to_capital,1.20418
 2008,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,8.83722
 2009,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,10.91975
 2010,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,11.30795
@@ -49,6 +57,8 @@ Year,Units,Value
 2015,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,11.69408
 2016,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,13.1146
 2017,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,13.1219
+2018,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,13.25497
+2019,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets,13.21514
 2008,data.G6_Liquid_assets_to_short_term_liabilities,101.37096
 2009,data.G6_Liquid_assets_to_short_term_liabilities,103.93085
 2010,data.G6_Liquid_assets_to_short_term_liabilities,117.46817
@@ -59,6 +69,8 @@ Year,Units,Value
 2015,data.G6_Liquid_assets_to_short_term_liabilities,104.95577
 2016,data.G6_Liquid_assets_to_short_term_liabilities,102.59449
 2017,data.G6_Liquid_assets_to_short_term_liabilities,101.2468
+2018,data.G6_Liquid_assets_to_short_term_liabilities,114.4857
+2019,data.G6_Liquid_assets_to_short_term_liabilities,109.96364
 2008,data.G7_Net_open_position_in_foreign_exchange_to_capital,1.8752
 2009,data.G7_Net_open_position_in_foreign_exchange_to_capital,2.911
 2010,data.G7_Net_open_position_in_foreign_exchange_to_capital,0.93766
@@ -69,3 +81,5 @@ Year,Units,Value
 2015,data.G7_Net_open_position_in_foreign_exchange_to_capital,-0.04185
 2016,data.G7_Net_open_position_in_foreign_exchange_to_capital,0.01914
 2017,data.G7_Net_open_position_in_foreign_exchange_to_capital,-0.9807
+2018,data.G7_Net_open_position_in_foreign_exchange_to_capital,0.04103
+2019,data.G7_Net_open_position_in_foreign_exchange_to_capital,0.10735
