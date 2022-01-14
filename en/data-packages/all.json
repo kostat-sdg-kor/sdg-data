@@ -2300,8 +2300,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "data.male",
+                "data.female",
                 ""
               ]
             },
