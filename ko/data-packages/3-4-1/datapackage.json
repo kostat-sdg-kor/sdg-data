@@ -27,8 +27,8 @@
               "enum": [
                 "",
                 "암",
-                "data.Cardiovascular diseases",
-                "data.Chronic respiratory diseases",
+                "심혈관계 질환",
+                "data.Chronic respiratory_diseases",
                 "당뇨"
               ]
             },

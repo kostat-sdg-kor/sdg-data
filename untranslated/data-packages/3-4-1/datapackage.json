@@ -21,8 +21,8 @@
               "enum": [
                 "data.Cancer",
                 "data.Diabetes",
-                "data.Cardiovascular diseases",
-                "data.Chronic respiratory diseases",
+                "data.Cardiovascular_diseases",
+                "data.Chronic respiratory_diseases",
                 ""
               ]
             }
