@@ -5513,8 +5513,8 @@
               "enum": [
                 "",
                 "암",
-                "심혈관계 질환",
-                "호흡기 질환",
+                "data.Cardiovascular diseases",
+                "data.Chronic respiratory diseases",
                 "당뇨"
               ]
             },

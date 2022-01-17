@@ -5508,8 +5508,8 @@
               "enum": [
                 "Cancer",
                 "Diabetes",
-                "Cardiovascular diseases",
-                "Chronic respiratory diseases",
+                "data.Cardiovascular diseases",
+                "data.Chronic respiratory diseases",
                 ""
               ]
             },

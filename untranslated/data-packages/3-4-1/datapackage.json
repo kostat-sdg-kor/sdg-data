@@ -21,8 +21,8 @@
               "enum": [
                 "data.Cancer",
                 "data.Diabetes",
-                "data.Cardiovascular_diseases",
-                "data.Chronic_respiratory_diseases",
+                "data.Cardiovascular diseases",
+                "data.Chronic respiratory diseases",
                 ""
               ]
             }
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.Male",
-                "data.Female",
+                "Male",
+                "Female",
                 ""
               ]
             }
