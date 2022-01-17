@@ -1,241 +1,253 @@
 Year,data.Cause_of_death,data.Sex,Value
-2000,data.Cancer,,13.7
-2000,data.Cancer,data.Male,15
-2000,data.Cancer,data.Female,12.4
+2000,data.Cancer,,122.4
+2000,data.Cancer,Male,156
+2000,data.Cancer,Female,88.6
 2000,data.Diabetes,,22.7
-2000,data.Diabetes,data.Male,22.6
-2000,data.Diabetes,data.Female,22.8
-2000,data.Cardiovascular_diseases,,0.3
-2000,data.Cardiovascular_diseases,data.Male,0.2
-2000,data.Cardiovascular_diseases,data.Female,0.5
-2000,data.Chronic_respiratory_diseases,,34
-2000,data.Chronic_respiratory_diseases,data.Male,38.7
-2000,data.Chronic_respiratory_diseases,data.Female,29.3
-2001,data.Cancer,,14.4
-2001,data.Cancer,data.Male,15.7
-2001,data.Cancer,data.Female,13
+2000,data.Diabetes,Male,22.6
+2000,data.Diabetes,Female,22.8
+2000,data.Cardiovascular diseases,,0.3
+2000,data.Cardiovascular diseases,Male,0.2
+2000,data.Cardiovascular diseases,Female,0.5
+2000,data.Chronic respiratory diseases,,12.1923580513622
+2000,data.Chronic respiratory diseases,Male,14.1516521271616
+2000,data.Chronic respiratory diseases,Female,10.3178990034973
+2001,data.Cancer,,123.8
+2001,data.Cancer,Male,157.3
+2001,data.Cancer,Female,90.1
 2001,data.Diabetes,,23.9
-2001,data.Diabetes,data.Male,23.6
-2001,data.Diabetes,data.Female,24.3
-2001,data.Cardiovascular_diseases,,0.3
-2001,data.Cardiovascular_diseases,data.Male,0.2
-2001,data.Cardiovascular_diseases,data.Female,0.5
-2001,data.Chronic_respiratory_diseases,,32.9
-2001,data.Chronic_respiratory_diseases,data.Male,37.8
-2001,data.Chronic_respiratory_diseases,data.Female,27.9
-2002,data.Cancer,,14.9
-2002,data.Cancer,data.Male,15.7
-2002,data.Cancer,data.Female,14
+2001,data.Diabetes,Male,23.6
+2001,data.Diabetes,Female,24.3
+2001,data.Cardiovascular diseases,,0.3
+2001,data.Cardiovascular diseases,Male,0.2
+2001,data.Cardiovascular diseases,Female,0.5
+2001,data.Chronic respiratory diseases,,12.7348397865012
+2001,data.Chronic respiratory diseases,Male,14.8060248819801
+2001,data.Chronic respiratory diseases,Female,10.7704740730879
+2002,data.Cancer,,130.9
+2002,data.Cancer,Male,166.4
+2002,data.Cancer,Female,95.2
 2002,data.Diabetes,,25.2
-2002,data.Diabetes,data.Male,24.4
-2002,data.Diabetes,data.Female,26.1
-2002,data.Cardiovascular_diseases,,0.6
-2002,data.Cardiovascular_diseases,data.Male,0.5
-2002,data.Cardiovascular_diseases,data.Female,0.7
-2002,data.Chronic_respiratory_diseases,,34.7
-2002,data.Chronic_respiratory_diseases,data.Male,38.7
-2002,data.Chronic_respiratory_diseases,data.Female,30.6
-2003,data.Cancer,,15.1
-2003,data.Cancer,data.Male,16.1
-2003,data.Cancer,data.Female,14
+2002,data.Diabetes,Male,24.4
+2002,data.Diabetes,Female,26.1
+2002,data.Cardiovascular diseases,,0.6
+2002,data.Cardiovascular diseases,Male,0.5
+2002,data.Cardiovascular diseases,Female,0.7
+2002,data.Chronic respiratory diseases,,14.0215914133642
+2002,data.Chronic respiratory diseases,Male,15.9033153576332
+2002,data.Chronic respiratory diseases,Female,12.1488036676538
+2003,data.Cancer,,131.9
+2003,data.Cancer,Male,166.3
+2003,data.Cancer,Female,97.3
 2003,data.Diabetes,,25.2
-2003,data.Diabetes,data.Male,24.9
-2003,data.Diabetes,data.Female,25.4
-2003,data.Cardiovascular_diseases,,0.7
-2003,data.Cardiovascular_diseases,data.Male,0.5
-2003,data.Cardiovascular_diseases,data.Female,0.8
-2003,data.Chronic_respiratory_diseases,,30.1
-2003,data.Chronic_respiratory_diseases,data.Male,34.2
-2003,data.Chronic_respiratory_diseases,data.Female,26
-2004,data.Cancer,,15.3
-2004,data.Cancer,data.Male,16.7
-2004,data.Cancer,data.Female,13.9
+2003,data.Diabetes,Male,24.9
+2003,data.Diabetes,Female,25.4
+2003,data.Cardiovascular diseases,,0.7
+2003,data.Cardiovascular diseases,Male,0.5
+2003,data.Cardiovascular diseases,Female,0.8
+2003,data.Chronic respiratory diseases,,11.7953071585208
+2003,data.Chronic respiratory diseases,Male,13.7971328841653
+2003,data.Chronic respiratory diseases,Female,9.82262760495319
+2004,data.Cancer,,133.4
+2004,data.Cancer,Male,169.6
+2004,data.Cancer,Female,97.1
 2004,data.Diabetes,,24.4
-2004,data.Diabetes,data.Male,24.2
-2004,data.Diabetes,data.Female,24.6
-2004,data.Cardiovascular_diseases,,0.6
-2004,data.Cardiovascular_diseases,data.Male,0.5
-2004,data.Cardiovascular_diseases,data.Female,0.7
-2004,data.Chronic_respiratory_diseases,,29.5
-2004,data.Chronic_respiratory_diseases,data.Male,35.8
-2004,data.Chronic_respiratory_diseases,data.Female,23.2
-2005,data.Cancer,,15
-2005,data.Cancer,data.Male,16.2
-2005,data.Cancer,data.Female,13.9
+2004,data.Diabetes,Male,24.2
+2004,data.Diabetes,Female,24.6
+2004,data.Cardiovascular diseases,,0.6
+2004,data.Cardiovascular diseases,Male,0.5
+2004,data.Cardiovascular diseases,Female,0.7
+2004,data.Chronic respiratory diseases,,11.0263664015416
+2004,data.Chronic respiratory diseases,Male,13.8998580671324
+2004,data.Chronic respiratory diseases,Female,8.11860311106533
+2005,data.Cancer,,134.6
+2005,data.Cancer,Male,169.3
+2005,data.Cancer,Female,99.7
 2005,data.Diabetes,,24.3
-2005,data.Diabetes,data.Male,24.5
-2005,data.Diabetes,data.Female,24.2
-2005,data.Cardiovascular_diseases,,0.6
-2005,data.Cardiovascular_diseases,data.Male,0.5
-2005,data.Cardiovascular_diseases,data.Female,0.7
-2005,data.Chronic_respiratory_diseases,,29.4
-2005,data.Chronic_respiratory_diseases,data.Male,34.6
-2005,data.Chronic_respiratory_diseases,data.Female,24.2
-2006,data.Cancer,,15.2
-2006,data.Cancer,data.Male,16.4
-2006,data.Cancer,data.Female,13.9
+2005,data.Diabetes,Male,24.5
+2005,data.Diabetes,Female,24.2
+2005,data.Cardiovascular diseases,,0.6
+2005,data.Cardiovascular diseases,Male,0.5
+2005,data.Cardiovascular diseases,Female,0.7
+2005,data.Chronic respiratory diseases,,10.4171866737176
+2005,data.Chronic respiratory diseases,Male,12.8252090227124
+2005,data.Chronic respiratory diseases,Female,7.97811704834606
+2006,data.Cancer,,134.8
+2006,data.Cancer,Male,171.6
+2006,data.Cancer,Female,97.9
 2006,data.Diabetes,,23.8
-2006,data.Diabetes,data.Male,23.8
-2006,data.Diabetes,data.Female,23.8
-2006,data.Cardiovascular_diseases,,0.6
-2006,data.Cardiovascular_diseases,data.Male,0.4
-2006,data.Cardiovascular_diseases,data.Female,0.7
-2006,data.Chronic_respiratory_diseases,,29.3
-2006,data.Chronic_respiratory_diseases,data.Male,34.6
-2006,data.Chronic_respiratory_diseases,data.Female,24
-2007,data.Cancer,,16.4
-2007,data.Cancer,data.Male,17.6
-2007,data.Cancer,data.Female,15.1
+2006,data.Diabetes,Male,23.8
+2006,data.Diabetes,Female,23.8
+2006,data.Cardiovascular diseases,,0.6
+2006,data.Cardiovascular diseases,Male,0.4
+2006,data.Cardiovascular diseases,Female,0.7
+2006,data.Chronic respiratory diseases,,9.97342523293511
+2006,data.Chronic respiratory diseases,Male,12.5119959934469
+2006,data.Chronic respiratory diseases,Female,7.37693736026375
+2007,data.Cancer,,138.1
+2007,data.Cancer,Male,174.3
+2007,data.Cancer,Female,101.8
 2007,data.Diabetes,,23.1
-2007,data.Diabetes,data.Male,23.2
-2007,data.Diabetes,data.Female,22.9
-2007,data.Cardiovascular_diseases,,0.5
-2007,data.Cardiovascular_diseases,data.Male,0.3
-2007,data.Cardiovascular_diseases,data.Female,0.7
-2007,data.Chronic_respiratory_diseases,,30.5
-2007,data.Chronic_respiratory_diseases,data.Male,35.4
-2007,data.Chronic_respiratory_diseases,data.Female,25.5
-2008,data.Cancer,,17.1
-2008,data.Cancer,data.Male,19.1
-2008,data.Cancer,data.Female,15.2
+2007,data.Diabetes,Male,23.2
+2007,data.Diabetes,Female,22.9
+2007,data.Cardiovascular diseases,,0.5
+2007,data.Cardiovascular diseases,Male,0.3
+2007,data.Cardiovascular diseases,Female,0.7
+2007,data.Chronic respiratory diseases,,10.4799920969442
+2007,data.Chronic respiratory diseases,Male,12.9035558096769
+2007,data.Chronic respiratory diseases,Female,8.15012198599537
+2008,data.Cancer,,139.5
+2008,data.Cancer,Male,176.9
+2008,data.Cancer,Female,101.9
 2008,data.Diabetes,,20.7
-2008,data.Diabetes,data.Male,20.9
-2008,data.Diabetes,data.Female,20.5
-2008,data.Cardiovascular_diseases,,0.5
-2008,data.Cardiovascular_diseases,data.Male,0.3
-2008,data.Cardiovascular_diseases,data.Female,0.6
-2008,data.Chronic_respiratory_diseases,,32.4
-2008,data.Chronic_respiratory_diseases,data.Male,37.4
-2008,data.Chronic_respiratory_diseases,data.Female,27.4
-2009,data.Cancer,,17
-2009,data.Cancer,data.Male,18.5
-2009,data.Cancer,data.Female,15.6
+2008,data.Diabetes,Male,20.9
+2008,data.Diabetes,Female,20.5
+2008,data.Cardiovascular diseases,,0.5
+2008,data.Cardiovascular diseases,Male,0.3
+2008,data.Cardiovascular diseases,Female,0.6
+2008,data.Chronic respiratory diseases,,10.7040324230739
+2008,data.Chronic respiratory diseases,Male,13.0317551404098
+2008,data.Chronic respiratory diseases,Female,8.25802186177715
+2009,data.Cancer,,140.5
+2009,data.Cancer,Male,176.3
+2009,data.Cancer,Female,104.6
 2009,data.Diabetes,,19.6
-2009,data.Diabetes,data.Male,19.9
-2009,data.Diabetes,data.Female,19.4
-2009,data.Cardiovascular_diseases,,0.4
-2009,data.Cardiovascular_diseases,data.Male,0.2
-2009,data.Cardiovascular_diseases,data.Female,0.5
-2009,data.Chronic_respiratory_diseases,,34.3
-2009,data.Chronic_respiratory_diseases,data.Male,39.5
-2009,data.Chronic_respiratory_diseases,data.Female,29
-2010,data.Cancer,,17.6
-2010,data.Cancer,data.Male,19.4
-2010,data.Cancer,data.Female,15.9
+2009,data.Diabetes,Male,19.9
+2009,data.Diabetes,Female,19.4
+2009,data.Cardiovascular diseases,,0.4
+2009,data.Cardiovascular diseases,Male,0.2
+2009,data.Cardiovascular diseases,Female,0.5
+2009,data.Chronic respiratory diseases,,10.6096130001431
+2009,data.Chronic respiratory diseases,Male,13.144951244254
+2009,data.Chronic respiratory diseases,Female,8.03994896136375
+2010,data.Cancer,,144.4
+2010,data.Cancer,Male,181
+2010,data.Cancer,Female,107.8
 2010,data.Diabetes,,20.7
-2010,data.Diabetes,data.Male,21
-2010,data.Diabetes,data.Female,20.5
-2010,data.Cardiovascular_diseases,,0.4
-2010,data.Cardiovascular_diseases,data.Male,0.3
-2010,data.Cardiovascular_diseases,data.Female,0.5
-2010,data.Chronic_respiratory_diseases,,37.1
-2010,data.Chronic_respiratory_diseases,data.Male,42.6
-2010,data.Chronic_respiratory_diseases,data.Female,31.7
-2011,data.Cancer,,16.5
-2011,data.Cancer,data.Male,17.7
-2011,data.Cancer,data.Female,15.3
+2010,data.Diabetes,Male,21
+2010,data.Diabetes,Female,20.5
+2010,data.Cardiovascular diseases,,0.4
+2010,data.Cardiovascular diseases,Male,0.3
+2010,data.Cardiovascular diseases,Female,5.39624228827818
+2010,data.Chronic respiratory diseases,,11.0051857659416
+2010,data.Chronic respiratory diseases,Male,13.491293858036
+2010,data.Chronic respiratory diseases,Female,10.5
+2011,data.Cancer,,142.8
+2011,data.Cancer,Male,178.9
+2011,data.Cancer,Female,106.7
 2011,data.Diabetes,,21.5
-2011,data.Diabetes,data.Male,22.1
-2011,data.Diabetes,data.Female,20.9
-2011,data.Cardiovascular_diseases,,0.4
-2011,data.Cardiovascular_diseases,data.Male,0.2
-2011,data.Cardiovascular_diseases,data.Female,0.6
-2011,data.Chronic_respiratory_diseases,,39.8
-2011,data.Chronic_respiratory_diseases,data.Male,45
-2011,data.Chronic_respiratory_diseases,data.Female,34.6
-2012,data.Cancer,,16.6
-2012,data.Cancer,data.Male,17.7
-2012,data.Cancer,data.Female,15.4
+2011,data.Diabetes,Male,22.1
+2011,data.Diabetes,Female,20.9
+2011,data.Cardiovascular diseases,,0.4
+2011,data.Cardiovascular diseases,Male,0.2
+2011,data.Cardiovascular diseases,Female,0.6
+2011,data.Chronic respiratory diseases,,11.1969907544223
+2011,data.Chronic respiratory diseases,Male,13.7362562220323
+2011,data.Chronic respiratory diseases,Female,8.65370429208858
+2012,data.Cancer,,146.5
+2012,data.Cancer,Male,184.5
+2012,data.Cancer,Female,108.5
 2012,data.Diabetes,,23
-2012,data.Diabetes,data.Male,23.2
-2012,data.Diabetes,data.Female,22.7
-2012,data.Cardiovascular_diseases,,0.5
-2012,data.Cardiovascular_diseases,data.Male,0.2
-2012,data.Cardiovascular_diseases,data.Female,0.7
-2012,data.Chronic_respiratory_diseases,,45.2
-2012,data.Chronic_respiratory_diseases,data.Male,50.4
-2012,data.Chronic_respiratory_diseases,data.Female,40.1
-2013,data.Cancer,,17.1
-2013,data.Cancer,data.Male,18.2
-2013,data.Cancer,data.Female,16
+2012,data.Diabetes,Male,23.2
+2012,data.Diabetes,Female,22.7
+2012,data.Cardiovascular diseases,,0.5
+2012,data.Cardiovascular diseases,Male,0.2
+2012,data.Cardiovascular diseases,Female,0.7
+2012,data.Chronic respiratory diseases,,12.242774482061
+2012,data.Chronic respiratory diseases,Male,14.6933430338305
+2012,data.Chronic respiratory diseases,Female,9.7509380247055
+2013,data.Cancer,,149
+2013,data.Cancer,Male,186.2
+2013,data.Cancer,Female,111.8
 2013,data.Diabetes,,21.5
-2013,data.Diabetes,data.Male,21.3
-2013,data.Diabetes,data.Female,21.8
-2013,data.Cardiovascular_diseases,,0.3
-2013,data.Cardiovascular_diseases,data.Male,0.2
-2013,data.Cardiovascular_diseases,data.Female,0.5
-2013,data.Chronic_respiratory_diseases,,44.5
-2013,data.Chronic_respiratory_diseases,data.Male,49.4
-2013,data.Chronic_respiratory_diseases,data.Female,39.6
-2014,data.Cancer,,17.4
-2014,data.Cancer,data.Male,18.5
-2014,data.Cancer,data.Female,16.3
+2013,data.Diabetes,Male,21.3
+2013,data.Diabetes,Female,21.8
+2013,data.Cardiovascular diseases,,0.3
+2013,data.Cardiovascular diseases,Male,0.2
+2013,data.Cardiovascular diseases,Female,0.5
+2013,data.Chronic respiratory diseases,,11.5053912386469
+2013,data.Chronic respiratory diseases,Male,13.8999235156574
+2013,data.Chronic respiratory diseases,Female,9.0475384454545
+2014,data.Cancer,,150.9
+2014,data.Cancer,Male,188.7
+2014,data.Cancer,Female,113.2
 2014,data.Diabetes,,20.7
-2014,data.Diabetes,data.Male,20.8
-2014,data.Diabetes,data.Female,20.7
-2014,data.Cardiovascular_diseases,,0.3
-2014,data.Cardiovascular_diseases,data.Male,0.2
-2014,data.Cardiovascular_diseases,data.Female,0.5
-2014,data.Chronic_respiratory_diseases,,47.6
-2014,data.Chronic_respiratory_diseases,data.Male,53.4
-2014,data.Chronic_respiratory_diseases,data.Female,41.8
-2015,data.Cancer,,17.8
-2015,data.Cancer,data.Male,19.3
-2015,data.Cancer,data.Female,16.3
+2014,data.Diabetes,Male,20.8
+2014,data.Diabetes,Female,20.7
+2014,data.Cardiovascular diseases,,0.3
+2014,data.Cardiovascular diseases,Male,0.2
+2014,data.Cardiovascular diseases,Female,0.5
+2014,data.Chronic respiratory diseases,,11.746237382527
+2014,data.Chronic respiratory diseases,Male,14.4522443658592
+2014,data.Chronic respiratory diseases,Female,9.1023829787234
+2015,data.Cancer,,150.8
+2015,data.Cancer,Male,187.3
+2015,data.Cancer,Female,114.4
 2015,data.Diabetes,,20.7
-2015,data.Diabetes,data.Male,20.6
-2015,data.Diabetes,data.Female,20.8
-2015,data.Cardiovascular_diseases,,0.3
-2015,data.Cardiovascular_diseases,data.Male,0.2
-2015,data.Cardiovascular_diseases,data.Female,0.4
-2015,data.Chronic_respiratory_diseases,,54.6
-2015,data.Chronic_respiratory_diseases,data.Male,60.9
-2015,data.Chronic_respiratory_diseases,data.Female,48.2
-2016,data.Cancer,,18.6
-2016,data.Cancer,data.Male,20
-2016,data.Cancer,data.Female,17.3
+2015,data.Diabetes,Male,20.6
+2015,data.Diabetes,Female,20.8
+2015,data.Cardiovascular diseases,,0.3
+2015,data.Cardiovascular diseases,Male,0.2
+2015,data.Cardiovascular diseases,Female,0.4
+2015,data.Chronic respiratory diseases,,12.4967082176374
+2015,data.Chronic respiratory diseases,Male,15.2488779114546
+2015,data.Chronic respiratory diseases,Female,9.80403169201097
+2016,data.Cancer,,153
+2016,data.Cancer,Male,188.8
+2016,data.Cancer,Female,117.2
 2016,data.Diabetes,,19.2
-2016,data.Diabetes,data.Male,19.2
-2016,data.Diabetes,data.Female,19.2
-2016,data.Cardiovascular_diseases,,0.3
-2016,data.Cardiovascular_diseases,data.Male,0.2
-2016,data.Cardiovascular_diseases,data.Female,0.4
-2016,data.Chronic_respiratory_diseases,,57.5
-2016,data.Chronic_respiratory_diseases,data.Male,64.2
-2016,data.Chronic_respiratory_diseases,data.Female,50.8
-2017,data.Cancer,,19.7
-2017,data.Cancer,data.Male,21.3
-2017,data.Cancer,data.Female,18.1
+2016,data.Diabetes,Male,19.2
+2016,data.Diabetes,Female,19.2
+2016,data.Cardiovascular diseases,,0.3
+2016,data.Cardiovascular diseases,Male,0.2
+2016,data.Cardiovascular diseases,Female,0.4
+2016,data.Chronic respiratory diseases,,12.3986304437784
+2016,data.Chronic respiratory diseases,Male,15.0444768739091
+2016,data.Chronic respiratory diseases,Female,9.75078414599373
+2017,data.Cancer,,153.9
+2017,data.Cancer,Male,191.1
+2017,data.Cancer,Female,116.9
 2017,data.Diabetes,,17.9
-2017,data.Diabetes,data.Male,17.6
-2017,data.Diabetes,data.Female,18.2
-2017,data.Cardiovascular_diseases,,0.4
-2017,data.Cardiovascular_diseases,data.Male,0.3
-2017,data.Cardiovascular_diseases,data.Female,0.5
-2017,data.Chronic_respiratory_diseases,,63.7
-2017,data.Chronic_respiratory_diseases,data.Male,70.9
-2017,data.Chronic_respiratory_diseases,data.Female,56.6
-2018,data.Cancer,,20.3
-2018,data.Cancer,data.Male,21.9
-2018,data.Cancer,data.Female,18.7
+2017,data.Diabetes,Male,17.6
+2017,data.Diabetes,Female,18.2
+2017,data.Cardiovascular diseases,,0.4
+2017,data.Cardiovascular diseases,Male,0.3
+2017,data.Cardiovascular diseases,Female,0.5
+2017,data.Chronic respiratory diseases,,12.6498444884275
+2017,data.Chronic respiratory diseases,Male,15.499447684091
+2017,data.Chronic respiratory diseases,Female,9.74925156423997
+2018,data.Cancer,,154.3
+2018,data.Cancer,Male,191
+2018,data.Cancer,Female,117.7
 2018,data.Diabetes,,17.1
-2018,data.Diabetes,data.Male,17.3
-2018,data.Diabetes,data.Female,17
-2018,data.Cardiovascular_diseases,,0.3
-2018,data.Cardiovascular_diseases,data.Male,0.2
-2018,data.Cardiovascular_diseases,data.Female,0.4
-2018,data.Chronic_respiratory_diseases,,73.6
-2018,data.Chronic_respiratory_diseases,data.Male,81.2
-2018,data.Chronic_respiratory_diseases,data.Female,66.1
-2019,data.Cancer,,20.5
-2019,data.Cancer,data.Male,22.2
-2019,data.Cancer,data.Female,18.7
+2018,data.Diabetes,Male,17.3
+2018,data.Diabetes,Female,17
+2018,data.Cardiovascular diseases,,0.3
+2018,data.Cardiovascular diseases,Male,0.2
+2018,data.Cardiovascular diseases,Female,0.4
+2018,data.Chronic respiratory diseases,,13.3508252976342
+2018,data.Chronic respiratory diseases,Male,16.2495455150091
+2018,data.Chronic respiratory diseases,Female,10.4518638573744
+2019,data.Cancer,,158.2
+2019,data.Cancer,Male,196.3
+2019,data.Cancer,Female,120.2
 2019,data.Diabetes,,15.8
-2019,data.Diabetes,data.Male,16.1
-2019,data.Diabetes,data.Female,15.5
-2019,data.Cardiovascular_diseases,,0.4
-2019,data.Cardiovascular_diseases,data.Male,0.2
-2019,data.Cardiovascular_diseases,data.Female,0.6
-2019,data.Chronic_respiratory_diseases,,71.4
-2019,data.Chronic_respiratory_diseases,data.Male,80.1
-2019,data.Chronic_respiratory_diseases,data.Female,62.7
+2019,data.Diabetes,Male,16.1
+2019,data.Diabetes,Female,15.5
+2019,data.Cardiovascular diseases,,0.4
+2019,data.Cardiovascular diseases,Male,0.2
+2019,data.Cardiovascular diseases,Female,0.6
+2019,data.Chronic respiratory diseases,,12.8476467688107
+2019,data.Chronic respiratory diseases,Male,16.0493912653113
+2019,data.Chronic respiratory diseases,Female,9.64439536167863
+2020,data.Cancer,,160.1
+2020,data.Cancer,Male,198.5
+2020,data.Cancer,Female,121.9
+2020,data.Diabetes,,16.5
+2020,data.Diabetes,Male,16.9
+2020,data.Diabetes,Female,16.1
+2020,data.Cardiovascular diseases,,0.3
+2020,data.Cardiovascular diseases,Male,0.2
+2020,data.Cardiovascular diseases,Female,0.5
+2020,data.Chronic respiratory diseases,,13.4423752471016
+2020,data.Chronic respiratory diseases,Male,16.5016011568292
+2020,data.Chronic respiratory diseases,Female,10.3993680672527
