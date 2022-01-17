@@ -8,9 +8,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2000,data.Cardiovascular_diseases,,0.3
 2000,data.Cardiovascular_diseases,Male,0.2
 2000,data.Cardiovascular_diseases,Female,0.5
-2000,data.Chronic respiratory_diseases,,12.1923580513622
-2000,data.Chronic respiratory_diseases,Male,14.1516521271616
-2000,data.Chronic respiratory_diseases,Female,10.3178990034973
+2000,data.Chronic_respiratory_diseases,,12.1923580513622
+2000,data.Chronic_respiratory_diseases,Male,14.1516521271616
+2000,data.Chronic_respiratory_diseases,Female,10.3178990034973
 2001,data.Cancer,,123.8
 2001,data.Cancer,Male,157.3
 2001,data.Cancer,Female,90.1
@@ -20,9 +20,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2001,data.Cardiovascular_diseases,,0.3
 2001,data.Cardiovascular_diseases,Male,0.2
 2001,data.Cardiovascular_diseases,Female,0.5
-2001,data.Chronic respiratory_diseases,,12.7348397865012
-2001,data.Chronic respiratory_diseases,Male,14.8060248819801
-2001,data.Chronic respiratory_diseases,Female,10.7704740730879
+2001,data.Chronic_respiratory_diseases,,12.7348397865012
+2001,data.Chronic_respiratory_diseases,Male,14.8060248819801
+2001,data.Chronic_respiratory_diseases,Female,10.7704740730879
 2002,data.Cancer,,130.9
 2002,data.Cancer,Male,166.4
 2002,data.Cancer,Female,95.2
@@ -32,9 +32,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2002,data.Cardiovascular_diseases,,0.6
 2002,data.Cardiovascular_diseases,Male,0.5
 2002,data.Cardiovascular_diseases,Female,0.7
-2002,data.Chronic respiratory_diseases,,14.0215914133642
-2002,data.Chronic respiratory_diseases,Male,15.9033153576332
-2002,data.Chronic respiratory_diseases,Female,12.1488036676538
+2002,data.Chronic_respiratory_diseases,,14.0215914133642
+2002,data.Chronic_respiratory_diseases,Male,15.9033153576332
+2002,data.Chronic_respiratory_diseases,Female,12.1488036676538
 2003,data.Cancer,,131.9
 2003,data.Cancer,Male,166.3
 2003,data.Cancer,Female,97.3
@@ -44,9 +44,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2003,data.Cardiovascular_diseases,,0.7
 2003,data.Cardiovascular_diseases,Male,0.5
 2003,data.Cardiovascular_diseases,Female,0.8
-2003,data.Chronic respiratory_diseases,,11.7953071585208
-2003,data.Chronic respiratory_diseases,Male,13.7971328841653
-2003,data.Chronic respiratory_diseases,Female,9.82262760495319
+2003,data.Chronic_respiratory_diseases,,11.7953071585208
+2003,data.Chronic_respiratory_diseases,Male,13.7971328841653
+2003,data.Chronic_respiratory_diseases,Female,9.82262760495319
 2004,data.Cancer,,133.4
 2004,data.Cancer,Male,169.6
 2004,data.Cancer,Female,97.1
@@ -56,9 +56,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2004,data.Cardiovascular_diseases,,0.6
 2004,data.Cardiovascular_diseases,Male,0.5
 2004,data.Cardiovascular_diseases,Female,0.7
-2004,data.Chronic respiratory_diseases,,11.0263664015416
-2004,data.Chronic respiratory_diseases,Male,13.8998580671324
-2004,data.Chronic respiratory_diseases,Female,8.11860311106533
+2004,data.Chronic_respiratory_diseases,,11.0263664015416
+2004,data.Chronic_respiratory_diseases,Male,13.8998580671324
+2004,data.Chronic_respiratory_diseases,Female,8.11860311106533
 2005,data.Cancer,,134.6
 2005,data.Cancer,Male,169.3
 2005,data.Cancer,Female,99.7
@@ -68,9 +68,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2005,data.Cardiovascular_diseases,,0.6
 2005,data.Cardiovascular_diseases,Male,0.5
 2005,data.Cardiovascular_diseases,Female,0.7
-2005,data.Chronic respiratory_diseases,,10.4171866737176
-2005,data.Chronic respiratory_diseases,Male,12.8252090227124
-2005,data.Chronic respiratory_diseases,Female,7.97811704834606
+2005,data.Chronic_respiratory_diseases,,10.4171866737176
+2005,data.Chronic_respiratory_diseases,Male,12.8252090227124
+2005,data.Chronic_respiratory_diseases,Female,7.97811704834606
 2006,data.Cancer,,134.8
 2006,data.Cancer,Male,171.6
 2006,data.Cancer,Female,97.9
@@ -80,9 +80,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2006,data.Cardiovascular_diseases,,0.6
 2006,data.Cardiovascular_diseases,Male,0.4
 2006,data.Cardiovascular_diseases,Female,0.7
-2006,data.Chronic respiratory_diseases,,9.97342523293511
-2006,data.Chronic respiratory_diseases,Male,12.5119959934469
-2006,data.Chronic respiratory_diseases,Female,7.37693736026375
+2006,data.Chronic_respiratory_diseases,,9.97342523293511
+2006,data.Chronic_respiratory_diseases,Male,12.5119959934469
+2006,data.Chronic_respiratory_diseases,Female,7.37693736026375
 2007,data.Cancer,,138.1
 2007,data.Cancer,Male,174.3
 2007,data.Cancer,Female,101.8
@@ -92,9 +92,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2007,data.Cardiovascular_diseases,,0.5
 2007,data.Cardiovascular_diseases,Male,0.3
 2007,data.Cardiovascular_diseases,Female,0.7
-2007,data.Chronic respiratory_diseases,,10.4799920969442
-2007,data.Chronic respiratory_diseases,Male,12.9035558096769
-2007,data.Chronic respiratory_diseases,Female,8.15012198599537
+2007,data.Chronic_respiratory_diseases,,10.4799920969442
+2007,data.Chronic_respiratory_diseases,Male,12.9035558096769
+2007,data.Chronic_respiratory_diseases,Female,8.15012198599537
 2008,data.Cancer,,139.5
 2008,data.Cancer,Male,176.9
 2008,data.Cancer,Female,101.9
@@ -104,9 +104,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2008,data.Cardiovascular_diseases,,0.5
 2008,data.Cardiovascular_diseases,Male,0.3
 2008,data.Cardiovascular_diseases,Female,0.6
-2008,data.Chronic respiratory_diseases,,10.7040324230739
-2008,data.Chronic respiratory_diseases,Male,13.0317551404098
-2008,data.Chronic respiratory_diseases,Female,8.25802186177715
+2008,data.Chronic_respiratory_diseases,,10.7040324230739
+2008,data.Chronic_respiratory_diseases,Male,13.0317551404098
+2008,data.Chronic_respiratory_diseases,Female,8.25802186177715
 2009,data.Cancer,,140.5
 2009,data.Cancer,Male,176.3
 2009,data.Cancer,Female,104.6
@@ -116,9 +116,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2009,data.Cardiovascular_diseases,,0.4
 2009,data.Cardiovascular_diseases,Male,0.2
 2009,data.Cardiovascular_diseases,Female,0.5
-2009,data.Chronic respiratory_diseases,,10.6096130001431
-2009,data.Chronic respiratory_diseases,Male,13.144951244254
-2009,data.Chronic respiratory_diseases,Female,8.03994896136375
+2009,data.Chronic_respiratory_diseases,,10.6096130001431
+2009,data.Chronic_respiratory_diseases,Male,13.144951244254
+2009,data.Chronic_respiratory_diseases,Female,8.03994896136375
 2010,data.Cancer,,144.4
 2010,data.Cancer,Male,181.0
 2010,data.Cancer,Female,107.8
@@ -128,9 +128,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2010,data.Cardiovascular_diseases,,0.4
 2010,data.Cardiovascular_diseases,Male,0.3
 2010,data.Cardiovascular_diseases,Female,5.39624228827818
-2010,data.Chronic respiratory_diseases,,11.0051857659416
-2010,data.Chronic respiratory_diseases,Male,13.491293858036
-2010,data.Chronic respiratory_diseases,Female,10.5
+2010,data.Chronic_respiratory_diseases,,11.0051857659416
+2010,data.Chronic_respiratory_diseases,Male,13.491293858036
+2010,data.Chronic_respiratory_diseases,Female,10.5
 2011,data.Cancer,,142.8
 2011,data.Cancer,Male,178.9
 2011,data.Cancer,Female,106.7
@@ -140,9 +140,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2011,data.Cardiovascular_diseases,,0.4
 2011,data.Cardiovascular_diseases,Male,0.2
 2011,data.Cardiovascular_diseases,Female,0.6
-2011,data.Chronic respiratory_diseases,,11.1969907544223
-2011,data.Chronic respiratory_diseases,Male,13.7362562220323
-2011,data.Chronic respiratory_diseases,Female,8.65370429208858
+2011,data.Chronic_respiratory_diseases,,11.1969907544223
+2011,data.Chronic_respiratory_diseases,Male,13.7362562220323
+2011,data.Chronic_respiratory_diseases,Female,8.65370429208858
 2012,data.Cancer,,146.5
 2012,data.Cancer,Male,184.5
 2012,data.Cancer,Female,108.5
@@ -152,9 +152,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2012,data.Cardiovascular_diseases,,0.5
 2012,data.Cardiovascular_diseases,Male,0.2
 2012,data.Cardiovascular_diseases,Female,0.7
-2012,data.Chronic respiratory_diseases,,12.242774482061
-2012,data.Chronic respiratory_diseases,Male,14.6933430338305
-2012,data.Chronic respiratory_diseases,Female,9.7509380247055
+2012,data.Chronic_respiratory_diseases,,12.242774482061
+2012,data.Chronic_respiratory_diseases,Male,14.6933430338305
+2012,data.Chronic_respiratory_diseases,Female,9.7509380247055
 2013,data.Cancer,,149.0
 2013,data.Cancer,Male,186.2
 2013,data.Cancer,Female,111.8
@@ -164,9 +164,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2013,data.Cardiovascular_diseases,,0.3
 2013,data.Cardiovascular_diseases,Male,0.2
 2013,data.Cardiovascular_diseases,Female,0.5
-2013,data.Chronic respiratory_diseases,,11.5053912386469
-2013,data.Chronic respiratory_diseases,Male,13.8999235156574
-2013,data.Chronic respiratory_diseases,Female,9.0475384454545
+2013,data.Chronic_respiratory_diseases,,11.5053912386469
+2013,data.Chronic_respiratory_diseases,Male,13.8999235156574
+2013,data.Chronic_respiratory_diseases,Female,9.0475384454545
 2014,data.Cancer,,150.9
 2014,data.Cancer,Male,188.7
 2014,data.Cancer,Female,113.2
@@ -176,9 +176,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2014,data.Cardiovascular_diseases,,0.3
 2014,data.Cardiovascular_diseases,Male,0.2
 2014,data.Cardiovascular_diseases,Female,0.5
-2014,data.Chronic respiratory_diseases,,11.746237382527
-2014,data.Chronic respiratory_diseases,Male,14.4522443658592
-2014,data.Chronic respiratory_diseases,Female,9.1023829787234
+2014,data.Chronic_respiratory_diseases,,11.746237382527
+2014,data.Chronic_respiratory_diseases,Male,14.4522443658592
+2014,data.Chronic_respiratory_diseases,Female,9.1023829787234
 2015,data.Cancer,,150.8
 2015,data.Cancer,Male,187.3
 2015,data.Cancer,Female,114.4
@@ -188,9 +188,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2015,data.Cardiovascular_diseases,,0.3
 2015,data.Cardiovascular_diseases,Male,0.2
 2015,data.Cardiovascular_diseases,Female,0.4
-2015,data.Chronic respiratory_diseases,,12.4967082176374
-2015,data.Chronic respiratory_diseases,Male,15.2488779114546
-2015,data.Chronic respiratory_diseases,Female,9.80403169201097
+2015,data.Chronic_respiratory_diseases,,12.4967082176374
+2015,data.Chronic_respiratory_diseases,Male,15.2488779114546
+2015,data.Chronic_respiratory_diseases,Female,9.80403169201097
 2016,data.Cancer,,153.0
 2016,data.Cancer,Male,188.8
 2016,data.Cancer,Female,117.2
@@ -200,9 +200,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2016,data.Cardiovascular_diseases,,0.3
 2016,data.Cardiovascular_diseases,Male,0.2
 2016,data.Cardiovascular_diseases,Female,0.4
-2016,data.Chronic respiratory_diseases,,12.3986304437784
-2016,data.Chronic respiratory_diseases,Male,15.0444768739091
-2016,data.Chronic respiratory_diseases,Female,9.75078414599373
+2016,data.Chronic_respiratory_diseases,,12.3986304437784
+2016,data.Chronic_respiratory_diseases,Male,15.0444768739091
+2016,data.Chronic_respiratory_diseases,Female,9.75078414599373
 2017,data.Cancer,,153.9
 2017,data.Cancer,Male,191.1
 2017,data.Cancer,Female,116.9
@@ -212,9 +212,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2017,data.Cardiovascular_diseases,,0.4
 2017,data.Cardiovascular_diseases,Male,0.3
 2017,data.Cardiovascular_diseases,Female,0.5
-2017,data.Chronic respiratory_diseases,,12.6498444884275
-2017,data.Chronic respiratory_diseases,Male,15.499447684091
-2017,data.Chronic respiratory_diseases,Female,9.74925156423997
+2017,data.Chronic_respiratory_diseases,,12.6498444884275
+2017,data.Chronic_respiratory_diseases,Male,15.499447684091
+2017,data.Chronic_respiratory_diseases,Female,9.74925156423997
 2018,data.Cancer,,154.3
 2018,data.Cancer,Male,191.0
 2018,data.Cancer,Female,117.7
@@ -224,9 +224,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2018,data.Cardiovascular_diseases,,0.3
 2018,data.Cardiovascular_diseases,Male,0.2
 2018,data.Cardiovascular_diseases,Female,0.4
-2018,data.Chronic respiratory_diseases,,13.3508252976342
-2018,data.Chronic respiratory_diseases,Male,16.2495455150091
-2018,data.Chronic respiratory_diseases,Female,10.4518638573744
+2018,data.Chronic_respiratory_diseases,,13.3508252976342
+2018,data.Chronic_respiratory_diseases,Male,16.2495455150091
+2018,data.Chronic_respiratory_diseases,Female,10.4518638573744
 2019,data.Cancer,,158.2
 2019,data.Cancer,Male,196.3
 2019,data.Cancer,Female,120.2
@@ -236,9 +236,9 @@ Year,data.Cause_of_death,data.Sex,Value
 2019,data.Cardiovascular_diseases,,0.4
 2019,data.Cardiovascular_diseases,Male,0.2
 2019,data.Cardiovascular_diseases,Female,0.6
-2019,data.Chronic respiratory_diseases,,12.8476467688107
-2019,data.Chronic respiratory_diseases,Male,16.0493912653113
-2019,data.Chronic respiratory_diseases,Female,9.64439536167863
+2019,data.Chronic_respiratory_diseases,,12.8476467688107
+2019,data.Chronic_respiratory_diseases,Male,16.0493912653113
+2019,data.Chronic_respiratory_diseases,Female,9.64439536167863
 2020,data.Cancer,,160.1
 2020,data.Cancer,Male,198.5
 2020,data.Cancer,Female,121.9
@@ -248,6 +248,6 @@ Year,data.Cause_of_death,data.Sex,Value
 2020,data.Cardiovascular_diseases,,0.3
 2020,data.Cardiovascular_diseases,Male,0.2
 2020,data.Cardiovascular_diseases,Female,0.5
-2020,data.Chronic respiratory_diseases,,13.4423752471016
-2020,data.Chronic respiratory_diseases,Male,16.5016011568292
-2020,data.Chronic respiratory_diseases,Female,10.3993680672527
+2020,data.Chronic_respiratory_diseases,,13.4423752471016
+2020,data.Chronic_respiratory_diseases,Male,16.5016011568292
+2020,data.Chronic_respiratory_diseases,Female,10.3993680672527
