@@ -2306,8 +2306,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.female",
-                "data.male"
+                "여성",
+                "남성"
               ]
             },
             "title": "성별"
