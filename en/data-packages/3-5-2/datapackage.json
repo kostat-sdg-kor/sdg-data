@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -20,18 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "① Takju",
-                "② Yakju",
-                "③ Cheongju",
-                "④ Beer",
-                "⑤ Wine",
-                "⑥ Distilled soju",
-                "⑦ Diluted soju",
-                "⑧ Whiskey",
-                "⑨ Brandy",
-                "⑩ Sprits",
-                "⑪ Liquor",
-                "⑫ Others",
+                "9.103",
+                "9.193",
+                "9.268",
+                "9.398",
+                "8.841",
+                "8.914",
+                "8.858",
+                "8.989",
+                "8.69",
+                "8.921",
+                "8.686",
+                "8.652",
+                "8.477",
                 ""
               ]
             },

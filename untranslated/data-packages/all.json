@@ -1806,25 +1806,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "data.Alcohol",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.01_Takju",
-                "data.02_Yakju",
-                "data.03_Cheongju",
-                "data.04_Beer",
-                "data.05_Wine",
-                "data.06_Distilled soju",
-                "data.07_Diluted soju",
-                "data.08_Whiskey",
-                "data.09_Brandy",
-                "data.10_Sprits",
-                "data.11_Liquor",
-                "data.12_Others",
+                "9.103",
+                "9.193",
+                "9.268",
+                "9.398",
+                "8.841",
+                "8.914",
+                "8.858",
+                "8.989",
+                "8.69",
+                "8.921",
+                "8.686",
+                "8.652",
+                "8.477",
                 ""
               ]
             }
