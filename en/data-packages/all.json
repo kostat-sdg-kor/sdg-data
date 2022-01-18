@@ -1966,29 +1966,6 @@
             "title": "Year"
           },
           {
-            "name": "data.Alcohol",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9.103",
-                "9.193",
-                "9.268",
-                "9.398",
-                "8.841",
-                "8.914",
-                "8.858",
-                "8.989",
-                "8.69",
-                "8.921",
-                "8.686",
-                "8.652",
-                "8.477",
-                ""
-              ]
-            },
-            "title": "Alcohol"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
