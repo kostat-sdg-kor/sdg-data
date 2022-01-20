@@ -174,17 +174,18 @@
             "title": "Year"
           },
           {
-            "name": "data.Vaccine",
+            "name": "data.Age",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "DTP3",
-                "MMR",
-                "PCV3"
+                "만 1세",
+                "만 2세",
+                "만 3세",
+                "만 6세"
               ]
             },
-            "title": "백신별"
+            "title": "연령별"
           }
         ]
       },

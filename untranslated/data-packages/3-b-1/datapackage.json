@@ -15,13 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "data.Vaccine",
+            "name": "data.Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.DTP3",
-                "data.MMR",
-                "data.PCV3",
+                "data.1_year_old",
+                "data.2_years_old",
+                "data.3_years_old",
+                "data.6_years_old",
                 ""
               ]
             }

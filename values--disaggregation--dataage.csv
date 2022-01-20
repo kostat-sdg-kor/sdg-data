@@ -23,10 +23,14 @@ Value,Disaggregation combinations using this value,Number of indicators
 65~,3,1
 70+,2,2
 data.0~19,3,1
+data.1_year_old,1,1
 data.20~29,3,1
+data.2_years_old,1,1
 data.30~39,3,1
+data.3_years_old,1,1
 data.40~49,3,1
 data.50~59,3,1
 data.60~69,3,1
+data.6_years_old,1,1
 data.70~79,3,1
 data.80~,3,1

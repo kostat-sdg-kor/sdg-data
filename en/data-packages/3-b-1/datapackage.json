@@ -16,17 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "data.Vaccine",
+            "name": "data.Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "DTP3",
-                "MMR",
-                "PCV3",
+                "1 year old",
+                "2 years old",
+                "3 years old",
+                "6 years old",
                 ""
               ]
             },
-            "title": "Vaccine"
+            "title": "Age"
           },
           {
             "name": "Value",
