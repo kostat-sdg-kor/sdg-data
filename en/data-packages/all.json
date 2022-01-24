@@ -115,6 +115,21 @@
             "title": "Year"
           },
           {
+            "name": "data.Sexual_violence_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sexual violence involving physical contact",
+                "Obscene phone calls",
+                "Illegal filming",
+                "Sexual exposure",
+                "Sexual harassment",
+                ""
+              ]
+            },
+            "title": "Sexual violence type"
+          },
+          {
             "name": "data.Sex",
             "type": "string",
             "constraints": {

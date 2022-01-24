@@ -31,6 +31,21 @@
               ]
             },
             "title": "성별"
+          },
+          {
+            "name": "data.Sexual_violence_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "불법촬영",
+                "음란전화",
+                "성기노출",
+                "성희롱",
+                "신체적 접촉을 수반한 성폭력"
+              ]
+            },
+            "title": "성폭력"
           }
         ]
       }

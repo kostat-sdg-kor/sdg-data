@@ -106,6 +106,20 @@
             "type": "integer"
           },
           {
+            "name": "data.Sexual_violence_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Sexual_violence_involving_physical_contact",
+                "data.Obscene_phone_calls",
+                "data.Illegal_filming",
+                "data.Sexual_exposure",
+                "data.Sexual_harassment",
+                ""
+              ]
+            }
+          },
+          {
             "name": "data.Sex",
             "type": "string",
             "constraints": {

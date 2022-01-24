@@ -1,13 +1,46 @@
-﻿Year,Sex,Value
-2019,,0.4
-2019,Female,0.8
-2019,Male,0.0
-2016,,0.8
-2016,Female,1.5
-2016,Male,0.1
-2013,,1.5
-2013,Female,2.7
-2013,Male,0.3
-2010,,2.9
-2010,Female,4.7
-2010,Male,0.9
+﻿Year,Sexual violence type,Sex,Value
+2019,Sexual violence involving physical contact,,0.4
+2019,Sexual violence involving physical contact,Female,0.8
+2019,Sexual violence involving physical contact,Male,0.0
+2019,Obscene phone calls,,2.1
+2019,Obscene phone calls,Female,2.0
+2019,Obscene phone calls,Male,2.3
+2019,Illegal filming,,0.1
+2019,Illegal filming,Female,0.1
+2019,Illegal filming,Male,0.0
+2019,Sexual exposure,,0.3
+2019,Sexual exposure,Female,0.6
+2019,Sexual exposure,Male,0.1
+2019,Sexual harassment,,0.4
+2019,Sexual harassment,Female,0.8
+2019,Sexual harassment,Male,0.0
+2016,Sexual violence involving physical contact,,0.8
+2016,Sexual violence involving physical contact,Female,1.5
+2016,Sexual violence involving physical contact,Male,0.1
+2016,Obscene phone calls,,5.5
+2016,Obscene phone calls,Female,4.0
+2016,Obscene phone calls,Male,7.0
+2016,Illegal filming,,0.1
+2016,Illegal filming,Female,0.1
+2016,Illegal filming,Male,0.0
+2016,Sexual exposure,,1.0
+2016,Sexual exposure,Female,1.6
+2016,Sexual exposure,Male,0.4
+2016,Sexual harassment,,0.5
+2016,Sexual harassment,Female,0.9
+2016,Sexual harassment,Male,0.1
+2013,Sexual violence involving physical contact,,1.5
+2013,Sexual violence involving physical contact,Female,2.7
+2013,Sexual violence involving physical contact,Male,0.3
+2013,Obscene phone calls,,27.8
+2013,Obscene phone calls,Female,26.4
+2013,Obscene phone calls,Male,29.2
+2013,Illegal filming,,
+2013,Illegal filming,Female,
+2013,Illegal filming,Male,
+2013,Sexual exposure,,1.7
+2013,Sexual exposure,Female,3.0
+2013,Sexual exposure,Male,0.3
+2013,Sexual harassment,,0.9
+2013,Sexual harassment,Female,1.9
+2013,Sexual harassment,Male,0.0
