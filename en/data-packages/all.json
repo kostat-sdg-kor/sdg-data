@@ -190,7 +190,7 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "data.Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -199,7 +199,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Category"
           },
           {
             "name": "Value",

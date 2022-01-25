@@ -175,7 +175,7 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "data.Category",
             "type": "string",
             "constraints": {
               "enum": [

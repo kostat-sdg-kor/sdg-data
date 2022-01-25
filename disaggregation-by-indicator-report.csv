@@ -68,6 +68,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-2-1,data.Sex,1
 #5-2-2,"data.Sexual_violence_type, data.Sex",2
 #5-4-1,data.Sex,1
+#5-5-1,data.Category,1
 #5-b-1,"data.Sex, data.Age, data.Device_type",3
 #6-3-1,data.category,1
 #6-3-2,data.category,1

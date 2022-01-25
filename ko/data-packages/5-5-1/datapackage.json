@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "지방의회",
-                "국회"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -31,6 +19,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "지방의회",
+                "국회"
+              ]
+            },
+            "title": "구분"
           }
         ]
       }
