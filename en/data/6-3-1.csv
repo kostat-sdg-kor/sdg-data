@@ -1,39 +1,10 @@
-﻿Year,Category,Value
-2004,Sewage generation,11946076
-2004,Excretions,49053
-2005,Sewage generation,16832611
-2005,Excretions,47627
-2006,Sewage generation,16919995
-2006,Excretions,47094
-2007,Sewage generation,16744875
-2007,Excretions,44766
-2008,Sewage generation,17113106
-2008,Excretions,46420
-2009,Sewage generation,16681388
-2009,Excretions,48749
-2010,Sewage generation,16111195
-2010,Excretions,46189
-2011,Sewage generation,18660763
-2011,Excretions,42358
-2012,Sewage generation,15722166
-2012,Excretions,41747
-2013,Sewage generation,15148299
-2013,Excretions,62011
-2014,Sewage generation,16256451
-2014,Excretions,36447
-2015,Sewage generation,14975476
-2015,Excretions,37893
-2016,Sewage generation,14392658
-2016,Excretions,41343
-2007,Wastewater generation,2564967
-2008,Wastewater generation,2332102
-2009,Wastewater generation,2425750
-2010,Wastewater generation,2956447
-2011,Wastewater generation,2890343
-2012,Wastewater generation,3368232
-2013,Wastewater generation,3085935
-2014,Wastewater generation,2936815
-2015,Wastewater generation,1907340
-2016,Wastewater generation,2499775
-2017,Wastewater generation,2768019
-2018,Wastewater generation,2524743
+﻿Year,Units,Value
+2015,Sewage generation,19836100
+2015,Wastewater generation,4950635
+2016,Sewage generation,20405885
+2016,Wastewater generation,4621383
+2017,Sewage generation,20304382
+2017,Wastewater generation,4921364
+2018,Sewage generation,20906965
+2018,Wastewater generation,4277551
+2019,Sewage generation,20493902

@@ -31,7 +31,6 @@ data.Disposable_income,1,1
 data.Domestic_waste,1,1
 data.employment_and_economic_benefits,1,1
 data.Etc._(tonnes/day),1,1
-data.Excretions,1,1
 data.Experience_of_hearing_insulting_words,1,1
 data.Experience_of_physical_punishment,1,1
 data.Extent_of_use_of_country-owned_results_frameworks_and_planning_tools_by_providers_of_development_cooperation_-_data_by_provider_(%)_,1,1
@@ -72,7 +71,6 @@ data.Score_for_the_ratification_of_and_accession_to_UNCLOS_and_its_two_implement
 data.Sejong,1,1
 data.Seoul,1,1
 data.Services(ISIC4_G_to_T),1,1
-data.Sewage_generation,1,1
 data.Sexual_violence,2,2
 data.Specified_waste,1,1
 data.Total(no_breakdown),1,1
@@ -85,7 +83,6 @@ data.Violence_crime,1,1
 data.Waste_disposed_by_type_of_treatment(tonnes/day),1,1
 data.Waste_incinerated_by_type_of_treatment(tonnes/day),1,1
 data.Waste_recycled_by_type_of_treatment(tonnes/day),1,1
-data.Wastewater_generation,1,1
 HFCs,1,1
 N₂O,1,1
 PFCs,1,1

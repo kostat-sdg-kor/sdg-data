@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "하수발생량",
+                "폐수발생량"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -19,19 +31,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "분뇨",
-                "하수발생량",
-                "폐수발생량"
-              ]
-            },
-            "title": "구분"
           }
         ]
       }

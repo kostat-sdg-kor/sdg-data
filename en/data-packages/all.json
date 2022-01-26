@@ -2570,17 +2570,16 @@
             "title": "Year"
           },
           {
-            "name": "data.category",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Sewage generation",
-                "Excretions",
                 "Wastewater generation",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Units"
           },
           {
             "name": "Value",

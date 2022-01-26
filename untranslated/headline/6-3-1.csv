@@ -1,1 +1,10 @@
-﻿Year,Value
+﻿Year,Value,Units
+2015,19836100,data.Sewage_generation
+2015,4950635,data.Wastewater_generation
+2016,20405885,data.Sewage_generation
+2016,4621383,data.Wastewater_generation
+2017,20304382,data.Sewage_generation
+2017,4921364,data.Wastewater_generation
+2018,20906965,data.Sewage_generation
+2018,4277551,data.Wastewater_generation
+2019,20493902,data.Sewage_generation

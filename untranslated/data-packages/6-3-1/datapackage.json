@@ -15,12 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "data.category",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "data.Sewage_generation",
-                "data.Excretions",
                 "data.Wastewater_generation",
                 ""
               ]
