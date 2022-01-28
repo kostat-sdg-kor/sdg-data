@@ -4749,8 +4749,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.-150mKRW ",
-                "data.150-300mKRW ",
+                "below 150 mKRW",
+                "150-300 mKRW",
                 "above 300 mKRW",
                 ""
               ]
