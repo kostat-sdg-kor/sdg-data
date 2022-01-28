@@ -4,3 +4,8 @@ Year,data.Payment,data.Recruitment_cost,Value
 2018,data.01_Yes,data.150-300mKRW,30.6
 2018,data.01_Yes,data.+300mKRW,12.9
 2018,data.02_No,,87.3
+2019,data.01_Yes,,14.0
+2019,data.01_Yes,data.-150mKRW,67.7
+2019,data.01_Yes,data.150-300mKRW,25.2
+2019,data.01_Yes,data.+300mKRW,7.0
+2019,data.02_No,,86.0
