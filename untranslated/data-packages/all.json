@@ -4339,8 +4339,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.01_Yes",
-                "data.02_No",
+                "data.1_Yes",
+                "data.2_No",
                 ""
               ]
             }

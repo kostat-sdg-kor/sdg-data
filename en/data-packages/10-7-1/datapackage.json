@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Paid",
-                "No paid",
+                "data.1_Yes",
+                "data.2_No",
                 ""
               ]
             },
