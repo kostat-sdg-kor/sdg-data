@@ -4737,8 +4737,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.1_Yes",
-                "data.2_No",
+                "Paid",
+                "No paid",
                 ""
               ]
             },

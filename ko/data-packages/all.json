@@ -4743,8 +4743,8 @@
             "constraints": {
               "enum": [
                 "",
-                "data.1_Yes",
-                "data.2_No"
+                "지불함",
+                "지불한 적 없음"
               ]
             },
             "title": "취업소개료 지불여부"
