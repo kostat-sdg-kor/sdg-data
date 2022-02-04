@@ -7388,6 +7388,15 @@
                 "data.Daejeon",
                 "data.Ulsan",
                 "data.Sejong",
+                "data.Gyeonggi",
+                "data.Gangwon",
+                "data.Chungbuk",
+                "data.Chungnam",
+                "data.Jeonbuk",
+                "data.Jeonnam",
+                "data.Gyeongbuk",
+                "data.Gyeonnam",
+                "data.Jeju",
                 ""
               ]
             }
