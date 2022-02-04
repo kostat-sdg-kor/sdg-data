@@ -21,9 +21,9 @@
             "constraints": {
               "enum": [
                 "Municipal waste",
-                "Industrial solid waste",
+                "Industrial municipal waste",
                 "Construction waste",
-                "Industrial hazardous waste",
+                "Industrial emission facilities waste",
                 ""
               ]
             },

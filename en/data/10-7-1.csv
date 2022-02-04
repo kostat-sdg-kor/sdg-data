@@ -1,11 +1,11 @@
 ﻿Year,Payment,Recruitment cost,Value
-2018,Paid,,12.7
-2018,Paid,below 150 mKRW,56.5
-2018,Paid,150-300 mKRW,30.6
-2018,Paid,above 300 mKRW,12.9
-2018,No paid,,87.3
-2021,Paid,,14.0
-2021,Paid,below 150 mKRW,67.7
-2021,Paid,150-300 mKRW,25.2
-2021,Paid,above 300 mKRW,7.0
-2021,No paid,,86.0
+2018,1.Paid,,12.7
+2018,1.Paid,below 150 mKRW,56.5
+2018,1.Paid,150-300 mKRW,30.6
+2018,1.Paid,above 300 mKRW,12.9
+2018,2.No paid,,87.3
+2021,1.Paid,,14.0
+2021,1.Paid,below 150 mKRW,67.7
+2021,1.Paid,150-300 mKRW,25.2
+2021,1.Paid,above 300 mKRW,7.0
+2021,2.No paid,,86.0

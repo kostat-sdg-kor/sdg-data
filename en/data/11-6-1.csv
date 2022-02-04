@@ -18,25 +18,25 @@
 2016,Municipal waste,45460.3
 2017,Municipal waste,45008.9
 2018,Municipal waste,46749.3
-2000,Industrial solid waste,7053.5
-2001,Industrial solid waste,7730.4
-2002,Industrial solid waste,7118.7
-2003,Industrial solid waste,7818.7
-2004,Industrial solid waste,8429.3
-2005,Industrial solid waste,7831.8
-2006,Industrial solid waste,7941.6
-2007,Industrial solid waste,7775.5
-2008,Industrial solid waste,9803.4
-2009,Industrial solid waste,8820.4
-2010,Industrial solid waste,8238.6
-2011,Industrial solid waste,7992.7
-2012,Industrial solid waste,7345.6
-2013,Industrial solid waste,8185.5
-2014,Industrial solid waste,7559.6
-2015,Industrial solid waste,7835.6
-2016,Industrial solid waste,8311.6
-2017,Industrial solid waste,8480.6
-2018,Industrial solid waste,9286.1
+2000,Industrial municipal waste,7053.5
+2001,Industrial municipal waste,7730.4
+2002,Industrial municipal waste,7118.7
+2003,Industrial municipal waste,7818.7
+2004,Industrial municipal waste,8429.3
+2005,Industrial municipal waste,7831.8
+2006,Industrial municipal waste,7941.6
+2007,Industrial municipal waste,7775.5
+2008,Industrial municipal waste,9803.4
+2009,Industrial municipal waste,8820.4
+2010,Industrial municipal waste,8238.6
+2011,Industrial municipal waste,7992.7
+2012,Industrial municipal waste,7345.6
+2013,Industrial municipal waste,8185.5
+2014,Industrial municipal waste,7559.6
+2015,Industrial municipal waste,7835.6
+2016,Industrial municipal waste,8311.6
+2017,Industrial municipal waste,8480.6
+2018,Industrial municipal waste,9286.1
 2005,Construction waste,129572.5
 2006,Construction waste,168984.9
 2007,Construction waste,172005.0
@@ -51,16 +51,20 @@
 2016,Construction waste,199444.0
 2017,Construction waste,196261.6
 2018,Construction waste,206950.9
-2006,Industrial hazardous waste,101099.3
-2007,Industrial hazardous waste,114807.0
-2008,Industrial hazardous waste,130777.3
-2009,Industrial hazardous waste,123604.1
-2010,Industrial hazardous waste,137875.0
-2011,Industrial hazardous waste,137960.5
-2012,Industrial hazardous waste,146390.4
-2013,Industrial hazardous waste,148443.1
-2014,Industrial hazardous waste,153188.5
-2015,Industrial hazardous waste,155305.5
-2016,Industrial hazardous waste,162128.9
-2017,Industrial hazardous waste,164874.7
-2018,Industrial hazardous waste,167726.9
+2006,Industrial emission facilities waste,101099.3
+2007,Industrial emission facilities waste,114807.0
+2008,Industrial emission facilities waste,130777.3
+2009,Industrial emission facilities waste,123604.1
+2010,Industrial emission facilities waste,137875.0
+2011,Industrial emission facilities waste,137960.5
+2012,Industrial emission facilities waste,146390.4
+2013,Industrial emission facilities waste,148443.1
+2014,Industrial emission facilities waste,153188.5
+2015,Industrial emission facilities waste,155305.5
+2016,Industrial emission facilities waste,162128.9
+2017,Industrial emission facilities waste,164874.7
+2018,Industrial emission facilities waste,167726.9
+2019,Municipal waste,45912.1
+2019,Industrial municipal waste,12049.3
+2019,Construction waste,221101.9
+2019,Industrial emission facilities waste,202619.0

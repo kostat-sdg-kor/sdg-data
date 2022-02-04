@@ -20,9 +20,9 @@
             "constraints": {
               "enum": [
                 "data.Municipal_waste",
-                "data.Industrial_solid_waste",
+                "data.Industrial_municipal_waste",
                 "data.Construction_waste",
-                "data.Industrial_hazardous_waste",
+                "data.Industrial_emission_facilities_waste",
                 ""
               ]
             }
