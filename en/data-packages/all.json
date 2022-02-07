@@ -3662,10 +3662,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Industrial waste",
-                "Domestic waste",
+                "Industrial emission facilities waste",
+                "Municipal waste",
                 "Construction waste",
-                "Specified waste",
+                "Industrial municipal waste",
                 ""
               ]
             },

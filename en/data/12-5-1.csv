@@ -1,31 +1,30 @@
 ﻿Year,Category,Value
-2006,Industrial waste,59.4218753245571
-2007,Industrial waste,66.8427883317219
-2008,Industrial waste,70.8191712170231
-2009,Industrial waste,66.4667272363943
-2010,Industrial waste,72.2585675430644
-2011,Industrial waste,73.0283668151391
-2012,Industrial waste,76.4901250355215
-2013,Industrial waste,75.3598516872795
-2014,Industrial waste,77.2661133179057
-2015,Industrial waste,78.1664525725103
-2016,Industrial waste,79.0639423323047
-2017,Industrial waste,80.5915643819215
-2018,Industrial waste,81.6266204168801
-2006,Domestic waste,55.7938203812998
-2007,Domestic waste,57.9986751482237
-2008,Domestic waste,59.2057044304441
-2009,Domestic waste,60.3973311663316
-2010,Domestic waste,59.3852943763991
-2011,Domestic waste,57.6085018453069
-2012,Domestic waste,57.6983109292531
-2013,Domestic waste,56.9185081407997
-2014,Domestic waste,57.969033318223
-2015,Domestic waste,58.4713161580422
-2016,Domestic waste,58.5253506906026
-2017,Domestic waste,59.4617953338118
-2018,Domestic waste,59.4122264932309
-2005,Construction waste,96.7239962183334
+2006,Industrial emission facilities waste,59.4218753245571
+2007,Industrial emission facilities waste,66.8427883317219
+2008,Industrial emission facilities waste,70.8191712170231
+2009,Industrial emission facilities waste,66.4667272363943
+2010,Industrial emission facilities waste,72.2585675430644
+2011,Industrial emission facilities waste,73.0283668151391
+2012,Industrial emission facilities waste,76.4901250355215
+2013,Industrial emission facilities waste,75.3598516872795
+2014,Industrial emission facilities waste,77.2661133179057
+2015,Industrial emission facilities waste,78.1664525725103
+2016,Industrial emission facilities waste,79.0639423323047
+2017,Industrial emission facilities waste,80.5915643819215
+2018,Industrial emission facilities waste,81.6266204168801
+2006,Municipal waste,55.7938203812998
+2007,Municipal waste,57.9986751482237
+2008,Municipal waste,59.2057044304441
+2009,Municipal waste,60.3973311663316
+2010,Municipal waste,59.3852943763991
+2011,Municipal waste,57.6085018453069
+2012,Municipal waste,57.6983109292531
+2013,Municipal waste,56.9185081407997
+2014,Municipal waste,57.969033318223
+2015,Municipal waste,58.4713161580422
+2016,Municipal waste,58.5253506906026
+2017,Municipal waste,59.4617953338118
+2018,Municipal waste,59.4122264932309
 2006,Construction waste,96.9736349224102
 2007,Construction waste,97.5000145344612
 2008,Construction waste,97.542042298182
@@ -39,17 +38,20 @@
 2016,Construction waste,98.0967088506047
 2017,Construction waste,98.0649296653039
 2018,Construction waste,98.2598287806431
-2005,Specified waste,61.1
-2006,Specified waste,54.8
-2007,Specified waste,54.0
-2008,Specified waste,56.5
-2009,Specified waste,56.8
-2010,Specified waste,56.1
-2011,Specified waste,57.1
-2012,Specified waste,54.4
-2013,Specified waste,59.1
-2014,Specified waste,57.3
-2015,Specified waste,57.5
-2016,Specified waste,56.0
-2017,Specified waste,56.2
-2018,Specified waste,60.0
+2006,Industrial municipal waste,60.4500352573789
+2007,Industrial municipal waste,56.4323837695325
+2008,Industrial municipal waste,62.3528571720015
+2009,Industrial municipal waste,64.7124846945717
+2010,Industrial municipal waste,66.1787196853834
+2011,Industrial municipal waste,66.9736134222478
+2012,Industrial municipal waste,67.019712480941
+2013,Industrial municipal waste,69.7281778755116
+2014,Industrial municipal waste,64.8354410286259
+2015,Industrial municipal waste,63.4169687069274
+2016,Industrial municipal waste,67.9423937629337
+2017,Industrial municipal waste,72.7342405018513
+2018,Industrial municipal waste,75.0831888521554
+2019,Municipal waste,56.3842647145306
+2019,Industrial municipal waste,72.4199746043339
+2019,Construction waste,98.919728867097
+2019,Industrial emission facilities waste,82.568515292248

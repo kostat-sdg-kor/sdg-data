@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.Industrial_waste",
-                "data.Domestic_waste",
+                "data.Industrial_emission_facilities_waste",
+                "data.Municipal_waste",
                 "data.Construction_waste",
-                "data.Specified_waste",
+                "data.Industrial_municipal_waste",
                 ""
               ]
             }
