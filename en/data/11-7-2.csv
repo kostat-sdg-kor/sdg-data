@@ -1,21 +1,20 @@
 ﻿Year,Category,Value
-2012,,0.77
-2012,Sexual violence,0.17
-2012,Robbery,0.07
-2012,Assault,0.52
-2012,Harassment,0.01
-2014,,0.37
-2014,Sexual violence,0.13
-2014,Robbery,0.06
-2014,Assault,0.15
-2014,Harassment,0.03
-2016,,0.39
-2016,Sexual violence,0.08
-2016,Robbery,0.07
-2016,Assault,0.16
-2016,Harassment,0.09
-2018,,0.57
-2018,Sexual violence,0.16
-2018,Robbery,0.12
-2018,Assault,0.16
-2018,Harassment,0.12
+2012,,768
+2012,Sexual violence,174
+2012,Robbery,66
+2012,Assault,515
+2012,Harassment,14
+2014,,372
+2014,Sexual violence,129
+2014,Robbery,61
+2014,Assault,155
+2014,Harassment,27
+2016,,388
+2016,Sexual violence,76
+2016,Robbery,66
+2016,Assault,161
+2016,Harassment,86
+2018,,566
+2018,Sexual violence,125
+2018,Assault,161
+2018,Harassment,120
