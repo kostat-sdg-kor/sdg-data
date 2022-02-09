@@ -30,10 +30,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.General_fishery",
-                "data.Shallow_sea_fishery",
-                "data.Deep_sea_fishery",
-                "data.Inland_fishery",
+                "data.Littoral_fishing",
+                "data.Marine_aquaculture",
+                "data.Deep_sea_fishing",
+                "data.Freshwater_fishing",
                 ""
               ]
             }

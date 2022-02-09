@@ -5823,10 +5823,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "General fishery",
-                "Shallow sea fishery",
-                "Deep sea fishery",
-                "Inland fishery",
+                "Littoral fishing",
+                "Marine aquaculture",
+                "data.Deep_sea_fishing",
+                "Freshwater fishing",
                 ""
               ]
             },

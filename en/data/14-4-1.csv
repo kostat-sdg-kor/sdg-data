@@ -1,4 +1,4 @@
-﻿Year,Units,Fisheries type,Value
+Year,Units,Fisheries type,Value
 2000,Production,,2514225
 2001,Production,,2665124
 2002,Production,,2476188
@@ -19,7 +19,7 @@
 2017,Production,,3724711
 2018,Production,,3770057
 2019,Production,,3860969
-2020 p),Production,,3712518
+2020 p),Production,,3711412
 2000,Production amount of money,,4066447411
 2001,Production amount of money,,4252897861
 2002,Production amount of money,,4205241656
@@ -40,172 +40,172 @@
 2017,Production amount of money,,8566870876
 2018,Production amount of money,,8608418348
 2019,Production amount of money,,8366328166
-2020 p),Production amount of money,,8758203427
-2000,Production,General fishery,1189000
-2001,Production,General fishery,1252099
-2002,Production,General fishery,1095812
-2003,Production,General fishery,1096526
-2004,Production,General fishery,1076687
-2005,Production,General fishery,1097041
-2006,Production,General fishery,1108815
-2007,Production,General fishery,1152299
-2008,Production,General fishery,1284890
-2009,Production,General fishery,1226966
-2010,Production,General fishery,1132536
-2011,Production,General fishery,1235489
-2012,Production,General fishery,1091034
-2013,Production,General fishery,1044697
-2014,Production,General fishery,1058598
-2015,Production,General fishery,1058319
-2016,Production,General fishery,907580
-2017,Production,General fishery,926941
-2018,Production,General fishery,1011536
-2019,Production,General fishery,911852
-2020 p),Production,General fishery,932308
-2000,Production,Shallow sea fishery,653373
-2001,Production,Shallow sea fishery,655827
-2002,Production,Shallow sea fishery,781519
-2003,Production,Shallow sea fishery,826245
-2004,Production,Shallow sea fishery,917715
-2005,Production,Shallow sea fishery,1041074
-2006,Production,Shallow sea fishery,1259274
-2007,Production,Shallow sea fishery,1385804
-2008,Production,Shallow sea fishery,1381003
-2009,Production,Shallow sea fishery,1313355
-2010,Production,Shallow sea fishery,1355000
-2011,Production,Shallow sea fishery,1477546
-2012,Production,Shallow sea fishery,1488950
-2013,Production,Shallow sea fishery,1515210
-2014,Production,Shallow sea fishery,1546715
-2015,Production,Shallow sea fishery,1667872
-2016,Production,Shallow sea fishery,1872400
-2017,Production,Shallow sea fishery,2315775
-2018,Production,Shallow sea fishery,2249605
-2019,Production,Shallow sea fishery,2410040
-2020 p),Production,Shallow sea fishery,2309271
-2000,Production,Deep sea fishery,651267
-2001,Production,Deep sea fishery,739057
-2002,Production,Deep sea fishery,580346
-2003,Production,Deep sea fishery,544591
-2004,Production,Deep sea fishery,499400
-2005,Production,Deep sea fishery,552096
-2006,Production,Deep sea fishery,639184
-2007,Production,Deep sea fishery,709960
-2008,Production,Deep sea fishery,666182
-2009,Production,Deep sea fishery,611950
-2010,Production,Deep sea fishery,592116
-2011,Production,Deep sea fishery,510624
-2012,Production,Deep sea fishery,575308
-2013,Production,Deep sea fishery,549928
-2014,Production,Deep sea fishery,669140
-2015,Production,Deep sea fishery,578137
-2016,Production,Deep sea fishery,454053
-2017,Production,Deep sea fishery,445726
-2018,Production,Deep sea fishery,473589
-2019,Production,Deep sea fishery,503795
-2020 p),Production,Deep sea fishery,437005
-2000,Production,Inland fishery,20585
-2001,Production,Inland fishery,18141
-2002,Production,Inland fishery,18511
-2003,Production,Inland fishery,19680
-2004,Production,Inland fishery,25299
-2005,Production,Inland fishery,23839
-2006,Production,Inland fishery,24843
-2007,Production,Inland fishery,26760
-2008,Production,Inland fishery,29180
-2009,Production,Inland fishery,30071
-2010,Production,Inland fishery,30982
-2011,Production,Inland fishery,32270
-2012,Production,Inland fishery,28131
-2013,Production,Inland fishery,25414
-2014,Production,Inland fishery,29774
-2015,Production,Inland fishery,33055
-2016,Production,Inland fishery,35400
-2017,Production,Inland fishery,36270
-2018,Production,Inland fishery,35326
-2019,Production,Inland fishery,35282
-2020 p),Production,Inland fishery,33935
-2000,Production amount of money,General fishery,2329483389
-2001,Production amount of money,General fishery,2468308722
-2002,Production amount of money,General fishery,2487006174
-2003,Production amount of money,General fishery,2405810605
-2004,Production amount of money,General fishery,2609717094
-2005,Production amount of money,General fishery,2705954841
-2006,Production amount of money,General fishery,2751251398
-2007,Production amount of money,General fishery,2939109483
-2008,Production amount of money,General fishery,3222256094
-2009,Production amount of money,General fishery,3640436977
-2010,Production amount of money,General fishery,3911681208
-2011,Production amount of money,General fishery,4444105662
-2012,Production amount of money,General fishery,3951034494
-2013,Production amount of money,General fishery,3747606556
-2014,Production amount of money,General fishery,3772938822
-2015,Production amount of money,General fishery,3702306439
-2016,Production amount of money,General fishery,3635893251
-2017,Production amount of money,General fishery,4014055960
-2018,Production amount of money,General fishery,4136066330
-2019,Production amount of money,General fishery,3957149057
-2020 p),Production amount of money,General fishery,4366895747
-2000,Production amount of money,Shallow sea fishery,683855951
-2001,Production amount of money,Shallow sea fishery,717162507
-2002,Production amount of money,Shallow sea fishery,794517120
-2003,Production amount of money,Shallow sea fishery,1165674921
-2004,Production amount of money,Shallow sea fishery,1217104552
-2005,Production amount of money,Shallow sea fishery,1348407375
-2006,Production amount of money,Shallow sea fishery,1443168636
-2007,Production amount of money,Shallow sea fishery,1599541644
-2008,Production amount of money,Shallow sea fishery,1520122116
-2009,Production amount of money,Shallow sea fishery,1846310734
-2010,Production amount of money,Shallow sea fishery,1815645793
-2011,Production amount of money,Shallow sea fishery,1784244398
-2012,Production amount of money,Shallow sea fishery,1759270530
-2013,Production amount of money,Shallow sea fishery,1725808966
-2014,Production amount of money,Shallow sea fishery,1931720090
-2015,Production amount of money,Shallow sea fishery,2123938465
-2016,Production amount of money,Shallow sea fishery,2345544257
-2017,Production amount of money,Shallow sea fishery,2960014603
-2018,Production amount of money,Shallow sea fishery,2880673105
-2019,Production amount of money,Shallow sea fishery,2805298312
-2020 p),Production amount of money,Shallow sea fishery,2903049881
-2000,Production amount of money,Deep sea fishery,929666868
-2001,Production amount of money,Deep sea fishery,964125161
-2002,Production amount of money,Deep sea fishery,809405519
-2003,Production amount of money,Deep sea fishery,1072613948
-2004,Production amount of money,Deep sea fishery,737288543
-2005,Production amount of money,Deep sea fishery,819231699
-2006,Production amount of money,Deep sea fishery,891030682
-2007,Production amount of money,Deep sea fishery,990205151
-2008,Production amount of money,Deep sea fishery,1327394939
-2009,Production amount of money,Deep sea fishery,1163750724
-2010,Production amount of money,Deep sea fishery,1364524490
-2011,Production amount of money,Deep sea fishery,1467044368
-2012,Production amount of money,Deep sea fishery,1655406229
-2013,Production amount of money,Deep sea fishery,1408034170
-2014,Production amount of money,Deep sea fishery,1275222255
-2015,Production amount of money,Deep sea fishery,1023738173
-2016,Production amount of money,Deep sea fishery,1077762729
-2017,Production amount of money,Deep sea fishery,1134303285
-2018,Production amount of money,Deep sea fishery,1130696582
-2019,Production amount of money,Deep sea fishery,1119095801
-2020 p),Production amount of money,Deep sea fishery,1044177593
-2000,Production amount of money,Inland fishery,123441203
-2001,Production amount of money,Inland fishery,103301471
-2002,Production amount of money,Inland fishery,114312843
-2003,Production amount of money,Inland fishery,126719196
-2004,Production amount of money,Inland fishery,167212140
-2005,Production amount of money,Inland fishery,175727470
-2006,Production amount of money,Inland fishery,200409341
-2007,Production amount of money,Inland fishery,223089298
-2008,Production amount of money,Inland fishery,275284952
-2009,Production amount of money,Inland fishery,273750067
-2010,Production amount of money,Inland fishery,333834081
-2011,Production amount of money,Inland fishery,377466022
-2012,Production amount of money,Inland fishery,323339507
-2013,Production amount of money,Inland fishery,345437258
-2014,Production amount of money,Inland fishery,372110685
-2015,Production amount of money,Inland fishery,407481551
-2016,Production amount of money,Inland fishery,417546823
-2017,Production amount of money,Inland fishery,458497028
-2018,Production amount of money,Inland fishery,460982330
-2019,Production amount of money,Inland fishery,484784996
-2020 p),Production amount of money,Inland fishery,444080207
+2020 p),Production amount of money,,8749303357
+2000,Production,Littoral fishing,1189000
+2001,Production,Littoral fishing,1252099
+2002,Production,Littoral fishing,1095812
+2003,Production,Littoral fishing,1096526
+2004,Production,Littoral fishing,1076687
+2005,Production,Littoral fishing,1097041
+2006,Production,Littoral fishing,1108815
+2007,Production,Littoral fishing,1152299
+2008,Production,Littoral fishing,1284890
+2009,Production,Littoral fishing,1226966
+2010,Production,Littoral fishing,1132536
+2011,Production,Littoral fishing,1235489
+2012,Production,Littoral fishing,1091034
+2013,Production,Littoral fishing,1044697
+2014,Production,Littoral fishing,1058598
+2015,Production,Littoral fishing,1058319
+2016,Production,Littoral fishing,907580
+2017,Production,Littoral fishing,926941
+2018,Production,Littoral fishing,1011536
+2019,Production,Littoral fishing,911852
+2020 p),Production,Littoral fishing,932322
+2000,Production,Marine aquaculture,653373
+2001,Production,Marine aquaculture,655827
+2002,Production,Marine aquaculture,781519
+2003,Production,Marine aquaculture,826245
+2004,Production,Marine aquaculture,917715
+2005,Production,Marine aquaculture,1041074
+2006,Production,Marine aquaculture,1259274
+2007,Production,Marine aquaculture,1385804
+2008,Production,Marine aquaculture,1381003
+2009,Production,Marine aquaculture,1313355
+2010,Production,Marine aquaculture,1355000
+2011,Production,Marine aquaculture,1477546
+2012,Production,Marine aquaculture,1488950
+2013,Production,Marine aquaculture,1515210
+2014,Production,Marine aquaculture,1546715
+2015,Production,Marine aquaculture,1667872
+2016,Production,Marine aquaculture,1872400
+2017,Production,Marine aquaculture,2315775
+2018,Production,Marine aquaculture,2249605
+2019,Production,Marine aquaculture,2410040
+2020 p),Production,Marine aquaculture,2309271
+2000,Production,data.Deep_sea_fishing,651267
+2001,Production,data.Deep_sea_fishing,739057
+2002,Production,data.Deep_sea_fishing,580346
+2003,Production,data.Deep_sea_fishing,544591
+2004,Production,data.Deep_sea_fishing,499400
+2005,Production,data.Deep_sea_fishing,552096
+2006,Production,data.Deep_sea_fishing,639184
+2007,Production,data.Deep_sea_fishing,709960
+2008,Production,data.Deep_sea_fishing,666182
+2009,Production,data.Deep_sea_fishing,611950
+2010,Production,data.Deep_sea_fishing,592116
+2011,Production,data.Deep_sea_fishing,510624
+2012,Production,data.Deep_sea_fishing,575308
+2013,Production,data.Deep_sea_fishing,549928
+2014,Production,data.Deep_sea_fishing,669140
+2015,Production,data.Deep_sea_fishing,578137
+2016,Production,data.Deep_sea_fishing,454053
+2017,Production,data.Deep_sea_fishing,445726
+2018,Production,data.Deep_sea_fishing,473589
+2019,Production,data.Deep_sea_fishing,503795
+2020 p),Production,data.Deep_sea_fishing,437005
+2000,Production,Freshwater fishing,20585
+2001,Production,Freshwater fishing,18141
+2002,Production,Freshwater fishing,18511
+2003,Production,Freshwater fishing,19680
+2004,Production,Freshwater fishing,25299
+2005,Production,Freshwater fishing,23839
+2006,Production,Freshwater fishing,24843
+2007,Production,Freshwater fishing,26760
+2008,Production,Freshwater fishing,29180
+2009,Production,Freshwater fishing,30071
+2010,Production,Freshwater fishing,30982
+2011,Production,Freshwater fishing,32270
+2012,Production,Freshwater fishing,28131
+2013,Production,Freshwater fishing,25414
+2014,Production,Freshwater fishing,29774
+2015,Production,Freshwater fishing,33055
+2016,Production,Freshwater fishing,35400
+2017,Production,Freshwater fishing,36270
+2018,Production,Freshwater fishing,35326
+2019,Production,Freshwater fishing,35282
+2020 p),Production,Freshwater fishing,33935
+2000,Production amount of money,Littoral fishing,2329483389
+2001,Production amount of money,Littoral fishing,2468308722
+2002,Production amount of money,Littoral fishing,2487006174
+2003,Production amount of money,Littoral fishing,2405810605
+2004,Production amount of money,Littoral fishing,2609717094
+2005,Production amount of money,Littoral fishing,2705954841
+2006,Production amount of money,Littoral fishing,2751251398
+2007,Production amount of money,Littoral fishing,2939109483
+2008,Production amount of money,Littoral fishing,3222256094
+2009,Production amount of money,Littoral fishing,3640436977
+2010,Production amount of money,Littoral fishing,3911681208
+2011,Production amount of money,Littoral fishing,4444105662
+2012,Production amount of money,Littoral fishing,3951034494
+2013,Production amount of money,Littoral fishing,3747606556
+2014,Production amount of money,Littoral fishing,3772938822
+2015,Production amount of money,Littoral fishing,3702306439
+2016,Production amount of money,Littoral fishing,3635893251
+2017,Production amount of money,Littoral fishing,4014055960
+2018,Production amount of money,Littoral fishing,4136066330
+2019,Production amount of money,Littoral fishing,3957149057
+2020 p),Production amount of money,Littoral fishing,4367267776
+2000,Production amount of money,Marine aquaculture,683855951
+2001,Production amount of money,Marine aquaculture,717162507
+2002,Production amount of money,Marine aquaculture,794517120
+2003,Production amount of money,Marine aquaculture,1165674921
+2004,Production amount of money,Marine aquaculture,1217104552
+2005,Production amount of money,Marine aquaculture,1348407375
+2006,Production amount of money,Marine aquaculture,1443168636
+2007,Production amount of money,Marine aquaculture,1599541644
+2008,Production amount of money,Marine aquaculture,1520122116
+2009,Production amount of money,Marine aquaculture,1846310734
+2010,Production amount of money,Marine aquaculture,1815645793
+2011,Production amount of money,Marine aquaculture,1784244398
+2012,Production amount of money,Marine aquaculture,1759270530
+2013,Production amount of money,Marine aquaculture,1725808966
+2014,Production amount of money,Marine aquaculture,1931720090
+2015,Production amount of money,Marine aquaculture,2123938465
+2016,Production amount of money,Marine aquaculture,2345544257
+2017,Production amount of money,Marine aquaculture,2960014603
+2018,Production amount of money,Marine aquaculture,2880673105
+2019,Production amount of money,Marine aquaculture,2805298312
+2020 p),Production amount of money,Marine aquaculture,2893777778
+2000,Production amount of money,data.Deep_sea_fishing,929666868
+2001,Production amount of money,data.Deep_sea_fishing,964125161
+2002,Production amount of money,data.Deep_sea_fishing,809405519
+2003,Production amount of money,data.Deep_sea_fishing,1072613948
+2004,Production amount of money,data.Deep_sea_fishing,737288543
+2005,Production amount of money,data.Deep_sea_fishing,819231699
+2006,Production amount of money,data.Deep_sea_fishing,891030682
+2007,Production amount of money,data.Deep_sea_fishing,990205151
+2008,Production amount of money,data.Deep_sea_fishing,1327394939
+2009,Production amount of money,data.Deep_sea_fishing,1163750724
+2010,Production amount of money,data.Deep_sea_fishing,1364524490
+2011,Production amount of money,data.Deep_sea_fishing,1467044368
+2012,Production amount of money,data.Deep_sea_fishing,1655406229
+2013,Production amount of money,data.Deep_sea_fishing,1408034170
+2014,Production amount of money,data.Deep_sea_fishing,1275222255
+2015,Production amount of money,data.Deep_sea_fishing,1023738173
+2016,Production amount of money,data.Deep_sea_fishing,1077762729
+2017,Production amount of money,data.Deep_sea_fishing,1134303285
+2018,Production amount of money,data.Deep_sea_fishing,1130696582
+2019,Production amount of money,data.Deep_sea_fishing,1119095801
+2020 p),Production amount of money,data.Deep_sea_fishing,1044177593
+2000,Production amount of money,Freshwater fishing,123441203
+2001,Production amount of money,Freshwater fishing,103301471
+2002,Production amount of money,Freshwater fishing,114312843
+2003,Production amount of money,Freshwater fishing,126719196
+2004,Production amount of money,Freshwater fishing,167212140
+2005,Production amount of money,Freshwater fishing,175727470
+2006,Production amount of money,Freshwater fishing,200409341
+2007,Production amount of money,Freshwater fishing,223089298
+2008,Production amount of money,Freshwater fishing,275284952
+2009,Production amount of money,Freshwater fishing,273750067
+2010,Production amount of money,Freshwater fishing,333834081
+2011,Production amount of money,Freshwater fishing,377466022
+2012,Production amount of money,Freshwater fishing,323339507
+2013,Production amount of money,Freshwater fishing,345437258
+2014,Production amount of money,Freshwater fishing,372110685
+2015,Production amount of money,Freshwater fishing,407481551
+2016,Production amount of money,Freshwater fishing,417546823
+2017,Production amount of money,Freshwater fishing,458497028
+2018,Production amount of money,Freshwater fishing,460982330
+2019,Production amount of money,Freshwater fishing,484784996
+2020 p),Production amount of money,Freshwater fishing,444080210
