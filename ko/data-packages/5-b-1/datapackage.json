@@ -38,17 +38,6 @@
             "title": "연령별"
           },
           {
-            "name": "data.Device_type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "스마트폰"
-              ]
-            },
-            "title": "장치유형별"
-          },
-          {
             "name": "data.Sex",
             "type": "string",
             "constraints": {

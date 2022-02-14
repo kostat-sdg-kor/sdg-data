@@ -6244,16 +6244,6 @@
             "type": "integer"
           },
           {
-            "name": "data.Device_type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.Smartphone",
-                ""
-              ]
-            }
-          },
-          {
             "name": "data.Sex",
             "type": "string",
             "constraints": {

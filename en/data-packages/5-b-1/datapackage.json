@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "data.Device_type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Smartphone",
-                ""
-              ]
-            },
-            "title": "Device type"
-          },
-          {
             "name": "data.Sex",
             "type": "string",
             "constraints": {
