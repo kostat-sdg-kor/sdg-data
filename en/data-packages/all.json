@@ -4223,9 +4223,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.Train_station",
-                "data.Bus_terminal",
-                "data.Airport",
+                "2.Train station",
+                "1.Bus terminal",
+                "3.Airport",
                 ""
               ]
             },

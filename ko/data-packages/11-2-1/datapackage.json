@@ -26,9 +26,9 @@
             "constraints": {
               "enum": [
                 "",
-                "data.Airport",
-                "data.Bus_terminal",
-                "data.Train_station"
+                "1.버스터미널",
+                "2.철도역",
+                "3.공항"
               ]
             },
             "title": "접근지별"

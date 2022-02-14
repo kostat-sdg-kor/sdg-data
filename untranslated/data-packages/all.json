@@ -3869,9 +3869,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.Train_station",
-                "data.Bus_terminal",
-                "data.Airport",
+                "data.2.Train_station",
+                "data.1.Bus_terminal",
+                "data.3.Airport",
                 ""
               ]
             }
