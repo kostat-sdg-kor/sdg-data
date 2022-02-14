@@ -3865,23 +3865,13 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.Metropolitan_Transportation_Facilities",
-                ""
-              ]
-            }
-          },
-          {
             "name": "data.Access_point",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.2.Train_station",
-                "data.1.Bus_terminal",
-                "data.3.Airport",
+                "data.Train_station",
+                "data.Bus_terminal",
+                "data.Airport",
                 ""
               ]
             }

@@ -16,24 +16,13 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Metropolitan Transportation Facilities",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "data.Access_point",
             "type": "string",
             "constraints": {
               "enum": [
-                "2.Train station",
-                "1.Bus terminal",
-                "3.Airport",
+                "data.Train_station",
+                "data.Bus_terminal",
+                "data.Airport",
                 ""
               ]
             },

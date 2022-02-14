@@ -1,4 +1,4 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.1.Bus_terminal,8,1
-data.2.Train_station,8,1
-data.3.Airport,8,1
+data.Airport,8,1
+data.Bus_terminal,8,1
+data.Train_station,8,1

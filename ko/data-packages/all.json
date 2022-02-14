@@ -4214,17 +4214,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "광역교통시설"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -4240,9 +4229,9 @@
             "constraints": {
               "enum": [
                 "",
-                "1.버스터미널",
-                "2.철도역",
-                "3.공항"
+                "data.Airport",
+                "data.Bus_terminal",
+                "data.Train_station"
               ]
             },
             "title": "접근지별"
