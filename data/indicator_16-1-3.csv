@@ -19,3 +19,8 @@ Year,data.category,Value
 2018,data.Robbery,0.12
 2018,data.Assault,0.16
 2018,data.Harassment,0.12
+2020,,0.88
+2020,data.Sexual_violence,0.37
+2020,data.Robbery,0.04
+2020,data.Assault,0.36
+2020,data.Harassment,0.11
