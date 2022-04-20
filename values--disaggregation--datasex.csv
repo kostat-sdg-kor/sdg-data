@@ -1,8 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
-data.Female,60,22
 data.female,1,1
-data.Male,60,22
+data.Female,60,22
 data.male,1,1
+data.Male,60,22
 data.Not_indicated,1,1
 Female,4,1
 Male,4,1
