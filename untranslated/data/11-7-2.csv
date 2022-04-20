@@ -15,6 +15,12 @@ Year,data.category,Value
 2016,data.Assault,161
 2016,data.Harassment,86
 2018,,566
-2018,data.Sexual_violence,125
+2018,data.Sexual_violence,161
+2018,data.Robbery,125
 2018,data.Assault,161
 2018,data.Harassment,120
+2020,,878
+2020,data.Sexual_violence,369
+2020,data.Robbery,41
+2020,data.Assault,355
+2020,data.Harassment,113
