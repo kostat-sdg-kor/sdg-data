@@ -19,7 +19,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production,,3724711
 2018,data.Production,,3770057
 2019,data.Production,,3860969
-2020 p),data.Production,,3711412
+2020,data.Production,,3712873
+2021 p),data.Production,,3820048
 2000,data.Production_amount_of_money,,4066447411
 2001,data.Production_amount_of_money,,4252897861
 2002,data.Production_amount_of_money,,4205241656
@@ -40,7 +41,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production_amount_of_money,,8566870876
 2018,data.Production_amount_of_money,,8608418348
 2019,data.Production_amount_of_money,,8366328166
-2020 p),data.Production_amount_of_money,,8749303357
+2020,data.Production_amount_of_money,,8832970810
+2021 p),data.Production_amount_of_money,,9269188974
 2000,data.Production,data.Littoral_fishing,1189000
 2001,data.Production,data.Littoral_fishing,1252099
 2002,data.Production,data.Littoral_fishing,1095812
@@ -61,7 +63,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production,data.Littoral_fishing,926941
 2018,data.Production,data.Littoral_fishing,1011536
 2019,data.Production,data.Littoral_fishing,911852
-2020 p),data.Production,data.Littoral_fishing,932322
+2020,data.Production,data.Littoral_fishing,933880
+2021 p),data.Production,data.Littoral_fishing,941069
 2000,data.Production,data.Marine_aquaculture,653373
 2001,data.Production,data.Marine_aquaculture,655827
 2002,data.Production,data.Marine_aquaculture,781519
@@ -82,7 +85,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production,data.Marine_aquaculture,2315775
 2018,data.Production,data.Marine_aquaculture,2249605
 2019,data.Production,data.Marine_aquaculture,2410040
-2020 p),data.Production,data.Marine_aquaculture,2309271
+2020,data.Production,data.Marine_aquaculture,2308407
+2021 p),data.Production,data.Marine_aquaculture,2397490
 2000,data.Production,data.Deep_sea_fishing,651267
 2001,data.Production,data.Deep_sea_fishing,739057
 2002,data.Production,data.Deep_sea_fishing,580346
@@ -103,7 +107,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production,data.Deep_sea_fishing,445726
 2018,data.Production,data.Deep_sea_fishing,473589
 2019,data.Production,data.Deep_sea_fishing,503795
-2020 p),data.Production,data.Deep_sea_fishing,437005
+2020,data.Production,data.Deep_sea_fishing,436617
+2021 p),data.Production,data.Deep_sea_fishing,438825
 2000,data.Production,data.Freshwater_fishing,20585
 2001,data.Production,data.Freshwater_fishing,18141
 2002,data.Production,data.Freshwater_fishing,18511
@@ -124,7 +129,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production,data.Freshwater_fishing,36270
 2018,data.Production,data.Freshwater_fishing,35326
 2019,data.Production,data.Freshwater_fishing,35282
-2020 p),data.Production,data.Freshwater_fishing,33935
+2020,data.Production,data.Freshwater_fishing,33968
+2021 p),data.Production,data.Freshwater_fishing,42663
 2000,data.Production_amount_of_money,data.Littoral_fishing,2329483389
 2001,data.Production_amount_of_money,data.Littoral_fishing,2468308722
 2002,data.Production_amount_of_money,data.Littoral_fishing,2487006174
@@ -145,7 +151,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production_amount_of_money,data.Littoral_fishing,4014055960
 2018,data.Production_amount_of_money,data.Littoral_fishing,4136066330
 2019,data.Production_amount_of_money,data.Littoral_fishing,3957149057
-2020 p),data.Production_amount_of_money,data.Littoral_fishing,4367267776
+2020,data.Production_amount_of_money,data.Littoral_fishing,4371756600
+2021 p),data.Production_amount_of_money,data.Littoral_fishing,4147439245
 2000,data.Production_amount_of_money,data.Marine_aquaculture,683855951
 2001,data.Production_amount_of_money,data.Marine_aquaculture,717162507
 2002,data.Production_amount_of_money,data.Marine_aquaculture,794517120
@@ -166,7 +173,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production_amount_of_money,data.Marine_aquaculture,2960014603
 2018,data.Production_amount_of_money,data.Marine_aquaculture,2880673105
 2019,data.Production_amount_of_money,data.Marine_aquaculture,2805298312
-2020 p),data.Production_amount_of_money,data.Marine_aquaculture,2893777778
+2020,data.Production_amount_of_money,data.Marine_aquaculture,2895227331
+2021 p),data.Production_amount_of_money,data.Marine_aquaculture,3290453186
 2000,data.Production_amount_of_money,data.Deep_sea_fishing,929666868
 2001,data.Production_amount_of_money,data.Deep_sea_fishing,964125161
 2002,data.Production_amount_of_money,data.Deep_sea_fishing,809405519
@@ -187,7 +195,8 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production_amount_of_money,data.Deep_sea_fishing,1134303285
 2018,data.Production_amount_of_money,data.Deep_sea_fishing,1130696582
 2019,data.Production_amount_of_money,data.Deep_sea_fishing,1119095801
-2020 p),data.Production_amount_of_money,data.Deep_sea_fishing,1044177593
+2020,data.Production_amount_of_money,data.Deep_sea_fishing,1121154992
+2021 p),data.Production_amount_of_money,data.Deep_sea_fishing,1310930091
 2000,data.Production_amount_of_money,data.Freshwater_fishing,123441203
 2001,data.Production_amount_of_money,data.Freshwater_fishing,103301471
 2002,data.Production_amount_of_money,data.Freshwater_fishing,114312843
@@ -208,4 +217,5 @@ Year,Units,data.Fisheries_type,Value
 2017,data.Production_amount_of_money,data.Freshwater_fishing,458497028
 2018,data.Production_amount_of_money,data.Freshwater_fishing,460982330
 2019,data.Production_amount_of_money,data.Freshwater_fishing,484784996
-2020 p),data.Production_amount_of_money,data.Freshwater_fishing,444080210
+2020,data.Production_amount_of_money,data.Freshwater_fishing,4440831888
+2021 p),data.Production_amount_of_money,data.Freshwater_fishing,520366452
