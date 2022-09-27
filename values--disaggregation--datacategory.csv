@@ -15,6 +15,8 @@ data.05_Provinces,1,1
 data.Accumulated_publication,1,1
 data.Agriculture(ISIC4_A01_A0210_A0322),1,1
 data.Assault,2,2
+data.Basic_drinking_water_services,1,1
+data.Basic_sanitation_services,1,1
 data.BLSP(Basic_Livelihood_Security_Program)_take-up_rate,1,1
 data.Busan,1,1
 data.Chungbuk,1,1
