@@ -1,4 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
+ecoli,1,1
 IHR01,1,1
 IHR02,1,1
 IHR03,1,1
@@ -12,3 +13,4 @@ IHR10,1,1
 IHR11,1,1
 IHR12,1,1
 IHR13,1,1
+mrsa,1,1

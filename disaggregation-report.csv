@@ -14,7 +14,7 @@ data.Education_indicators,1,5
 data.Fisheries_type,1,4
 data.Grade,1,2
 data.Household_expenditure_on_health,1,2
-data.IHR_Capacity,1,13
+data.IHR_Capacity,2,15
 data.Income_classes,2,5
 data.Mode_of_transportation,1,5
 data.Name_of_international_institution,2,10

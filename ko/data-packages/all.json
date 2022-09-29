@@ -7862,8 +7862,21 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "ex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "bothsex",
+                "female",
+                "male"
+              ]
+            },
+            "title": "ex"
           }
         ]
       },

@@ -1,1 +1,1 @@
-{"data":{"Year":[2016,2017,2018,2019,2020,2016,2017,2018,2019,2020],"IHR Capacity":["ecoli","ecoli","ecoli","ecoli","ecoli","mrsa","mrsa","mrsa","mrsa","mrsa"],"Value":[35.33,32.39,38.63,37.08,37.66,53.3,53.3,47.1,48.61,47.55]},"edges":[]}
+{"data":{"Year":[2016,2017,2018,2019,2020,2016,2017,2018,2019,2020],"IHR Capacity":["ECOLI","ECOLI","ECOLI","ECOLI","ECOLI","MRSA","MRSA","MRSA","MRSA","MRSA"],"Value":[35.33,32.39,38.63,37.08,37.66,53.3,53.3,47.1,48.61,47.55]},"edges":[]}

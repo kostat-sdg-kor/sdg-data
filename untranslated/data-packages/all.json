@@ -7193,7 +7193,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "ex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "bothsex",
+                "female",
+                "male",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
