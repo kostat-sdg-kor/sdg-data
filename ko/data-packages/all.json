@@ -8374,7 +8374,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -8388,7 +8388,8 @@
             "constraints": {
               "enum": [
                 "",
-                "0"
+                "3세대 세팔로스포린 내성 대장균",
+                "메티실린 내성 황색포도상구균"
               ]
             },
             "title": "IHR 역량"

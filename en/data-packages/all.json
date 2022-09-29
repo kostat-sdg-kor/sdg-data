@@ -8382,7 +8382,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
+                "ecoli",
+                "mrsa",
                 ""
               ]
             },
@@ -8390,7 +8391,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
