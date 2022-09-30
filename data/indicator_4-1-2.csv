@@ -1,10 +1,10 @@
-Year,Education level,data.Location,Value
+Year,Education level,Location,Value
 2012,Middle_school,,100
-2012,Middle_school,data.RURAL,100
-2012,Middle_school,data.URBAN,100
+2012,Middle_school,RURAL,100
+2012,Middle_school,URBAN,100
 2012,Elementary_school,,100
-2012,Elementary_school,data.RURAL,100
-2012,Elementary_school,data.URBAN,100
+2012,Elementary_school,RURAL,100
+2012,Elementary_school,URBAN,100
 2012,High_school,,98.57
-2012,High_school,data.RURAL,95.19
-2012,High_school,data.URBAN,98.95
+2012,High_school,RURAL,95.19
+2012,High_school,URBAN,98.95
