@@ -12,7 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "data.Education_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.Middle_school",
+                "data.Elementary_school",
+                "data.High_school",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100",
+                "data.ALLAREA",
+                "data.RURAL",
+                "data.URBAN",
+                "98.57",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "data.Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "data.FEMALE",
+                "data.MALE",
+                "100",
+                "95.19",
+                "98.95",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
