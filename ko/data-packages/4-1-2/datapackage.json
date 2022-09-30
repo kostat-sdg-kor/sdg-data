@@ -39,8 +39,6 @@
             "constraints": {
               "enum": [
                 "",
-                "100",
-                "98.57",
                 "data.ALLAREA",
                 "data.RURAL",
                 "data.URBAN"
@@ -54,9 +52,6 @@
             "constraints": {
               "enum": [
                 "",
-                "100",
-                "95.19",
-                "98.95",
                 "data.FEMALE",
                 "data.MALE"
               ]
