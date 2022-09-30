@@ -21,7 +21,7 @@
             "title": "Year"
           },
           {
-            "name": "data.IHR_Capacity",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,7 +30,7 @@
                 "메티실린 내성 황색포도상구균"
               ]
             },
-            "title": "IHR 역량"
+            "title": "구분"
           }
         ]
       }

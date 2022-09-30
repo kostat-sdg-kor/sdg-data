@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "data.IHR_Capacity",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "IHR Capacity"
+            "title": "Category"
           },
           {
             "name": "Value",

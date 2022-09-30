@@ -7684,7 +7684,7 @@
             "type": "integer"
           },
           {
-            "name": "data.IHR_Capacity",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [

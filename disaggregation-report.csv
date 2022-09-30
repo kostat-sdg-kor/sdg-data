@@ -4,7 +4,7 @@ data.Access_point,1,3
 data.Age,6,36
 data.Banking_service,1,2
 data.Birth_location,1,6
-data.category,32,98
+data.category,33,100
 data.Category,1,2
 data.Cause_of_death,1,4
 data.Cultivation_size,2,9
@@ -14,7 +14,7 @@ data.Education_indicators,1,5
 data.Fisheries_type,1,4
 data.Grade,1,2
 data.Household_expenditure_on_health,1,2
-data.IHR_Capacity,2,15
+data.IHR_Capacity,1,13
 data.Income_classes,2,5
 data.Mode_of_transportation,1,5
 data.Name_of_international_institution,2,10
