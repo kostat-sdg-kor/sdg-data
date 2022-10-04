@@ -7538,18 +7538,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "농촌",
-                "도시"
-              ]
-            },
-            "title": "Location"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7558,6 +7546,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "data.Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농촌",
+                "도시"
+              ]
+            },
+            "title": "data.Location"
           },
           {
             "name": "data.category",

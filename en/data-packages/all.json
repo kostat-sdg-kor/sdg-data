@@ -7556,7 +7556,7 @@
             "title": "Category"
           },
           {
-            "name": "Location",
+            "name": "data.Location",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7565,7 +7565,7 @@
                 ""
               ]
             },
-            "title": "Location"
+            "title": "data.Location"
           },
           {
             "name": "Value",

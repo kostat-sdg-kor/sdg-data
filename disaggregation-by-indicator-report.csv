@@ -61,7 +61,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-d-1,data.IHR_Capacity,1
 #3-d-2,data.category,1
 #4-1-1,"data.Sex, data.Grade, data.Subjects",3
-#4-1-2,"data.category, Location",2
+#4-1-2,"data.category, data.Location",2
 #4-2-1,"data.Sex, data.Development_index",2
 #4-3-1,data.Sex,1
 #4-4-1,"data.Sex, data.Skill",2

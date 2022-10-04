@@ -27,7 +27,7 @@
             }
           },
           {
-            "name": "Location",
+            "name": "data.Location",
             "type": "string",
             "constraints": {
               "enum": [

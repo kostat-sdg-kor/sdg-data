@@ -16,6 +16,7 @@ data.Grade,1,2
 data.Household_expenditure_on_health,1,2
 data.IHR_Capacity,1,13
 data.Income_classes,2,5
+data.Location,1,2
 data.Mode_of_transportation,1,5
 data.Name_of_international_institution,2,10
 data.Payment,1,2
@@ -35,5 +36,4 @@ data.Transportation,1,2
 data.Type_of_occupation,1,9
 data.Type_of_product,3,7
 data.Type_of_skill,1,2
-Location,1,2
 Time serieses,1,2
