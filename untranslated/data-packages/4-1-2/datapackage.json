@@ -15,36 +15,24 @@
             "type": "integer"
           },
           {
-            "name": "data.Education_level",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.Middle_school",
-                "data.Elementary_school",
-                "data.High_school",
+                "Middle_school",
+                "Elementary_school",
+                "High_school",
                 ""
               ]
             }
           },
           {
-            "name": "data.Location",
+            "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ALLAREA",
-                "data.RURAL",
-                "data.URBAN",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.FEMALE",
-                "data.MALE",
+                "Rural",
+                "Urban",
                 ""
               ]
             }

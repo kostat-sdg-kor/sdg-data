@@ -688,51 +688,16 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "category",
             "type": "string",
             "constraints": {
               "enum": [
-                "General government expenditure (GBP (£million) per capita)",
-                "Central government expenditure (GBP (£million) per capita)",
-                "Local government expenditure (GBP (£million) per capita)",
+                "Nat",
+                "Reg",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "Type of expenditure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Environmental protection",
-                "Recreation, culture and religion",
-                ""
-              ]
-            },
-            "title": "Type of expenditure"
-          },
-          {
-            "name": "Area of spending",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waste management",
-                "Waste water management",
-                "Pollution abatement",
-                "Protection of biodiversity and landscape",
-                "Research and development environmental protection",
-                "Environmental protection not elsewhere classified",
-                "Recreational and sporting services",
-                "Cultural services",
-                "Broadcasting and publishing services",
-                "Religious and other community services",
-                "Research and development recreation, culture and religion",
-                "Recreation, culture and religion not elsewhere classified",
-                ""
-              ]
-            },
-            "title": "Area of spending"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -1760,7 +1725,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -2254,12 +2219,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -2529,23 +2494,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -3398,8 +3348,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Curricula",
+                "national education policies",
+                "assessment",
+                "education",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -5393,8 +5357,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Curricula",
+                "National_education_policies",
+                "Assessment",
+                "Teacher education",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -5784,35 +5762,8 @@
             "title": "Year"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Marine protected area extent",
-                "Proportion of marine protected area",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -5891,12 +5842,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -7592,7 +7543,7 @@
             "title": "Year"
           },
           {
-            "name": "data.Education_level",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7602,32 +7553,19 @@
                 ""
               ]
             },
-            "title": "data.Education_level"
+            "title": "Category"
           },
           {
-            "name": "data.Location",
+            "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ALLAREA",
-                "data.RURAL",
-                "data.URBAN",
+                "Rural",
+                "Urban",
                 ""
               ]
             },
-            "title": "data.Location"
-          },
-          {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.FEMALE",
-                "data.MALE",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "title": "Location"
           },
           {
             "name": "Value",
@@ -7899,16 +7837,16 @@
             "title": "Year"
           },
           {
-            "name": "data.sex",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -8376,12 +8314,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Curricula",
+                "National_education_policies",
+                "Assessment",
+                "Teacher education",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

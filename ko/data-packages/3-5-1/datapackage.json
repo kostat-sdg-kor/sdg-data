@@ -21,16 +21,16 @@
             "title": "Year"
           },
           {
-            "name": "data.sex",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male"
+                "여성",
+                "남성"
               ]
             },
-            "title": "data.sex"
+            "title": "구분"
           }
         ]
       }

@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농촌",
+                "도시"
+              ]
+            },
+            "title": "Location"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -21,7 +33,7 @@
             "title": "Year"
           },
           {
-            "name": "data.Education_level",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,32 +43,7 @@
                 "중학교"
               ]
             },
-            "title": "data.Education_level"
-          },
-          {
-            "name": "data.Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "data.ALLAREA",
-                "data.RURAL",
-                "data.URBAN"
-              ]
-            },
-            "title": "data.Location"
-          },
-          {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "data.FEMALE",
-                "data.MALE"
-              ]
-            },
-            "title": "성별"
+            "title": "구분"
           }
         ]
       }

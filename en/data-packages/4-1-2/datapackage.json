@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "data.Education_level",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,32 +26,19 @@
                 ""
               ]
             },
-            "title": "data.Education_level"
+            "title": "Category"
           },
           {
-            "name": "data.Location",
+            "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ALLAREA",
-                "data.RURAL",
-                "data.URBAN",
+                "Rural",
+                "Urban",
                 ""
               ]
             },
-            "title": "data.Location"
-          },
-          {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.FEMALE",
-                "data.MALE",
-                ""
-              ]
-            },
-            "title": "Sex"
+            "title": "Location"
           },
           {
             "name": "Value",

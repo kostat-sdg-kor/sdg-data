@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "data.sex",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "data.sex"
+            "title": "Category"
           },
           {
             "name": "Value",

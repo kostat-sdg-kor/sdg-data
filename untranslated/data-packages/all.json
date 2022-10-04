@@ -632,45 +632,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "category",
             "type": "string",
             "constraints": {
               "enum": [
-                "General government expenditure (GBP (£million) per capita)",
-                "Central government expenditure (GBP (£million) per capita)",
-                "Local government expenditure (GBP (£million) per capita)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of expenditure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Environmental protection",
-                "Recreation, culture and religion",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Area of spending",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waste management",
-                "Waste water management",
-                "Pollution abatement",
-                "Protection of biodiversity and landscape",
-                "Research and development environmental protection",
-                "Environmental protection not elsewhere classified",
-                "Recreational and sporting services",
-                "Cultural services",
-                "Broadcasting and publishing services",
-                "Religious and other community services",
-                "Research and development recreation, culture and religion",
-                "Recreation, culture and religion not elsewhere classified",
+                "Nat",
+                "Reg",
                 ""
               ]
             }
@@ -1615,7 +1582,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -2068,11 +2035,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -2319,19 +2286,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Value",
@@ -3111,7 +3066,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "curricula",
+                "national education policies",
+                "assessment",
+                "education",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4940,7 +4908,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Curricula",
+                "National_education_policies",
+                "Assessment",
+                "Teacher_education",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -5296,31 +5277,8 @@
             "type": "integer"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Marine protected area extent",
-                "Proportion of marine protected area",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -5393,11 +5351,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -6949,36 +6907,24 @@
             "type": "integer"
           },
           {
-            "name": "data.Education_level",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.Middle_school",
-                "data.Elementary_school",
-                "data.High_school",
+                "Middle_school",
+                "Elementary_school",
+                "High_school",
                 ""
               ]
             }
           },
           {
-            "name": "data.Location",
+            "name": "Location",
             "type": "string",
             "constraints": {
               "enum": [
-                "data.ALLAREA",
-                "data.RURAL",
-                "data.URBAN",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "data.FEMALE",
-                "data.MALE",
+                "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -7231,12 +7177,12 @@
             "type": "integer"
           },
           {
-            "name": "data.sex",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "data.Female",
+                "data.Male",
                 ""
               ]
             }
@@ -7671,11 +7617,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },

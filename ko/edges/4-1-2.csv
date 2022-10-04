@@ -1,3 +1,2 @@
 From,To
-data.Education_level,data.Location
-data.Location,성별
+구분,Location

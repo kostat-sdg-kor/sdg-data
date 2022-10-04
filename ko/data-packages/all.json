@@ -683,53 +683,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Area of spending",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Broadcasting and publishing services",
-                "Cultural services",
-                "Environmental protection not elsewhere classified",
-                "Pollution abatement",
-                "Protection of biodiversity and landscape",
-                "Recreation, culture and religion not elsewhere classified",
-                "Recreational and sporting services",
-                "Religious and other community services",
-                "Research and development environmental protection",
-                "Research and development recreation, culture and religion",
-                "Waste management",
-                "Waste water management"
-              ]
-            },
-            "title": "Area of spending"
-          },
-          {
-            "name": "Type of expenditure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Environmental protection",
-                "Recreation, culture and religion"
-              ]
-            },
-            "title": "Type of expenditure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Central government expenditure (GBP (£million) per capita)",
-                "General government expenditure (GBP (£million) per capita)",
-                "Local government expenditure (GBP (£million) per capita)"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -738,6 +691,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "중앙정부",
+                "지방정부"
+              ]
+            },
+            "title": "구분"
           }
         ]
       },
@@ -1765,7 +1730,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2254,12 +2219,12 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -2528,28 +2493,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -3403,8 +3353,22 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "assessment",
+                "curricula",
+                "education",
+                "national education policies"
+              ]
+            },
+            "title": "구분"
           }
         ]
       },
@@ -5392,13 +5356,27 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Assessment",
+                "Curricula",
+                "National_education_policies",
+                "Teacher_education"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -5779,35 +5757,8 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Marine protected area extent",
-                "Proportion of marine protected area"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -5891,12 +5842,12 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -7587,6 +7538,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농촌",
+                "도시"
+              ]
+            },
+            "title": "Location"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -7597,7 +7560,7 @@
             "title": "Year"
           },
           {
-            "name": "data.Education_level",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7607,32 +7570,7 @@
                 "중학교"
               ]
             },
-            "title": "data.Education_level"
-          },
-          {
-            "name": "data.Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "data.ALLAREA",
-                "data.RURAL",
-                "data.URBAN"
-              ]
-            },
-            "title": "data.Location"
-          },
-          {
-            "name": "data.Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "data.FEMALE",
-                "data.MALE"
-              ]
-            },
-            "title": "성별"
+            "title": "구분"
           }
         ]
       },
@@ -7904,16 +7842,16 @@
             "title": "Year"
           },
           {
-            "name": "data.sex",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "female",
-                "male"
+                "여성",
+                "남성"
               ]
             },
-            "title": "data.sex"
+            "title": "구분"
           }
         ]
       },
@@ -8376,12 +8314,12 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

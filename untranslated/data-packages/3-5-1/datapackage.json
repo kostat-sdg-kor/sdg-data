@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "data.sex",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "data.Female",
+                "data.Male",
                 ""
               ]
             }

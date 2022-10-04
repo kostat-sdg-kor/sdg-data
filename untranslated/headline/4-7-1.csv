@@ -1,2 +1,5 @@
-Year,Value
-This is a non-statistical indicator,
+Year,Value,Units
+2020,0.883,Curricula
+2020,1.0,National_education_policies
+2020,0.833,Assessment
+2020,1.0,Teacher_education

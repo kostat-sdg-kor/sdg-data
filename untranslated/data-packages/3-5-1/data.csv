@@ -1,4 +1,4 @@
-Year,data.sex,Value
+Year,data.category,Value
 2016,,13.9
-2016,female,6.8
-2016,male,21.2
+2016,data.Female,6.8
+2016,data.Male,21.2

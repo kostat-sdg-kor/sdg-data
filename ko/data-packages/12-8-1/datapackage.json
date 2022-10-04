@@ -17,8 +17,22 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "assessment",
+                "curricula",
+                "education",
+                "national education policies"
+              ]
+            },
+            "title": "구분"
           }
         ]
       }

@@ -16,51 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "category",
             "type": "string",
             "constraints": {
               "enum": [
-                "General government expenditure (GBP (£million) per capita)",
-                "Central government expenditure (GBP (£million) per capita)",
-                "Local government expenditure (GBP (£million) per capita)",
+                "Nat",
+                "Reg",
                 ""
               ]
             },
-            "title": "Units"
-          },
-          {
-            "name": "Type of expenditure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Environmental protection",
-                "Recreation, culture and religion",
-                ""
-              ]
-            },
-            "title": "Type of expenditure"
-          },
-          {
-            "name": "Area of spending",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Waste management",
-                "Waste water management",
-                "Pollution abatement",
-                "Protection of biodiversity and landscape",
-                "Research and development environmental protection",
-                "Environmental protection not elsewhere classified",
-                "Recreational and sporting services",
-                "Cultural services",
-                "Broadcasting and publishing services",
-                "Religious and other community services",
-                "Research and development recreation, culture and religion",
-                "Recreation, culture and religion not elsewhere classified",
-                ""
-              ]
-            },
-            "title": "Area of spending"
+            "title": "Category"
           },
           {
             "name": "Value",

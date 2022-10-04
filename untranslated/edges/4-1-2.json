@@ -1,1 +1,1 @@
-{"From":["data.Education_level","data.Location"],"To":["data.Location","data.Sex"]}
+{"From":["data.category"],"To":["Location"]}

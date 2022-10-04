@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
+          },
+          {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "curricula",
+                "national education policies",
+                "assessment",
+                "education",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
