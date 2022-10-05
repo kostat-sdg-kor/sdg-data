@@ -11,6 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농촌",
+                "도시"
+              ]
+            },
+            "title": "Area"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -32,18 +44,6 @@
               ]
             },
             "title": "구분"
-          },
-          {
-            "name": "data.category.1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "농촌",
-                "도시"
-              ]
-            },
-            "title": "data.category.1"
           }
         ]
       }

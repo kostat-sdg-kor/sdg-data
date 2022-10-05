@@ -29,7 +29,7 @@
             "title": "Category"
           },
           {
-            "name": "data.category.1",
+            "name": "Area",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "data.category.1"
+            "title": "Area"
           },
           {
             "name": "Value",
