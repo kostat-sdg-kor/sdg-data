@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "category",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [

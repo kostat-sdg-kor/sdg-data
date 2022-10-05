@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "category",
+            "name": "data.category",
             "type": "string",
             "constraints": {
               "enum": [
