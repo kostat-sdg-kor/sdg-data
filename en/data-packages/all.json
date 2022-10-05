@@ -692,8 +692,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nat",
-                "Reg",
+                "National",
+                "Regeonal",
                 ""
               ]
             },
