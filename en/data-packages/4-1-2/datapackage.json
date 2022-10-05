@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Middle school",
                 "Elementary school",
+                "Middle school",
                 "High school",
                 ""
               ]
@@ -29,7 +29,7 @@
             "title": "Category"
           },
           {
-            "name": "data.Location",
+            "name": "data.category.1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "data.Location"
+            "title": "data.category.1"
           },
           {
             "name": "Value",

@@ -21,18 +21,6 @@
             "title": "Year"
           },
           {
-            "name": "data.Location",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "농촌",
-                "도시"
-              ]
-            },
-            "title": "data.Location"
-          },
-          {
             "name": "data.category",
             "type": "string",
             "constraints": {
@@ -44,6 +32,18 @@
               ]
             },
             "title": "구분"
+          },
+          {
+            "name": "data.category.1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농촌",
+                "도시"
+              ]
+            },
+            "title": "data.category.1"
           }
         ]
       }

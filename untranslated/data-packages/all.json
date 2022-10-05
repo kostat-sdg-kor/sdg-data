@@ -6911,15 +6911,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Middle_school",
                 "Elementary_school",
+                "Middle_school",
                 "High_school",
                 ""
               ]
             }
           },
           {
-            "name": "data.Location",
+            "name": "data.category.1",
             "type": "string",
             "constraints": {
               "enum": [
