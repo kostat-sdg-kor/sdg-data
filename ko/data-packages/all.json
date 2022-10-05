@@ -3249,42 +3249,16 @@
       "schema": {
         "fields": [
           {
-            "name": "Income group",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Bottom 40%"
+                "하위40%",
+                "total_population"
               ]
             },
-            "title": "Income group"
-          },
-          {
-            "name": "Income/expenditure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Expenditure",
-                "Income"
-              ]
-            },
-            "title": "Income/expenditure"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
+            "title": "Unit"
           },
           {
             "name": "Value",
@@ -3293,7 +3267,7 @@
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

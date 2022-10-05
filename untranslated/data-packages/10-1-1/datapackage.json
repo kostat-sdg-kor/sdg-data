@@ -12,40 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "Income/expenditure",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income",
-                "Expenditure",
+                "total_population",
+                "B40",
                 ""
               ]
             }
-          },
-          {
-            "name": "Income group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bottom 40%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
           },
           {
             "name": "Value",
