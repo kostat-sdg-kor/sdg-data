@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Assessment",
-                "Curricula",
-                "National_education_policies",
-                "Teacher_education"
+                "학생평가",
+                "교육과정",
+                "국가교육정책",
+                "교사교육"
               ]
             },
             "title": "Units"
