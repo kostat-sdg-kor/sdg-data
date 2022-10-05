@@ -4339,20 +4339,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B"
+                "학생평가",
+                "교육과정",
+                "국가교육정책",
+                "교사교육"
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
