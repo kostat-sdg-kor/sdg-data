@@ -16,18 +16,18 @@
             "title": "Year"
           },
           {
-            "name": "category",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Curricula",
-                "national education policies",
-                "assessment",
-                "education",
+                "National_education_policies",
+                "Assessment",
+                "Teacher education",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Units"
           },
           {
             "name": "Value",

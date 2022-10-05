@@ -15,14 +15,14 @@
             "type": "integer"
           },
           {
-            "name": "category",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "curricula",
-                "national education policies",
-                "assessment",
-                "education",
+                "Curricula",
+                "National_education_policies",
+                "Assessment",
+                "Teacher_education",
                 ""
               ]
             }

@@ -3321,6 +3321,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "학생평가",
+                "교육과정",
+                "국가교육정책",
+                "교사교육"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3329,20 +3343,6 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "assessment",
-                "curricula",
-                "education",
-                "national education policies"
-              ]
-            },
-            "title": "구분"
           }
         ]
       },
