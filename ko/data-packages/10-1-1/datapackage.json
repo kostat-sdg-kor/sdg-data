@@ -17,7 +17,7 @@
               "enum": [
                 "",
                 "하위40%",
-                "total_population"
+                "총인구"
               ]
             },
             "title": "Unit"

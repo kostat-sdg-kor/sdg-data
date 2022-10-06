@@ -3258,7 +3258,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_population",
+                "Total population",
                 "Bottom 40% of the population",
                 ""
               ]

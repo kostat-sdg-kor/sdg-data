@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "total_population",
+                "Total_population",
                 "B40",
                 ""
               ]
