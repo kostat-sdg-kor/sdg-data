@@ -1,2 +1,2 @@
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/kostat-sdg-kor/sdg-build@1.4.0-kor
+git+https://github.com/kostat-sdg-kor/sdg-build@1.4.0-dev
