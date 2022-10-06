@@ -1,4 +1,4 @@
-Year,data.Access_point,data.Transportation,data.Time(min),Value
+﻿Year,data.Access_point,data.Transportation,data.Time(min),Value
 2016,data.2.Train_station,data.Car,15,28.04
 2016,data.2.Train_station,data.Car,30,91.06
 2016,data.2.Train_station,data.Car,45,100.0
