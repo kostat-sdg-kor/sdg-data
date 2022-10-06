@@ -1455,13 +1455,25 @@
       "schema": {
         "fields": [
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Exported",
+                "수입액"
+              ]
+            },
+            "title": "구분"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]
