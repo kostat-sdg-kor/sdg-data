@@ -47,30 +47,32 @@ Year,Unit,Value
 2012,Cash surplus/deficit as a proportion of GDP (%),0.39835
 2013,Cash surplus/deficit as a proportion of GDP (%),0.40768
 2014,Cash surplus/deficit as a proportion of GDP (%),0.15702
+2015,Cash surplus/deficit as a proportion of GDP (%),-0.08041
 2016,Cash surplus/deficit as a proportion of GDP (%),1.02788
 2017,Cash surplus/deficit as a proportion of GDP (%),1.0132
 2018,Cash surplus/deficit as a proportion of GDP (%),1.50147
-2000,Foreign direct investment, net inflows, as a proportion of GDP (%),1.99754
-2001,Foreign direct investment, net inflows, as a proportion of GDP (%),1.19094
-2002,Foreign direct investment, net inflows, as a proportion of GDP (%),0.87288
-2003,Foreign direct investment, net inflows, as a proportion of GDP (%),0.99756
-2004,Foreign direct investment, net inflows, as a proportion of GDP (%),1.6761
-2005,Foreign direct investment, net inflows, as a proportion of GDP (%),1.45932
-2006,Foreign direct investment, net inflows, as a proportion of GDP (%),0.8699
-2007,Foreign direct investment, net inflows, as a proportion of GDP (%),0.75275
-2008,Foreign direct investment, net inflows, as a proportion of GDP (%),1.06818
-2009,Foreign direct investment, net inflows, as a proportion of GDP (%),0.95577
-2010,Foreign direct investment, net inflows, as a proportion of GDP (%),0.83014
-2011,Foreign direct investment, net inflows, as a proportion of GDP (%),0.77983
-2012,Foreign direct investment, net inflows, as a proportion of GDP (%),0.74278
-2013,Foreign direct investment, net inflows, as a proportion of GDP (%),0.93133
-2014,Foreign direct investment, net inflows, as a proportion of GDP (%),0.62477
-2015,Foreign direct investment, net inflows, as a proportion of GDP (%),0.28
-2016,Foreign direct investment, net inflows, as a proportion of GDP (%),0.80689
-2017,Foreign direct investment, net inflows, as a proportion of GDP (%),1.10308
-2018,Foreign direct investment, net inflows, as a proportion of GDP (%),0.7063
-2019,Foreign direct investment, net inflows, as a proportion of GDP (%),0.58339
-2020,Foreign direct investment, net inflows, as a proportion of GDP (%),0.56314
+2019,Cash surplus/deficit as a proportion of GDP (%),-0.90242
+2000,Foreign direct investment net inflows as a proportion of GDP (%),1.99754
+2001,Foreign direct investment net inflows as a proportion of GDP (%),1.19094
+2002,Foreign direct investment net inflows as a proportion of GDP (%),0.87288
+2003,Foreign direct investment net inflows as a proportion of GDP (%),0.99756
+2004,Foreign direct investment net inflows as a proportion of GDP (%),1.6761
+2005,Foreign direct investment net inflows as a proportion of GDP (%),1.45932
+2006,Foreign direct investment net inflows as a proportion of GDP (%),0.8699
+2007,Foreign direct investment net inflows as a proportion of GDP (%),0.75275
+2008,Foreign direct investment net inflows as a proportion of GDP (%),1.06818
+2009,Foreign direct investment net inflows as a proportion of GDP (%),0.95577
+2010,Foreign direct investment net inflows as a proportion of GDP (%),0.83014
+2011,Foreign direct investment net inflows as a proportion of GDP (%),0.77983
+2012,Foreign direct investment net inflows as a proportion of GDP (%),0.74278
+2013,Foreign direct investment net inflows as a proportion of GDP (%),0.93133
+2014,Foreign direct investment net inflows as a proportion of GDP (%),0.62477
+2015,Foreign direct investment net inflows as a proportion of GDP (%),0.28
+2016,Foreign direct investment net inflows as a proportion of GDP (%),0.80689
+2017,Foreign direct investment net inflows as a proportion of GDP (%),1.10308
+2018,Foreign direct investment net inflows as a proportion of GDP (%),0.7063
+2019,Foreign direct investment net inflows as a proportion of GDP (%),0.58339
+2020,Foreign direct investment net inflows as a proportion of GDP (%),0.56314
 2000,Annual GDP growth (%),9.06083
 2001,Annual GDP growth (%),4.8524
 2002,Annual GDP growth (%),7.72514
@@ -113,3 +115,4 @@ Year,Unit,Value
 2018,Merchandise trade as a proportion of GDP (%),66.09647
 2019,Merchandise trade as a proportion of GDP (%),63.31364
 2020,Merchandise trade as a proportion of GDP (%),59.84086
+
