@@ -39,6 +39,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-b-1,data.Reasons,1
 #17-10-1,"data.category, data.Type_of_product",2
 #17-12-1,"Time serieses, data.Type_of_product",2
+#17-13-1,Unit,1
 #17-15-1,data.category,1
 #17-18-3,data.category,1
 #17-19-2,data.category,1
