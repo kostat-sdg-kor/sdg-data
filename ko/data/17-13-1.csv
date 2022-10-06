@@ -1,2 +1,117 @@
-Year,Value
-This indicator has embedded content but no data,
+Year,Unit,Value
+2008,은행 자산 대비 자본 비율,6.29546
+2009,은행 자산 대비 자본 비율,7.29426
+2010,은행 자산 대비 자본 비율,7.59542
+2011,은행 자산 대비 자본 비율,8.11365
+2012,은행 자산 대비 자본 비율,8.23126
+2013,은행 자산 대비 자본 비율,8.27255
+2014,은행 자산 대비 자본 비율,8.13114
+2015,은행 자산 대비 자본 비율,8.02821
+2016,은행 자산 대비 자본 비율,7.8732
+2017,은행 자산 대비 자본 비율,7.99313
+2018,은행 자산 대비 자본 비율,7.95558
+2019,은행 자산 대비 자본 비율,7.81914
+2000,자금 성장률,25.42577
+2001,자금 성장률,85.20308
+2002,자금 성장률,13.99989
+2003,자금 성장률,2.98069
+2004,자금 성장률,6.30832
+2005,자금 성장률,6.98906
+2006,자금 성장률,12.51296
+2007,자금 성장률,10.81996
+2008,자금 성장률,11.9562
+2009,자금 성장률,9.88595
+2010,자금 성장률,5.97888
+2011,자금 성장률,5.47586
+2012,자금 성장률,4.80647
+2013,자금 성장률,4.63889
+2014,자금 성장률,8.14449
+2015,자금 성장률,8.19075
+2016,자금 성장률,7.12316
+2017,자금 성장률,5.10474
+2018,자금 성장률,6.71877
+2019,자금 성장률,7.89699
+2020,자금 성장률,9.82376
+2000,GDP대비 현금 흑자/적자 비율,4.0496
+2001,GDP대비 현금 흑자/적자 비율,2.50787
+2002,GDP대비 현금 흑자/적자 비율,3.346
+2003,GDP대비 현금 흑자/적자 비율,1.56393
+2004,GDP대비 현금 흑자/적자 비율,0.08954
+2005,GDP대비 현금 흑자/적자 비율,0.82307
+2006,GDP대비 현금 흑자/적자 비율,1.03256
+2007,GDP대비 현금 흑자/적자 비율,2.07497
+2008,GDP대비 현금 흑자/적자 비율,1.45718
+2009,GDP대비 현금 흑자/적자 비율,0.01688
+2010,GDP대비 현금 흑자/적자 비율,1.46679
+2011,GDP대비 현금 흑자/적자 비율,1.62233
+2012,GDP대비 현금 흑자/적자 비율,0.39835
+2013,GDP대비 현금 흑자/적자 비율,0.40768
+2014,GDP대비 현금 흑자/적자 비율,0.15702
+2015,GDP대비 현금 흑자/적자 비율,-0.08041
+2016,GDP대비 현금 흑자/적자 비율,1.02788
+2017,GDP대비 현금 흑자/적자 비율,1.0132
+2018,GDP대비 현금 흑자/적자 비율,1.50147
+2019,GDP대비 현금 흑자/적자 비율,-0.90242
+2000,Foreign direct investment net inflows as a proportion of GDP (%),1.99754
+2001,Foreign direct investment net inflows as a proportion of GDP (%),1.19094
+2002,Foreign direct investment net inflows as a proportion of GDP (%),0.87288
+2003,Foreign direct investment net inflows as a proportion of GDP (%),0.99756
+2004,Foreign direct investment net inflows as a proportion of GDP (%),1.6761
+2005,Foreign direct investment net inflows as a proportion of GDP (%),1.45932
+2006,Foreign direct investment net inflows as a proportion of GDP (%),0.8699
+2007,Foreign direct investment net inflows as a proportion of GDP (%),0.75275
+2008,Foreign direct investment net inflows as a proportion of GDP (%),1.06818
+2009,Foreign direct investment net inflows as a proportion of GDP (%),0.95577
+2010,Foreign direct investment net inflows as a proportion of GDP (%),0.83014
+2011,Foreign direct investment net inflows as a proportion of GDP (%),0.77983
+2012,Foreign direct investment net inflows as a proportion of GDP (%),0.74278
+2013,Foreign direct investment net inflows as a proportion of GDP (%),0.93133
+2014,Foreign direct investment net inflows as a proportion of GDP (%),0.62477
+2015,Foreign direct investment net inflows as a proportion of GDP (%),0.28
+2016,Foreign direct investment net inflows as a proportion of GDP (%),0.80689
+2017,Foreign direct investment net inflows as a proportion of GDP (%),1.10308
+2018,Foreign direct investment net inflows as a proportion of GDP (%),0.7063
+2019,Foreign direct investment net inflows as a proportion of GDP (%),0.58339
+2020,Foreign direct investment net inflows as a proportion of GDP (%),0.56314
+2000,연간 GDP 성장률,9.06083
+2001,연간 GDP 성장률,4.8524
+2002,연간 GDP 성장률,7.72514
+2003,연간 GDP 성장률,3.14729
+2004,연간 GDP 성장률,5.19739
+2005,연간 GDP 성장률,4.30854
+2006,연간 GDP 성장률,5.26433
+2007,연간 GDP 성장률,5.79955
+2008,연간 GDP 성장률,3.01298
+2009,연간 GDP 성장률,0.7927
+2010,연간 GDP 성장률,6.80482
+2011,연간 GDP 성장률,3.68567
+2012,연간 GDP 성장률,2.40253
+2013,연간 GDP 성장률,3.16471
+2014,연간 GDP 성장률,3.20245
+2015,연간 GDP 성장률,2.8091
+2016,연간 GDP 성장률,2.94688
+2017,연간 GDP 성장률,3.15964
+2018,연간 GDP 성장률,2.9074
+2019,연간 GDP 성장률,2.24398
+2020,연간 GDP 성장률,-0.85203
+2000,GDP대비 상품 무역 비율,57.75107
+2001,GDP대비 상품 무역 비율,53.23338
+2002,GDP대비 상품 무역 비율,50.15528
+2003,GDP대비 상품 무역 비율,53.029
+2004,GDP대비 상품 무역 비율,60.30296
+2005,GDP대비 상품 무역 비율,58.36521
+2006,GDP대비 상품 무역 비율,60.27704
+2007,GDP대비 상품 무역 비율,62.11208
+2008,GDP대비 상품 무역 비율,81.85334
+2009,GDP대비 상품 무역 비율,72.73954
+2010,GDP대비 상품 무역 비율,77.93215
+2011,GDP대비 상품 무역 비율,86.14803
+2012,GDP대비 상품 무역 비율,83.49749
+2013,GDP대비 상품 무역 비율,78.43739
+2014,GDP대비 상품 무역 비율,74.01748
+2015,GDP대비 상품 무역 비율,65.71658
+2016,GDP대비 상품 무역 비율,60.10346
+2017,GDP대비 상품 무역 비율,64.79285
+2018,GDP대비 상품 무역 비율,66.09647
+2019,GDP대비 상품 무역 비율,63.31364
+2020,GDP대비 상품 무역 비율,59.84086

@@ -12,8 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bank capital to assets ratio",
+                "Annual broad money growth",
+                "Cash surplus/deficit as a proportion of GDP",
+                "Foreign direct investment net inflows as a proportion of GDP (%)",
+                "Annual GDP growth",
+                "Merchandise trade as a proportion of GDP",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
