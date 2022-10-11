@@ -26,6 +26,7 @@
             "constraints": {
               "enum": [
                 "",
+                "data.Clinic",
                 "종합병원",
                 "자택",
                 "병의원",
