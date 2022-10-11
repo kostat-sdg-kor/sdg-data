@@ -137,7 +137,6 @@
               "enum": [
                 "data.General_hospital",
                 "data.Hospital",
-                "data.Clinic",
                 "data.Midwifery_units",
                 "data.Medical_center",
                 "data.Home",

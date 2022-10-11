@@ -21,8 +21,7 @@
             "constraints": {
               "enum": [
                 "General hospital",
-                "Hospital",
-                "Clinic",
+                "Hospital/Clinic",
                 "Midwifery units",
                 "Medical center",
                 "Home",
