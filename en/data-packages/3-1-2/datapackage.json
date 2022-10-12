@@ -22,7 +22,6 @@
               "enum": [
                 "General hospital",
                 "Hospital/Clinic",
-                "data.Clinic",
                 "Midwifery units",
                 "Medical center",
                 "Home",

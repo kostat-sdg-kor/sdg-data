@@ -251,3 +251,15 @@
 2020,data.Chronic_respiratory_diseases,,13.4423752471016
 2020,data.Chronic_respiratory_diseases,Male,16.5016011568292
 2020,data.Chronic_respiratory_diseases,Female,10.3993680672527
+2021,data.Cancer,,161.1
+2021,data.Cancer,Male,199.0
+2021,data.Cancer,Female,123.4
+2021,data.Diabetes,,17.5
+2021,data.Diabetes,Male,18.3
+2021,data.Diabetes,Female,16.6
+2021,data.Cardiovascular_diseases,,0.3
+2021,data.Cardiovascular_diseases,Male,0.2
+2021,data.Cardiovascular_diseases,Female,0.5
+2021,data.Chronic_respiratory_diseases,,16.8
+2021,data.Chronic_respiratory_diseases,Male,19.9
+2021,data.Chronic_respiratory_diseases,Female,13.6
