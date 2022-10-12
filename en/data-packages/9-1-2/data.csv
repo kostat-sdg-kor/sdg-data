@@ -23,6 +23,7 @@
 2016,Domestic passenger,Sky roads,28090714
 2017,Domestic passenger,Sky roads,28192366
 2018,Domestic passenger,Sky roads,28409618
+2019,Domestic passenger,Sky roads,29649339
 2011,Domestic passenger,Shipping,14266
 2012,Domestic passenger,Shipping,14538
 2013,Domestic passenger,Shipping,16063
@@ -31,6 +32,7 @@
 2016,Domestic passenger,Shipping,15423
 2017,Domestic passenger,Shipping,16910
 2018,Domestic passenger,Shipping,14625
+2019,Domestic passenger,Shipping,14585
 2011,Domestic passenger,Air transport,20981
 2012,Domestic passenger,Air transport,21602
 2013,Domestic passenger,Air transport,22353
@@ -39,6 +41,7 @@
 2016,Domestic passenger,Air transport,30913
 2017,Domestic passenger,Air transport,32406
 2018,Domestic passenger,Air transport,31601
+2019,Domestic passenger,Air transport,32981
 2011,International passenger,Shipping,2660
 2012,International passenger,Shipping,2881
 2013,International passenger,Shipping,2737
@@ -46,6 +49,8 @@
 2015,International passenger,Shipping,2617
 2016,International passenger,Shipping,2777
 2017,International passenger,Shipping,2728
+2018,International passenger,Shipping,2980
+2019,International passenger,Shipping,2969
 2011,International passenger,Air transport,42649
 2012,International passenger,Air transport,47703
 2013,International passenger,Air transport,50987
@@ -54,6 +59,7 @@
 2016,International passenger,Air transport,73001
 2017,International passenger,Air transport,76956
 2018,International passenger,Air transport,85925
+2019,International passenger,Air transport,90386
 2011,Domestic freight,Rail,40012
 2012,Domestic freight,Rail,40309
 2013,Domestic freight,Rail,39822
@@ -61,7 +67,8 @@
 2015,Domestic freight,Rail,37094
 2016,Domestic freight,Rail,32555
 2017,Domestic freight,Rail,31670
-2018,Domestic freight,Rail,31670
+2018,Domestic freight,Rail,30915
+2019,Domestic freight,Rail,28664
 2011,Domestic freight,Sky roads,1439625
 2012,Domestic freight,Sky roads,1554510
 2013,Domestic freight,Sky roads,1546407
@@ -70,6 +77,7 @@
 2016,Domestic freight,Sky roads,1799565
 2017,Domestic freight,Sky roads,1854011
 2018,Domestic freight,Sky roads,1895686
+2019,Domestic freight,Sky roads,1847841
 2011,Domestic freight,Shipping,125588
 2012,Domestic freight,Shipping,119057
 2013,Domestic freight,Shipping,117860
@@ -78,6 +86,7 @@
 2016,Domestic freight,Shipping,143227
 2017,Domestic freight,Shipping,142587
 2018,Domestic freight,Shipping,120327
+2019,Domestic freight,Shipping,107408
 2011,Domestic freight,Air transport,281
 2012,Domestic freight,Air transport,265
 2013,Domestic freight,Air transport,253
@@ -86,6 +95,7 @@
 2016,Domestic freight,Air transport,293
 2017,Domestic freight,Air transport,290
 2018,Domestic freight,Air transport,273
+2019,Domestic freight,Air transport,259
 2011,International freight,Shipping,1069566
 2012,International freight,Shipping,1108538
 2013,International freight,Shipping,1123205
@@ -94,6 +104,7 @@
 2016,International freight,Shipping,1242597
 2017,International freight,Shipping,1312489
 2018,International freight,Shipping,1405925
+2019,International freight,Shipping,1429150
 2011,International freight,Air transport,3238
 2012,International freight,Air transport,3209
 2013,International freight,Air transport,3246
@@ -102,3 +113,4 @@
 2016,International freight,Air transport,3781
 2017,International freight,Air transport,4032
 2018,International freight,Air transport,4169
+2019,International freight,Air transport,4016
