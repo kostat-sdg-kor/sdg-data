@@ -23,6 +23,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.Domestic_Passenger,data.Sky_roads,28090714
 2017,data.Domestic_Passenger,data.Sky_roads,28192366
 2018,data.Domestic_Passenger,data.Sky_roads,28409618
+2019,data.Domestic_Passenger,data.Sky_roads,29649339
 2011,data.Domestic_Passenger,data.Shipping,14266
 2012,data.Domestic_Passenger,data.Shipping,14538
 2013,data.Domestic_Passenger,data.Shipping,16063
@@ -31,6 +32,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.Domestic_Passenger,data.Shipping,15423
 2017,data.Domestic_Passenger,data.Shipping,16910
 2018,data.Domestic_Passenger,data.Shipping,14625
+2019,data.Domestic_Passenger,data.Shipping,14585
 2011,data.Domestic_Passenger,data.Air_transport,20981
 2012,data.Domestic_Passenger,data.Air_transport,21602
 2013,data.Domestic_Passenger,data.Air_transport,22353
@@ -39,6 +41,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.Domestic_Passenger,data.Air_transport,30913
 2017,data.Domestic_Passenger,data.Air_transport,32406
 2018,data.Domestic_Passenger,data.Air_transport,31601
+2019,data.Domestic_Passenger,data.Air_transport,32981
 2011,data.International_Passenger,data.Shipping,2660
 2012,data.International_Passenger,data.Shipping,2881
 2013,data.International_Passenger,data.Shipping,2737
@@ -46,6 +49,8 @@ Year,Units,data.Mode_of_transportation,Value
 2015,data.International_Passenger,data.Shipping,2617
 2016,data.International_Passenger,data.Shipping,2777
 2017,data.International_Passenger,data.Shipping,2728
+2018,data.International_Passenger,data.Shipping,2980
+2019,data.International_Passenger,data.Shipping,2969
 2011,data.International_Passenger,data.Air_transport,42649
 2012,data.International_Passenger,data.Air_transport,47703
 2013,data.International_Passenger,data.Air_transport,50987
@@ -54,6 +59,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.International_Passenger,data.Air_transport,73001
 2017,data.International_Passenger,data.Air_transport,76956
 2018,data.International_Passenger,data.Air_transport,85925
+2019,data.International_Passenger,data.Air_transport,90386
 2011,data.Domestic_Freight,data.Rail,40012
 2012,data.Domestic_Freight,data.Rail,40309
 2013,data.Domestic_Freight,data.Rail,39822
@@ -61,7 +67,8 @@ Year,Units,data.Mode_of_transportation,Value
 2015,data.Domestic_Freight,data.Rail,37094
 2016,data.Domestic_Freight,data.Rail,32555
 2017,data.Domestic_Freight,data.Rail,31670
-2018,data.Domestic_Freight,data.Rail,31670
+2018,data.Domestic_Freight,data.Rail,30915
+2019,data.Domestic_Freight,data.Rail,28664
 2011,data.Domestic_Freight,data.Sky_roads,1439625
 2012,data.Domestic_Freight,data.Sky_roads,1554510
 2013,data.Domestic_Freight,data.Sky_roads,1546407
@@ -70,6 +77,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.Domestic_Freight,data.Sky_roads,1799565
 2017,data.Domestic_Freight,data.Sky_roads,1854011
 2018,data.Domestic_Freight,data.Sky_roads,1895686
+2019,data.Domestic_Freight,data.Sky_roads,1847841
 2011,data.Domestic_Freight,data.Shipping,125588
 2012,data.Domestic_Freight,data.Shipping,119057
 2013,data.Domestic_Freight,data.Shipping,117860
@@ -78,6 +86,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.Domestic_Freight,data.Shipping,143227
 2017,data.Domestic_Freight,data.Shipping,142587
 2018,data.Domestic_Freight,data.Shipping,120327
+2019,data.Domestic_Freight,data.Shipping,107408
 2011,data.Domestic_Freight,data.Air_transport,281
 2012,data.Domestic_Freight,data.Air_transport,265
 2013,data.Domestic_Freight,data.Air_transport,253
@@ -86,6 +95,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.Domestic_Freight,data.Air_transport,293
 2017,data.Domestic_Freight,data.Air_transport,290
 2018,data.Domestic_Freight,data.Air_transport,273
+2019,data.Domestic_Freight,data.Air_transport,259
 2011,data.International_Freight,data.Shipping,1069566
 2012,data.International_Freight,data.Shipping,1108538
 2013,data.International_Freight,data.Shipping,1123205
@@ -94,6 +104,7 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.International_Freight,data.Shipping,1242597
 2017,data.International_Freight,data.Shipping,1312489
 2018,data.International_Freight,data.Shipping,1405925
+2019,data.International_Freight,data.Shipping,1429150
 2011,data.International_Freight,data.Air_transport,3238
 2012,data.International_Freight,data.Air_transport,3209
 2013,data.International_Freight,data.Air_transport,3246
@@ -102,3 +113,4 @@ Year,Units,data.Mode_of_transportation,Value
 2016,data.International_Freight,data.Air_transport,3781
 2017,data.International_Freight,data.Air_transport,4032
 2018,data.International_Freight,data.Air_transport,4169
+2019,data.International_Freight,data.Air_transport,4016
