@@ -18,6 +18,8 @@
 2016,Industries,107.67
 2017,Industries,113.99
 2018,Industries,115.55
+2019,Industries,113.6
+2019,Agriculture(ISIC4 A01 A0210 A0322),1.49
 2018,Agriculture(ISIC4 A01 A0210 A0322),1.62
 2016,Agriculture(ISIC4 A01 A0210 A0322),1.53
 2017,Agriculture(ISIC4 A01 A0210 A0322),1.59
@@ -56,6 +58,8 @@
 2015,Services(ISIC4 G to T),129.97
 2017,Services(ISIC4 G to T),133.05
 2018,Services(ISIC4 G to T),137.47
+2019,Services(ISIC4 G to T),144.52
+2019,Total(no breakdown),55.15
 2018,Total(no breakdown),53.81
 2016,Total(no breakdown),50.86
 2017,Total(no breakdown),52.45
