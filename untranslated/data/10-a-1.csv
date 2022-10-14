@@ -6,6 +6,7 @@
 2017,data.Total_or_no_breakdown,49.92384
 2018,data.Total_or_no_breakdown,51.03072
 2019,data.Total_or_no_breakdown,53.17982
+2020,data.Total_or_no_breakdown,55.862
 2005,data.Textiles,17.08353
 2010,data.Textiles,25.0712
 2015,data.Textiles,35.9120799999999
@@ -13,6 +14,7 @@
 2017,data.Textiles,46.1589
 2018,data.Textiles,48.35255
 2019,data.Textiles,53.9395
+2020,data.Textiles,56.7027
 2005,data.Oil,25.0
 2010,data.Oil,75.0
 2015,data.Oil,75.0
@@ -20,6 +22,7 @@
 2017,data.Oil,85.71429
 2018,data.Oil,85.71429
 2019,data.Oil,80.0
+20209,data.Oil,88.8889
 2005,data.Industrial_products,30.9853299999999
 2010,data.Industrial_products,35.40417
 2015,data.Industrial_products,44.93076
@@ -27,6 +30,7 @@
 2017,data.Industrial_products,50.43849
 2018,data.Industrial_products,51.36265
 2019,data.Industrial_products,53.27289
+2020,data.Industrial_products,55.9534
 2005,data.Clothing,10.97898
 2010,data.Clothing,17.72596
 2015,data.Clothing,34.99225
@@ -34,12 +38,14 @@
 2017,data.Clothing,43.8917299999999
 2018,data.Clothing,47.2515099999999
 2019,data.Clothing,47.82439
+2020,data.Clothing,53.3914
 2010,data.Arms,47.76119
 2015,data.Arms,53.93258
 2016,data.Arms,56.83453
 2017,data.Arms,66.4335699999999
 2018,data.Arms,66.4335699999999
 2019,data.Arms,67.78523
+2020,data.Arms,70.6767
 2005,data.Agricultural_products,30.98314
 2010,data.Agricultural_products,32.38063
 2015,data.Agricultural_products,42.64644
@@ -47,3 +53,4 @@
 2017,data.Agricultural_products,50.9475599999999
 2018,data.Agricultural_products,51.92232
 2019,data.Agricultural_products,53.87424
+2020,data.Agricultural_products,54.5985
