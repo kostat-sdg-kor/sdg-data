@@ -11,54 +11,59 @@
 2017,G4 Non-performing loans to total gross loans,0.35236
 2018,G4 Non-performing loans to total gross loans,0.25443
 2019,G4 Non-performing loans to total gross loans,0.25114
-2008,G5 Return on assets,0.67379
-2009,G5 Return on assets,0.5808
-2010,G5 Return on assets,0.71
-2011,G5 Return on assets,1.04952999999999
-2012,G5 Return on assets,0.66081
-2013,G5 Return on assets,0.32602
-2014,G5 Return on assets,0.48704
-2015,G5 Return on assets,0.531339999999999
-2016,G5 Return on assets,1.94599
-2017,G5 Return on assets,0.67347
-2018,G5 Return on assets,0.77715
-2019,G5 Return on assets,0.70671
-2008,G1 Regulatory capital to assets,6.29546
-2009,G1 Regulatory capital to assets,7.29426
-2010,G1 Regulatory capital to assets,7.59542
-2011,G1 Regulatory capital to assets,8.11365
-2012,G1 Regulatory capital to assets,8.23126
-2013,G1 Regulatory capital to assets,8.27255
-2014,G1 Regulatory capital to assets,8.13114
-2015,G1 Regulatory capital to assets,8.02821
-2016,G1 Regulatory capital to assets,7.8732
-2017,G1 Regulatory capital to assets,7.9931
-2018,G1 Regulatory capital to assets,7.95558
-2019,G1 Regulatory capital to assets,7.81913
-2008,G3 Non-performing loans net of provisions to capital,3.16607
-2009,G3 Non-performing loans net of provisions to capital,3.08055
-2010,G3 Non-performing loans net of provisions to capital,3.39135
-2011,G3 Non-performing loans net of provisions to capital,2.64457
-2012,G3 Non-performing loans net of provisions to capital,3.07008
-2013,G3 Non-performing loans net of provisions to capital,3.56081999999999
-2014,G3 Non-performing loans net of provisions to capital,2.76232
-2015,G3 Non-performing loans net of provisions to capital,2.12846
-2016,G3 Non-performing loans net of provisions to capital,2.13353
-2017,G3 Non-performing loans net of provisions to capital,1.66029
-2018,G3 Non-performing loans net of provisions to capital,1.28498
-2019,G3 Non-performing loans net of provisions to capital,1.20418
-2008,G2 Regulatory Tier 1 capital to risk-weighted assets,8.83722
-2009,G2 Regulatory Tier 1 capital to risk-weighted assets,10.91975
-2010,G2 Regulatory Tier 1 capital to risk-weighted assets,11.30795
-2011,G2 Regulatory Tier 1 capital to risk-weighted assets,10.69846
-2012,G2 Regulatory Tier 1 capital to risk-weighted assets,11.1251699999999
-2013,G2 Regulatory Tier 1 capital to risk-weighted assets,11.4252899999999
-2014,G2 Regulatory Tier 1 capital to risk-weighted assets,11.3778899999999
-2015,G2 Regulatory Tier 1 capital to risk-weighted assets,11.69408
+2020,G4 Non-performing loans to total gross loans,0.2491
+2008,G5 Return on assets,0.6738
+2009,G5 Return on assets,0.5452
+2010,G5 Return on assets,0.7376
+2011,G5 Return on assets,1.0388
+2012,G5 Return on assets,0.6551
+2013,G5 Return on assets,0.3232
+2014,G5 Return on assets,0.4831
+2015,G5 Return on assets,0.5303
+2016,G5 Return on assets,0.3609
+2017,G5 Return on assets,0.6696
+2018,G5 Return on assets,0.7728
+2019,G5 Return on assets,0.7179
+2020,G5 Return on assets,0.70671
+2008,G1 Regulatory capital to assets,6.3523
+2009,G1 Regulatory capital to assets,7.2379
+2010,G1 Regulatory capital to assets,7.41
+2011,G1 Regulatory capital to assets,7.042
+2012,G1 Regulatory capital to assets,7.1448
+2013,G1 Regulatory capital to assets,7.392
+2014,G1 Regulatory capital to assets,7.3943
+2015,G1 Regulatory capital to assets,7.2538
+2016,G1 Regulatory capital to assets,7.7863
+2017,G1 Regulatory capital to assets,7.9296
+2018,G1 Regulatory capital to assets,7.8817
+2019,G1 Regulatory capital to assets,7.7341
+2020,G1 Regulatory capital to assets,7.5105
+2008,G3 Non-performing loans net of provisions to capital,2.4248
+2009,G3 Non-performing loans net of provisions to capital,2.4609
+2010,G3 Non-performing loans net of provisions to capital,2.8975
+2011,G3 Non-performing loans net of provisions to capital,2.5065
+2012,G3 Non-performing loans net of provisions to capital,2.8439
+2013,G3 Non-performing loans net of provisions to capital,3.2335
+2014,G3 Non-performing loans net of provisions to capital,2.5253
+2015,G3 Non-performing loans net of provisions to capital,1.9654
+2016,G3 Non-performing loans net of provisions to capital,1.898
+2017,G3 Non-performing loans net of provisions to capital,1.5099
+2018,G3 Non-performing loans net of provisions to capital,1.1706
+2019,G3 Non-performing loans net of provisions to capital,1.1097
+2020,G3 Non-performing loans net of provisions to capital,1.1305
+2008,G2 Regulatory Tier 1 capital to risk-weighted assets,9.6051
+2009,G2 Regulatory Tier 1 capital to risk-weighted assets,11.5122
+2010,G2 Regulatory Tier 1 capital to risk-weighted assets,12.096
+2011,G2 Regulatory Tier 1 capital to risk-weighted assets,11.6016
+2012,G2 Regulatory Tier 1 capital to risk-weighted assets,11.5967
+2013,G2 Regulatory Tier 1 capital to risk-weighted assets,11.853
+2014,G2 Regulatory Tier 1 capital to risk-weighted assets,11.7234
+2015,G2 Regulatory Tier 1 capital to risk-weighted assets,11.6941
 2016,G2 Regulatory Tier 1 capital to risk-weighted assets,13.1146
-2017,G2 Regulatory Tier 1 capital to risk-weighted assets,13.1219
-2018,G2 Regulatory Tier 1 capital to risk-weighted assets,13.25497
-2019,G2 Regulatory Tier 1 capital to risk-weighted assets,13.21514
+2017,G2 Regulatory Tier 1 capital to risk-weighted assets,13.8411
+2018,G2 Regulatory Tier 1 capital to risk-weighted assets,13.9889
+2019,G2 Regulatory Tier 1 capital to risk-weighted assets,13.9779
+2020,G2 Regulatory Tier 1 capital to risk-weighted assets,15.107
 2008,G6 Liquid assets to short term liabilities,101.37096
 2009,G6 Liquid assets to short term liabilities,103.93085
 2010,G6 Liquid assets to short term liabilities,117.46817
@@ -71,6 +76,7 @@
 2017,G6 Liquid assets to short term liabilities,101.2468
 2018,G6 Liquid assets to short term liabilities,114.4857
 2019,G6 Liquid assets to short term liabilities,109.96364
+2020,G6 Liquid assets to short term liabilities,102.1849
 2008,G7 Net open position in foreign exchange to capital,1.8752
 2009,G7 Net open position in foreign exchange to capital,2.911
 2010,G7 Net open position in foreign exchange to capital,0.93766
@@ -83,3 +89,4 @@
 2017,G7 Net open position in foreign exchange to capital,-0.9807
 2018,G7 Net open position in foreign exchange to capital,0.04103
 2019,G7 Net open position in foreign exchange to capital,0.10735
+2020,G7 Net open position in foreign exchange to capital,-0.0206
