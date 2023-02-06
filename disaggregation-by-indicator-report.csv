@@ -37,7 +37,7 @@
 #16-7-2,"data.category, data.Sex, data.Age",3
 #16-8-1,data.Name_of_international_institution,1
 #16-b-1,data.Reasons,1
-#17-10-1,"data.category, data.Type_of_product",2
+#17-10-1,"data.Type_of_product, data.category",2
 #17-12-1,"data.Type_of_product, Time serieses",2
 #17-13-1,Unit,1
 #17-15-1,data.category,1
@@ -45,7 +45,7 @@
 #17-19-2,data.category,1
 #17-7-1,Category,1
 #17-8-1,"data.Sex, data.Age",2
-#2-1-1,"data.Sex, data.Residential_area, data.Age, data.Income_classes",4
+#2-1-1,"data.Sex, data.Residential_area, data.Income_classes, data.Age",4
 #2-1-2,"data.Residential_area, data.Income_classes",2
 #2-2-2,data.category,1
 #2-3-1,data.Cultivation_size,1
