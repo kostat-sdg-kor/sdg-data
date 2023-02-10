@@ -1,16 +1,46 @@
 ﻿Year,이유별,Value
 2019,① 남자 또는 여자라는 이유로,13.9
-2019,② 나이가 많거나 적다는 이유로,13.6
-2019,③ 직업이나 소득 등 경제적 지위를 이유로,10.3
-2019,④ 비정규직 등 고용형태를 이유로,7.8
-2019,⑤ 학력이나 학벌을 이유로,7.7
-2019,"⑥ 키, 몸무게, 용모 등 신체조건을 이유로",6.6
-2019,⑦ 사상 또는 정치적인 입장의 차이로,4.1
-2019,"⑧ 미혼(비혼), 이혼, 사별 등 혼인상황을 이유로",3.3
-2019,⑨ 출신지역을 이유로,2.7
-2019,⑩ 임신 또는 출산을 했다는 이유로,2.6
-2019,⑪ 질병 및 병력을 가지고 있다는 이유로,2.3
-2019,⑫ 종교를 이유로,2.2
-2019,⑬ 장애를 이유로,1.7
-2019,"⑭ 인종, 피부색, 출신국가, 출신민족을 이유로",1.4
-2019,"⑮ 한부모, 미혼(비혼) 모/부 등 가족상황을 이유로",1.2
+2019,data.02_Marital_status_such_as_being_pregnant/with_or_without_children,2.6
+2019,data.03_Religion,2.2
+2019,data.04_Political_opinion,4.1
+2019,data.05_Disability,1.7
+2019,data.06_Age,13.6
+2019,data.07_Socio-Eoconomic_status,10.3
+2019,data.08_Forms_of_employment,7.8
+2019,data.09_Educational_background,7.7
+2019,data.10_Ethnicity/Colour/Language/Migration_status,1.4
+2019,data.11_Physical_condition,6.6
+2019,data.12_Marital status_such_as_being_single/married/divorced/widowed,3.3
+2019,data.13_Marital_status_such_as_being_orphan/born_from_unmarried_parents,1.2
+2019,data.14_Health_status,2.3
+2019,data.15_Geographic_location_or_Place_of_residence,2.7
+2020,① 남자 또는 여자라는 이유로,11.8
+2020,data.02_Marital_status_such_as_being_pregnant/with_or_without_children,2.1
+2020,data.03_Religion,2.5
+2020,data.04_Political_opinion,6.8
+2020,data.05_Disability,2.0
+2020,data.06_Age,12.9
+2020,data.07_Socio-Eoconomic_status,13.0
+2020,data.08_Forms_of_employment,11.0
+2020,data.09_Educational_background,8.7
+2020,data.10_Ethnicity/Colour/Language/Migration_status,1.6
+2020,data.11_Physical_condition,5.7
+2020,data.12_Marital status_such_as_being_single/married/divorced/widowed,4.0
+2020,data.13_Marital_status_such_as_being_orphan/born_from_unmarried_parents,2.2
+2020,data.14_Health_status,2.7
+2020,data.15_Geographic_location_or_Place_of_residence,3.0
+2020,① 남자 또는 여자라는 이유로,7.6
+2020,data.02_Marital_status_such_as_being_pregnant/with_or_without_children,1.6
+2020,data.03_Religion,1.4
+2020,data.04_Political_opinion,2.6
+2020,data.05_Disability,1.4
+2020,data.06_Age,7.5
+2020,data.07_Socio-Eoconomic_status,6.2
+2020,data.08_Forms_of_employment,5.4
+2020,data.09_Educational_background,4.2
+2020,data.10_Ethnicity/Colour/Language/Migration_status,1.0
+2020,data.11_Physical_condition,3.0
+2020,data.12_Marital status_such_as_being_single/married/divorced/widowed,1.8
+2020,data.13_Marital_status_such_as_being_orphan/born_from_unmarried_parents,1.2
+2020,data.14_Health_status,1.4
+2020,data.15_Geographic_location_or_Place_of_residence,1.8
