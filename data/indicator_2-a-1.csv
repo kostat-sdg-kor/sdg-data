@@ -17,7 +17,9 @@ Year,Units,Value
 2016,data.Agriculture_orientation_index_for_government_expenditures,2.174
 2017,data.Agriculture_orientation_index_for_government_expenditures,2.163
 2018,data.Agriculture_orientation_index_for_government_expenditures,2.321
-2019,data.Agriculture_orientation_index_for_government_expenditures,2.099
+2019,data.Agriculture_orientation_index_for_government_expenditures,2.04
+2020,data.Agriculture_orientation_index_for_government_expenditures,1.8
+2021,data.Agriculture_orientation_index_for_government_expenditures,2.04
 2001,data.Agriculture_share_of_Government_Expenditure(%),5.69974
 2002,data.Agriculture_share_of_Government_Expenditure(%),5.18095
 2003,data.Agriculture_share_of_Government_Expenditure(%),4.90677
@@ -37,6 +39,8 @@ Year,Units,Value
 2017,data.Agriculture_share_of_Government_Expenditure(%),4.0
 2018,data.Agriculture_share_of_Government_Expenditure(%),4.05
 2019,data.Agriculture_share_of_Government_Expenditure(%),3.41
+2020,data.Agriculture_share_of_Government_Expenditure(%),3.17
+2021,data.Agriculture_share_of_Government_Expenditure(%),3.66
 2001,data.Agriculture_value_added_share_of_GDP(%),3.56582
 2002,data.Agriculture_value_added_share_of_GDP(%),3.2068
 2003,data.Agriculture_value_added_share_of_GDP(%),2.9646
@@ -55,5 +59,6 @@ Year,Units,Value
 2016,data.Agriculture_value_added_share_of_GDP(%),1.85903
 2017,data.Agriculture_value_added_share_of_GDP(%),1.85076
 2018,data.Agriculture_value_added_share_of_GDP(%),1.7464
-2019,data.Agriculture_value_added_share_of_GDP(%),1.6224
-2020,data.Agriculture_value_added_share_of_GDP(%),1.7581
+2019,data.Agriculture_value_added_share_of_GDP(%),1.67
+2020,data.Agriculture_value_added_share_of_GDP(%),1.77
+2021,data.Agriculture_value_added_share_of_GDP(%),1.79
