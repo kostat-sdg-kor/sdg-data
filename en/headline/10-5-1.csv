@@ -12,6 +12,7 @@
 2018,0.25443,G4 Non-performing loans to total gross loans
 2019,0.25114,G4 Non-performing loans to total gross loans
 2020,0.2491,G4 Non-performing loans to total gross loans
+2021,0.2333,G4 Non-performing loans to total gross loans
 2008,0.6738,G5 Return on assets
 2009,0.5452,G5 Return on assets
 2010,0.7376,G5 Return on assets
@@ -24,7 +25,8 @@
 2017,0.6696,G5 Return on assets
 2018,0.7728,G5 Return on assets
 2019,0.7179,G5 Return on assets
-2020,0.70671,G5 Return on assets
+2020,0.6494,G5 Return on assets
+2021,0.7344,G5 Return on assets
 2008,6.3523,G1 Regulatory capital to assets
 2009,7.2379,G1 Regulatory capital to assets
 2010,7.41,G1 Regulatory capital to assets
@@ -38,6 +40,7 @@
 2018,7.8817,G1 Regulatory capital to assets
 2019,7.7341,G1 Regulatory capital to assets
 2020,7.5105,G1 Regulatory capital to assets
+2021,7.4401,G1 Regulatory capital to assets
 2008,2.4248,G3 Non-performing loans net of provisions to capital
 2009,2.4609,G3 Non-performing loans net of provisions to capital
 2010,2.8975,G3 Non-performing loans net of provisions to capital
@@ -51,6 +54,7 @@
 2018,1.1706,G3 Non-performing loans net of provisions to capital
 2019,1.1097,G3 Non-performing loans net of provisions to capital
 2020,1.1305,G3 Non-performing loans net of provisions to capital
+2021,1.2164,G3 Non-performing loans net of provisions to capital
 2008,9.6051,G2 Regulatory Tier 1 capital to risk-weighted assets
 2009,11.5122,G2 Regulatory Tier 1 capital to risk-weighted assets
 2010,12.096,G2 Regulatory Tier 1 capital to risk-weighted assets
@@ -64,6 +68,7 @@
 2018,13.9889,G2 Regulatory Tier 1 capital to risk-weighted assets
 2019,13.9779,G2 Regulatory Tier 1 capital to risk-weighted assets
 2020,15.107,G2 Regulatory Tier 1 capital to risk-weighted assets
+2021,15.3192,G2 Regulatory Tier 1 capital to risk-weighted assets
 2008,101.37096,G6 Liquid assets to short term liabilities
 2009,103.93085,G6 Liquid assets to short term liabilities
 2010,117.46817,G6 Liquid assets to short term liabilities
@@ -77,6 +82,7 @@
 2018,114.4857,G6 Liquid assets to short term liabilities
 2019,109.96364,G6 Liquid assets to short term liabilities
 2020,102.1849,G6 Liquid assets to short term liabilities
+2021,106.8612,G6 Liquid assets to short term liabilities
 2008,1.8752,G7 Net open position in foreign exchange to capital
 2009,2.911,G7 Net open position in foreign exchange to capital
 2010,0.93766,G7 Net open position in foreign exchange to capital
@@ -90,3 +96,4 @@
 2018,0.04103,G7 Net open position in foreign exchange to capital
 2019,0.10735,G7 Net open position in foreign exchange to capital
 2020,-0.0206,G7 Net open position in foreign exchange to capital
+2021,1.4987,G7 Net open position in foreign exchange to capital

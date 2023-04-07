@@ -12,6 +12,7 @@
 2018,0.25443,data.G4_Non-performing_loans_to_total_gross_loans
 2019,0.25114,data.G4_Non-performing_loans_to_total_gross_loans
 2020,0.2491,data.G4_Non-performing_loans_to_total_gross_loans
+2021,0.2333,data.G4_Non-performing_loans_to_total_gross_loans
 2008,0.6738,data.G5_Return_on_assets
 2009,0.5452,data.G5_Return_on_assets
 2010,0.7376,data.G5_Return_on_assets
@@ -24,7 +25,8 @@
 2017,0.6696,data.G5_Return_on_assets
 2018,0.7728,data.G5_Return_on_assets
 2019,0.7179,data.G5_Return_on_assets
-2020,0.70671,data.G5_Return_on_assets
+2020,0.6494,data.G5_Return_on_assets
+2021,0.7344,data.G5_Return_on_assets
 2008,6.3523,data.G1_Regulatory_capital_to_assets
 2009,7.2379,data.G1_Regulatory_capital_to_assets
 2010,7.41,data.G1_Regulatory_capital_to_assets
@@ -38,6 +40,7 @@
 2018,7.8817,data.G1_Regulatory_capital_to_assets
 2019,7.7341,data.G1_Regulatory_capital_to_assets
 2020,7.5105,data.G1_Regulatory_capital_to_assets
+2021,7.4401,data.G1_Regulatory_capital_to_assets
 2008,2.4248,data.G3_Non-performing_loans_net_of_provisions_to_capital
 2009,2.4609,data.G3_Non-performing_loans_net_of_provisions_to_capital
 2010,2.8975,data.G3_Non-performing_loans_net_of_provisions_to_capital
@@ -51,6 +54,7 @@
 2018,1.1706,data.G3_Non-performing_loans_net_of_provisions_to_capital
 2019,1.1097,data.G3_Non-performing_loans_net_of_provisions_to_capital
 2020,1.1305,data.G3_Non-performing_loans_net_of_provisions_to_capital
+2021,1.2164,data.G3_Non-performing_loans_net_of_provisions_to_capital
 2008,9.6051,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets
 2009,11.5122,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets
 2010,12.096,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets
@@ -64,6 +68,7 @@
 2018,13.9889,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets
 2019,13.9779,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets
 2020,15.107,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets
+2021,15.3192,data.G2_Regulatory_Tier_1_capital_to_risk-weighted_assets
 2008,101.37096,data.G6_Liquid_assets_to_short_term_liabilities
 2009,103.93085,data.G6_Liquid_assets_to_short_term_liabilities
 2010,117.46817,data.G6_Liquid_assets_to_short_term_liabilities
@@ -77,6 +82,7 @@
 2018,114.4857,data.G6_Liquid_assets_to_short_term_liabilities
 2019,109.96364,data.G6_Liquid_assets_to_short_term_liabilities
 2020,102.1849,data.G6_Liquid_assets_to_short_term_liabilities
+2021,106.8612,data.G6_Liquid_assets_to_short_term_liabilities
 2008,1.8752,data.G7_Net_open_position_in_foreign_exchange_to_capital
 2009,2.911,data.G7_Net_open_position_in_foreign_exchange_to_capital
 2010,0.93766,data.G7_Net_open_position_in_foreign_exchange_to_capital
@@ -90,3 +96,4 @@
 2018,0.04103,data.G7_Net_open_position_in_foreign_exchange_to_capital
 2019,0.10735,data.G7_Net_open_position_in_foreign_exchange_to_capital
 2020,-0.0206,data.G7_Net_open_position_in_foreign_exchange_to_capital
+2021,1.4987,data.G7_Net_open_position_in_foreign_exchange_to_capital
