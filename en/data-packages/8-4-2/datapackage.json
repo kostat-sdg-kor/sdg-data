@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Tonnes per capita",
-                "Kilograms per constant 2010 USD",
+                "data.Kilograms_per_constant_2015_USD",
                 "Tonnes",
                 ""
               ]

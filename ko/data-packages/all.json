@@ -6319,7 +6319,7 @@
             "constraints": {
               "enum": [
                 "",
-                "GDP당 국내물질소비량(kg/USD)",
+                "data.Kilograms_per_constant_2015_USD",
                 "국내물질소비량(톤)",
                 "1인당 국내물질소비량(톤)"
               ]
