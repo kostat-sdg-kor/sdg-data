@@ -1,109 +1,61 @@
 ﻿Year,Value,Units
-2000,15.7955,Tonnes per capita
-2001,16.26135,Tonnes per capita
-2002,16.46484,Tonnes per capita
-2003,17.28639,Tonnes per capita
-2004,16.99455,Tonnes per capita
-2005,15.4661,Tonnes per capita
-2006,15.52364,Tonnes per capita
-2007,16.23488,Tonnes per capita
-2008,16.27868,Tonnes per capita
-2009,15.9601,Tonnes per capita
-2010,15.9241,Tonnes per capita
-2011,15.86373,Tonnes per capita
-2012,15.71003,Tonnes per capita
-2013,15.64822,Tonnes per capita
-2014,15.75547,Tonnes per capita
-2015,15.81035,Tonnes per capita
-2016,15.83407,Tonnes per capita
-2017,15.86009,Tonnes per capita
-2017,15.86009,Tonnes per capita
-2000,15.7955,Tonnes per capita
-2001,16.26135,Tonnes per capita
-2002,16.46484,Tonnes per capita
-2003,17.28639,Tonnes per capita
-2004,16.99455,Tonnes per capita
-2005,15.4661,Tonnes per capita
-2006,15.52364,Tonnes per capita
-2007,16.23488,Tonnes per capita
-2008,16.27868,Tonnes per capita
-2009,15.9601,Tonnes per capita
-2010,15.9241,Tonnes per capita
-2011,15.86373,Tonnes per capita
-2012,15.71003,Tonnes per capita
-2013,15.64822,Tonnes per capita
-2014,15.75547,Tonnes per capita
-2015,15.81035,Tonnes per capita
-2016,15.83407,Tonnes per capita
-2000,1.05416,Kilograms per constant 2010 USD
-2001,1.04542,Kilograms per constant 2010 USD
-2002,0.9913,Kilograms per constant 2010 USD
-2003,1.01659,Kilograms per constant 2010 USD
-2004,0.95734,Kilograms per constant 2010 USD
-2005,0.84198,Kilograms per constant 2010 USD
-2006,0.80662,Kilograms per constant 2010 USD
-2007,0.8026,Kilograms per constant 2010 USD
-2008,0.78512,Kilograms per constant 2010 USD
-2009,0.76683,Kilograms per constant 2010 USD
-2010,0.72095,Kilograms per constant 2010 USD
-2011,0.6954,Kilograms per constant 2010 USD
-2012,0.67604,Kilograms per constant 2010 USD
-2013,0.65727,Kilograms per constant 2010 USD
-2014,0.64314,Kilograms per constant 2010 USD
-2015,0.63045,Kilograms per constant 2010 USD
-2016,0.61583,Kilograms per constant 2010 USD
-2017,0.60075,Kilograms per constant 2010 USD
-2016,0.61583,Kilograms per constant 2010 USD
-2017,0.60075,Kilograms per constant 2010 USD
-2000,1.05416,Kilograms per constant 2010 USD
-2001,1.04542,Kilograms per constant 2010 USD
-2002,0.9913,Kilograms per constant 2010 USD
-2003,1.01659,Kilograms per constant 2010 USD
-2004,0.95734,Kilograms per constant 2010 USD
-2005,0.84198,Kilograms per constant 2010 USD
-2006,0.80662,Kilograms per constant 2010 USD
-2007,0.8026,Kilograms per constant 2010 USD
-2008,0.78512,Kilograms per constant 2010 USD
-2009,0.76683,Kilograms per constant 2010 USD
-2010,0.72095,Kilograms per constant 2010 USD
-2011,0.6954,Kilograms per constant 2010 USD
-2012,0.67604,Kilograms per constant 2010 USD
-2013,0.65727,Kilograms per constant 2010 USD
-2014,0.64314,Kilograms per constant 2010 USD
-2015,0.63045,Kilograms per constant 2010 USD
-2000,748490484.0917,Tonnes
-2001,775874187.4784,Tonnes
-2002,790391219.9322,Tonnes
-2003,834328293.0297,Tonnes
-2004,824202919.2061,Tonnes
-2005,753330701.8279,Tonnes
-2006,759041505.6929,Tonnes
-2007,796522460.2974,Tonnes
-2008,801220040.9081,Tonnes
-2009,788097114.0133,Tonnes
-2010,789084534.3696,Tonnes
-2011,789136054.5326,Tonnes
-2012,784751029.7887,Tonnes
-2013,785059447.8147,Tonnes
-2014,793848162.8975,Tonnes
-2015,799903310.2076,Tonnes
-2016,804242813.9997,Tonnes
-2017,808582317.7917,Tonnes
-2017,808582317.7917,Tonnes
-2000,748490484.0917,Tonnes
-2001,775874187.4784,Tonnes
-2002,790391219.9322,Tonnes
-2003,834328293.0297,Tonnes
-2004,824202919.2061,Tonnes
-2005,753330701.8279,Tonnes
-2006,759041505.6929,Tonnes
-2007,796522460.2974,Tonnes
-2008,801220040.9081,Tonnes
-2009,788097114.0133,Tonnes
-2010,789084534.3696,Tonnes
-2011,789136054.5326,Tonnes
-2012,784751029.7887,Tonnes
-2013,785059447.8147,Tonnes
-2014,793848162.8975,Tonnes
-2015,799903310.2076,Tonnes
-2016,804242813.9997,Tonnes
+2000,15.5664,Tonnes per capita
+2001,15.9449,Tonnes per capita
+2002,16.2743,Tonnes per capita
+2003,17.1738,Tonnes per capita
+2004,16.7411,Tonnes per capita
+2005,14.9622,Tonnes per capita
+2006,15.3178,Tonnes per capita
+2007,15.8315,Tonnes per capita
+2008,16.049,Tonnes per capita
+2009,15.5748,Tonnes per capita
+2010,15.7299,Tonnes per capita
+2011,15.4838,Tonnes per capita
+2012,16.1614,Tonnes per capita
+2013,16.4532,Tonnes per capita
+2014,16.4997,Tonnes per capita
+2015,17.2519,Tonnes per capita
+2016,18.2648,Tonnes per capita
+2017,18.5858,Tonnes per capita
+2018,18.223,Tonnes per capita
+2019,17.9679,Tonnes per capita
+2000,0.9233,Kilograms per constant 2010 USD
+2001,0.9082,Kilograms per constant 2010 USD
+2002,0.8658,Kilograms per constant 2010 USD
+2003,0.8906,Kilograms per constant 2010 USD
+2004,0.8292,Kilograms per constant 2010 USD
+2005,0.7136,Kilograms per constant 2010 USD
+2006,0.6965,Kilograms per constant 2010 USD
+2007,0.6826,Kilograms per constant 2010 USD
+2008,0.6737,Kilograms per constant 2010 USD
+2009,0.6509,Kilograms per constant 2010 USD
+2010,0.6179,Kilograms per constant 2010 USD
+2011,0.5895,Kilograms per constant 2010 USD
+2012,0.6042,Kilograms per constant 2010 USD
+2013,0.5996,Kilograms per constant 2010 USD
+2014,0.5857,Kilograms per constant 2010 USD
+2015,0.5982,Kilograms per constant 2010 USD
+2016,0.6171,Kilograms per constant 2010 USD
+2017,0.6101,Kilograms per constant 2010 USD
+2018,0.5821,Kilograms per constant 2010 USD
+2019,0.5631,Kilograms per constant 2010 USD
+2000,737525100.131,Tonnes
+2001,760671137.849,Tonnes
+2002,781160332.7041,Tonnes
+2003,828820891.9005,Tonnes
+2004,811832152.1142,Tonnes
+2005,728674789.9971,Tonnes
+2006,748738938.1206,Tonnes
+2007,776296395.4224,Tonnes
+2008,789328578.817,Tonnes
+2009,768574775.0705,Tonnes
+2010,779346277.0813,Tonnes
+2011,770877863.1924,Tonnes
+2012,809051555.559,Tonnes
+2013,828350448.5849,Tonnes
+2014,835014649.9979,Tonnes
+2015,876795357.688,Tonnes
+2016,931200941.985,Tonnes
+2017,949666842.9875,Tonnes
+2018,932499258.9395,Tonnes
+2019,920410002.584,Tonnes
