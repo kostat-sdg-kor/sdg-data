@@ -21,6 +21,7 @@
               "enum": [
                 "data.Freshwater",
                 "data.Land",
+                "date.Land",
                 ""
               ]
             }
