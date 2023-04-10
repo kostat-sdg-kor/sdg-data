@@ -12,6 +12,7 @@
 2018,preferencial status,Agricultural products,4.03987
 2019,preferencial status,Agricultural products,3.82292
 2020,preferencial status,Agricultural products,3.8064
+2021,preferencial status,Agricultural products,3.6847
 2000,preferencial status,Total or no breakdown,1.98015
 2005,preferencial status,Total or no breakdown,1.84785
 2010,preferencial status,Total or no breakdown,1.5983
@@ -25,6 +26,7 @@
 2018,preferencial status,Total or no breakdown,0.12896
 2019,preferencial status,Total or no breakdown,0.13903
 2020,preferencial status,Total or no breakdown,0.1334
+2021,preferencial status,Total or no breakdown,0.1227
 2000,preferencial status,Arms,1.04129
 2005,preferencial status,Arms,0.96376
 2010,preferencial status,Arms,0.96139
@@ -38,6 +40,7 @@
 2018,preferencial status,Arms,0.03326
 2019,preferencial status,Arms,0.03326
 2020,preferencial status,Arms,0.03326
+2021,preferencial status,Arms,0.0333
 2000,preferencial status,Clothing,13.28555
 2005,preferencial status,Clothing,12.33657
 2010,preferencial status,Clothing,12.52568
@@ -51,6 +54,7 @@
 2018,preferencial status,Clothing,1.77323
 2019,preferencial status,Clothing,1.67627
 2020,preferencial status,Clothing,1.5751
+2021,preferencial status,Clothing,1.479
 2000,preferencial status,Industrial products,1.87223
 2005,preferencial status,Industrial products,1.74735
 2010,preferencial status,Industrial products,1.49463
@@ -64,6 +68,7 @@
 2018,preferencial status,Industrial products,0.11002
 2019,preferencial status,Industrial products,0.10121
 2020,preferencial status,Industrial products,0.0958
+2021,preferencial status,Industrial products,0.0869
 2000,preferencial status,Oil,0.29983
 2005,preferencial status,Oil,0.16938
 2010,preferencial status,Oil,0.0
@@ -77,6 +82,7 @@
 2018,preferencial status,Oil,0.0
 2019,preferencial status,Oil,0.0
 2020,preferencial status,Oil,0.0
+2021,preferencial status,Oil,0.0
 2000,preferencial status,Textiles,8.39318
 2005,preferencial status,Textiles,7.11916
 2010,preferencial status,Textiles,6.91516
@@ -90,6 +96,7 @@
 2018,preferencial status,Textiles,1.09354
 2019,preferencial status,Textiles,1.01648
 2020,preferencial status,Textiles,0.9475
+2021,preferencial status,Textiles,0.87
 2000,most-favoured-nation status,Agricultural products,10.31922
 2005,most-favoured-nation status,Agricultural products,11.11541
 2010,most-favoured-nation status,Agricultural products,10.80633
@@ -103,6 +110,7 @@
 2018,most-favoured-nation status,Agricultural products,10.81967
 2019,most-favoured-nation status,Agricultural products,10.6395
 2020,most-favoured-nation status,Agricultural products,10.6174
+2021,most-favoured-nation status,Agricultural products,10.5986
 2000,most-favoured-nation status,Total or no breakdown,2.00656
 2005,most-favoured-nation status,Total or no breakdown,1.87166
 2010,most-favoured-nation status,Total or no breakdown,1.61574
@@ -116,6 +124,7 @@
 2018,most-favoured-nation status,Total or no breakdown,1.82196
 2019,most-favoured-nation status,Total or no breakdown,1.79684
 2020,most-favoured-nation status,Total or no breakdown,1.7645
+2021,most-favoured-nation status,Total or no breakdown,1.7659
 2000,most-favoured-nation status,Arms,1.11347
 2005,most-favoured-nation status,Arms,1.03352
 2010,most-favoured-nation status,Arms,1.03584
@@ -129,6 +138,7 @@
 2018,most-favoured-nation status,Arms,1.07445
 2019,most-favoured-nation status,Arms,1.07446
 2020,most-favoured-nation status,Arms,1.0745
+2021,most-favoured-nation status,Arms,1.0745
 2000,most-favoured-nation status,Clothing,13.32878
 2005,most-favoured-nation status,Clothing,12.37509
 2010,most-favoured-nation status,Clothing,12.62214
@@ -142,6 +152,7 @@
 2018,most-favoured-nation status,Clothing,12.53384
 2019,most-favoured-nation status,Clothing,12.53477
 2020,most-favoured-nation status,Clothing,12.5325
+2021,most-favoured-nation status,Clothing,12.5348
 2000,most-favoured-nation status,Industrial products,1.8984
 2005,most-favoured-nation status,Industrial products,1.77099
 2010,most-favoured-nation status,Industrial products,1.51117
@@ -155,6 +166,7 @@
 2018,most-favoured-nation status,Industrial products,1.72025
 2019,most-favoured-nation status,Industrial products,1.69119
 2020,most-favoured-nation status,Industrial products,1.6632
+2021,most-favoured-nation status,Industrial products,1.6641
 2000,most-favoured-nation status,Oil,0.29983
 2005,most-favoured-nation status,Oil,0.16938
 2010,most-favoured-nation status,Oil,0.0
@@ -168,6 +180,7 @@
 2018,most-favoured-nation status,Oil,0.0
 2019,most-favoured-nation status,Oil,0.0
 2020,most-favoured-nation status,Oil,0.0
+2021,most-favoured-nation status,Oil,0.0
 2000,most-favoured-nation status,Textiles,8.44352
 2005,most-favoured-nation status,Textiles,7.14779
 2010,most-favoured-nation status,Textiles,6.9818
@@ -181,3 +194,4 @@
 2018,most-favoured-nation status,Textiles,6.98865
 2019,most-favoured-nation status,Textiles,6.99941
 2020,most-favoured-nation status,Textiles,6.9792
+2021,most-favoured-nation status,Textiles,6.9791
