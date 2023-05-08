@@ -44,3 +44,13 @@ Year,data.category,Value
 2017,data.Etc._(tonnes/day),1019
 2018,data.Etc._(tonnes/day),771
 2019,data.Etc._(tonnes/day),742
+2020,,14831
+2020,data.Waste_incinerated_by_type_of_treatment(tonnes/day),1565
+2020,data.Waste_disposed_by_type_of_treatment(tonnes/day),2700
+2020,data.Waste_recycled_by_type_of_treatment(tonnes/day),9792
+2020,data.Etc._(tonnes/day),774
+2021,,15784
+2021,data.Waste_incinerated_by_type_of_treatment(tonnes/day),1626
+2021,data.Waste_disposed_by_type_of_treatment(tonnes/day),2416
+2021,data.Waste_recycled_by_type_of_treatment(tonnes/day),10695
+2021,data.Etc._(tonnes/day),1048
