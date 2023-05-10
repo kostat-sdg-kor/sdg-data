@@ -26,7 +26,7 @@
             "constraints": {
               "enum": [
                 "",
-                "지방의회",
+                "data.Local_council",
                 "국회"
               ]
             },
