@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "National parliaments",
-                "data.Local_council",
+                "Local council",
                 ""
               ]
             },

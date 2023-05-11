@@ -6863,7 +6863,7 @@
             "constraints": {
               "enum": [
                 "",
-                "data.Local_council",
+                "지방의회",
                 "국회"
               ]
             },
