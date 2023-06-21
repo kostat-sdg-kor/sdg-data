@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lower_secondary",
                 "Pre-primary",
                 "Primary",
                 "Secondary",
+                "Lower_secondary",
                 "Upper_secondary",
                 ""
               ]
