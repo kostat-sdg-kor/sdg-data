@@ -137,13 +137,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "여성",
+                "남성"
+              ]
+            },
+            "title": "성별"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "농림어업",
+                "비농업"
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           }
         ]

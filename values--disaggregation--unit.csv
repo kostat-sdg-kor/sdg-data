@@ -5,5 +5,7 @@ B40,1,1
 Bank capital to assets ratio (%),1,1
 Cash surplus/deficit as a proportion of GDP (%),1,1
 Foreign direct investment net inflows as a proportion of GDP (%),1,1
+ISIC4_A,3,1
 Merchandise trade as a proportion of GDP (%),1,1
+NONAGR,3,1
 Total_population,1,1

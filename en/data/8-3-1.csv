@@ -1,2 +1,10 @@
-﻿Year,Value
-There is no data for this indicator yet,
+﻿Year,Unit,Sex,Value
+2019,,,26.62
+2019,,Female,31.03
+2019,,Male,23.58
+2019,ISIC4_A,,87.49
+2019,ISIC4_A,Female,89.45
+2019,ISIC4_A,Male,86.06
+2019,NONAGR,,23.13
+2019,NONAGR,Female,27.57
+2019,NONAGR,Male,20.08
