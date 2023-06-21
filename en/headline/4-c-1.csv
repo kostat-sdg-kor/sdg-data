@@ -1,25 +1,106 @@
-﻿Year,Value,Units,Observation status,Unit multiplier,Unit measure
-2012,97.1446306642,Nursery (%),Undefined,Units,Percentage (%)
-2012,97.6657167005738,Primary (%),Undefined,Units,Percentage (%)
-2012,95.49743227407458,Secondary (%),Undefined,Units,Percentage (%)
-2012,96.11530821453358,All public schools (%),Undefined,Units,Percentage (%)
-2013,100.0,Nursery (%),Undefined,Units,Percentage (%)
-2013,97.63190693809722,Primary (%),Undefined,Units,Percentage (%)
-2013,94.69827586206895,Secondary (%),Undefined,Units,Percentage (%)
-2013,95.72182066809924,All public schools (%),Undefined,Units,Percentage (%)
-2014,100.0,Nursery (%),Undefined,Units,Percentage (%)
-2014,97.0539419087137,Primary (%),Undefined,Units,Percentage (%)
-2014,94.05594405594404,Secondary (%),Undefined,Units,Percentage (%)
-2014,95.16773162939296,All public schools (%),Undefined,Units,Percentage (%)
-2015,93.33333333333331,Nursery (%),Undefined,Units,Percentage (%)
-2015,96.78469678469678,Primary (%),Undefined,Units,Percentage (%)
-2015,93.55408388520972,Secondary (%),Undefined,Units,Percentage (%)
-2015,94.7117296222664,All public schools (%),Undefined,Units,Percentage (%)
-2016,100.0,Nursery (%),Undefined,Units,Percentage (%)
-2016,96.4616003216727,Primary (%),Undefined,Units,Percentage (%)
-2016,93.34226988382484,Secondary (%),Undefined,Units,Percentage (%)
-2016,94.4433419329232,All public schools (%),Undefined,Units,Percentage (%)
-2017,95.85510521112836,Nursery (%),Undefined,Units,Percentage (%)
-2017,97.04208367918804,Primary (%),Undefined,Units,Percentage (%)
-2017,94.13785992212584,Secondary (%),Undefined,Units,Percentage (%)
-2017,95.10213226242416,All public schools (%),Undefined,Units,Percentage (%)
+﻿Year,Value,Units
+2000,100,Lower_secondary
+2000,	,Pre-primary
+2000,100,Primary
+2000,100,Secondary
+2000,100,Upper_secondary
+2001,100,Lower_secondary
+2001,	,Pre-primary
+2001,100,Primary
+2001,100,Secondary
+2001,100,Upper_secondary
+2002,100,Lower_secondary
+2002,	,Pre-primary
+2002,100,Primary
+2002,100,Secondary
+2002,100,Upper_secondary
+2003,100,Lower_secondary
+2003,	,Pre-primary
+2003,100,Primary
+2003,100,Secondary
+2003,100,Upper_secondary
+2004,100,Lower_secondary
+2004,	,Pre-primary
+2004,100,Primary
+2004,100,Secondary
+2004,100,Upper_secondary
+2005,100,Lower_secondary
+2005,	,Pre-primary
+2005,100,Primary
+2005,100,Secondary
+2005,100,Upper_secondary
+2006,100,Lower_secondary
+2006,	,Pre-primary
+2006,100,Primary
+2006,100,Secondary
+2006,100,Upper_secondary
+2007,100,Lower_secondary
+2007,	,Pre-primary
+2007,100,Primary
+2007,100,Secondary
+2007,100,Upper_secondary
+2008,100,Lower_secondary
+2008,	,Pre-primary
+2008,100,Primary
+2008,100,Secondary
+2008,100,Upper_secondary
+2009,100,Lower_secondary
+2009,	,Pre-primary
+2009,100,Primary
+2009,100,Secondary
+2009,100,Upper_secondary
+2010,100,Lower_secondary
+2010,	,Pre-primary
+2010,100,Primary
+2010,100,Secondary
+2010,100,Upper_secondary
+2011,100,Lower_secondary
+2011,100	,Pre-primary
+2011,100,Primary
+2011,100,Secondary
+2011,100,Upper_secondary
+2012,100,Lower_secondary
+2012,	,Pre-primary
+2012,100,Primary
+2012,100,Secondary
+2012,100,Upper_secondary
+2013,100,Lower_secondary
+2013,100	,Pre-primary
+2013,100,Primary
+2013,100,Secondary
+2013,100,Upper_secondary
+2014,100,Lower_secondary
+2014,100	,Pre-primary
+2014,100,Primary
+2014,100,Secondary
+2014,100,Upper_secondary
+2015,100,Lower_secondary
+2015,100	,Pre-primary
+2015,100,Primary
+2015,100,Secondary
+2015,100,Upper_secondary
+2016,100,Lower_secondary
+2016,100	,Pre-primary
+2016,100,Primary
+2016,100,Secondary
+2016,100,Upper_secondary
+2017,100,Lower_secondary
+2017,100	,Pre-primary
+2017,100,Primary
+2017,100,Secondary
+2017,100,Upper_secondary
+2018,100,Lower_secondary
+2018,100	,Pre-primary
+2018,100,Primary
+2018,100,Secondary
+2018,100,Upper_secondary
+2019,100,Lower_secondary
+2019,100	,Pre-primary
+2019,100,Primary
+2019,100,Secondary
+2019,100,Upper_secondary
+2020,100,Lower_secondary
+2020,100	,Pre-primary
+2020,100,Primary
+2020,100,Secondary
+2020,100,Upper_secondary

@@ -11,31 +11,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
                 "여성",
+                "FemaleE",
                 "남성"
               ]
             },
             "title": "성별"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
           },
           {
             "name": "Units",
@@ -43,17 +29,18 @@
             "constraints": {
               "enum": [
                 "",
-                "All public schools (%)",
-                "Nursery (%)",
-                "Primary (%)",
-                "Secondary (%)"
+                "중학교",
+                "유치원",
+                "초등학교",
+                "중고등학교",
+                "고등학교"
               ]
             },
             "title": "Units"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           },
           {

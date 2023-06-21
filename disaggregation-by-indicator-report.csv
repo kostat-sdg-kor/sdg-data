@@ -34,7 +34,7 @@
 #16-3-1,data.category,1
 #16-6-2,"data.Public_Services, data.Satisfaction",2
 #16-7-1,data.Sex,1
-#16-7-2,"data.category, data.Sex, data.Age",3
+#16-7-2,"data.Sex, data.Age, data.category",3
 #16-8-1,data.Name_of_international_institution,1
 #16-b-1,data.Reasons,1
 #17-10-1,"data.category, data.Type_of_product",2
