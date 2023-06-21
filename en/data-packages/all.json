@@ -6254,32 +6254,16 @@
             "title": "Year"
           },
           {
-            "name": "DAC classification",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Developing countries",
-                "Least developed countries",
-                "Developing countries excluding China",
+                "merchadise_export",
+                "service_export",
                 ""
               ]
             },
-            "title": "DAC classification"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Category"
           },
           {
             "name": "Value",

@@ -15,28 +15,15 @@
             "type": "integer"
           },
           {
-            "name": "DAC classification",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Developing countries",
-                "Least developed countries",
-                "Developing countries excluding China",
+                "merchadise_export",
+                "service_export",
                 ""
               ]
             }
-          },
-          {
-            "name": "Observation status",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
           },
           {
             "name": "Value",

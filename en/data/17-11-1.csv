@@ -1,13 +1,40 @@
-﻿Year,DAC classification,Observation status,Unit multiplier,Unit measure,Value
-2015,Developing countries,Undefined,Units,Percentage (%),18.1299099514
-2016,Developing countries,Undefined,Units,Percentage (%),17.971822648031463
-2017,Developing countries,Undefined,Units,Percentage (%),17.766169061159335
-2018,Developing countries,Undefined,Units,Percentage (%),17.87751247686198
-2015,Least developed countries,Undefined,Units,Percentage (%),1.0047677069268963
-2016,Least developed countries,Undefined,Units,Percentage (%),0.909418761312448
-2017,Least developed countries,Undefined,Units,Percentage (%),0.9351928065449466
-2018,Least developed countries,Undefined,Units,Percentage (%),0.8598095427130464
-2015,Developing countries excluding China,Undefined,Units,Percentage (%),11.332177082075544
-2016,Developing countries excluding China,Undefined,Units,Percentage (%),10.948918768116927
-2017,Developing countries excluding China,Undefined,Units,Percentage (%),10.764928165219995
-2018,Developing countries excluding China,Undefined,Units,Percentage (%),11.047304561742235
+﻿Year,Category,Value
+2000,merchadise_export,2.66973
+2001,merchadise_export,2.42827
+2002,merchadise_export,2.49957
+2003,merchadise_export,2.55353
+2004,merchadise_export,2.75201
+2005,merchadise_export,2.70805
+2006,merchadise_export,2.68362
+2007,merchadise_export,2.6495
+2008,merchadise_export,2.61341
+2009,merchadise_export,2.89496
+2010,merchadise_export,3.04881
+2011,merchadise_export,3.02816
+2012,merchadise_export,2.96079
+2013,merchadise_export,2.95438
+2014,merchadise_export,3.01632
+2015,merchadise_export,3.18199
+2016,merchadise_export,3.08948
+2017,merchadise_export,3.23374
+2018,merchadise_export,3.09402
+2019,merchadise_export,2.85171
+2020,merchadise_export,2.90392
+2021,merchadise_export,2.88604
+2005,service_export,1.88776
+2006,service_export,1.87782
+2007,service_export,1.96544
+2008,service_export,2.23242
+2009,service_export,1.98322
+2010,service_export,2.08537
+2011,service_export,2.02389
+2012,service_export,2.24052
+2013,service_export,2.11226
+2014,service_export,2.13222
+2015,service_export,1.94576
+2016,service_export,1.86244
+2017,service_export,1.61944
+2018,service_export,1.69828
+2019,service_export,1.65071
+2020,service_export,1.73968
+2021,service_export,2.02155

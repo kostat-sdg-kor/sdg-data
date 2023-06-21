@@ -11,32 +11,16 @@
       "schema": {
         "fields": [
           {
-            "name": "DAC classification",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Developing countries",
-                "Developing countries excluding China",
-                "Least developed countries"
+                "merchadise_export",
+                "service_export"
               ]
             },
-            "title": "DAC classification"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
-          },
-          {
-            "name": "Unit multiplier",
-            "type": "string",
-            "title": "Unit multiplier"
+            "title": "구분"
           },
           {
             "name": "Value",
