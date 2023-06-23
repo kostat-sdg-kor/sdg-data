@@ -36,6 +36,7 @@ data.Transportation,1,2
 data.Type_of_occupation,1,9
 data.Type_of_product,3,7
 data.Type_of_skill,1,2
+Education level,1,5
 Sex,2,2
 Time serieses,1,2
 Unit,3,10

@@ -11,19 +11,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "여성",
-                "남성"
-              ]
-            },
-            "title": "성별"
-          },
-          {
-            "name": "Units",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +23,19 @@
                 "고등학교"
               ]
             },
-            "title": "Units"
+            "title": "Education level"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "여성",
+                "남성"
+              ]
+            },
+            "title": "성별"
           },
           {
             "name": "Value",

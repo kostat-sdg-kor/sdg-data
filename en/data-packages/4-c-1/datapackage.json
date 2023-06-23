@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,7 +28,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Education level"
           },
           {
             "name": "Sex",

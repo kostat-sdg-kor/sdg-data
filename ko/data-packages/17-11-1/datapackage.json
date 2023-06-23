@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "merchadise_export",
-                "service_export"
+                "재화수출",
+                "서비스수출"
               ]
             },
             "title": "구분"
