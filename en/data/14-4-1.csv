@@ -22,6 +22,7 @@
 2020,Production,,3712873
 2021,Production,,3832171
 2022 p),Production,,3603580
+2023 5p),Production,,295292
 2000,Production amount of money,,4066447411
 2001,Production amount of money,,4252897861
 2002,Production amount of money,,4205241656
@@ -45,6 +46,7 @@
 2020,Production amount of money,,8832970810
 2021,Production amount of money,,9281651650
 2022 p),Production amount of money,,9241255027
+2023 5p),Production amount of money,,738005267
 2000,Production,Littoral fishing,1189000
 2001,Production,Littoral fishing,1252099
 2002,Production,Littoral fishing,1095812
@@ -68,6 +70,7 @@
 2020,Production,Littoral fishing,933880
 2021,Production,Littoral fishing,942875
 2022 p),Production,Littoral fishing,887239
+2023 5p),Production,Littoral fishing,61251
 2000,Production,Marine aquaculture,653373
 2001,Production,Marine aquaculture,655827
 2002,Production,Marine aquaculture,781519
@@ -91,6 +94,7 @@
 2020,Production,Marine aquaculture,2308407
 2021,Production,Marine aquaculture,2401120
 2022 p),Production,Marine aquaculture,2267830
+2023 5p),Production,Marine aquaculture,193581
 2000,Production,data.Deep_sea_fishing,651267
 2001,Production,data.Deep_sea_fishing,739057
 2002,Production,data.Deep_sea_fishing,580346
@@ -114,6 +118,7 @@
 2020,Production,data.Deep_sea_fishing,436617
 2021,Production,data.Deep_sea_fishing,445505
 2022 p),Production,data.Deep_sea_fishing,399759
+2023 5p),Production,data.Deep_sea_fishing,36580
 2000,Production,Freshwater fishing,20585
 2001,Production,Freshwater fishing,18141
 2002,Production,Freshwater fishing,18511
@@ -137,6 +142,7 @@
 2020,Production,Freshwater fishing,33968
 2021,Production,Freshwater fishing,42672
 2022 p),Production,Freshwater fishing,48753
+2023 5p),Production,Freshwater fishing,3881
 2000,Production amount of money,Littoral fishing,2329483389
 2001,Production amount of money,Littoral fishing,2468308722
 2002,Production amount of money,Littoral fishing,2487006174
@@ -160,6 +166,7 @@
 2020,Production amount of money,Littoral fishing,4371756600
 2021,Production amount of money,Littoral fishing,4150427061
 2022 p),Production amount of money,Littoral fishing,4036954179
+2023 5p),Production amount of money,Littoral fishing,375668566
 2000,Production amount of money,Marine aquaculture,683855951
 2001,Production amount of money,Marine aquaculture,717162507
 2002,Production amount of money,Marine aquaculture,794517120
@@ -183,6 +190,7 @@
 2020,Production amount of money,Marine aquaculture,2895227331
 2021,Production amount of money,Marine aquaculture,3255896184
 2022 p),Production amount of money,Marine aquaculture,3384319641
+2023 5p),Production amount of money,Marine aquaculture,210218243
 2000,Production amount of money,data.Deep_sea_fishing,929666868
 2001,Production amount of money,data.Deep_sea_fishing,964125161
 2002,Production amount of money,data.Deep_sea_fishing,809405519
@@ -206,6 +214,7 @@
 2020,Production amount of money,data.Deep_sea_fishing,1121154992
 2021,Production amount of money,data.Deep_sea_fishing,1354729863
 2022 p),Production amount of money,data.Deep_sea_fishing,1125919508
+2023 5p),Production amount of money,data.Deep_sea_fishing,83635810
 2000,Production amount of money,Freshwater fishing,123441203
 2001,Production amount of money,Freshwater fishing,103301471
 2002,Production amount of money,Freshwater fishing,114312843
@@ -229,3 +238,4 @@
 2020,Production amount of money,Freshwater fishing,4440831888
 2021,Production amount of money,Freshwater fishing,520598542
 2022 p),Production amount of money,Freshwater fishing,694061699
+2023 5p),Production amount of money,Freshwater fishing,68482646
