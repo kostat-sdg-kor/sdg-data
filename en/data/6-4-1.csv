@@ -17,65 +17,69 @@
 2015,Industries,104.19
 2016,Industries,107.67
 2017,Industries,113.99
-2018,Industries,115.55
-2019,Industries,113.6
-2019,Agriculture(ISIC4 A01 A0210 A0322),1.49
-2018,Agriculture(ISIC4 A01 A0210 A0322),1.62
-2016,Agriculture(ISIC4 A01 A0210 A0322),1.53
-2017,Agriculture(ISIC4 A01 A0210 A0322),1.59
-2012,Agriculture(ISIC4 A01 A0210 A0322),1.54
-2013,Agriculture(ISIC4 A01 A0210 A0322),1.54
-2014,Agriculture(ISIC4 A01 A0210 A0322),1.57
-2015,Agriculture(ISIC4 A01 A0210 A0322),1.58
-2010,Agriculture(ISIC4 A01 A0210 A0322),1.43
-2011,Agriculture(ISIC4 A01 A0210 A0322),1.54
-2008,Agriculture(ISIC4 A01 A0210 A0322),1.3
-2009,Agriculture(ISIC4 A01 A0210 A0322),1.39
+2018,Industries,115.89
+2019,Industries,113.27
+2020,Industries,110.76
+2000,Agriculture(ISIC4 A01 A0210 A0322),1.29
+2001,Agriculture(ISIC4 A01 A0210 A0322),1.29
+2002,Agriculture(ISIC4 A01 A0210 A0322),1.29
+2003,Agriculture(ISIC4 A01 A0210 A0322),1.29
 2004,Agriculture(ISIC4 A01 A0210 A0322),1.39
-2005,Agriculture(ISIC4 A01 A0210 A0322),1.32
+2005,Agriculture(ISIC4 A01 A0210 A0322),1.33
 2006,Agriculture(ISIC4 A01 A0210 A0322),1.37
-2007,Agriculture(ISIC4 A01 A0210 A0322),1.34
-2002,Agriculture(ISIC4 A01 A0210 A0322),1.28
-2003,Agriculture(ISIC4 A01 A0210 A0322),1.28
-2000,Agriculture(ISIC4 A01 A0210 A0322),1.26
-2001,Agriculture(ISIC4 A01 A0210 A0322),1.28
+2007,Agriculture(ISIC4 A01 A0210 A0322),1.2
+2008,Agriculture(ISIC4 A01 A0210 A0322),1.03
+2009,Agriculture(ISIC4 A01 A0210 A0322),0.94
+2010,Agriculture(ISIC4 A01 A0210 A0322),0.96
+2011,Agriculture(ISIC4 A01 A0210 A0322),1.02
+2012,Agriculture(ISIC4 A01 A0210 A0322),1.04
+2013,Agriculture(ISIC4 A01 A0210 A0322),1.03
+2014,Agriculture(ISIC4 A01 A0210 A0322),1.04
+2015,Agriculture(ISIC4 A01 A0210 A0322),1.04
+2016,Agriculture(ISIC4 A01 A0210 A0322),0.99
+2017,Agriculture(ISIC4 A01 A0210 A0322),1.02
+2018,Agriculture(ISIC4 A01 A0210 A0322),0.99
+2019,Agriculture(ISIC4 A01 A0210 A0322),0.97
+2020,Agriculture(ISIC4 A01 A0210 A0322),1.05
 2000,Services(ISIC4 G to T),74.13
-2002,Services(ISIC4 G to T),58.82
 2001,Services(ISIC4 G to T),64.5
+2002,Services(ISIC4 G to T),58.82
 2003,Services(ISIC4 G to T),65.23
 2004,Services(ISIC4 G to T),72.51
-2006,Services(ISIC4 G to T),87.9
 2005,Services(ISIC4 G to T),82.83
+2006,Services(ISIC4 G to T),87.9
 2007,Services(ISIC4 G to T),92.91
 2008,Services(ISIC4 G to T),95.82
 2009,Services(ISIC4 G to T),96.26
-2011,Services(ISIC4 G to T),102.71
 2010,Services(ISIC4 G to T),100.15
-2014,Services(ISIC4 G to T),113.14
+2011,Services(ISIC4 G to T),102.71
 2012,Services(ISIC4 G to T),105.52
-2016,Services(ISIC4 G to T),130.96
 2013,Services(ISIC4 G to T),108.81
+2014,Services(ISIC4 G to T),113.14
 2015,Services(ISIC4 G to T),129.97
+2016,Services(ISIC4 G to T),130.96
 2017,Services(ISIC4 G to T),133.05
-2018,Services(ISIC4 G to T),137.47
-2019,Services(ISIC4 G to T),144.52
-2019,Total(no breakdown),55.15
-2018,Total(no breakdown),53.81
-2016,Total(no breakdown),50.86
-2017,Total(no breakdown),52.45
-2015,Total(no breakdown),49.71
-2013,Total(no breakdown),42.72
-2012,Total(no breakdown),41.45
-2014,Total(no breakdown),44.12
-2010,Total(no breakdown),39.04
-2011,Total(no breakdown),40.54
-2008,Total(no breakdown),36.36
-2009,Total(no breakdown),36.79
-2006,Total(no breakdown),33.59
-2007,Total(no breakdown),35.44
-2005,Total(no breakdown),29.93
-2004,Total(no breakdown),30.1
-2003,Total(no breakdown),27.89
-2002,Total(no breakdown),26.3
-2000,Total(no breakdown),26.54
-2001,Total(no breakdown),26.04
+2018,Services(ISIC4 G to T),138.16
+2019,Services(ISIC4 G to T),145.19
+2020,Services(ISIC4 G to T),144.46
+2000,Total(no breakdown),27.56
+2001,Total(no breakdown),27.07
+2002,Total(no breakdown),27.45
+2003,Total(no breakdown),29.16
+2004,Total(no breakdown),31.62
+2005,Total(no breakdown),31.51
+2006,Total(no breakdown),35.44
+2007,Total(no breakdown),37.42
+2008,Total(no breakdown),38.44
+2009,Total(no breakdown),38.72
+2010,Total(no breakdown),41.22
+2011,Total(no breakdown),42.83
+2012,Total(no breakdown),43.84
+2013,Total(no breakdown),45.36
+2014,Total(no breakdown),46.77
+2015,Total(no breakdown),49.39
+2016,Total(no breakdown),50.54
+2017,Total(no breakdown),52.11
+2018,Total(no breakdown),53.66
+2019,Total(no breakdown),54.95
+2020,Total(no breakdown),54.41
