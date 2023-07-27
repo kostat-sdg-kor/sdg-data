@@ -22,7 +22,6 @@
 2020,data.Production,,3712873
 2021,data.Production,,3832171
 2022 p),data.Production,,3603580
-2023 5p),data.Production,,295292
 2000,data.Production_amount_of_money,,4066447411
 2001,data.Production_amount_of_money,,4252897861
 2002,data.Production_amount_of_money,,4205241656
@@ -46,7 +45,6 @@
 2020,data.Production_amount_of_money,,8832970810
 2021,data.Production_amount_of_money,,9281651650
 2022 p),data.Production_amount_of_money,,9241255027
-2023 5p),data.Production_amount_of_money,,738005267
 2000,data.Production,data.Littoral_fishing,1189000
 2001,data.Production,data.Littoral_fishing,1252099
 2002,data.Production,data.Littoral_fishing,1095812
@@ -70,7 +68,6 @@
 2020,data.Production,data.Littoral_fishing,933880
 2021,data.Production,data.Littoral_fishing,942875
 2022 p),data.Production,data.Littoral_fishing,887239
-2023 5p),data.Production,data.Littoral_fishing,61251
 2000,data.Production,data.Marine_aquaculture,653373
 2001,data.Production,data.Marine_aquaculture,655827
 2002,data.Production,data.Marine_aquaculture,781519
@@ -94,7 +91,6 @@
 2020,data.Production,data.Marine_aquaculture,2308407
 2021,data.Production,data.Marine_aquaculture,2401120
 2022 p),data.Production,data.Marine_aquaculture,2267830
-2023 5p),data.Production,data.Marine_aquaculture,193581
 2000,data.Production,data.Deep_sea_fishing,651267
 2001,data.Production,data.Deep_sea_fishing,739057
 2002,data.Production,data.Deep_sea_fishing,580346
@@ -118,7 +114,6 @@
 2020,data.Production,data.Deep_sea_fishing,436617
 2021,data.Production,data.Deep_sea_fishing,445505
 2022 p),data.Production,data.Deep_sea_fishing,399759
-2023 5p),data.Production,data.Deep_sea_fishing,36580
 2000,data.Production,data.Freshwater_fishing,20585
 2001,data.Production,data.Freshwater_fishing,18141
 2002,data.Production,data.Freshwater_fishing,18511
@@ -142,7 +137,6 @@
 2020,data.Production,data.Freshwater_fishing,33968
 2021,data.Production,data.Freshwater_fishing,42672
 2022 p),data.Production,data.Freshwater_fishing,48753
-2023 5p),data.Production,data.Freshwater_fishing,3881
 2000,data.Production_amount_of_money,data.Littoral_fishing,2329483389
 2001,data.Production_amount_of_money,data.Littoral_fishing,2468308722
 2002,data.Production_amount_of_money,data.Littoral_fishing,2487006174
@@ -166,7 +160,6 @@
 2020,data.Production_amount_of_money,data.Littoral_fishing,4371756600
 2021,data.Production_amount_of_money,data.Littoral_fishing,4150427061
 2022 p),data.Production_amount_of_money,data.Littoral_fishing,4036954179
-2023 5p),data.Production_amount_of_money,data.Littoral_fishing,375668566
 2000,data.Production_amount_of_money,data.Marine_aquaculture,683855951
 2001,data.Production_amount_of_money,data.Marine_aquaculture,717162507
 2002,data.Production_amount_of_money,data.Marine_aquaculture,794517120
@@ -190,7 +183,6 @@
 2020,data.Production_amount_of_money,data.Marine_aquaculture,2895227331
 2021,data.Production_amount_of_money,data.Marine_aquaculture,3255896184
 2022 p),data.Production_amount_of_money,data.Marine_aquaculture,3384319641
-2023 5p),data.Production_amount_of_money,data.Marine_aquaculture,210218243
 2000,data.Production_amount_of_money,data.Deep_sea_fishing,929666868
 2001,data.Production_amount_of_money,data.Deep_sea_fishing,964125161
 2002,data.Production_amount_of_money,data.Deep_sea_fishing,809405519
@@ -214,7 +206,6 @@
 2020,data.Production_amount_of_money,data.Deep_sea_fishing,1121154992
 2021,data.Production_amount_of_money,data.Deep_sea_fishing,1354729863
 2022 p),data.Production_amount_of_money,data.Deep_sea_fishing,1125919508
-2023 5p),data.Production_amount_of_money,data.Deep_sea_fishing,83635810
 2000,data.Production_amount_of_money,data.Freshwater_fishing,123441203
 2001,data.Production_amount_of_money,data.Freshwater_fishing,103301471
 2002,data.Production_amount_of_money,data.Freshwater_fishing,114312843
@@ -238,4 +229,3 @@
 2020,data.Production_amount_of_money,data.Freshwater_fishing,4440831888
 2021,data.Production_amount_of_money,data.Freshwater_fishing,520598542
 2022 p),data.Production_amount_of_money,data.Freshwater_fishing,694061699
-2023 5p),data.Production_amount_of_money,data.Freshwater_fishing,68482646
