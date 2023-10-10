@@ -44,3 +44,19 @@
 2021,data.13_Marital_status_such_as_being_orphan/born_from_unmarried_parents,1.2
 2021,data.14_Health_status,1.4
 2021,data.15_Geographic_location_or_Place_of_residence,1.8
+2022,data.01_Sex,5.4
+2022,data.02_Marital_status_such_as_being_pregnant/with_or_without_children,1.0
+2022,data.03_Religion,0.8
+2022,data.04_Political_opinion,1.6
+2022,data.05_Disability,0.9
+2022,data.06_Age,5.2
+2022,data.07_Socio-Eoconomic_status,4.0
+2022,data.08_Forms_of_employment,3.2
+2022,data.09_Educational_background,2.5
+2022,data.10_Ethnicity/Colour/Language/Migration_status,0.6
+2022,data.11_Physical_condition,2.0
+2022,data.12_Marital status_such_as_being_single/married/divorced/widowed,1.0
+2022,data.13_Marital_status_such_as_being_orphan/born_from_unmarried_parents,0.9
+2022,data.14_Health_status,1.0
+2022,data.15_Geographic_location_or_Place_of_residence,1.2
+2022,data.15_Sexual_orientation/Gender_identity,0.7
