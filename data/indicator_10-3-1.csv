@@ -62,4 +62,4 @@ Year,data.Reasons,Value
 2022,data.13_Marital_status_such_as_being_orphan/born_from_unmarried_parents,0.9
 2022,data.14_Health_status,1.0
 2022,data.15_Geographic_location_or_Place_of_residence,1.2
-2022,data.15_Sexual_orientation/Gender_identity,0.7
+2022,data.16_Sexual_orientation/Gender_identity,0.7
