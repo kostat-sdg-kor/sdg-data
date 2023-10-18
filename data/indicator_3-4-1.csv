@@ -263,3 +263,15 @@ Year,data.Cause_of_death,data.Sex,Value
 2021,data.Chronic_respiratory_diseases,,27.21238051
 2021,data.Chronic_respiratory_diseases,Male,33.99884842
 2021,data.Chronic_respiratory_diseases,Female,20.46678526
+2022,data.Cancer,,162.7
+2022,data.Cancer,Male,200.6
+2022,data.Cancer,Female,125.0
+2022,data.Diabetes,,21.8
+2022,data.Diabetes,Male,22.3
+2022,data.Diabetes,Female,21.3
+2022,data.Cardiovascular_diseases,,0.4
+2022,data.Cardiovascular_diseases,Male,0.2
+2022,data.Cardiovascular_diseases,Female,0.5
+2022,data.Chronic_respiratory_diseases,,29.48741834
+2022,data.Chronic_respiratory_diseases,Male,36.82452832
+2022,data.Chronic_respiratory_diseases,Female,22.20139205
