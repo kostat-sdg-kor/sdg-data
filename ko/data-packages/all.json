@@ -4630,7 +4630,6 @@
               "enum": [
                 "",
                 "처분가능소득",
-                "data.Disposable_income(1)",
                 "시장소득"
               ]
             },
