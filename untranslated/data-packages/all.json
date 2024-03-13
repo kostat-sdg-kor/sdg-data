@@ -4239,6 +4239,7 @@
               "enum": [
                 "data.Market_income",
                 "data.Disposable_income",
+                "data.Disposable_income(1)",
                 ""
               ]
             }
