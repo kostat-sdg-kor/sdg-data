@@ -9,6 +9,7 @@
 2018,data.Domestic_Passenger,data.Rail,1524590
 2019,data.Domestic_Passenger,data.Rail,1570415
 2020,data.Domestic_Passenger,data.Rail,1122872
+2021,data.Domestic_Passenger,data.Rail,1170749
 2011,data.Domestic_Passenger,data.Subway,2358758
 2012,data.Domestic_Passenger,data.Subway,2410931
 2013,data.Domestic_Passenger,data.Subway,2476394
@@ -19,6 +20,7 @@
 2018,data.Domestic_Passenger,data.Subway,3618352
 2019,data.Domestic_Passenger,data.Subway,3705150
 2020,data.Domestic_Passenger,data.Subway,2677582
+2021,data.Domestic_Passenger,data.Subway,2759948
 2011,data.Domestic_Passenger,data.Sky_roads,25943079
 2012,data.Domestic_Passenger,data.Sky_roads,25982998
 2013,data.Domestic_Passenger,data.Sky_roads,26327678
@@ -29,6 +31,7 @@
 2018,data.Domestic_Passenger,data.Sky_roads,28409618
 2019,data.Domestic_Passenger,data.Sky_roads,28649339
 2020,data.Domestic_Passenger,data.Sky_roads,25361540
+2021,data.Domestic_Passenger,data.Sky_roads,30168830
 2011,data.Domestic_Passenger,data.Shipping,14266
 2012,data.Domestic_Passenger,data.Shipping,14538
 2013,data.Domestic_Passenger,data.Shipping,16063
@@ -39,6 +42,7 @@
 2018,data.Domestic_Passenger,data.Shipping,14625
 2019,data.Domestic_Passenger,data.Shipping,14585
 2020,data.Domestic_Passenger,data.Shipping,10603
+2021,data.Domestic_Passenger,data.Shipping,11464
 2011,data.Domestic_Passenger,data.Air_transport,20981
 2012,data.Domestic_Passenger,data.Air_transport,21602
 2013,data.Domestic_Passenger,data.Air_transport,22353
@@ -49,6 +53,7 @@
 2018,data.Domestic_Passenger,data.Air_transport,31601
 2019,data.Domestic_Passenger,data.Air_transport,32981
 2020,data.Domestic_Passenger,data.Air_transport,25164
+2021,data.Domestic_Passenger,data.Air_transport,33147
 2011,data.International_Passenger,data.Shipping,2660
 2012,data.International_Passenger,data.Shipping,2881
 2013,data.International_Passenger,data.Shipping,2737
@@ -58,7 +63,8 @@
 2017,data.International_Passenger,data.Shipping,2728
 2018,data.International_Passenger,data.Shipping,2980
 2019,data.International_Passenger,data.Shipping,2969
-2020,data.International_Passenger,data.Shipping,167
+2020,data.International_Passenger,data.Shipping,169
+2021,data.International_Passenger,data.Shipping,0
 2011,data.International_Passenger,data.Air_transport,42649
 2012,data.International_Passenger,data.Air_transport,47703
 2013,data.International_Passenger,data.Air_transport,50987
@@ -69,6 +75,7 @@
 2018,data.International_Passenger,data.Air_transport,85925
 2019,data.International_Passenger,data.Air_transport,90386
 2020,data.International_Passenger,data.Air_transport,14240
+2021,data.International_Passenger,data.Air_transport,3209
 2011,data.Domestic_Freight,data.Rail,40012
 2012,data.Domestic_Freight,data.Rail,40309
 2013,data.Domestic_Freight,data.Rail,39822
@@ -79,6 +86,7 @@
 2018,data.Domestic_Freight,data.Rail,30915
 2019,data.Domestic_Freight,data.Rail,28664
 2020,data.Domestic_Freight,data.Rail,26277
+2021,data.Domestic_Freight,data.Rail,26780
 2011,data.Domestic_Freight,data.Sky_roads,1439625
 2012,data.Domestic_Freight,data.Sky_roads,1554510
 2013,data.Domestic_Freight,data.Sky_roads,1546407
@@ -89,6 +97,7 @@
 2018,data.Domestic_Freight,data.Sky_roads,1895686
 2019,data.Domestic_Freight,data.Sky_roads,1847241
 2020,data.Domestic_Freight,data.Sky_roads,1788917
+2021,data.Domestic_Freight,data.Sky_roads,1848182
 2011,data.Domestic_Freight,data.Shipping,125588
 2012,data.Domestic_Freight,data.Shipping,119057
 2013,data.Domestic_Freight,data.Shipping,117860
@@ -99,6 +108,7 @@
 2018,data.Domestic_Freight,data.Shipping,120327
 2019,data.Domestic_Freight,data.Shipping,107408
 2020,data.Domestic_Freight,data.Shipping,111513
+2021,data.Domestic_Freight,data.Shipping,115125
 2011,data.Domestic_Freight,data.Air_transport,281
 2012,data.Domestic_Freight,data.Air_transport,265
 2013,data.Domestic_Freight,data.Air_transport,253
@@ -109,6 +119,7 @@
 2018,data.Domestic_Freight,data.Air_transport,273
 2019,data.Domestic_Freight,data.Air_transport,259
 2020,data.Domestic_Freight,data.Air_transport,182
+2021,data.Domestic_Freight,data.Air_transport,205
 2011,data.International_Freight,data.Shipping,1069566
 2012,data.International_Freight,data.Shipping,1108538
 2013,data.International_Freight,data.Shipping,1123205
@@ -119,6 +130,7 @@
 2018,data.International_Freight,data.Shipping,1405925
 2019,data.International_Freight,data.Shipping,1429150
 2020,data.International_Freight,data.Shipping,1276228
+2021,data.International_Freight,data.Shipping,1352575
 2011,data.International_Freight,data.Air_transport,3238
 2012,data.International_Freight,data.Air_transport,3209
 2013,data.International_Freight,data.Air_transport,3246
@@ -129,3 +141,4 @@
 2018,data.International_Freight,data.Air_transport,4169
 2019,data.International_Freight,data.Air_transport,4016
 2020,data.International_Freight,data.Air_transport,3071
+2021,data.International_Freight,data.Air_transport,3420
