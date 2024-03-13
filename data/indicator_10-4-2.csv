@@ -21,5 +21,6 @@ Year,data.category,Value
 2020,data.Disposable_income,0.331
 2021,data.Market_income,0.405
 2021,data.Disposable_income,0.333
-2021,data.Market_income,0.396
-2021,data.Disposable_income,0.324
+2021,data.Disposable_income(1),0.329
+2022,data.Market_income,0.396
+2022,data.Disposable_income(1),0.324
