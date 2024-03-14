@@ -19,15 +19,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data.First_publication",
-                "data.Accumulated_publication",
+                "3",
+                "5",
+                "9",
+                "19",
+                "27",
+                "44",
+                "58",
+                "70",
+                "80",
+                "98",
+                "108",
+                "120",
+                "132",
+                "128",
+                "134",
+                "142",
+                "206",
+                "318",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
