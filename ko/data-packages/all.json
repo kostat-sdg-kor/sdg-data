@@ -6573,41 +6573,13 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "data.category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "108",
-                "120",
-                "128",
-                "132",
-                "134",
-                "142",
-                "19",
-                "206",
-                "27",
-                "3",
-                "318",
-                "44",
-                "5",
-                "58",
-                "70",
-                "80",
-                "9",
-                "98"
-              ]
-            },
-            "title": "구분"
           }
         ]
       },
