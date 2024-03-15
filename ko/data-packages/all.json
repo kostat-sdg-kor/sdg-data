@@ -6947,10 +6947,10 @@
             "constraints": {
               "enum": [
                 "",
-                "CH₄",
-                "CO₂",
+                "CH4",
+                "Co2",
                 "HFCs",
-                "N₂O",
+                "N2O",
                 "PFCs",
                 "SF6"
               ]

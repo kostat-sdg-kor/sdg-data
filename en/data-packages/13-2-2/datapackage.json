@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO₂",
-                "CH₄",
-                "N₂O",
+                "Co2",
+                "CH4",
+                "N2O",
                 "HFCs",
                 "PFCs",
                 "SF6",
